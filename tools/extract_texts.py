@@ -1,12 +1,12 @@
-"""Extrage textul (cu marcaje de pagină/secțiune) din COPIILE cărților (PDF, EPUB, AZW3, DOCX).
+"""Extracts the text (with page/section markers) from the COPIES of the books (PDF, EPUB, AZW3, DOCX).
 
-Lucrează întotdeauna pe o copie a folderului cu cărți, nu pe originale.
+Always work on a copy of the books folder, not on the originals.
 
-Utilizare:
+Usage:
     pip install -r tools/requirements.txt
-    python tools/extract_texts.py --src "/cale/spre/copia/cartilor" --out 90-library/text
+    python tools/extract_texts.py --src "/path/to/the/copy/of/the/books" --out 90-library/text
 
-Rezultat: <out>/<slug>.txt, <slug>.toc.txt (pentru PDF-uri cu cuprins) și _manifest.json.
+Result: <out>/<slug>.txt, <slug>.toc.txt (for PDFs with a table of contents) and _manifest.json.
 """
 import argparse
 import json
@@ -23,7 +23,7 @@ import pymupdf
 from bs4 import BeautifulSoup
 
 _ap = argparse.ArgumentParser()
-_ap.add_argument("--src", required=True, help="folderul cu COPIILE cărților")
+_ap.add_argument("--src", required=True, help="the folder with the COPIES of the books")
 _ap.add_argument("--out", default=str(Path(__file__).resolve().parent.parent / "90-library" / "text"))
 _args = _ap.parse_args()
 SRC = Path(_args.src)

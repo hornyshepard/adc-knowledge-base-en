@@ -1,295 +1,295 @@
 ---
 name: copywriting
-description: Copywriting și mesaj — anatomia reclamei, titlul, body copy-ul, sloganul, reason-why și reclama de imagine, structurile textului persuasiv, vocea și tonul brandului, scrisul pentru direct response, search, conținut și AI, plus lecțiile marilor reclame clasice și limitele etice ale formulării. Folosește când scrii sau evaluezi un titlu, un slogan, un body copy, un scenariu sau un ghid de voce, când alegi între argument și emoție, umor sau frică, ori când verifici dacă un text e clar, memorabil și onest.
+description: Copywriting and message. The anatomy of an ad, the headline, body copy, the slogan, reason-why and image advertising, the structures of persuasive copy, brand voice and tone, writing for direct response, search, content and AI, plus the lessons of the great classic ads and the ethical limits of wording. Use when you write or evaluate a headline, a slogan, body copy, a script or a voice guide, when you choose between argument and emotion, humor or fear, or when you check whether a text is clear, memorable and honest.
 code: CPY
 domain: D2
 type: skill
 ---
 
-# Copywriting și mesaj (CPY)
+# Copywriting and message (CPY)
 
-## Ce înseamnă să stăpânești acest skill
+## What mastering this skill means
 
-Competențe observabile („poți să…"):
+Observable competencies ("you can…"):
 
-- **C1** Poți descompune o reclamă în vizual, titlu, subtitlu, body copy și semnătură și poți spune ce sarcină are fiecare element.
-- **C2** Poți scrie o promisiune clară, susținută de un singur motiv concret și verificabil, și poți alege conștient între reason-why și reclama de imagine.
-- **C3** Poți scrie titluri și sloganuri care atrag atenția, se înțeleg dintr-o privire și se rețin (concret, pozitiv, cu ritm), și poți găsi fraza bună în limbajul clientului și al cumpărătorilor.
-- **C4** Poți alege structura textului (tipul de discurs, formatul de execuție, focalizarea beneficiului, lungimea) după produs, motivația țintei și canal.
-- **C5** Poți defini vocea unui brand și tonurile ei pe canale și poți scrie pentru un singur om anume, nu pentru un „target".
-- **C6** Poți adapta scrisul la direct response, search, conținut editorial și ciorne generate cu AI, păstrând vocea brandului.
-- **C7** Poți judeca riscurile apelurilor puternice (umor, sex, frică) și ale formulărilor care induc în eroare, citând dovezile pentru și contra.
-- **C8** Poți evalua o idee pe hârtie, înainte de producție, și poți argumenta când o campanie trebuie păstrată și când trebuie schimbată.
+- **C1** You can break an ad down into visual, headline, subhead, body copy and signature, and say what job each element has.
+- **C2** You can write a clear promise, backed by a single concrete and verifiable reason, and choose deliberately between reason-why and image advertising.
+- **C3** You can write headlines and slogans that draw attention, are understood at a glance and are remembered (concrete, positive, with rhythm), and you can find the right phrase in the language of the client and of the buyers.
+- **C4** You can choose the structure of the copy (type of discourse, execution format, benefit focus, length) by product, the target audience's motivation and channel.
+- **C5** You can define a brand's voice and its tones by channel, and write for one specific person, not for a "target".
+- **C6** You can adapt the writing to direct response, search, editorial content and AI-generated drafts, keeping the brand's voice.
+- **C7** You can judge the risks of strong appeals (humor, sex, fear) and of misleading wording, citing the evidence for and against.
+- **C8** You can evaluate an idea on paper, before production, and argue when a campaign should be kept and when it should be changed.
 
-## Harta notelor (traseu de învățare)
+## Note map (learning path)
 
-### 1. Fundamente — ce face un text publicitar
-- [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy|CPY-001]] — anatomia reclamei: vizual, titlu, subtitlu, body copy, semnătură — vocabularul de bază și ordinea în care e citită o reclamă
-- [[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson|CPY-002]] — promisiunea este sufletul reclamei — primul lucru pe care îl caută cititorul în titlu
-- [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive|CPY-003]] — reason-why: motive concrete și verificabile — prima mare tradiție a meseriei, cea a argumentului
-- [[CPY-004-reclama-de-imagine-vinde-un-sentiment-nu-o-fisa-tehnica|CPY-004]] — reclama de imagine vinde un sentiment — a doua mare tradiție, cea a semnificației
-- [[CPY-005-un-singur-motiv-bun-bate-o-lista-de-37-maximum-trei|CPY-005]] — un singur motiv bun bate o listă de 37 — disciplina selecției, înainte de orice frază
+### 1. Foundations: what advertising copy does
+- [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy|CPY-001]] the anatomy of an ad (visual, headline, subhead, body copy, signature): the basic vocabulary and the order in which an ad is read
+- [[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson|CPY-002]] promise is the soul of an advertisement: the first thing the reader looks for in the headline
+- [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives|CPY-003]] reason-why, concrete and verifiable reasons: the first great tradition of the craft, the tradition of argument
+- [[CPY-004-image-advertising-sells-a-feeling-not-a-spec-sheet|CPY-004]] image advertising sells a feeling: the second great tradition, the tradition of meaning
+- [[CPY-005-one-good-reason-beats-a-list-of-37-at-most-three-support|CPY-005]] one good reason beats a list of 37: the discipline of selection, before any sentence
 
-### 2. Cuvintele — titlul, sloganul și memorabilitatea
-- [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea|CPY-006]] — cuvinte neașteptate pentru atenție, familiare pentru învățare — regulile de bază ale formulării, verificate empiric
-- [[CPY-007-cele-mai-bune-titluri-sunt-adesea-gasite-nu-inventate|CPY-007]] — titlurile bune sunt găsite, nu inventate — de unde vin cele mai bune fraze
-- [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii|CPY-008]] — sloganul repetabil, diferențiator și durabil (și jingle-ul) — forma scurtă a diferenței brandului
-- [[CPY-009-un-mesaj-devine-memorabil-prin-repetitie-rima-ritm-chunking|CPY-009]] — memorabil prin repetiție, rimă, chunking, sincronizare — tehnicile de reținere
-- [[CPY-010-jocul-de-cuvinte-vizual-calamburul-expresia-vizualizata|CPY-010]] — jocul de cuvinte vizual: calambur, expresie, rebus — când cuvântul și imaginea se aprind reciproc
-- [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]] — imaginea agață, titlul ancorează — cum controlează textul sensul imaginii
+### 2. The words: the headline, the slogan and memorability
+- [[CPY-006-unexpected-words-draw-attention-in-the-headline-but|CPY-006]] unexpected words for attention, familiar words for learning: the basic rules of wording, tested empirically
+- [[CPY-007-the-best-headlines-are-often-found-not-invented-listen-to|CPY-007]] good headlines are found, not invented: where the best phrases come from
+- [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts|CPY-008]] the repeatable, differentiating, lasting slogan (and the jingle): the short form of the brand's difference
+- [[CPY-009-a-message-becomes-memorable-through-repetition-rhyme-rhythm|CPY-009]] memorable through repetition, rhyme, chunking, synchronization: the techniques of retention
+- [[CPY-010-visual-wordplay-the-pun-the-visualized-expression-the-rebus|CPY-010]] visual wordplay (the pun, the expression, the rebus): when word and image spark each other
+- [[CPY-011-the-picture-hooks-the-headline-anchors-denotation-informs|CPY-011]] the picture hooks, the headline anchors: how the copy controls the meaning of the image
 
-### 3. Structura mesajului — ce spui, în ce ordine, în ce format
-- [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la|CPY-012]] — focalizarea beneficiului după motivație — atribut, caracteristică sau emoție în prim-plan
-- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — cele șase funcții ale limbajului (Jakobson) — ce funcție domină mesajul
-- [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv|CPY-014]] — patru tipuri de discurs și schema narativă — verificarea structurii după ce ai scris
-- [[CPY-015-formatele-de-executie-au-forte-si-slabiciuni-previzibile|CPY-015]] — formatele de execuție și punctele lor slabe — slice-of-life, prezentator, testimonial, vignete
-- [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un|CPY-016]] — mesajul bilateral: defectul care câștigă credibilitate — tactică pentru publicuri sceptice
-- [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea|CPY-017]] — „perturbă, apoi reîncadrează" — o tehnică de formulare a prețului, cu întrebarea etică inclusă
-- [[CPY-018-text-lung-sau-text-scurt-lungimea-depinde-de-interes-nu-de|CPY-018]] — text lung sau scurt: lungimea depinde de interes — dezbaterea despre body copy
+### 3. The structure of the message: what you say, in what order, in what format
+- [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit|CPY-012]] benefit focus by motivation: attribute, characteristic or emotion in the foreground
+- [[CPY-013-every-advertising-message-ranks-the-six-functions-of|CPY-013]] the six functions of language (Jakobson): which function dominates the message
+- [[CPY-014-advertising-discourse-comes-in-four-types-narrative|CPY-014]] four types of discourse and the narrative schema: checking the structure after you have written
+- [[CPY-015-execution-formats-have-predictable-strengths-and-weaknesses|CPY-015]] execution formats and their weak points: slice-of-life, spokesperson, testimonial, vignettes
+- [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor|CPY-016]] the two-sided message, the flaw that earns credibility: a tactic for skeptical audiences
+- [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is|CPY-017]] "disrupt, then reframe": a technique for stating the price, with the ethical question included
+- [[CPY-018-long-copy-or-short-copy-length-depends-on-interest-not-on-a|CPY-018]] long or short copy, length depends on interest: the debate about body copy
 
-### 4. Vocea și procesul copywriterului
-- [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la|CPY-019]] — vocea rămâne constantă, tonul se adaptează — distincția de lucru pentru orice ghid de voce
-- [[CPY-020-metoda-lui-james-webb-young-un-om-anume-o-propunere-clara|CPY-020]] — metoda James Webb Young: un om anume — cum pornește scrisul
-- [[CPY-021-vocea-personala-a-proprietarului-bate-tonul-corporatist|CPY-021]] — vocea personală a proprietarului bate tonul corporatist — forma clasică a vocii de brand
-- [[CPY-022-nu-exista-produse-prozaice-doar-copywriteri-care-n-au-gasit|CPY-022]] — nu există produse prozaice — cum găsești omul și povestea din produs
-- [[CPY-023-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-023]] — reclama instituțională vinde încredere prin explicație — scrisul pentru companie, criză și reputație
-- [[CPY-024-o-idee-de-reclama-se-verifica-pe-hartie-inainte-de|CPY-024]] — ideea se verifică pe hârtie în șase teste — controlul de calitate înainte de producție
+### 4. The copywriter's voice and process
+- [[CPY-019-the-brand-s-voice-stays-constant-while-the-tone-adapts-to|CPY-019]] the voice stays constant, the tone adapts: the working distinction for any voice guide
+- [[CPY-020-james-webb-young-s-method-a-specific-person-a-clear|CPY-020]] James Webb Young's method, a specific person: how the writing starts
+- [[CPY-021-the-owner-s-personal-voice-beats-the-corporate-tone|CPY-021]] the owner's personal voice beats the corporate tone: the classic form of brand voice
+- [[CPY-022-there-are-no-prosaic-products-only-copywriters-who-have-not|CPY-022]] there are no prosaic products: how you find the person and the story in the product
+- [[CPY-023-institutional-advertising-sells-trust-through-patient|CPY-023]] institutional advertising sells trust through explanation: writing for the company, for crises and for reputation
+- [[CPY-024-an-ad-idea-is-checked-on-paper-before-production-brand-id|CPY-024]] the idea is checked on paper in six tests: quality control before production
 
-### 5. Scrisul pentru canale — răspuns direct, outdoor, search, conținut, AI
-- [[CPY-025-scoala-mail-order-cuponul-a-transformat-copywritingul-intr|CPY-025]] — școala mail-order și cuponul ca experiment — rădăcina copywritingului măsurabil
-- [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si|CPY-026]] — Burma-Shave, copy serial pe marginea drumului — mediul gândit ca timp de lectură
-- [[CPY-027-anuntul-de-cautare-se-scrie-ca-un-set-de-piese|CPY-027]] — anunțul de căutare ca set de piese interschimbabile — scrisul pentru algoritm
-- [[CPY-028-intro-ul-jurnalistic-face-trei-lucruri-intr-o-singura-fraza|CPY-028]] — intro-ul jurnalistic și piramida inversată — scrisul pentru conținut de brand
-- [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu|CPY-029]] — vocea brandului în conținutul generat cu AI — ciclul exemple → ciornă → editare umană
+### 5. Writing for channels: direct response, outdoor, search, content, AI
+- [[CPY-025-the-mail-order-school-the-coupon-turned-copywriting-into-a|CPY-025]] the mail-order school and the coupon as an experiment: the root of measurable copywriting
+- [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading|CPY-026]] Burma-Shave, serial roadside copy: the medium conceived as reading time
+- [[CPY-027-a-search-ad-is-written-as-a-set-of-interchangeable-pieces|CPY-027]] the search ad as a set of interchangeable pieces: writing for the algorithm
+- [[CPY-028-the-journalistic-intro-does-three-jobs-in-a-single-sentence|CPY-028]] the journalistic intro and the inverted triangle: writing for brand content
+- [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle|CPY-029]] brand voice in AI-generated content: the cycle examples → draft → human editing
 
-### 6. Apeluri puternice, etică și lecții de durată
-- [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie|CPY-030]] — rațional sau emoțional: o potrivire, nu o filozofie — dezbaterea de fond a meseriei
-- [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria|CPY-031]] — umorul atrage atenția, dar fură brandul — ce spun meta-analizele
-- [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa|CPY-032]] — umorul, de la interzis la recompensă — aceeași temă văzută istoric („work and reward")
-- [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea|CPY-033]] — sexul atrage privirea, dar nu vinde — dovezile contra unei credințe de industrie
-- [[CPY-034-teama-sociala-vinde-dar-exista-si-calea-pozitiva|CPY-034]] — teama socială vinde, dar există și calea pozitivă — eficiența și riscul etic al fricii
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] — sloganurile literal adevărate pot induce în eroare — checklist-ul etic și legal al formulării
-- [[CPY-036-o-reclama-mare-are-o-idee-sinceritate-si-o-viata-lunga-in|CPY-036]] — o reclamă mare: idee, sinceritate, memorie lungă — criteriile Watkins–Rubicam
-- [[CPY-037-challengerul-castiga-schimband-jocul-comparatie-sportiva|CPY-037]] — challengerul câștigă schimbând jocul — cum scrie un brand mic sau pe locul doi
-- [[CPY-038-consecventa-bate-noutatea-nu-schimba-o-reclama-care-inca|CPY-038]] — consecvența bate noutatea — când să nu schimbi o reclamă care merge
+### 6. Strong appeals, ethics and lasting lessons
+- [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy|CPY-030]] rational or emotional, a match and not a philosophy: the underlying debate of the craft
+- [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory|CPY-031]] humor attracts attention but steals the brand: what the meta-analyses say
+- [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the|CPY-032]] humor, from forbidden to reward: the same theme seen historically ("work and reward")
+- [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the|CPY-033]] sex catches the eye but does not sell: the evidence against an industry belief
+- [[CPY-034-social-fear-sells-but-there-is-also-a-positive-route|CPY-034]] social fear sells, but there is also a positive route: the effectiveness and the ethical risk of fear
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]] literally true slogans can mislead: the ethical and legal checklist for wording
+- [[CPY-036-a-great-ad-has-an-idea-sincerity-and-a-long-life-in-memory|CPY-036]] a great ad (idea, sincerity, a long life in memory): the Watkins-Rubicam criteria
+- [[CPY-037-the-challenger-wins-by-changing-the-game-a-sporting|CPY-037]] the challenger wins by changing the game: how a small or number-two brand writes
+- [[CPY-038-consistency-beats-novelty-do-not-change-an-ad-that-still|CPY-038]] consistency beats novelty: when not to change an ad that works
 
-## Surse principale
+## Main sources
 
-| Sursă | Pentru ce | Relevanță |
+| Source | What for | Relevance |
 |---|---|---|
-| [[SRC-028-the-100-greatest-advertisements-1852-1958\|SRC-028]] Watkins, *The 100 Greatest Advertisements* | reclamele clasice povestite de autorii lor: promisiune, reason-why, imagine, voce, slogan, consecvență (cele mai multe note) | ★★★★☆ |
-| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | contextul istoric al stilurilor, sloganurilor, umorului și al limitelor legale | ★★★★☆ |
-| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | psiholingvistica titlului și a textului, focalizarea beneficiului, ordinea imagine → cuvânt | ★★★★★ |
-| [[SRC-012-the-psychology-of-advertising\|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* | dovezile despre umor, sex, frică, mesaj bilateral, inferențe înșelătoare | ★★★★★ |
-| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | practica de agenție: un singur motiv, checklist-ul ideii, formate, memorabilitate | ★★★★☆ |
-| [[SRC-019-la-boite-a-outils-de-la-publicite\|SRC-019]] Barre & Gayrard-Carrera, *La boîte à outils de la publicité* | Jakobson, denotație–conotație, tipuri de discurs | ★★★★☆ |
-| [[SRC-018-strategic-advertising-mechanisms\|SRC-018]] Fernández Gómez, *Strategic Advertising Mechanisms* | reason-why și filiația lui spre copy strategy și USP | ★★★★☆ |
-| [[SRC-001-marketing-grewal-levy\|SRC-001]] Grewal & Levy, *Marketing* | anatomia reclamei tipărite, la nivel de manual | ★★★★☆ |
-| [[SRC-024-the-a-z-of-visual-ideas\|SRC-024]] Ingledew, *The A–Z of Visual Ideas* | jocul de cuvinte vizual | ★★★★☆ |
-| [[SRC-031-digital-marketing-manual\|SRC-031]] Sachdev, *Digital Marketing* | voce și ton pe canale digitale, anunțurile de search | ★★★☆☆ |
-| [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy\|SRC-016]] McCarthy & McAndrew, *Goddess Guide to Branding* | exercițiul de voce și vocabular de brand | ★★★☆☆ |
-| [[SRC-040-intelligent-customer-engagement\|SRC-040]] Richards & McLean, *Intelligent Customer Engagement* | tehnica jurnalistică pentru conținut de brand | ★★★☆☆ |
-| [[SRC-039-chatgpt-for-marketing\|SRC-039]] Najafov, *ChatGPT for Marketing* | vocea brandului în lucrul cu AI generativ (sursă slabă, de verificat) | ★★☆☆☆ |
+| [[SRC-028-the-100-greatest-advertisements-1852-1958\|SRC-028]] Watkins, *The 100 Greatest Advertisements* | the classic ads told by their authors: promise, reason-why, image, voice, slogan, consistency (the most notes) | ★★★★☆ |
+| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | the historical context of styles, slogans, humor and legal limits | ★★★★☆ |
+| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | the psycholinguistics of the headline and the copy, benefit focus, the image → word order | ★★★★★ |
+| [[SRC-012-the-psychology-of-advertising\|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* | the evidence on humor, sex, fear, the two-sided message, misleading inferences | ★★★★★ |
+| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | agency practice: a single reason, the idea checklist, formats, memorability | ★★★★☆ |
+| [[SRC-019-la-boite-a-outils-de-la-publicite\|SRC-019]] Barre & Gayrard-Carrera, *La boîte à outils de la publicité* | Jakobson, denotation and connotation, types of discourse | ★★★★☆ |
+| [[SRC-018-strategic-advertising-mechanisms\|SRC-018]] Fernández Gómez, *Strategic Advertising Mechanisms* | reason-why and its line of descent to the copy strategy and the USP | ★★★★☆ |
+| [[SRC-001-marketing-grewal-levy\|SRC-001]] Grewal & Levy, *Marketing* | the anatomy of the print ad, at textbook level | ★★★★☆ |
+| [[SRC-024-the-a-z-of-visual-ideas\|SRC-024]] Ingledew, *The A–Z of Visual Ideas* | visual wordplay | ★★★★☆ |
+| [[SRC-031-digital-marketing-manual\|SRC-031]] Sachdev, *Digital Marketing* | voice and tone on digital channels, search ads | ★★★☆☆ |
+| [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy\|SRC-016]] McCarthy & McAndrew, *Goddess Guide to Branding* | the exercise on brand voice and vocabulary | ★★★☆☆ |
+| [[SRC-040-intelligent-customer-engagement\|SRC-040]] Richards & McLean, *Intelligent Customer Engagement* | the journalistic technique for brand content | ★★★☆☆ |
+| [[SRC-039-chatgpt-for-marketing\|SRC-039]] Najafov, *ChatGPT for Marketing* | brand voice when working with generative AI (a weak source, to be checked) | ★★☆☆☆ |
 
-## Skill-uri vecine
+## Neighboring skills
 
-- [[20-skills/advertising-strategy/SKILL|ADV]] — copy strategy, USP, grila Rossiter-Percy și obiectivele de comunicare din care pornește orice text.
-- [[20-skills/creative-brief/SKILL|BRF]] — brief-ul creativ și propoziția unică pe care copy-ul o execută.
-- [[20-skills/creative-ideation/SKILL|IDE]] — ideea creativă (big idea, tehnici de idei) pe care titlul și textul o pun în cuvinte.
-- [[20-skills/art-direction/SKILL|ART]] — perechea copywriterului: imaginea, tipografia și tensiunea cuvânt–imagine.
-- [[20-skills/consumer-insight/SKILL|INS]] — psihologia atenției, a persuasiunii și a memoriei pe care se sprijină regulile de formulare.
-- [[20-skills/brand-strategy/SKILL|BRD]] — personalitatea, numele și poziționarea care dau vocea brandului.
-- [[20-skills/advertising-history/SKILL|HIS]] — istoria stilurilor de copy (știre, reason-why, imagine, USP, Big Idea) și a limitelor legale.
-- [[20-skills/storytelling-content/SKILL|STO]] — povestea de brand și conținutul editorial, unde copy-ul devine narațiune.
-- [[20-skills/digital-marketing/SKILL|DIG]] — search, e-mail, landing page și testarea A/B a textelor.
-- [[20-skills/ai-marketing/SKILL|AIM]] — promptul ca brief și supravegherea umană a textelor generate.
+- [[20-skills/advertising-strategy/SKILL|ADV]]: the copy strategy, the USP, the Rossiter-Percy grid and the communication objectives that any copy starts from.
+- [[20-skills/creative-brief/SKILL|BRF]]: the creative brief and the single-minded proposition that the copy executes.
+- [[20-skills/creative-ideation/SKILL|IDE]]: the creative idea (big idea, idea techniques) that the headline and the copy put into words.
+- [[20-skills/art-direction/SKILL|ART]]: the copywriter's partner: the image, the typography and the word-image tension.
+- [[20-skills/consumer-insight/SKILL|INS]]: the psychology of attention, persuasion and memory on which the rules of wording rest.
+- [[20-skills/brand-strategy/SKILL|BRD]]: the personality, the name and the positioning that give the brand its voice.
+- [[20-skills/advertising-history/SKILL|HIS]]: the history of copy styles (news, reason-why, image, USP, Big Idea) and of the legal limits.
+- [[20-skills/storytelling-content/SKILL|STO]]: the brand story and editorial content, where copy becomes narrative.
+- [[20-skills/digital-marketing/SKILL|DIG]]: search, email, the landing page and A/B testing of copy.
+- [[20-skills/ai-marketing/SKILL|AIM]]: the prompt as a brief and human oversight of generated copy.
 
-## Cum folosește un agent AI acest skill
+## How an AI agent uses this skill
 
-1. **Când ți se cere un titlu sau o reclamă print/OOH:** pornește de la anatomia din [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy|CPY-001]]; pune promisiunea în titlu ([[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson|CPY-002]]) și un singur motiv în text ([[CPY-005-un-singur-motiv-bun-bate-o-lista-de-37-maximum-trei|CPY-005]], [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive|CPY-003]]); formulează după [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea|CPY-006]] (sub 7–8 cuvinte, concret, fără negații); verifică relația cu imaginea cu [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]] și [[ART-004-tipografia-este-distributia-de-actori-a-cuvintelor-iar|ART-004]]; propune 3–5 variante, nu una.
-2. **Când ți se cere un slogan sau o tagline:** caută întâi fraza în limbajul clientului și al cumpărătorilor ([[CPY-007-cele-mai-bune-titluri-sunt-adesea-gasite-nu-inventate|CPY-007]]); testează-o pe criteriile din [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii|CPY-008]] și cu tehnicile din [[CPY-009-un-mesaj-devine-memorabil-prin-repetitie-rima-ritm-chunking|CPY-009]]; dacă e un joc de cuvinte, aplică avertismentul din [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea|CPY-006]] și verifică traducerea culturală (cazul Carlsberg din [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]]).
-3. **Când alegi strategia textului (argument sau emoție, lung sau scurt, format):** stabilește motivația țintei cu [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la|CPY-012]]; arbitrează cu [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie|CPY-030]] (și istoria din [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp|HIS-008]]); alege formatul cu [[CPY-015-formatele-de-executie-au-forte-si-slabiciuni-previzibile|CPY-015]] și lungimea cu [[CPY-018-text-lung-sau-text-scurt-lungimea-depinde-de-interes-nu-de|CPY-018]]; verifică structura cu [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv|CPY-014]].
-4. **Când scrii un ghid de voce sau texte pentru mai multe canale ori cu AI:** definește vocea și tonurile cu [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la|CPY-019]]; scrie pentru un om anume ([[CPY-020-metoda-lui-james-webb-young-un-om-anume-o-propunere-clara|CPY-020]], [[CPY-021-vocea-personala-a-proprietarului-bate-tonul-corporatist|CPY-021]]); pentru search folosește [[CPY-027-anuntul-de-cautare-se-scrie-ca-un-set-de-piese|CPY-027]], pentru conținut [[CPY-028-intro-ul-jurnalistic-face-trei-lucruri-intr-o-singura-fraza|CPY-028]], pentru ciorne AI ciclul din [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu|CPY-029]].
-5. **Când evaluezi un text sau o idee (review, pitch intern):** trece-o prin checklist-ul [[CPY-024-o-idee-de-reclama-se-verifica-pe-hartie-inainte-de|CPY-024]] și criteriile [[CPY-036-o-reclama-mare-are-o-idee-sinceritate-si-o-viata-lunga-in|CPY-036]]; la umor, sex sau frică, citează dovezile din [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria|CPY-031]], [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea|CPY-033]], [[CPY-034-teama-sociala-vinde-dar-exista-si-calea-pozitiva|CPY-034]]; verifică etic și legal formularea cu [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] și [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie|HIS-023]]; înainte să propui o campanie nouă, citește [[CPY-038-consecventa-bate-noutatea-nu-schimba-o-reclama-care-inca|CPY-038]].
+1. **When you are asked for a headline or a print/OOH ad:** start from the anatomy in [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy|CPY-001]]; put the promise in the headline ([[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson|CPY-002]]) and a single reason in the copy ([[CPY-005-one-good-reason-beats-a-list-of-37-at-most-three-support|CPY-005]], [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives|CPY-003]]); word it following [[CPY-006-unexpected-words-draw-attention-in-the-headline-but|CPY-006]] (under 7–8 words, concrete, no negatives); check the relationship with the image with [[CPY-011-the-picture-hooks-the-headline-anchors-denotation-informs|CPY-011]] and [[ART-004-typography-is-the-casting-of-the-words-and-word-and-image|ART-004]]; propose 3–5 variants, not one.
+2. **When you are asked for a slogan or a tagline:** first look for the phrase in the language of the client and of the buyers ([[CPY-007-the-best-headlines-are-often-found-not-invented-listen-to|CPY-007]]); test it against the criteria in [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts|CPY-008]] and with the techniques in [[CPY-009-a-message-becomes-memorable-through-repetition-rhyme-rhythm|CPY-009]]; if it is a pun, apply the warning in [[CPY-006-unexpected-words-draw-attention-in-the-headline-but|CPY-006]] and check how it translates across cultures (the Carlsberg case in [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]]).
+3. **When you choose the strategy of the copy (argument or emotion, long or short, format):** establish the target audience's motivation with [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit|CPY-012]]; arbitrate with [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy|CPY-030]] (and the history in [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big|HIS-008]]); choose the format with [[CPY-015-execution-formats-have-predictable-strengths-and-weaknesses|CPY-015]] and the length with [[CPY-018-long-copy-or-short-copy-length-depends-on-interest-not-on-a|CPY-018]]; check the structure with [[CPY-014-advertising-discourse-comes-in-four-types-narrative|CPY-014]].
+4. **When you write a voice guide, or copy for several channels or with AI:** define the voice and the tones with [[CPY-019-the-brand-s-voice-stays-constant-while-the-tone-adapts-to|CPY-019]]; write for one specific person ([[CPY-020-james-webb-young-s-method-a-specific-person-a-clear|CPY-020]], [[CPY-021-the-owner-s-personal-voice-beats-the-corporate-tone|CPY-021]]); for search use [[CPY-027-a-search-ad-is-written-as-a-set-of-interchangeable-pieces|CPY-027]], for content [[CPY-028-the-journalistic-intro-does-three-jobs-in-a-single-sentence|CPY-028]], for AI drafts the cycle in [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle|CPY-029]].
+5. **When you evaluate a piece of copy or an idea (review, internal pitch):** run it through the checklist in [[CPY-024-an-ad-idea-is-checked-on-paper-before-production-brand-id|CPY-024]] and the criteria in [[CPY-036-a-great-ad-has-an-idea-sincerity-and-a-long-life-in-memory|CPY-036]]; for humor, sex or fear, cite the evidence in [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory|CPY-031]], [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the|CPY-033]], [[CPY-034-social-fear-sells-but-there-is-also-a-positive-route|CPY-034]]; check the wording ethically and legally with [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]] and [[HIS-023-the-american-standard-for-deception-a-claim-must-be|HIS-023]]; before you propose a new campaign, read [[CPY-038-consistency-beats-novelty-do-not-change-an-ad-that-still|CPY-038]].
 
-Citează mereu ID-urile notelor folosite, ca răspunsul să fie verificabil, și semnalează legăturile `contrazice` (de exemplu Kodak vs. Ogilvy despre imaginea fără text, sau umorul ca distragere vs. recompensă). Textele integrale ale surselor sunt în `90-library/text/` (caută cu `grep -n`); Watkins e în `the-100-greatest-advertisements-1852-1958.txt`, Percy & Rosenbaum-Elliott în `audiobook/` (capitolul 13 în fișierul 26).
+Always cite the IDs of the notes you use, so the answer can be checked, and point out the `contradicts` links (for example Kodak vs. Ogilvy on the image without copy, or humor as distraction vs. reward). The full texts of the sources are in `90-library/text/` (search with `grep -n`); Watkins is in `the-100-greatest-advertisements-1852-1958.txt`, Percy & Rosenbaum-Elliott in `audiobook/` (chapter 13 in file 26).
 
-## Toate notele (generat automat)
+## All notes (generated)
 
 <!-- auto:notes:start -->
-_38 note proprii._
+_38 own notes._
 
-| ID | Titlu | Tip | Nivel | Status |
+| ID | Title | Kind | Level | Status |
 |---|---|---|---|---|
-| [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy\|CPY-001]] | Anatomia reclamei tipărite — vizual, titlu, subtitlu, body copy și semnătură, fiecare cu o sarcină proprie | framework | Fundament | growing |
-| [[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson\|CPY-002]] | Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order | principle | Fundament | growing |
-| [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive\|CPY-003]] | Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare | principle | Fundament | growing |
-| [[CPY-004-reclama-de-imagine-vinde-un-sentiment-nu-o-fisa-tehnica\|CPY-004]] | Reclama de imagine vinde un sentiment, nu o fișă tehnică | concept | Fundament | growing |
-| [[CPY-005-un-singur-motiv-bun-bate-o-lista-de-37-maximum-trei\|CPY-005]] | Un singur motiv bun bate o listă de 37 — maximum trei argumente de suport, pentru că cel mai slab devine ținta contraargumentelor | principle | Fundament | growing |
-| [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea\|CPY-006]] | Cuvintele neașteptate atrag atenția în titlu, dar învățarea cere cuvinte familiare, concrete, fraze active și fără negații | checklist | Fundament | growing |
-| [[CPY-007-cele-mai-bune-titluri-sunt-adesea-gasite-nu-inventate\|CPY-007]] | Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada | principle | Practică | growing |
-| [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii\|CPY-008]] | Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte | concept | Fundament | growing |
-| [[CPY-009-un-mesaj-devine-memorabil-prin-repetitie-rima-ritm-chunking\|CPY-009]] | Un mesaj devine memorabil prin repetiție, rimă, ritm, „chunking", răsucirea unei expresii cunoscute și sincronizare audio-video | method | Practică | growing |
-| [[CPY-010-jocul-de-cuvinte-vizual-calamburul-expresia-vizualizata\|CPY-010]] | Jocul de cuvinte vizual — calamburul, expresia vizualizată, rebusul și întrebarea | method | Fundament | growing |
-| [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza\|CPY-011]] | Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze | principle | Practică | growing |
-| [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la\|CPY-012]] | La motivație negativă, focalizezi direct pe beneficiu, iar la motivație pozitivă, pe consecința lui emoțională | framework | Practică | growing |
-| [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale\|CPY-013]] | Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine | framework | Practică | growing |
-| [[CPY-014-discursul-publicitar-are-patru-tipuri-narativ-descriptiv\|CPY-014]] | Discursul publicitar are patru tipuri — narativ, descriptiv, explicativ, argumentativ — și se verifică după ce e scris | framework | Fundament | growing |
-| [[CPY-015-formatele-de-executie-au-forte-si-slabiciuni-previzibile\|CPY-015]] | Formatele de execuție au forțe și slăbiciuni previzibile — slice-of-life, prezentator, purtător de cuvânt, testimonial, vignete, muzică, umor | framework | Practică | growing |
-| [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un\|CPY-016]] | Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal | principle | Practică | growing |
-| [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea\|CPY-017]] | „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea | method | Practică | growing |
-| [[CPY-018-text-lung-sau-text-scurt-lungimea-depinde-de-interes-nu-de\|CPY-018]] | Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă | debate | Practică | growing |
-| [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la\|CPY-019]] | Vocea brandului rămâne constantă, tonul se adaptează la canal, public și situație | concept | Fundament | growing |
-| [[CPY-020-metoda-lui-james-webb-young-un-om-anume-o-propunere-clara\|CPY-020]] | Metoda lui James Webb Young — un om anume, o propunere clară și punctul în care se întâlnesc | method | Practică | growing |
-| [[CPY-021-vocea-personala-a-proprietarului-bate-tonul-corporatist\|CPY-021]] | Vocea personală a proprietarului bate tonul corporatist | principle | Practică | growing |
-| [[CPY-022-nu-exista-produse-prozaice-doar-copywriteri-care-n-au-gasit\|CPY-022]] | Nu există produse prozaice — doar copywriteri care n-au găsit încă omul din produs | principle | Practică | growing |
-| [[CPY-023-reclama-institutionala-vinde-incredere-prin-explicatie\|CPY-023]] | Reclama instituțională vinde încredere prin explicație răbdătoare, nu prin laudă | concept | Practică | growing |
-| [[CPY-024-o-idee-de-reclama-se-verifica-pe-hartie-inainte-de\|CPY-024]] | O idee de reclamă se verifică pe hârtie, înainte de producție — brand clar, provocatoare, clară, memorabilă, unică, accesibilă ca buget | checklist | Fundament | growing |
-| [[CPY-025-scoala-mail-order-cuponul-a-transformat-copywritingul-intr\|CPY-025]] | Școala mail-order — cuponul a transformat copywritingul într-un experiment măsurabil | method | Practică | growing |
-| [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si\|CPY-026]] | Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc | case | Practică | growing |
-| [[CPY-027-anuntul-de-cautare-se-scrie-ca-un-set-de-piese\|CPY-027]] | Anunțul de căutare se scrie ca un set de piese interschimbabile, iar fiecare trebuie să funcționeze singură | method | Practică | growing |
-| [[CPY-028-intro-ul-jurnalistic-face-trei-lucruri-intr-o-singura-fraza\|CPY-028]] | Intro-ul jurnalistic face trei lucruri într-o singură frază, iar textul se scrie ca o piramidă inversată | principle | Fundament | growing |
-| [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu\|CPY-029]] | Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final | method | Practică | growing |
-| [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie\|CPY-030]] | Apelul rațional sau emoțional nu e o filozofie de agenție, ci o potrivire cu produsul și cu persoana | debate | Practică | growing |
-| [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria\|CPY-031]] | Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire | principle | Practică | growing |
-| [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa\|CPY-032]] | Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția | debate | Practică | growing |
-| [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea\|CPY-033]] | Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei | debate | Practică | growing |
-| [[CPY-034-teama-sociala-vinde-dar-exista-si-calea-pozitiva\|CPY-034]] | Teama socială vinde — dar există și calea pozitivă | debate | Practică | growing |
-| [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin\|CPY-035]] | Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului | checklist | Practică | growing |
-| [[CPY-036-o-reclama-mare-are-o-idee-sinceritate-si-o-viata-lunga-in\|CPY-036]] | O reclamă mare are o idee, sinceritate și o viață lungă în memorie | framework | Practică | growing |
-| [[CPY-037-challengerul-castiga-schimband-jocul-comparatie-sportiva\|CPY-037]] | Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor | case | Practică | growing |
-| [[CPY-038-consecventa-bate-noutatea-nu-schimba-o-reclama-care-inca\|CPY-038]] | Consecvența bate noutatea — nu schimba o reclamă care încă funcționează | principle | Practică | growing |
+| [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy\|CPY-001]] | The anatomy of a print ad: visual, headline, subhead, body copy and signature, each with its own job | framework | Foundation | growing |
+| [[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson\|CPY-002]] | Promise is the soul of an advertisement: from Samuel Johnson (1759) to mail-order headlines | principle | Foundation | growing |
+| [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives\|CPY-003]] | Reason-why: the ad as "salesmanship in print" that gives concrete, verifiable reasons to buy | principle | Foundation | growing |
+| [[CPY-004-image-advertising-sells-a-feeling-not-a-spec-sheet\|CPY-004]] | Image advertising sells a feeling, not a spec sheet | concept | Foundation | growing |
+| [[CPY-005-one-good-reason-beats-a-list-of-37-at-most-three-support\|CPY-005]] | One good reason beats a list of 37: at most three support points, because the weakest becomes the target of counterarguments | principle | Foundation | growing |
+| [[CPY-006-unexpected-words-draw-attention-in-the-headline-but\|CPY-006]] | Unexpected words draw attention in the headline, but learning needs familiar, concrete words, active sentences and no negatives | checklist | Foundation | growing |
+| [[CPY-007-the-best-headlines-are-often-found-not-invented-listen-to\|CPY-007]] | The best headlines are often found, not invented: listen to the client and the street | principle | Practice | growing |
+| [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts\|CPY-008]] | A good slogan is repeatable, sets the brand apart and lasts for decades; the jingle gets it sung | concept | Foundation | growing |
+| [[CPY-009-a-message-becomes-memorable-through-repetition-rhyme-rhythm\|CPY-009]] | A message becomes memorable through repetition, rhyme, rhythm, chunking, a twist on a familiar phrase and audiovisual synchronization | method | Practice | growing |
+| [[CPY-010-visual-wordplay-the-pun-the-visualized-expression-the-rebus\|CPY-010]] | Visual wordplay: the pun, the visualized expression, the rebus and the question | method | Foundation | growing |
+| [[CPY-011-the-picture-hooks-the-headline-anchors-denotation-informs\|CPY-011]] | The picture hooks, the headline anchors: denotation informs, connotation adds meanings the target has to decode | principle | Practice | growing |
+| [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit\|CPY-012]] | With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence | framework | Practice | growing |
+| [[CPY-013-every-advertising-message-ranks-the-six-functions-of\|CPY-013]] | Every advertising message ranks the six functions of language (Jakobson), and one of them must dominate | framework | Practice | growing |
+| [[CPY-014-advertising-discourse-comes-in-four-types-narrative\|CPY-014]] | Advertising discourse comes in four types (narrative, descriptive, explanatory, argumentative) and is checked after it is written | framework | Foundation | growing |
+| [[CPY-015-execution-formats-have-predictable-strengths-and-weaknesses\|CPY-015]] | Execution formats have predictable strengths and weaknesses: slice-of-life, announcer, spokesperson, testimonial, vignettes, music, humor | framework | Practice | growing |
+| [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor\|CPY-016]] | A two-sided message gains credibility if it admits a minor, plausible flaw linked to the main benefit | principle | Practice | growing |
+| [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is\|CPY-017]] | Disrupt, then reframe: a small oddity in how the price is stated, followed by a persuasive conclusion, increases sales | method | Practice | growing |
+| [[CPY-018-long-copy-or-short-copy-length-depends-on-interest-not-on-a\|CPY-018]] | Long copy or short copy? Length depends on interest, not on a rule | debate | Practice | growing |
+| [[CPY-019-the-brand-s-voice-stays-constant-while-the-tone-adapts-to\|CPY-019]] | The brand's voice stays constant, while the tone adapts to channel, audience and situation | concept | Foundation | growing |
+| [[CPY-020-james-webb-young-s-method-a-specific-person-a-clear\|CPY-020]] | James Webb Young's method: a specific person, a clear proposition and the point where they meet | method | Practice | growing |
+| [[CPY-021-the-owner-s-personal-voice-beats-the-corporate-tone\|CPY-021]] | The owner's personal voice beats the corporate tone | principle | Practice | growing |
+| [[CPY-022-there-are-no-prosaic-products-only-copywriters-who-have-not\|CPY-022]] | There are no prosaic products, only copywriters who have not yet found the person in the product | principle | Practice | growing |
+| [[CPY-023-institutional-advertising-sells-trust-through-patient\|CPY-023]] | Institutional advertising sells trust through patient explanation, not praise | concept | Practice | growing |
+| [[CPY-024-an-ad-idea-is-checked-on-paper-before-production-brand-id\|CPY-024]] | An ad idea is checked on paper before production: brand ID, provocative, clear, memorable, unique, affordable | checklist | Foundation | growing |
+| [[CPY-025-the-mail-order-school-the-coupon-turned-copywriting-into-a\|CPY-025]] | The mail-order school: the coupon turned copywriting into a measurable experiment | method | Practice | growing |
+| [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading\|CPY-026]] | Burma-Shave: serial copy that controls the pace of reading and turns the road into a game | case | Practice | growing |
+| [[CPY-027-a-search-ad-is-written-as-a-set-of-interchangeable-pieces\|CPY-027]] | A search ad is written as a set of interchangeable pieces, and each one has to work on its own | method | Practice | growing |
+| [[CPY-028-the-journalistic-intro-does-three-jobs-in-a-single-sentence\|CPY-028]] | The journalistic intro does three jobs in a single sentence, and the text is written as an inverted triangle | principle | Foundation | growing |
+| [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle\|CPY-029]] | Brand voice does not come from a prompt but from a cycle: examples → draft → human editing → feedback → final check | method | Practice | growing |
+| [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy\|CPY-030]] | A rational or emotional appeal is not an agency philosophy but a match with the product and the person | debate | Practice | growing |
+| [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory\|CPY-031]] | Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought | principle | Practice | growing |
+| [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the\|CPY-032]] | Humor in advertising: from forbidden "cleverness" to the reward that buys attention | debate | Practice | growing |
+| [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the\|CPY-033]] | Sex catches the eye but does not sell: it even lowers the attitude toward the brand, among men and women alike | debate | Practice | growing |
+| [[CPY-034-social-fear-sells-but-there-is-also-a-positive-route\|CPY-034]] | Social fear sells, but there is also a positive route | debate | Practice | growing |
+| [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences\|CPY-035]] | Literally true slogans can mislead through the inferences they leave to the audience | checklist | Practice | growing |
+| [[CPY-036-a-great-ad-has-an-idea-sincerity-and-a-long-life-in-memory\|CPY-036]] | A great ad has an idea, sincerity and a long life in memory | framework | Practice | growing |
+| [[CPY-037-the-challenger-wins-by-changing-the-game-a-sporting\|CPY-037]] | The challenger wins by changing the game: a sporting comparison, self-irony and a refusal of superlatives | case | Practice | growing |
+| [[CPY-038-consistency-beats-novelty-do-not-change-an-ad-that-still\|CPY-038]] | Consistency beats novelty: do not change an ad that still works | principle | Practice | growing |
 
-**Note din alte skill-uri, relevante și aici:**
+**Notes from other skills that are also relevant here:**
 
-- [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza|ADV-005]] — Ierarhiile de efecte (AIDA, Lavidge-Steiner, DAGMAR) ordonează obiectivele „gândește–simte–acționează", dar ordinea lor fixă nu are suport empiric
-- [[ADV-022-de-la-atribut-la-beneficiu-final-si-final-final-inventar|ADV-022]] — De la atribut la beneficiu final și „final-final" — inventar complet, testul „și ce dacă?" și eliminarea beneficiilor de categorie
-- [[ADV-023-promisiunile-au-o-ierarhie-de-forta-senzorial-efect-asupra|ADV-023]] — Promisiunile au o ierarhie de forță — senzorial, efect asupra corpului, comoditate, preț — iar cele de jos se copiază cel mai ușor
-- [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta|ADV-024]] — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele — și nu e un slogan
-- [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il|ADV-025]] — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
-- [[ADV-030-exagerarea-subiectiva-puffery-e-legala-dar-orice-afirmatie|ADV-030]] — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
-- [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea|ADV-032]] — Notorietatea prin recunoaștere (brand → nevoie, la raft) și cea prin reamintire (nevoie → brand, înainte de cumpărare) cer tactici creative și media opuse
-- [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia|ADV-034]] — Grila Rossiter-Percy combină implicarea (risc) cu motivația (negativă sau pozitivă) în patru strategii de atitudine, fiecare cu tactici creative proprii
-- [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema|ADV-035]] — Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-- [[ADV-036-strategia-transformationala-cu-implicare-mica-cere|ADV-036]] — Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- [[ADV-037-strategia-informationala-cu-implicare-mare-trebuie-sa|ADV-037]] — Strategia informațională cu implicare mare trebuie să convingă, cu afirmații ținute în latitudinea de acceptare a țintei sau cu o abordare refutațională
-- [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta|ADV-038]] — Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-- [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu|ADV-042]] — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
-- [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia|ADV-043]] — O reclamă eficientă face trei lucruri — prinde atenția, amplifică beneficiul și îl leagă de brand —, iar fără al treilea publicul ține minte povestea, nu brandul
-- [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-045]] — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
-- [[ADV-048-comunicarea-sociala-trebuie-sa-schimbe-atitudinea-si|ADV-048]] — Comunicarea socială trebuie să schimbe atitudinea și comportamentul, așa că adaugă norma socială (Fishbein-Ajzen), etapele schimbării și o frică moderată, rezolvată
-- [[ADV-050-probably-the-best-beer-in-the-world-a-functionat-decenii-pe|ADV-050]] — „Probably the best beer in the world" a funcționat decenii pe unele piețe, dar ironia modestă din „probably" nu s-a tradus în Rusia și Asia
-- [[ADV-051-reclama-incluziva-se-verifica-pe-trei-axe-ton-limbaj|ADV-051]] — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
-- [[ADV-079-pretestul-se-construieste-pe-obiectivele-de-comunicare-cu|ADV-079]] — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
-- [[ADV-080-elementele-unei-reclame-se-pot-testa-ca-un-experiment|ADV-080]] — Elementele unei reclame se pot testa ca un experiment — conjoint-ul de mesaj bate testul A/B
-- [[ADV-087-femvertising-ul-vinde-imputernicirea-castiga-premii-si|ADV-087]] — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
-- [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul|AIM-025]] — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
-- [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un|AIM-033]] — Declară când folosești AI — o trusă de transparență și un checklist etic în opt puncte
-- [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]] — Imaginea atrage și reține atenția dacă e mare, colorată, concretă, arată produsul folosit și e văzută înaintea textului
-- [[ART-003-simbolurile-icoanele-si-gesturile-comunica-instant-pentru|ART-003]] — Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului
-- [[ART-004-tipografia-este-distributia-de-actori-a-cuvintelor-iar|ART-004]] — Tipografia este distribuția de actori a cuvintelor, iar cuvântul și imaginea trebuie să se tensioneze, nu să se repete
-- [[ART-006-strategy-visual-demonstratia-vizuala-a-promisiunii-e|ART-006]] — „Strategy visual" — demonstrația vizuală a promisiunii e Graalul reclamei, pentru că ce vezi crezi fără să decodezi
-- [[ART-007-o-singura-imagine-dominanta-poate-spune-povestea-daca|ART-007]] — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
-- [[ART-009-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta-si|ART-009]] — Dezvăluirea — umbra, radiografia, imaginea ruptă, silueta și mesajul ascuns îl lasă pe privitor să descopere singur
-- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
-- [[ART-018-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-018]] — ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere
-- [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul|ART-024]] — Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției"
-- [[ART-027-bannerul-eficient-e-scurt-congruent-cu-pagina-emotional-cu|ART-027]] — Bannerul eficient e scurt, congruent cu pagina, emoțional, cu un stimulent concret și animație dozată
-- [[BRD-002-brandul-ajuta-clientul-sa-aleaga-repede-si-protejeaza-firma|BRD-002]] — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
-- [[BRD-010-pozitionarea-orientata-spre-utilizator-are-sens-doar-pentru|BRD-010]] — Poziționarea orientată spre utilizator are sens doar pentru o nișă sau pentru motivul aprobării sociale, altfel produsul e eroul
-- [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-012]] — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
-- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — Misiunea spune de ce există brandul, viziunea unde vrea să ajungă, iar valorile cum se poartă pe drum
-- [[BRD-024-patagonia-don-t-buy-this-jacket-o-reclama-de-black-friday|BRD-024]] — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
-- [[BRD-025-bloom-wild-sa-le-permiti-clientilor-sa-refuze-campaniile-de|BRD-025]] — Bloom & Wild: să le permiți clienților să refuze campaniile de Ziua Mamei e tot marketing — marketing atent
-- [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile|BRD-026]] — Personalitatea de brand are cinci dimensiuni măsurabile (Aaker) și contează prin potrivirea cu imaginea de sine a clientului
-- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
-- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
-- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-048-un-look-feel-consecvent-ani-la-rand-ajunge-sa-declanseze|BRD-048]] — Un look & feel consecvent ani la rând ajunge să declanșeze brandul fără nume, iar execuțiile trebuie să varieze în interiorul lui, nu să fie identice
-- [[BRF-006-brief-ul-creativ-incape-pe-o-pagina-in-trei-blocuri-sarcina|BRF-006]] — Brief-ul creativ încape pe o pagină, în trei blocuri (sarcina, obiectivele și strategia, execuția), și se detaliază doar ținta și susținerea beneficiului
-- [[BRF-011-scara-beneficiilor-urca-de-la-atribute-la-beneficii|BRF-011]] — Scara beneficiilor urcă de la atribute la beneficii emoționale, iar beneficiul ales trebuie să treacă patru teste
-- [[BRF-016-brief-ul-get-to-by-pune-toata-strategia-intr-o-fraza-cu|BRF-016]] — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-- [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
-- [[DIG-010-in-marketingul-direct-oferta-si-lista-cantaresc-mai-mult|DIG-010]] — În marketingul direct, oferta și lista cântăresc mai mult decât execuția creativă (regula 40/40/20)
-- [[DIG-019-micro-momentele-patru-intentii-vreau-sa-stiu-sa-merg-sa-fac|DIG-019]] — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
-- [[DIG-024-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-024]] — Pagina web se citește după convenții — triunghiul de aur, above the fold, logo în stânga sus
-- [[DIG-026-accesibilitatea-digitala-e-o-conditie-a-experientei-bune-si|DIG-026]] — Accesibilitatea digitală e o condiție a experienței bune și un risc legal — text alternativ, subtitrări, informație care nu stă doar în culoare, compatibilitate cu cititoarele de ecran
-- [[DIG-029-oamenii-cauta-problema-nu-produsul-de-aceea-seo-porneste-de|DIG-029]] — Oamenii caută problema, nu produsul — de aceea SEO pornește de la intenția de căutare
-- [[DIG-030-seo-sta-pe-trei-piloni-tehnic-continut-si-off-site-iar|DIG-030]] — SEO stă pe trei piloni — tehnic, conținut și off-site — iar Google cântărește cel mai mult conținutul, linkurile și RankBrain
-- [[DIG-031-cautarea-vocala-cere-continut-scris-ca-raspuns-la-intrebari|DIG-031]] — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
-- [[DIG-034-e-mailul-promotional-bun-are-o-singura-oferta-un-termen|DIG-034]] — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
-- [[DIG-043-in-licitatia-din-search-pozitia-se-castiga-cu-relevanta-nu|DIG-043]] — În licitația din search poziția se câștigă cu relevanță, nu doar cu bani — Ad Rank combină oferta cu calitatea anunțului și a paginii de destinație
-- [[DIG-045-reclama-e-doar-atat-de-buna-cat-pagina-pe-care-aterizeaza|DIG-045]] — Reclama e doar atât de bună cât pagina pe care aterizează — simplitate, continuitate cu anunțul și congruență cu contextul
-- [[DIG-053-publicitatea-nativa-imprumuta-forma-tonul-si-functia|DIG-053]] — Publicitatea nativă împrumută forma, tonul și funcția mediului — își ia credibilitatea din această asemănare, de aceea trebuie marcată clar ca reclamă
-- [[DIG-062-strategia-de-date-first-party-porneste-de-la-intrebarea-ce|DIG-062]] — Strategia de date first-party pornește de la întrebarea „ce date ne cresc vânzările?” și obține datele prin invitație și schimb de valoare, nu prin colectare ascunsă
-- [[DIG-063-consimtamantul-valid-se-cere-activ-si-se-poate-retrage-la|DIG-063]] — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
-- [[DIG-066-orice-promisiune-despre-confidentialitate-este-un-claim|DIG-066]] — Orice promisiune despre confidențialitate este un claim publicitar — poate diferenția brandul, dar se judecă și se sancționează ca orice afirmație
-- [[DIG-068-in-continutul-digital-marcile-textele-si-imaginile-altora|DIG-068]] — În conținutul digital, mărcile, textele și imaginile altora se folosesc doar cu un drept clar — licență, domeniu public sau excepția îngustă a „fair use”
-- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
-- [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost|HIS-003]] — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
-- [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp|HIS-008]] — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
-- [[HIS-011-david-ogilvy-cercetare-fapte-fara-adjective-si-o-imagine|HIS-011]] — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
-- [[HIS-013-revolutia-creativa-din-1959-a-pus-copywriterul-si-art|HIS-013]] — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
-- [[HIS-017-lansarile-clasice-produsul-testat-fara-reclama-teaserul-si|HIS-017]] — Lansările clasice — produsul testat fără reclamă, teaserul și diversiunea (Camel, Ford Model A, Lux)
-- [[HIS-018-personajele-inventate-nu-gresesc-niciodata-celebritatile-da|HIS-018]] — Personajele inventate nu greșesc niciodată; celebritățile da
-- [[HIS-021-medicamentele-minune-au-inventat-tehnicile-reclamei-moderne|HIS-021]] — Medicamentele-minune au inventat tehnicile reclamei moderne și i-au distrus reputația pentru un secol
-- [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie|HIS-023]] — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
-- [[HIS-024-demonstratia-trebuie-sa-fie-reala-xerox-cu-cimpanzeul-vs|HIS-024]] — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
-- [[IDE-001-brainjack-ideea-buna-captureaza-mintea-privitorului-nu-doar|IDE-001]] — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
-- [[IDE-002-ideile-noi-sunt-combinatii-bisociatia-lui-koestler-si|IDE-002]] — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
-- [[IDE-003-big-idea-conceptul-care-face-o-reclama-diferita-de-ale|IDE-003]] — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
-- [[IDE-004-ideea-creativa-trebuie-intai-sa-dramatizeze-beneficiul|IDE-004]] — Ideea creativă trebuie întâi să dramatizeze beneficiul-cheie, apoi să atragă atenția, să accelereze procesarea și să susțină multe execuții
-- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
-- [[IDE-011-cand-ideea-nu-vine-incubatie-distragere-creativa-si|IDE-011]] — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
-- [[IDE-016-metafora-vizuala-si-asemanarea-formala-un-lucru-arata-ca|IDE-016]] — Metafora vizuală și asemănarea formală — un lucru arată ca altul și îi împrumută calitățile
-- [[IDE-017-cliseul-conventia-si-formatul-familiar-devin-idei-cand-sunt|IDE-017]] — Clișeul, convenția și formatul familiar devin idei când sunt folosite pe dos
-- [[IDE-018-inversarea-problemei-dezavantajul-devine-argumentul|IDE-018]] — Inversarea problemei — dezavantajul devine argumentul
-- [[IDE-019-umorul-ironia-si-satira-rastoarna-asteptarea-si-creeaza|IDE-019]] — Umorul, ironia și satira răstoarnă așteptarea și creează complicitate cu privitorul
-- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
-- [[IDE-024-ideea-se-naste-in-solitudine-in-pereche-sau-in-sedinta|IDE-024]] — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
-- [[INS-001-publicitatea-ajunge-aproape-doar-la-creierul-rapid-care-e|INS-001]] — Publicitatea ajunge aproape doar la „creierul rapid", care e portarul atenției — mesajul trebuie să treacă întâi de el
-- [[INS-003-o-reclama-e-procesata-prin-patru-raspunsuri-atentie|INS-003]] — O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
-- [[INS-004-perceptia-e-selectiva-asa-ca-reclama-are-nevoie-de-procedee|INS-004]] — Percepția e selectivă, așa că reclama are nevoie de procedee de atenție — emoție, personificare, spectacol, surpriză, umor
-- [[INS-007-fluenta-procesarii-se-simte-ca-placere-si-e-atribuita|INS-007]] — Fluența procesării se simte ca plăcere și e atribuită greșit brandului
-- [[INS-019-atitudinea-are-trei-componente-ce-crezi-ce-simti-ce-faci|INS-019]] — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
-- [[INS-028-ancora-si-recenta-sub-presiunea-timpului-creierul-rapid|INS-028]] — Ancora și recența — sub presiunea timpului, creierul rapid răspunde cu ultimul lucru văzut, iar prețul se citește prin referințe
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
-- [[INS-031-un-mesaj-incadrat-pe-masura-imaginii-de-sine-a-cititorului|INS-031]] — Un mesaj încadrat pe măsura imaginii de sine a cititorului e procesat mai atent
-- [[INS-032-personalitatea-nu-alege-tinta-dar-schimba-felul-in-care-e|INS-032]] — Personalitatea nu alege ținta, dar schimbă felul în care e procesat mesajul, prin trăsături stabile și stări temporare
-- [[INS-033-cere-i-clientului-zece-motive-si-il-convingi-mai-putin|INS-033]] — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
-- [[INS-034-efectul-de-adevar-mai-intai-credem-abia-apoi-poate-corectam|INS-034]] — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
-- [[INS-035-credibilitatea-unei-surse-se-judeca-pe-trei-criterii-in|INS-035]] — Credibilitatea unei surse se judecă pe trei criterii, în ordine — expertiză, încredere, motivație — și o acordă receptorul, nu emițătorul
-- [[INS-037-modelul-viscap-alege-prezentatorul-dupa-obiectivul-de|INS-037]] — Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate
-- [[INS-039-poti-convinge-crescand-atractia-ofertei-strategii-alfa-sau|INS-039]] — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
-- [[INS-040-cand-publicul-vede-intentia-de-a-l-convinge-poate-face|INS-040]] — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
-- [[INS-042-apelurile-la-frica-functioneaza-mai-bine-cu-cat-amenintarea|INS-042]] — Apelurile la frică funcționează mai bine cu cât amenințarea e mai gravă — ideea că frica mare „blochează" mesajul nu s-a confirmat
-- [[INS-046-cumparam-din-trei-motive-negative-rezolvare-evitare|INS-046]] — Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială)
-- [[INS-047-produsele-servesc-patru-scopuri-utilitar-de-autoexprimare|INS-047]] — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
-- [[INS-052-cinci-tipuri-de-risc-perceput-franeaza-cumpararea-cu-cat-e|INS-052]] — Cinci tipuri de risc perceput frânează cumpărarea — cu cât e mai mare riscul, cu atât consumatorul caută mai mult
-- [[INS-060-planul-daca-situatia-x-atunci-fac-y-transforma-intentia-in|INS-060]] — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
-- [[INS-063-conformarea-fara-schimbarea-atitudinii-se-obtine-prin-sapte|INS-063]] — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
-- [[INS-064-la-cereri-mici-orice-pentru-ca-functioneaza-la-cereri-mari|INS-064]] — La cereri mici, orice „pentru că" funcționează; la cereri mari, doar motivele reale (lipsa de atenție în conformare)
-- [[INS-065-promisiunea-exagerata-vinde-o-data-si-dezamageste-dupa|INS-065]] — Promisiunea exagerată vinde o dată și dezamăgește după (modelul confirmării așteptărilor)
-- [[INS-084-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-084]] — Importanța unui atribut se schimbă cu etapa de viață — „brandul de încredere" contează enorm la 4–8 ani și aproape deloc la preadolescenți
-- [[MKT-071-greenwashing-afirmatia-verde-trebuie-dovedita-nu-doar|MKT-071]] — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
-- [[PIT-004-un-pitch-se-organizeaza-ca-un-arbore-un-headline-trei|PIT-004]] — Un pitch se organizează ca un arbore — un headline, trei mesaje cheie și dovezile dedesubt
-- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
-- [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta|PRT-015]] — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
-- [[PRT-017-pe-pagina-de-proiect-textul-spune-ce-imaginea-nu-poate|PRT-017]] — Pe pagina de proiect, textul spune ce imaginea nu poate arăta — titluri specifice, descrieri scurte, legende informative
-- [[PRT-021-cv-ul-declaratia-de-design-si-scrisoarea-de-intentie|PRT-021]] — CV-ul, declarația de design și scrisoarea de intenție completează portofoliul — funcționale, scurte și adaptate fiecărei aplicații
-- [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de|SOC-022]] — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
-- [[SOC-032-colaborarea-platita-se-declara-clar-la-inceput-si-in|SOC-032]] — Colaborarea plătită se declară clar, la început și în fiecare format — acolo unde publicul vede recomandarea, nu după un click
-- [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita|STO-002]] — Călătoria eroului — protagonistul pleacă din lumea obișnuită, trece prin încercări și se întoarce transformat; în publicitate eroul e de regulă clientul, nu brandul
-- [[STO-003-povestea-de-reclama-e-o-transformare-facilitata-de-brand|STO-003]] — Povestea de reclamă e o transformare facilitată de brand — harta „C.O.W. + B → T" și structura în trei acte
-- [[STO-004-povestea-de-brand-care-misca-oamenii-are-personaj-intriga|STO-004]] — Povestea de brand care mișcă oamenii are personaj, intrigă și metaforă
-- [[STO-005-o-poveste-de-brand-buna-are-personaje-identificabile-emotie|STO-005]] — O poveste de brand bună are personaje identificabile, emoție autentică, un moment semnificativ și detalii concrete
-- [[STO-007-povestea-se-incheie-naratiunea-te-invita-distinctia-lui|STO-007]] — Povestea se încheie, narațiunea te invită: distincția lui Hagel între story și narrative
-- [[STO-008-curiozitatea-din-prima-secunda-si-surpriza-emotionala-tin|STO-008]] — Curiozitatea din prima secundă și surpriza emoțională țin publicul până la capăt
-- [[STO-011-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-011]] — Story DNA: o singură metaforă centrală aplicată pe toate straturile
-- [[STO-012-un-produs-nou-se-povesteste-prin-ceva-familiar|STO-012]] — Un produs nou se povestește prin ceva familiar
-- [[STO-017-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-017]] — Story beats țin ritmul și împing atenția spre ce urmează
-- [[STO-018-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-018]] — Fiecare strat multimedia trebuie să adauge sens nou, nu să repete
-- [[STO-019-sabloane-simple-de-micro-poveste-pentru-social-media|STO-019]] — Șabloane simple de micro-poveste pentru social media
-- [[STO-039-manifestul-de-brand-este-o-declaratie-aspirationala-de|STO-039]] — Manifestul de brand este o declarație aspirațională de intenție, nu misiunea corporativă rescrisă
-- [[STO-040-checklist-ul-de-responsabilitate-pentru-reprezentare|STO-040]] — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar|ADV-005]]: Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support
+- [[ADV-022-from-attribute-to-end-benefit-and-end-end-benefit-a-full|ADV-022]]: From attribute to end benefit and end-end benefit: a full inventory, the "so what" test and dropping category benefits
+- [[ADV-023-promises-have-a-hierarchy-of-strength-sensory-delivery-body|ADV-023]]: Promises have a hierarchy of strength (sensory delivery, body effect, convenience, price), and the lower ones are the easiest to copy
+- [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition|ADV-024]]: Reeves's USP has three conditions (a concrete proposition, unique, strong enough to move the mass millions) and is not a slogan
+- [[ADV-025-there-are-three-roads-to-a-usp-you-find-it-in-the-product|ADV-025]]: There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+- [[ADV-030-subjective-exaggeration-puffery-is-legal-but-any|ADV-030]]: Subjective exaggeration (puffery) is legal, but any quantifiable claim must be backed up
+- [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and|ADV-032]]: Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics
+- [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with|ADV-034]]: The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+- [[ADV-035-the-low-involvement-informational-strategy-calls-for|ADV-035]]: The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+- [[ADV-036-the-low-involvement-transformational-strategy-calls-for|ADV-036]]: The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- [[ADV-037-the-high-involvement-informational-strategy-must-convince|ADV-037]]: The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach
+- [[ADV-038-the-high-involvement-transformational-strategy-requires-the|ADV-038]]: The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- [[ADV-042-p-g-s-copy-strategy-fixes-in-writing-the-objective-the|ADV-042]]: P&G's copy strategy fixes in writing the objective, the benefit with its proof, and the tone, not the execution
+- [[ADV-043-an-effective-ad-does-three-things-gains-attention-amplifies|ADV-043]]: An effective ad does three things (gains attention, amplifies the benefit, links it to the brand), and without the third the audience remembers the story, not the brand
+- [[ADV-045-the-message-must-be-framed-to-fit-a-promotion-or-a|ADV-045]]: The message must be framed to fit a promotion or a prevention orientation
+- [[ADV-048-social-marketing-communication-must-change-attitude-and|ADV-048]]: Social marketing communication must change attitude and behavior, so it adds the social norm (Fishbein-Ajzen), the stages of change and a moderate fear that is then resolved
+- [[ADV-050-probably-the-best-beer-in-the-world-worked-for-decades-in|ADV-050]]: "Probably the best beer in the world" worked for decades in some markets, but the modest irony of "probably" did not translate in Russia and Asia
+- [[ADV-051-inclusive-advertising-is-checked-on-three-axes-tone|ADV-051]]: Inclusive advertising is checked on three axes (tone, language, representation) before it is published
+- [[ADV-079-the-pretest-is-built-on-the-communication-objectives-with|ADV-079]]: The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- [[ADV-080-the-elements-of-an-ad-can-be-tested-as-an-experiment|ADV-080]]: The elements of an ad can be tested as an experiment: message conjoint beats the A/B test
+- [[ADV-087-femvertising-sells-empowerment-it-wins-awards-and-shares|ADV-087]]: Femvertising sells empowerment: it wins awards and shares, but is suspected of selling the same old ideals back to women
+- [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer|AIM-025]]: A marketing prompt is a mini-brief, and the model's answer is a draft, not a deliverable
+- [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an|AIM-033]]: Disclose when you use AI: a transparency toolkit and an eight-point ethical checklist
+- [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]]: A picture attracts and holds attention if it is large, in color, concrete, shows the product in use and is seen before the words
+- [[ART-003-symbols-icons-and-gestures-communicate-instantly-because|ART-003]]: Symbols, icons and gestures communicate instantly because their meaning is already installed in the viewer's mind
+- [[ART-004-typography-is-the-casting-of-the-words-and-word-and-image|ART-004]]: Typography is the casting of the words, and word and image have to be in tension, not repeat each other
+- [[ART-006-the-strategy-visual-a-visual-demonstration-of-the-promise|ART-006]]: The strategy visual: a visual demonstration of the promise is advertising's holy grail, because what you see you believe without decoding
+- [[ART-007-a-single-dominant-image-can-tell-the-story-if-the-copy|ART-007]]: A single dominant image can tell the story, if the copy supports it rather than repeats it
+- [[ART-009-the-reveal-shadows-x-rays-torn-images-silhouettes-and|ART-009]]: The reveal: shadows, X-rays, torn images, silhouettes and hidden messages let viewers discover for themselves
+- [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues|ART-012]]: The brand design template: twelve types of sensory cues
+- [[ART-018-the-geometric-dna-of-the-brand-mark-extends-into-patterns|ART-018]]: The geometric DNA of the brand mark extends into patterns, icons and letterforms
+- [[ART-024-the-advertising-layout-was-invented-under-constraints|ART-024]]: The advertising layout was invented under constraints: Franklin's white space and the Age of Repetition
+- [[ART-027-an-effective-banner-is-short-congruent-with-the-page|ART-027]]: An effective banner is short, congruent with the page, emotional, with a concrete incentive and measured animation
+- [[BRD-002-a-brand-helps-customers-choose-quickly-and-protects-the|BRD-002]]: A brand helps customers choose quickly and protects the firm from price competition, through elements that are easy to recognize
+- [[BRD-010-user-oriented-positioning-makes-sense-only-for-a-niche-or|BRD-010]]: User-oriented positioning makes sense only for a niche or for the social approval motive; otherwise the product is the hero
+- [[BRD-012-attribute-reasons-to-believe-get-copied-while-image-reasons|BRD-012]]: Attribute reasons to believe get copied, while image reasons to believe can be owned
+- [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it|BRD-019]]: The mission says why the brand exists, the vision where it wants to go, and the values how it behaves on the way
+- [[BRD-024-patagonia-s-don-t-buy-this-jacket-is-a-black-friday-ad-that|BRD-024]]: Patagonia's "Don't Buy This Jacket" is a Black Friday ad that asks you not to buy
+- [[BRD-025-bloom-wild-letting-customers-opt-out-of-mother-s-day|BRD-025]]: Bloom & Wild: letting customers opt out of Mother's Day campaigns is still marketing, thoughtful marketing
+- [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and|BRD-026]]: Brand personality has five measurable dimensions (Aaker) and matters through its fit with the customer's self-image
+- [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to|BRD-030]]: Eight goddess archetypes offer a feminine alternative to the 12 Jungian archetypes
+- [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed|BRD-032]]: Brand blueprint: goddess, heart, gift and style, each passed through a test
+- [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]: A good brand name is relevant, emotional, easy to say and marketable
+- [[BRD-048-a-look-and-feel-kept-consistent-for-years-ends-up|BRD-048]]: A look and feel kept consistent for years ends up triggering the brand without its name, and executions should vary within it, not be identical
+- [[BRF-006-the-creative-brief-fits-on-one-page-in-three-blocks-task|BRF-006]]: The creative brief fits on one page, in three blocks (task definition, objectives and strategy, execution), and only the target audience and the benefit support are spelled out in detail
+- [[BRF-011-the-benefit-ladder-climbs-from-features-to-emotional|BRF-011]]: The benefit ladder climbs from features to emotional benefits, and the chosen benefit has to pass four tests
+- [[BRF-016-the-get-to-by-brief-puts-the-whole-strategy-into-one|BRF-016]]: The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]]: A request for a meeting has to offer value for the time it asks for
+- [[DIG-010-in-direct-marketing-the-offer-and-the-list-weigh-more-than|DIG-010]]: In direct marketing, the offer and the list weigh more than the creative execution (the 40/40/20 rule)
+- [[DIG-019-micro-moments-four-intents-i-want-to-know-go-do-buy-that|DIG-019]]: Micro-moments: four intents (I want to know, go, do, buy) that the brand answers within seconds
+- [[DIG-024-a-web-page-is-read-by-convention-the-golden-triangle-above|DIG-024]]: A web page is read by convention: the golden triangle, above the fold, the logo at the top left
+- [[DIG-026-digital-accessibility-is-a-condition-of-a-good-experience|DIG-026]]: Digital accessibility is a condition of a good experience and a legal risk: alt text, captions, information not carried by color alone, compatibility with screen readers
+- [[DIG-029-people-search-for-the-problem-not-the-product-that-is-why|DIG-029]]: People search for the problem, not the product: that is why SEO starts from search intent
+- [[DIG-030-seo-rests-on-three-pillars-technical-content-and-off-site|DIG-030]]: SEO rests on three pillars (technical, content and off-site), and Google weighs content, links and RankBrain the most
+- [[DIG-031-voice-search-calls-for-content-written-as-answers-to-spoken|DIG-031]]: Voice search calls for content written as answers to spoken questions: an exaggerated forecast, but a useful practice
+- [[DIG-034-a-good-promotional-email-has-one-offer-a-time-deadline-and|DIG-034]]: A good promotional email has one offer, a time deadline and a subject line under 50 characters
+- [[DIG-043-in-the-search-auction-position-is-won-with-relevance-not|DIG-043]]: In the search auction, position is won with relevance, not only with money: Ad Rank combines the bid with the quality of the ad and of the landing page
+- [[DIG-045-an-ad-is-only-as-good-as-its-landing-page-simplicity|DIG-045]]: An ad is only as good as its landing page: simplicity, continuity with the ad and congruence with the context
+- [[DIG-053-native-advertising-borrows-the-form-feel-and-function-of|DIG-053]]: Native advertising borrows the form, feel and function of the medium: it draws its credibility from that resemblance, which is why it has to be clearly labeled as advertising
+- [[DIG-062-the-first-party-data-strategy-starts-from-the-question-what|DIG-062]]: The first-party data strategy starts from the question "What data can I use to drive sales?" and gets the data through invitation and value exchange, not hidden collection
+- [[DIG-063-valid-consent-is-asked-for-actively-and-can-be-withdrawn|DIG-063]]: Valid consent is asked for actively and can be withdrawn just as easily: equal buttons, unticked boxes, purposes explained, proof kept
+- [[DIG-066-every-promise-about-privacy-is-an-advertising-claim-it-can|DIG-066]]: Every promise about privacy is an advertising claim: it can differentiate the brand, but it is judged and sanctioned like any other claim
+- [[DIG-068-in-digital-content-other-people-s-trademarks-texts-and|DIG-068]]: In digital content, other people's trademarks, texts and images are used only with a clear right: a license, the public domain or the narrow “fair use” exception
+- [[DIG-076-an-a-b-test-changes-a-single-variable-starts-from-a|DIG-076]]: An A/B test changes a single variable, starts from a hypothesis and waits for statistical significance
+- [[HIS-003-as-long-as-people-could-not-read-advertising-was-image|HIS-003]]: As long as people could not read, advertising was image, symbol and voice
+- [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big|HIS-008]]: The genealogy of copy styles: news, reason-why, image, USP, Big Idea
+- [[HIS-011-david-ogilvy-research-facts-without-adjectives-and-a|HIS-011]]: David Ogilvy: research, facts without adjectives and a picture that asks a question
+- [[HIS-013-the-creative-revolution-of-1959-put-the-copywriter-and-the|HIS-013]]: The Creative Revolution of 1959 put the copywriter and the art director in the same room
+- [[HIS-017-classic-launches-the-product-tested-without-advertising-the|HIS-017]]: Classic launches: the product tested without advertising, the teaser and the feint (Camel, Ford Model A, Lux)
+- [[HIS-018-invented-characters-never-misbehave-celebrities-do|HIS-018]]: Invented characters never misbehave; celebrities do
+- [[HIS-021-miracle-cures-invented-the-techniques-of-modern-advertising|HIS-021]]: Miracle cures invented the techniques of modern advertising and ruined its reputation for a century
+- [[HIS-023-the-american-standard-for-deception-a-claim-must-be|HIS-023]]: The American standard for deception: a claim must be substantiated before it is published
+- [[HIS-024-the-demonstration-must-be-real-xerox-with-the-chimpanzee|HIS-024]]: The demonstration must be real: Xerox with the chimpanzee versus Volvo and the monster truck
+- [[IDE-001-brainjack-a-good-idea-captures-the-viewer-s-mind-not-just|IDE-001]]: Brainjack: a good idea captures the viewer's mind, not just the eye
+- [[IDE-002-new-ideas-are-combinations-koestler-s-bisociation-and|IDE-002]]: New ideas are combinations: Koestler's bisociation and combinatorial thinking
+- [[IDE-003-the-big-idea-the-concept-that-makes-an-ad-different-from|IDE-003]]: The Big Idea: the concept that makes an ad different from competitors' ads combines strategy with surprise
+- [[IDE-004-the-creative-idea-must-first-dramatize-the-key-benefit|IDE-004]]: The creative idea must first dramatize the key benefit claim, then get attention, speed up processing and support many executions
+- [[IDE-009-volume-comes-before-quality-the-good-idea-comes-out-of-a|IDE-009]]: Volume comes before quality: the good idea comes out of a large number of attempts, most of them bad
+- [[IDE-011-when-the-idea-won-t-come-incubation-creative-distraction|IDE-011]]: When the idea won't come: incubation, creative distraction and random triggers
+- [[IDE-016-visual-metaphor-and-formal-resemblance-one-thing-looks-like|IDE-016]]: Visual metaphor and formal resemblance: one thing looks like another and borrows its qualities
+- [[IDE-017-cliche-convention-and-the-familiar-format-become-ideas-when|IDE-017]]: Cliché, convention and the familiar format become ideas when they are turned on their head
+- [[IDE-018-reversing-the-problem-the-drawback-becomes-the-argument|IDE-018]]: Reversing the problem: the drawback becomes the argument
+- [[IDE-019-humor-irony-and-satire-overturn-expectation-and-create|IDE-019]]: Humor, irony and satire overturn expectation and create complicity with the viewer
+- [[IDE-023-idea-evaluation-grids-converge-on-three-questions-does-it|IDE-023]]: Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
+- [[IDE-024-is-the-idea-born-alone-in-a-pair-or-in-a-meeting-the|IDE-024]]: Is the idea born alone, in a pair or in a meeting? The classics disagree
+- [[INS-001-advertising-reaches-almost-only-the-fast-brain-the|INS-001]]: Advertising reaches almost only the fast brain, the gatekeeper of attention: the message has to get past it first
+- [[INS-003-an-ad-is-processed-through-four-responses-attention|INS-003]]: An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second
+- [[INS-004-perception-is-selective-so-the-ad-needs-attention-devices|INS-004]]: Perception is selective, so the ad needs attention devices: emotion, personification, staging, surprise, humor
+- [[INS-007-processing-fluency-feels-like-liking-and-is-misattributed|INS-007]]: Processing fluency feels like liking and is misattributed to the brand
+- [[INS-019-attitude-has-three-components-what-you-believe-feel-and-do|INS-019]]: Attitude has three components (what you believe, feel and do), and communication can change the first two
+- [[INS-028-anchoring-and-recency-under-time-pressure-the-fast-brain|INS-028]]: Anchoring and recency: under time pressure, the fast brain answers with the last thing it saw, and price is read through references
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- [[INS-031-a-message-framed-to-fit-the-reader-s-self-image-is|INS-031]]: A message framed to fit the reader's self-image is processed more carefully
+- [[INS-032-personality-does-not-choose-the-target-audience-but-it|INS-032]]: Personality does not choose the target audience, but it changes how the message is processed, through stable traits and temporary states
+- [[INS-033-ask-customers-for-ten-reasons-and-you-persuade-them-less|INS-033]]: Ask customers for ten reasons and you persuade them less than with one (ease of retrieval)
+- [[INS-034-the-truth-effect-we-believe-first-and-only-then-maybe|INS-034]]: The truth effect: we believe first, and only then (maybe) correct
+- [[INS-035-source-credibility-is-judged-on-three-criteria-in-order|INS-035]]: Source credibility is judged on three criteria, in order (expertise, trustworthiness, motivation), and the receiver grants it, not the sender
+- [[INS-037-the-viscap-model-chooses-the-presenter-by-the-communication|INS-037]]: The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity
+- [[INS-039-you-can-persuade-by-increasing-the-attractiveness-of-the|INS-039]]: You can persuade by increasing the attractiveness of the offer (alpha strategies) or by reducing resistance to it (omega strategies)
+- [[INS-040-when-the-audience-sees-the-intent-to-persuade-it-may-do|INS-040]]: When the audience sees the intent to persuade, it may do exactly the opposite (persuasion knowledge and reactance)
+- [[INS-042-fear-appeals-work-better-the-more-severe-the-threat-the|INS-042]]: Fear appeals work better the more severe the threat: the idea that strong fear blocks the message has not been confirmed
+- [[INS-046-we-buy-for-three-negative-motives-problem-solution-problem|INS-046]]: We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval)
+- [[INS-047-products-serve-four-goals-utilitarian-self-expression|INS-047]]: Products serve four goals (utilitarian, self-expression, identity-building and hedonic), and the message has to hit the right one
+- [[INS-052-five-types-of-perceived-risk-hold-back-a-purchase-the|INS-052]]: Five types of perceived risk hold back a purchase: the higher the risk, the more the consumer searches
+- [[INS-060-the-plan-if-situation-x-then-i-do-y-turns-intention-into|INS-060]]: The plan "if situation X, then I do Y" turns intention into action (implementation intentions)
+- [[INS-063-compliance-without-attitude-change-is-achieved-through|INS-063]]: Compliance without attitude change is achieved through seven principles of influence (Cialdini plus confusion)
+- [[INS-064-for-small-requests-any-because-works-for-large-requests|INS-064]]: For small requests any "because" works; for large requests only real reasons do (mindlessness in compliance)
+- [[INS-065-an-exaggerated-promise-sells-once-and-disappoints|INS-065]]: An exaggerated promise sells once and disappoints afterwards (the expectancy disconfirmation model)
+- [[INS-084-the-importance-of-an-attribute-changes-with-life-stage-a|INS-084]]: The importance of an attribute changes with life stage: "a brand I trust" matters hugely at ages 4–8 and hardly at all for pre-teens
+- [[MKT-071-greenwashing-a-green-claim-has-to-be-proved-not-only|MKT-071]]: Greenwashing: a green claim has to be proved, not only communicated, and the enthusiastic textbooks sidestep the problem
+- [[PIT-004-a-pitch-is-organized-like-a-tree-one-headline-three-key|PIT-004]]: A pitch is organized like a tree: one headline, three key messages and the evidence underneath
+- [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]]: The portfolio is designed for 30 seconds: a fast track and a slow track
+- [[PRT-015-the-introduction-and-the-case-study-titles-sell-relevance|PRT-015]]: The introduction and the case study titles sell relevance to the reader, not adjectives
+- [[PRT-017-on-the-project-page-the-text-says-what-the-image-cannot|PRT-017]]: On the project page, the text says what the image cannot show: specific titles, short descriptions, informative captions
+- [[PRT-021-the-resume-the-design-statement-and-the-cover-letter|PRT-021]]: The resume, the design statement and the cover letter complete the portfolio: functional, short and tailored to each application
+- [[SOC-022-a-social-media-crisis-is-handled-with-a-response-plan|SOC-022]]: A social media crisis is handled with a response plan prepared in advance, not with improvisation
+- [[SOC-032-a-paid-collaboration-is-disclosed-clearly-up-front-and-in|SOC-032]]: A paid collaboration is disclosed clearly, up front and in every format: where the audience sees the recommendation, not after a click
+- [[STO-002-the-hero-s-journey-the-protagonist-leaves-the-ordinary|STO-002]]: The hero's journey: the protagonist leaves the ordinary world, goes through trials and returns transformed; in advertising the hero is usually the customer, not the brand
+- [[STO-003-the-advertising-story-is-a-transformation-the-brand|STO-003]]: The advertising story is a transformation the brand facilitates: the "C.O.W. + B → T" map and the three-act structure
+- [[STO-004-a-brand-story-that-moves-people-has-character-plot-and|STO-004]]: A brand story that moves people has character, plot and metaphor
+- [[STO-005-a-good-brand-story-has-identifiable-characters-authentic|STO-005]]: A good brand story has identifiable characters, authentic emotion, a significant moment and specific details
+- [[STO-007-the-story-ends-the-narrative-invites-you-in-hagel-s|STO-007]]: The story ends, the narrative invites you in: Hagel's distinction between story and narrative
+- [[STO-008-curiosity-from-the-first-second-and-emotional-surprise-keep|STO-008]]: Curiosity from the first second and emotional surprise keep the audience to the end
+- [[STO-011-story-dna-one-central-metaphor-applied-to-all-layers|STO-011]]: Story DNA: one central metaphor applied to all layers
+- [[STO-012-a-new-product-is-told-through-something-familiar|STO-012]]: A new product is told through something familiar
+- [[STO-017-story-beats-keep-the-pace-and-push-attention-toward-what|STO-017]]: Story beats keep the pace and push attention toward what happens next
+- [[STO-018-each-multimedia-layer-must-add-new-meaning-not-repeat|STO-018]]: Each multimedia layer must add new meaning, not repeat
+- [[STO-019-simple-micro-story-templates-for-social-media|STO-019]]: Simple micro-story templates for social media
+- [[STO-039-the-brand-manifesto-is-an-aspirational-declaration-of|STO-039]]: The brand manifesto is an aspirational declaration of intent, not the corporate mission rewritten
+- [[STO-040-the-responsibility-checklist-for-representation-stereotypes|STO-040]]: The responsibility checklist for representation: stereotypes, power, appropriation, setting and a diverse team at every stage
 <!-- auto:notes:end -->

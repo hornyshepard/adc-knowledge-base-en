@@ -14,67 +14,67 @@ level: 1
 
 # Advanced Digital Marketing Strategies
 
-**K. Connors, 2024.** Autopublicată (prima ediție, culeasă pe platforma Reedsy). Circa 18.000 de cuvinte, 10 capitole scurte plus introducere și concluzie. Nu există informații despre autor, bibliografie, note sau date sursă.
+**K. Connors, 2024.** Self-published (first edition, typeset on the Reedsy platform). About 18,000 words, 10 short chapters plus an introduction and a conclusion. There is no information about the author, no bibliography, no notes and no source data.
 
-> Textul este un EPUB fără numerotare de pagină; trimiterile din note se fac la capitol.
+> The text is an EPUB without page numbers; the notes refer to chapters.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** o trecere în revistă, în stil de blog, a unor teme de marketing digital „avansat": testare A/B, segmentare, retargeting, campanii multicanal și atribuire, analytics avansat, personalizare, AI, studii de caz, tendințe și content marketing.
-- **Teza centrală:** succesul digital vine din înțelegerea profundă a audienței, transformată în experiențe personalizate, testate și măsurate continuu pe toate canalele.
-- **Pentru cine și când:** lectură introductivă rapidă, de un seminar, pentru studenții care nu au vocabularul de bază (A/B, retargeting, atribuire). Nu e utilizabilă ca manual.
-- **Relevanță pentru ADC:** ★★☆☆☆ (2/5) — clară și ușor de citit, cu câteva liste practice (pașii testului A/B, modelele de atribuire, retargetingul pe etape) și șase studii de caz cunoscute (KFC „FCK", Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb „Live There"). Dar e generică, repetitivă și fără nicio dovadă.
+- **What it is about:** a blog-style overview of some "advanced" digital marketing topics: A/B testing, segmentation, retargeting, multi-channel campaigns and attribution, advanced analytics, personalization, AI, case studies, trends and content marketing.
+- **Central thesis:** digital success comes from a deep understanding of the audience, turned into personalized experiences that are tested and measured continuously across all channels.
+- **For whom and when:** a quick introductory reading, for one seminar, for students who lack the basic vocabulary (A/B, retargeting, attribution). It cannot be used as a textbook.
+- **Relevance for ADC:** ★★☆☆☆ (2/5): clear and easy to read, with a few practical lists (the steps of an A/B test, the attribution models, retargeting by stage) and six well-known case studies (KFC "FCK", Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb "Live There"). But it is generic, repetitive and offers no evidence.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Intro, 2 | Segmentare: demografică, psihografică, comportamentală, geografică; segmentare dinamică și predictivă | (generic — neextras) |
-| 1 | Testarea A/B: ipoteză, o singură variabilă, eșantion, 95% încredere, multivariat, secvențial, documentare | [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o\|DIG-076]] |
-| 3 | Retargeting: pixel, segmentare pe etapă, dinamic, frequency capping, cross-device | [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din\|DIG-052]] |
-| 4 | Campanii multicanal: integrare, orchestrare, silozuri, atribuire | [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul\|DIG-077]] |
-| 5 | Analytics avansat: predictiv, clustere, atribuire, timp real, sentiment, ROI | [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul\|DIG-077]] |
-| 6 | Personalizare: e-mail, site, reclame, predictivă; supra-personalizare și confidențialitate | [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si\|DIG-069]] |
-| 7 | AI: predicție, recomandări, chatbots, generare de conținut, programatic, voce | (generic — vezi notele grupului G13) |
-| 8 | Studii de caz: KFC, Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb | [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal\|DIG-070]], [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de\|SOC-022]], [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut\|ADV-073]] |
-| 9 | Tendințe: AI, voce, AR/VR, confidențialitate, blockchain, social commerce, video, sustenabilitate | (generic) |
-| 10 | Content marketing: povestire, buyer's journey, owned/earned/paid, formate, SEO, refolosire | [[STO-028-matricea-content-marketingului-distreaza-inspira-educa\|STO-028]], [[DIG-022-media-owned-earned-si-paid-se-completeaza-control\|DIG-022]], [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci\|STO-029]] |
+| Intro, 2 | Customer Segmentation for Targeted Marketing: demographic, psychographic, behavioral, geographic; dynamic and predictive segmentation | (generic, not extracted) |
+| 1 | A/B Testing: Techniques and Tools: hypothesis, a single variable, sample, 95% confidence, multivariate, sequential, documentation | [[DIG-076-an-a-b-test-changes-a-single-variable-starts-from-a\|DIG-076]] |
+| 3 | Retargeting Strategies that Work: pixel, segmentation by stage, dynamic, frequency capping, cross-device | [[DIG-052-retargeting-works-only-when-segmented-by-journey-stage\|DIG-052]] |
+| 4 | Multi-Channel Campaigns: Integration and Optimization: integration, orchestration, silos, attribution | [[DIG-077-the-attribution-model-decides-which-channel-gets-credit-for\|DIG-077]] |
+| 5 | Advanced Analytics for Digital Marketing: predictive, clusters, attribution, real time, sentiment, ROI | [[DIG-077-the-attribution-model-decides-which-channel-gets-credit-for\|DIG-077]] |
+| 6 | Personalization in Digital Campaigns: email, website, ads, predictive; over-personalization and privacy | [[DIG-069-personalization-works-only-with-relevance-respect-and\|DIG-069]] |
+| 7 | Leveraging AI in Digital Marketing: prediction, recommendations, chatbots, content generation, programmatic, voice | (generic: see the notes of group G13) |
+| 8 | Case Studies of Successful Campaigns: KFC, Glossier, LinkedIn, Share a Coke, Spotify Wrapped, Airbnb | [[DIG-070-spotify-wrapped-customer-data-becomes-a-personal-gift-that\|DIG-070]], [[SOC-022-a-social-media-crisis-is-handled-with-a-response-plan\|SOC-022]], [[ADV-073-share-a-coke-personalized-packaging-became-social-content\|ADV-073]] |
+| 9 | Future Trends in Digital Marketing: AI, voice, AR/VR, privacy, blockchain, social commerce, video, sustainability | (generic) |
+| 10 | The Role of Content Marketing in a Digital Strategy: storytelling, the buyer's journey, owned/earned/paid, formats, SEO, repurposing | [[STO-028-the-content-marketing-matrix-entertain-inspire-educate\|STO-028]], [[DIG-022-owned-earned-and-paid-media-complement-each-other-control\|DIG-022]], [[STO-029-the-content-pyramid-one-piece-of-core-research-feeds-dozens\|STO-029]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B ca experiment: ipoteză, o variabilă, eșantion suficient, fără „trasul cu ochiul" (îmbină cu definiția din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — Retargetingul segmentat după stadiul din journey, dinamic și cu frequency capping.
-- [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul|DIG-077]] — Modelele de atribuire first-touch, last-touch, linear, multi-touch (completate cu UTM din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal|DIG-070]] — Spotify Wrapped: datele devin un cadou personal și distribuibil.
-- [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si|DIG-069]] — Supra-personalizarea ca risc (convergentă cu reactanța din [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
-- [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de|SOC-022]] — KFC „FCK" ca răspuns asumat la criză.
-- [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut|ADV-073]] — cei trei factori ai succesului Share a Coke.
-- [[STO-028-matricea-content-marketingului-distreaza-inspira-educa|STO-028]], [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci|STO-029]], [[DIG-022-media-owned-earned-si-paid-se-completeaza-control|DIG-022]] — journey-ul conținutului în trei etape, refolosirea, owned/earned/paid (confirmă [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-076-an-a-b-test-changes-a-single-variable-starts-from-a|DIG-076]]: the A/B test as an experiment: hypothesis, one variable, a large enough sample, no "peeking" (merged with the definition from [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-052-retargeting-works-only-when-segmented-by-journey-stage|DIG-052]]: retargeting segmented by stage in the journey, dynamic and with frequency capping.
+- [[DIG-077-the-attribution-model-decides-which-channel-gets-credit-for|DIG-077]]: the first-touch, last-touch, linear and multi-touch attribution models (completed with UTMs from [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[DIG-070-spotify-wrapped-customer-data-becomes-a-personal-gift-that|DIG-070]]: Spotify Wrapped: data becomes a personal, shareable gift.
+- [[DIG-069-personalization-works-only-with-relevance-respect-and|DIG-069]]: over-personalization as a risk (convergent with reactance in [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
+- [[SOC-022-a-social-media-crisis-is-handled-with-a-response-plan|SOC-022]]: KFC "FCK" as an owned response to a crisis.
+- [[ADV-073-share-a-coke-personalized-packaging-became-social-content|ADV-073]]: the three factors in the success of Share a Coke.
+- [[STO-028-the-content-marketing-matrix-entertain-inspire-educate|STO-028]], [[STO-029-the-content-pyramid-one-piece-of-core-research-feeds-dozens|STO-029]], [[DIG-022-owned-earned-and-paid-media-complement-each-other-control|DIG-022]]: the content journey in three stages, repurposing, owned/earned/paid (confirms [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Carte subțire, autopublicată, fără surse.** Niciun studiu, nicio cifră verificabilă, nicio referință; afirmații ca „emailurile personalizate au rate mai mari" sunt atribuite unor „studii variate" nenumite. Stilul uniform, repetitiv și listele de „puncte cheie" sugerează un text asistat de AI; tratați-l ca rezumat de vocabular, nu ca autoritate.
-- **Titlul promite mai mult decât oferă.** Nu există un capitol de SEO, deși subtitlul îl anunță; „avansat" înseamnă de fapt nivel introductiv.
-- **Unelte depășite.** Recomandă Google Optimize, închis de Google în 2023, și „Google AdWords" (rebrand în Google Ads din 2018).
-- **Studiile de caz sunt doar povestite**, fără rezultate măsurate, fără agenții (cu excepția Mother London) și fără context; pentru KFC, Spotify sau Airbnb trebuie consultate surse primare (cazuri Cannes, WARC).
-- Lipsesc discuțiile critice: limitele atribuirii multi-touch, testarea incrementală, MMM, brand vs. performanță.
+- **A thin, self-published book with no sources.** No study, no verifiable figure, no reference; claims such as "personalized emails have higher open rates" are attributed to unnamed "various studies". The uniform, repetitive style and the lists of "key points" suggest an AI-assisted text; treat it as a vocabulary summary, not as an authority.
+- **The title promises more than it delivers.** There is no chapter on SEO, although the subtitle announces one; "advanced" in fact means introductory level.
+- **Outdated tools.** It recommends Google Optimize, which Google shut down in 2023, and "Google AdWords" (rebranded as Google Ads in 2018).
+- **The case studies are only retold**, with no measured results, no agencies (except Mother London) and no context; for KFC, Spotify or Airbnb, consult primary sources (Cannes cases, WARC).
+- Critical discussions are missing: the limits of multi-touch attribution, incrementality testing, MMM, brand vs. performance.
 
-## Citat
+## Quote
 
-> „A/B testing is not just a tool for digital marketers; it’s a mindset." (cap. 1)
+> "A/B testing is not just a tool for digital marketers; it's a mindset." (ch. 1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-073-share-a-coke-personalizarea-ambalajului-a-devenit-continut|ADV-073]] — Share a Coke — personalizarea ambalajului a devenit conținut social, susținut de o comunicare integrată
-- [[DIG-022-media-owned-earned-si-paid-se-completeaza-control|DIG-022]] — Media owned, earned și paid se completează — control, credibilitate și acoperire
-- [[DIG-052-retargetingul-functioneaza-doar-segmentat-pe-etapa-din|DIG-052]] — Retargetingul funcționează doar segmentat pe etapa din journey, dozat și consimțit — tactica cea mai eficientă a erei cookie e și cea mai expusă după ea
-- [[DIG-069-personalizarea-functioneaza-doar-cu-relevanta-respect-si|DIG-069]] — Personalizarea funcționează doar cu relevanță, respect și control; venită prea devreme, produce reactanță
-- [[DIG-070-spotify-wrapped-datele-clientului-devin-un-cadou-personal|DIG-070]] — Spotify Wrapped — datele clientului devin un cadou personal pe care el însuși îl distribuie
-- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
-- [[DIG-077-modelul-de-atribuire-decide-ce-canal-primeste-meritul|DIG-077]] — Modelul de atribuire decide ce canal primește meritul conversiei — iar după cookie-uri urmărirea devine incertă și etapele de început ies dezavantajate
-- [[SOC-022-o-criza-pe-social-media-se-gestioneaza-cu-un-plan-de|SOC-022]] — O criză pe social media se gestionează cu un plan de răspuns pregătit dinainte, nu cu improvizație
-- [[STO-028-matricea-content-marketingului-distreaza-inspira-educa|STO-028]] — Matricea content marketingului — distrează, inspiră, educă, convinge — după emoție și etapa deciziei
-- [[STO-029-piramida-continutului-o-cercetare-de-baza-alimenteaza-zeci|STO-029]] — Piramida conținutului — o cercetare de bază alimentează zeci de piese derivate și promoționale
-- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]] — Digital Marketing: Foundations and Strategy (5th ed.)
+- [[ADV-073-share-a-coke-personalized-packaging-became-social-content|ADV-073]]: Share a Coke: personalized packaging became social content, backed by integrated communication
+- [[DIG-022-owned-earned-and-paid-media-complement-each-other-control|DIG-022]]: Owned, earned and paid media complement each other: control, credibility and reach
+- [[DIG-052-retargeting-works-only-when-segmented-by-journey-stage|DIG-052]]: Retargeting works only when segmented by journey stage, capped and consented: the most effective tactic of the cookie era is also the most exposed after it
+- [[DIG-069-personalization-works-only-with-relevance-respect-and|DIG-069]]: Personalization works only with relevance, respect and control; when it comes too early, it produces reactance
+- [[DIG-070-spotify-wrapped-customer-data-becomes-a-personal-gift-that|DIG-070]]: Spotify Wrapped: customer data becomes a personal gift that customers share themselves
+- [[DIG-076-an-a-b-test-changes-a-single-variable-starts-from-a|DIG-076]]: An A/B test changes a single variable, starts from a hypothesis and waits for statistical significance
+- [[DIG-077-the-attribution-model-decides-which-channel-gets-credit-for|DIG-077]]: The attribution model decides which channel gets credit for the conversion, and after cookies, tracking becomes uncertain and the early stages lose out
+- [[SOC-022-a-social-media-crisis-is-handled-with-a-response-plan|SOC-022]]: A social media crisis is handled with a response plan prepared in advance, not with improvisation
+- [[STO-028-the-content-marketing-matrix-entertain-inspire-educate|STO-028]]: The content marketing matrix: entertain, inspire, educate, convince, by emotion and stage of the decision
+- [[STO-029-the-content-pyramid-one-piece-of-core-research-feeds-dozens|STO-029]]: The content pyramid: one piece of core research feeds dozens of derivative and promotional pieces
+- [[SRC-029-digital-marketing-foundations-and-strategy|SRC-029]]: Digital Marketing: Foundations and Strategy (5th ed.)
 <!-- backlinks:end -->

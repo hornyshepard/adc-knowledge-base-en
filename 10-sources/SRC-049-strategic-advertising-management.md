@@ -5,7 +5,7 @@ type: source
 authors: [Larry Percy, Richard Rosenbaum-Elliott]
 year: 2021
 language: en
-file: "Audiobook_Strategic Advertising Management 6th Edition/ (34 mp3, transcris automat)"
+file: "Audiobook_Strategic Advertising Management 6th Edition/ (34 mp3, automatic transcript)"
 text: "90-library/text/audiobook/01.txt … 34.txt"
 skills: [advertising-strategy, consumer-insight, brand-strategy, creative-brief, copywriting, art-direction, creative-ideation, marketing-fundamentals, digital-marketing]
 relevance: 5
@@ -14,215 +14,215 @@ level: 2
 
 # Strategic Advertising Management (6th edition)
 
-**Larry Percy & Richard Rosenbaum-Elliott, 2021** (prefața e datată primăvara 2020). Oxford University Press. Sursa din bibliotecă e **audiobook-ul** (Ascent Audio / Recorded Books, narator Daniel Henning), transcris automat cu Whisper în 34 de fișiere (`90-library/text/audiobook/01.txt … 34.txt`, aproximativ 180.000 de cuvinte). Nu există numere de pagină, așa că trimiterile sunt de forma „cap. N (audio NN)”.
+**Larry Percy & Richard Rosenbaum-Elliott, 2021** (the preface is dated spring 2020). Oxford University Press. The library's source is the **audiobook** (Ascent Audio / Recorded Books, narrated by Daniel Henning), transcribed automatically with Whisper into 34 files (`90-library/text/audiobook/01.txt … 34.txt`, about 180,000 words). There are no page numbers, so references take the form "ch. N (audio NN)".
 
-**Atenție la limitele transcrierii.** Reclamele, figurile și tabelele din carte nu sunt disponibile. Naratorul citește conținutul multor tabele, deci au putut fi reconstituite (de exemplu Table 8.3–8.4, 9.3, 10.3–10.4, 13.2, 14.2, 16.1), dar figurile și reclamele (Advert X.Y) sunt doar descrise. Câteva pasaje sunt deformate de transcriere: finalul capitolului 5, o parte din Table 9.4, studiul de caz Cheetos din cap. 13 și câteva cifre din cap. 13. Numele proprii apar uneori stâlcite („Rossiter-Persi”, „Maguire” = McGuire, „Lars Pint Anderson” = Lars Pynt Andersen) și au fost corectate în note.
+**Mind the limits of the transcript.** The book's adverts, figures and tables are not available. The narrator reads the content of many tables, so they could be reconstructed (for example Tables 8.3–8.4, 9.3, 10.3–10.4, 13.2, 14.2, 16.1), but the figures and adverts (Advert X.Y) are only described. A few passages are garbled by the transcription: the end of chapter 5, part of Table 9.4, the Cheetos case study in ch. 13 and some figures in ch. 13. Proper names are sometimes mangled ("Rossiter-Persi", "Maguire" = McGuire, "Lars Pint Anderson" = Lars Pynt Andersen) and have been corrected in the notes.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual complet și sistematic de management strategic al publicității și promoției, construit pe modelul Rossiter–Percy. Merge de la ce sunt publicitatea și promoția, prin perspective teoretice și cultură, la un proces de planificare strategică în cinci pași (țintă → decizie → poziționare → strategie de comunicare → media). Urmează procesarea mesajului, tacticile creative, execuția și pretestul, promoțiile și mixul extins, apoi campania integrată. Fiecare capitol se încheie cu un studiu de caz recent (scris de Lars Pynt Andersen, Universitatea Aalborg).
-- **Teza centrală:** publicitatea funcționează la fel indiferent de canal. Ea trebuie să producă efecte de comunicare legate de brand (mereu notorietate și atitudine), alese prin planificare strategică și executate cu tactici creative potrivite tipului de notorietate (recunoaștere/reamintire) și cadranului de atitudine (implicare × motivație informațională/transformațională).
-- **Pentru cine și când:** nucleul cursului de strategie de publicitate. Se citește după un curs introductiv de marketing și înainte de atelierele de brief și de creație. Capitolele 8, 9, 13 și 14 sunt direct utile creativilor (focalizarea beneficiului, cadranele grilei, tacticile pentru cuvinte și imagini, brief-ul, ideea, consecvența).
-- **Relevanță pentru ADC:** ★★★★★. E cel mai riguros și cel mai „operațional” manual de strategie din bibliotecă: modele numite, tabele de decizie, reguli clare (ce media merg pentru ce cadran, cum ordonezi întrebările de pretest, ce prezentator alegi). Limitele: e scris în mare parte pe modelul propriu al autorilor, e polemic față de digital și de procesarea inconștientă, iar multe exemple sunt britanice sau FMCG.
+- **What it is about:** a complete and systematic textbook on the strategic management of advertising and promotion, built on the Rossiter-Percy model. It goes from what advertising and promotion are, through theoretical perspectives and culture, to a five-step strategic planning process (target → decision → positioning → communication strategy → media). Then come message processing, creative tactics, creative execution and pretesting, sales promotion and the broader communication mix, and finally the integrated campaign. Each chapter ends with a recent case study (written by Lars Pynt Andersen, Aalborg University).
+- **Central thesis:** advertising works the same way whatever the channel. It must produce brand-related communication effects (always brand awareness and brand attitude), chosen through strategic planning and executed with creative tactics suited to the type of awareness (recognition/recall) and to the brand attitude quadrant (involvement × informational/transformational motivation).
+- **For whom and when:** the core of the advertising strategy course. Read it after an introductory marketing course and before the brief and creative workshops. Chapters 8, 9, 13 and 14 are directly useful to creatives (benefit focus, the quadrants of the grid, tactics for words and pictures, the brief, the creative idea, consistency).
+- **Relevance for ADC:** ★★★★★. It is the most rigorous and most "operational" strategy textbook in the library: named models, decision tables, clear rules (which media suit which quadrant, how to order pretest questions, which presenter to choose). Its limits: it is written largely around the authors' own model, it is polemical about digital and about unconscious processing, and many examples are British or FMCG.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. (audio) | Tema | Note derivate |
+| Ch. (audio) | Topic | Derived notes |
 |---|---|---|
-| Prefață, ghid (01–03) | contextul 2020: recesiuni, digital, in-house, COVID | (fără note) |
-| 1 (04–05) | publicitate vs. promoție; rolul neschimbat; cele patru efecte; patru strategii de atitudine; logos/pathos/ethos; social media; încredere; etică și critici; caz Jaguar F-Pace (native advertising) | [[ADV-001-publicitatea-intoarce-omul-spre-brand-pe-termen-lung\|ADV-001]], [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar\|ADV-007]], [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia\|ADV-034]], [[ADV-084-pentru-percy-si-rosenbaum-elliott-jargonul-nou-platforme\|ADV-084]], [[INS-037-modelul-viscap-alege-prezentatorul-dupa-obiectivul-de\|INS-037]] |
-| 2 (06) | harta perspectivelor (audiență activă/pasivă × individ/cultură); persuasiune vizuală; polisemie; caz #Monkifesto | [[ADV-009-teoriile-despre-cum-functioneaza-publicitatea-se-ordoneaza\|ADV-009]], [[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si\|ART-029]], [[INS-018-percy-si-rosenbaum-elliott-sustin-ca-procesarea\|INS-018]] |
-| 3 (07–08) | cultură: Hofstede, context înalt/jos, valori universale; scheme învățate/culturale/biologice; perspectivă și refugiu; gradientul de adaptare; caz Carlsberg | [[ADV-049-cat-adaptezi-o-campanie-intre-culturi-depinde-de-implicarea\|ADV-049]], [[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale\|ART-028]], [[ADV-050-probably-the-best-beer-in-the-world-a-functionat-decenii-pe\|ADV-050]] |
-| 4 (09–10) | conștiință; paradigma McGuire și secvența de răspuns; ținte vs. obiective; planificarea inversă și secvențială; caz Whopper Detour | [[ADV-006-secventa-de-raspuns-la-comunicare-are-patru-pasi-cu\|ADV-006]], [[ADV-011-planificarea-parcurge-secventa-de-raspuns-in-sens-invers\|ADV-011]], [[ADV-078-tinte-cifrice-pe-reclama-pentru-expunere-si-procesare-pe\|ADV-078]], [[ADV-072-whopper-detour-a-transformat-restaurantele-mcdonald-s-in\|ADV-072]] |
-| 5 (11–12) | revizuirea planului de marketing; cei cinci pași; roluri; nevoie de categorie; promoție comerț/retail/consumator; direct marketing; caz Aperol | [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la\|ADV-010]], [[BRF-004-documentul-de-briefing-precede-strategia-produs-piata-sursa\|BRF-004]], [[INS-054-in-orice-decizie-de-cumparare-exista-cinci-roluri-iar\|INS-054]], [[ADV-031-nevoia-de-categorie-devine-obiectiv-doar-in-doua-cazuri\|ADV-031]] |
-| 6 (13–14) | obiective de acțiune; cele cinci grupuri de cumpărători; modelul de loialitate; cost; demografie vs. atitudine; personalitate; caz Swapfiets | [[ADV-015-audienta-tinta-se-alege-dintre-cinci-grupuri-de-cumparatori\|ADV-015]], [[ADV-016-loialitatea-se-citeste-din-riscul-perceput-al-schimbarii-si\|ADV-016]], [[MKT-016-demografia-defineste-piata-tinta-dar-audienta-tinta-a\|MKT-016]], [[INS-032-personalitatea-nu-alege-tinta-dar-schimba-felul-in-care-e\|INS-032]] |
-| 7 (15) | modelul secvenței comportamentale (BSM); roluri; locul și momentul deciziei (Jell-O, croazieră); caz Rains | [[INS-055-modelul-secventei-comportamentale-bsm-pune-pe-o-grila\|INS-055]], [[INS-054-in-orice-decizie-de-cumparare-exista-cinci-roluri-iar\|INS-054]] |
-| 8 (16–17) | modelul general de poziționare; definirea pieței și partiționarea; central/diferențiat; utilizator/produs; expectanță-valoare; focalizarea beneficiului; declarația de poziționare; caz Zendium | [[ADV-020-modelul-general-de-pozitionare-pune-doua-intrebari-ce-este\|ADV-020]], [[MKT-008-piata-unui-brand-o-definesc-consumatorii-prin-partitionare\|MKT-008]], [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste\|BRD-009]], [[BRD-010-pozitionarea-orientata-spre-utilizator-are-sens-doar-pentru\|BRD-010]], [[BRD-011-beneficiul-de-pozitionare-se-alege-cu-modelul-expectanta\|BRD-011]], [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la\|CPY-012]], [[BRF-010-declaratia-de-pozitionare-se-scrie-intr-o-fraza-brandul-x\|BRF-010]], [[BRD-017-zendium-se-diferentiaza-de-liderul-colgate-prin-ce-nu\|BRD-017]] |
-| 9 (18–19) | obiective de comunicare; recunoaștere/reamintire și specificitatea codării; cinci obiective de atitudine; implicare și motivație; grila Rossiter–Percy și cele patru cadrane; retail și corporate; promoții pentru încercare/recumpărare; caz Liquid Death | [[ADV-031-nevoia-de-categorie-devine-obiectiv-doar-in-doua-cazuri\|ADV-031]], [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea\|ADV-032]], [[ADV-033-obiectivul-de-atitudine-are-cinci-forme-creezi-cresti\|ADV-033]], [[INS-051-implicarea-este-riscul-perceput-de-tinta-nu-un-atribut-al\|INS-051]], [[INS-046-cumparam-din-trei-motive-negative-rezolvare-evitare\|INS-046]], [[INS-020-atitudinea-fata-de-brand-e-o-evaluare-relativa-din\|INS-020]], [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia\|ADV-034]], [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema\|ADV-035]], [[ADV-036-strategia-transformationala-cu-implicare-mica-cere\|ADV-036]], [[ADV-037-strategia-informationala-cu-implicare-mare-trebuie-sa\|ADV-037]], [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta\|ADV-038]], [[ADV-041-publicitatea-corporativa-cere-recunoasterea-numelui-si\|ADV-041]] |
-| 10 (20–21) | ecologia brandului; acoperire, frecvență, frecvență minimă efectivă; tipare de acoperire; selecția media după vizual, timp, frecvență; potrivire directă; audit media; caz Twix | [[ADV-052-media-se-aleg-dupa-trei-cerinte-de-procesare-continut\|ADV-052]], [[ADV-054-planul-media-se-judeca-dupa-acoperirea-la-frecventa-minima\|ADV-054]], [[ADV-056-tiparul-de-acoperire-se-alege-dupa-ciclul-de-cumparare-si\|ADV-056]], [[ADV-057-vehiculele-media-se-aleg-prin-potrivire-directa-cu\|ADV-057]] |
-| 11 (22–23) | media digitale: Google/Amazon/Facebook, social, mobil, video, confidențialitate, targetare, fraudă, programmatic, ad blocking, smartphone și cogniție; caz Gatorade | [[ADV-085-eficienta-publicitatii-digitale-ramane-nedovedita-iar\|ADV-085]], [[INS-016-simpla-prezenta-a-smartphone-ului-reduce-resursele-de\|INS-016]] |
-| 12 (24–25) | conștiință; atenție reflexă/selectivă; învățare; acceptare; subliminal și priming; memorie declarativă/nedeclarativă; cele șapte „păcate” ale memoriei; emoție și emoție încorporată; caz Tide #LaundryLater | [[INS-003-o-reclama-e-procesata-prin-patru-raspunsuri-atentie\|INS-003]], [[INS-010-memoria-emotionala-intra-in-memoria-de-lucru-inaintea-celei\|INS-010]], [[INS-018-percy-si-rosenbaum-elliott-sustin-ca-procesarea\|INS-018]] |
-| 13 (26–27) | unități creative și probabilități de atenție; cuvinte și imagini pentru atenție și învățare; memorie; nostalgie; muzică; tactici de notorietate și atitudine; secvențe emoționale; VisCAP; caz Cheetos | [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea\|CPY-006]], [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata\|ART-001]], [[INS-037-modelul-viscap-alege-prezentatorul-dupa-obiectivul-de\|INS-037]], [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea\|ADV-032]], [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema\|ADV-035]], [[ADV-036-strategia-transformationala-cu-implicare-mica-cere\|ADV-036]], [[ADV-037-strategia-informationala-cu-implicare-mare-trebuie-sa\|ADV-037]], [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta\|ADV-038]] |
-| 14 (28–30) | roluri creative, in-house, crowdsourcing; briefing și brief creativ; ideea creativă; vehiculul îndepărtat; consecvență; logo, slogan, tagline; durata spoturilor; pretest; marketing social; caz Old Spice | [[BRF-006-brief-ul-creativ-incape-pe-o-pagina-in-trei-blocuri-sarcina\|BRF-006]], [[IDE-004-ideea-creativa-trebuie-intai-sa-dramatizeze-beneficiul\|IDE-004]], [[BRD-048-un-look-feel-consecvent-ani-la-rand-ajunge-sa-declanseze\|BRD-048]], [[ADV-079-pretestul-se-construieste-pe-obiectivele-de-comunicare-cu\|ADV-079]], [[ADV-048-comunicarea-sociala-trebuie-sa-schimbe-atitudinea-si\|ADV-048]] |
-| 15 (31–32) | promoții de comerț, retail și consumator; PR, MPR, buzz; sponsorizare; vânzare personală, târguri; experiențial; plasare de produs; content marketing; ambalaj; channels marketing; caz JetBlue #FlyBaby | [[ADV-071-tehnica-de-promotie-se-alege-dupa-obiectivul-de-actiune\|ADV-071]] |
-| 16 (33–34) | campania integrată; ciclul de viață; condiții de piață; BSM pentru campanie; efectul de clichet; direct marketing; media primare/secundare; buget prin metoda sarcinii; tracking; uzură; caz Velux | [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu\|ADV-070]], [[ADV-082-trackingul-continuu-masoara-campania-pe-aceiasi-patru-pasi\|ADV-082]] |
+| Preface, guide (01–03) | the 2020 context: recessions, digital, in-house, COVID | (no notes) |
+| 1 (04–05) | What Are Advertising and Promotion? Advertising vs. promotion; its unchanged role; the four communication effects; four brand attitude strategies; logos/pathos/ethos; social media; trust; ethics and criticism; case: Jaguar F-Pace (native advertising) | [[ADV-001-advertising-turns-people-toward-the-brand-over-the-long\|ADV-001]], [[ADV-007-any-communication-can-produce-four-effects-but-brand\|ADV-007]], [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with\|ADV-034]], [[ADV-084-for-percy-and-rosenbaum-elliott-the-new-jargon-platforms\|ADV-084]], [[INS-037-the-viscap-model-chooses-the-presenter-by-the-communication\|INS-037]] |
+| 2 (06) | Perspectives on Advertising: the map of perspectives (active/passive audience × individual/culture); visual persuasion; polysemy; case: #Monkifesto | [[ADV-009-theories-of-how-advertising-works-fall-on-two-axes-active\|ADV-009]], [[ART-029-the-image-persuades-through-iconicity-indexicality-and-the\|ART-029]], [[INS-018-percy-and-rosenbaum-elliott-argue-that-unconscious-or\|INS-018]] |
+| 3 (07–08) | Advertising Across Cultural Borders: Hofstede, high/low context, universal values; learned, cultural and biological schemas; prospect and refuge; the gradient of adaptation; case: Carlsberg | [[ADV-049-how-much-you-adapt-a-campaign-across-cultures-depends-on\|ADV-049]], [[ART-028-when-the-target-audience-does-not-share-the-same-cultural\|ART-028]], [[ADV-050-probably-the-best-beer-in-the-world-worked-for-decades-in\|ADV-050]] |
+| 4 (09–10) | What It Takes for Successful Advertising and Promotion: consciousness; McGuire's paradigm and the communication response sequence; goals vs. objectives; reverse and sequential planning; case: Whopper Detour | [[ADV-006-the-communication-response-sequence-has-four-steps-with\|ADV-006]], [[ADV-011-planning-goes-through-the-response-sequence-in-reverse-and\|ADV-011]], [[ADV-078-numerical-goals-are-set-per-ad-for-exposure-and-processing\|ADV-078]], [[ADV-072-whopper-detour-turned-mcdonald-s-restaurants-into-ordering\|ADV-072]] |
+| 5 (11–12) | The Strategic Planning Process: reviewing the marketing plan; the five steps; roles; category need; trade, retail and consumer promotion; direct marketing; case: Aperol | [[ADV-010-strategic-communication-planning-has-five-steps-from\|ADV-010]], [[BRF-004-the-briefing-document-comes-before-the-strategy-product\|BRF-004]], [[INS-054-every-purchase-decision-involves-five-roles-and-advertising\|INS-054]], [[ADV-031-category-need-becomes-an-objective-in-only-two-cases-when\|ADV-031]] |
+| 6 (13–14) | Selecting the Target Audience: action objectives; the five buyer groups; the loyalty model; cost; demographics vs. attitude; personality; case: Swapfiets | [[ADV-015-the-target-audience-is-chosen-from-five-buyer-groups-and\|ADV-015]], [[ADV-016-loyalty-is-read-from-the-perceived-risk-in-switching-and\|ADV-016]], [[MKT-016-demographics-define-the-target-market-but-the-target\|MKT-016]], [[INS-032-personality-does-not-choose-the-target-audience-but-it\|INS-032]] |
+| 7 (15) | Understanding Target Audience Decision Making: the behavioral sequence model (BSM); roles; where and when the decision is made (Jell-O, cruise); case: Rains | [[INS-055-the-behavioral-sequence-model-bsm-puts-the-decision-stages\|INS-055]], [[INS-054-every-purchase-decision-involves-five-roles-and-advertising\|INS-054]] |
+| 8 (16–17) | Determining the Best Positioning: the general model of positioning; defining and partitioning the market; central/differentiated; user/product; expectancy-value; benefit focus; the positioning statement; case: Zendium | [[ADV-020-the-general-model-of-positioning-asks-two-questions-what-is\|ADV-020]], [[MKT-008-consumers-define-a-brand-s-market-through-hierarchical\|MKT-008]], [[BRD-009-central-positioning-is-reserved-for-the-leader-that-defines\|BRD-009]], [[BRD-010-user-oriented-positioning-makes-sense-only-for-a-niche-or\|BRD-010]], [[BRD-011-the-positioning-benefit-is-chosen-with-the-expectancy-value\|BRD-011]], [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit\|CPY-012]], [[BRF-010-the-positioning-statement-is-written-in-one-sentence-brand\|BRF-010]], [[BRD-017-zendium-differentiates-itself-from-the-leader-colgate-by\|BRD-017]] |
+| 9 (18–19) | Developing a Communication Strategy: communication objectives; recognition/recall and encoding specificity; five brand attitude objectives; involvement and motivation; the Rossiter-Percy grid and its four quadrants; retail and corporate; promotions for trial/repurchase; case: Liquid Death | [[ADV-031-category-need-becomes-an-objective-in-only-two-cases-when\|ADV-031]], [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and\|ADV-032]], [[ADV-033-the-brand-attitude-objective-takes-five-forms-create\|ADV-033]], [[INS-051-involvement-is-the-target-audience-s-perceived-risk-not-an\|INS-051]], [[INS-046-we-buy-for-three-negative-motives-problem-solution-problem\|INS-046]], [[INS-020-brand-attitude-is-a-relative-evaluation-made-of-beliefs-and\|INS-020]], [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with\|ADV-034]], [[ADV-035-the-low-involvement-informational-strategy-calls-for\|ADV-035]], [[ADV-036-the-low-involvement-transformational-strategy-calls-for\|ADV-036]], [[ADV-037-the-high-involvement-informational-strategy-must-convince\|ADV-037]], [[ADV-038-the-high-involvement-transformational-strategy-requires-the\|ADV-038]], [[ADV-041-corporate-advertising-calls-for-name-recognition-and-almost\|ADV-041]] |
+| 10 (20–21) | Setting a Media Strategy: brand ecology; reach, frequency, minimum effective frequency; reach patterns; media selection by visual content, processing time, frequency; direct matching; media auditing; case: Twix | [[ADV-052-media-are-chosen-by-three-processing-requirements-visual\|ADV-052]], [[ADV-054-a-media-plan-is-judged-by-reach-at-the-minimum-effective\|ADV-054]], [[ADV-056-the-reach-pattern-is-chosen-by-purchase-cycle-and-decision\|ADV-056]], [[ADV-057-media-vehicles-are-selected-by-direct-matching-with-the\|ADV-057]] |
+| 11 (22–23) | Digital Media: Google/Amazon/Facebook, social, mobile, video, privacy, targeting, fraud, programmatic, ad blocking, the smartphone and cognition; case: Gatorade | [[ADV-085-the-effectiveness-of-digital-advertising-remains-unproven\|ADV-085]], [[INS-016-the-mere-presence-of-a-smartphone-reduces-attentional\|INS-016]] |
+| 12 (24–25) | Processing the Message: consciousness; reflexive/selective attention; learning; acceptance; subliminal and priming; declarative/non-declarative memory; the seven "sins" of memory; emotion and embodied emotion; case: Tide #LaundryLater | [[INS-003-an-ad-is-processed-through-four-responses-attention\|INS-003]], [[INS-010-emotional-memory-enters-working-memory-before-declarative\|INS-010]], [[INS-018-percy-and-rosenbaum-elliott-argue-that-unconscious-or\|INS-018]] |
+| 13 (26–27) | Creative Tactics: creative units and attention probabilities; words and pictures for attention and learning; memory; nostalgia; music; brand awareness and brand attitude tactics; emotional sequences; VisCAP; case: Cheetos | [[CPY-006-unexpected-words-draw-attention-in-the-headline-but\|CPY-006]], [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in\|ART-001]], [[INS-037-the-viscap-model-chooses-the-presenter-by-the-communication\|INS-037]], [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and\|ADV-032]], [[ADV-035-the-low-involvement-informational-strategy-calls-for\|ADV-035]], [[ADV-036-the-low-involvement-transformational-strategy-calls-for\|ADV-036]], [[ADV-037-the-high-involvement-informational-strategy-must-convince\|ADV-037]], [[ADV-038-the-high-involvement-transformational-strategy-requires-the\|ADV-038]] |
+| 14 (28–30) | Creative Execution: creative roles, in-house, crowdsourcing; briefing and the creative brief; the creative idea; the remote conveyor; consistency; logo, slogan, tagline; commercial length; pretesting; social marketing; case: Old Spice | [[BRF-006-the-creative-brief-fits-on-one-page-in-three-blocks-task\|BRF-006]], [[IDE-004-the-creative-idea-must-first-dramatize-the-key-benefit\|IDE-004]], [[BRD-048-a-look-and-feel-kept-consistent-for-years-ends-up\|BRD-048]], [[ADV-079-the-pretest-is-built-on-the-communication-objectives-with\|ADV-079]], [[ADV-048-social-marketing-communication-must-change-attitude-and\|ADV-048]] |
+| 15 (31–32) | Sales Promotion and Broader Communication Mix: trade, retail and consumer promotions; PR, MPR, buzz; sponsorship; personal selling, trade shows; experiential; product placement; content marketing; packaging; channels marketing; case: JetBlue #FlyBaby | [[ADV-071-the-promotion-technique-is-chosen-by-the-action-objective\|ADV-071]] |
+| 16 (33–34) | Campaign Strategy: the integrated campaign; the life cycle; market conditions; the BSM for the campaign; the ratchet effect; direct marketing; primary/secondary media; budget by the task method; tracking; wearout; case: Velux | [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with\|ADV-070]], [[ADV-082-continuous-tracking-measures-the-campaign-on-the-same-four\|ADV-082]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-**Fundamente și proces**
-- [[ADV-001-publicitatea-intoarce-omul-spre-brand-pe-termen-lung|ADV-001]] — publicitatea „întoarce spre”, promoția „mișcă înainte”, iar promoția nu cere stimulent.
-- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — cele patru efecte de comunicare. Notorietatea și atitudinea sunt mereu obiective. *Purchase facilitation* apare doar în bibliografie.
-- [[ADV-006-secventa-de-raspuns-la-comunicare-are-patru-pasi-cu|ADV-006]] — secvența de răspuns și probabilitățile compuse (McGuire).
-- [[ADV-011-planificarea-parcurge-secventa-de-raspuns-in-sens-invers|ADV-011]] — planificarea inversă și avantajul planificării secvențiale.
-- [[ADV-078-tinte-cifrice-pe-reclama-pentru-expunere-si-procesare-pe|ADV-078]] — ținte pe reclamă vs. pe campanie.
-- [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la|ADV-010]] — procesul de planificare strategică în cinci pași.
-- [[BRF-004-documentul-de-briefing-precede-strategia-produs-piata-sursa|BRF-004]] — documentul de briefing: cinci întrebări de marketing.
+**Foundations and process**
+- [[ADV-001-advertising-turns-people-toward-the-brand-over-the-long|ADV-001]]: advertising "turns towards", promotion "moves forward", and promotion does not require an incentive.
+- [[ADV-007-any-communication-can-produce-four-effects-but-brand|ADV-007]]: the four communication effects. Brand awareness and brand attitude are always objectives. *Purchase facilitation* appears only in the bibliography.
+- [[ADV-006-the-communication-response-sequence-has-four-steps-with|ADV-006]]: the communication response sequence and compound probabilities (McGuire).
+- [[ADV-011-planning-goes-through-the-response-sequence-in-reverse-and|ADV-011]]: reverse planning and the advantage of sequential planning.
+- [[ADV-078-numerical-goals-are-set-per-ad-for-exposure-and-processing|ADV-078]]: goals for the advert vs. for the campaign.
+- [[ADV-010-strategic-communication-planning-has-five-steps-from|ADV-010]]: the five-step strategic planning process.
+- [[BRF-004-the-briefing-document-comes-before-the-strategy-product|BRF-004]]: the briefing document: five marketing questions.
 
-**Ținta și decizia**
-- [[ADV-015-audienta-tinta-se-alege-dintre-cinci-grupuri-de-cumparatori|ADV-015]] — cinci grupuri de cumpărători; încercare vs. recumpărare; costul.
-- [[ADV-016-loialitatea-se-citeste-din-riscul-perceput-al-schimbarii-si|ADV-016]] — modelul de loialitate risc × satisfacție (loial, vulnerabil, frustrat, comutabil).
-- [[MKT-016-demografia-defineste-piata-tinta-dar-audienta-tinta-a|MKT-016]] — demografia definește piața, atitudinea definește audiența.
-- [[INS-032-personalitatea-nu-alege-tinta-dar-schimba-felul-in-care-e|INS-032]] — personalitatea modifică procesarea.
-- [[INS-054-in-orice-decizie-de-cumparare-exista-cinci-roluri-iar|INS-054]] — cinci roluri; reclama vorbește unui individ într-un rol.
-- [[INS-055-modelul-secventei-comportamentale-bsm-pune-pe-o-grila|INS-055]] — modelul secvenței comportamentale (BSM).
+**The target and the decision**
+- [[ADV-015-the-target-audience-is-chosen-from-five-buyer-groups-and|ADV-015]]: five buyer groups; trial vs. repurchase; cost.
+- [[ADV-016-loyalty-is-read-from-the-perceived-risk-in-switching-and|ADV-016]]: the loyalty model of risk × satisfaction (loyal, vulnerable, frustrated, switchable).
+- [[MKT-016-demographics-define-the-target-market-but-the-target|MKT-016]]: demographics define the market, attitude defines the audience.
+- [[INS-032-personality-does-not-choose-the-target-audience-but-it|INS-032]]: personality changes processing.
+- [[INS-054-every-purchase-decision-involves-five-roles-and-advertising|INS-054]]: five roles; the advert speaks to an individual in a role.
+- [[INS-055-the-behavioral-sequence-model-bsm-puts-the-decision-stages|INS-055]]: the behavioral sequence model (BSM).
 
-**Poziționarea**
-- [[ADV-020-modelul-general-de-pozitionare-pune-doua-intrebari-ce-este|ADV-020]] — „ce este?” / „ce oferă?”.
-- [[MKT-008-piata-unui-brand-o-definesc-consumatorii-prin-partitionare|MKT-008]] — partiționarea ierarhică a pieței.
-- [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste|BRD-009]] — central vs. diferențiat.
-- [[BRD-010-pozitionarea-orientata-spre-utilizator-are-sens-doar-pentru|BRD-010]] — orientare spre utilizator doar pentru nișă sau aprobare socială.
-- [[BRD-011-beneficiul-de-pozitionare-se-alege-cu-modelul-expectanta|BRD-011]] — beneficiul ales cu modelul expectanță-valoare.
-- [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la|CPY-012]] — focalizarea beneficiului (A, C, A→C, E⁻→C, C→E⁺, E⁺).
-- [[BRF-010-declaratia-de-pozitionare-se-scrie-intr-o-fraza-brandul-x|BRF-010]] — declarația de poziționare.
-- [[BRD-017-zendium-se-diferentiaza-de-liderul-colgate-prin-ce-nu|BRD-017]] — cazul Zendium vs. Colgate.
+**Positioning**
+- [[ADV-020-the-general-model-of-positioning-asks-two-questions-what-is|ADV-020]]: "what is it?" / "what does it offer?".
+- [[MKT-008-consumers-define-a-brand-s-market-through-hierarchical|MKT-008]]: hierarchical partitioning of the market.
+- [[BRD-009-central-positioning-is-reserved-for-the-leader-that-defines|BRD-009]]: central vs. differentiated.
+- [[BRD-010-user-oriented-positioning-makes-sense-only-for-a-niche-or|BRD-010]]: user orientation only for a niche or for social approval.
+- [[BRD-011-the-positioning-benefit-is-chosen-with-the-expectancy-value|BRD-011]]: the benefit chosen with the expectancy-value model.
+- [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit|CPY-012]]: benefit focus (A, C, A→C, E⁻→C, C→E⁺, E⁺).
+- [[BRF-010-the-positioning-statement-is-written-in-one-sentence-brand|BRF-010]]: the positioning statement.
+- [[BRD-017-zendium-differentiates-itself-from-the-leader-colgate-by|BRD-017]]: the Zendium vs. Colgate case.
 
-**Strategia de comunicare și grila Rossiter–Percy**
-- [[ADV-031-nevoia-de-categorie-devine-obiectiv-doar-in-doua-cazuri|ADV-031]] — nevoia de categorie: o amintești sau o vinzi.
-- [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea|ADV-032]] — recunoaștere vs. reamintire și specificitatea codării.
-- [[ADV-033-obiectivul-de-atitudine-are-cinci-forme-creezi-cresti|ADV-033]] — cinci obiective de atitudine.
-- [[INS-051-implicarea-este-riscul-perceput-de-tinta-nu-un-atribut-al|INS-051]] — implicarea ca risc perceput.
-- [[INS-046-cumparam-din-trei-motive-negative-rezolvare-evitare|INS-046]] — trei motive negative, două pozitive.
-- [[INS-020-atitudinea-fata-de-brand-e-o-evaluare-relativa-din|INS-020]] — atitudinea, relativă și dependentă de motivația de acum.
-- [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia|ADV-034]] — grila Rossiter–Percy.
-- [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema|ADV-035]], [[ADV-036-strategia-transformationala-cu-implicare-mica-cere|ADV-036]], [[ADV-037-strategia-informationala-cu-implicare-mare-trebuie-sa|ADV-037]], [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta|ADV-038]] — cele patru cadrane, cu principii, tactici creative, sursă și media.
-- [[ADV-041-publicitatea-corporativa-cere-recunoasterea-numelui-si|ADV-041]] — publicitatea corporativă e aproape mereu transformațională.
+**Communication strategy and the Rossiter-Percy grid**
+- [[ADV-031-category-need-becomes-an-objective-in-only-two-cases-when|ADV-031]]: category need: you remind people of it or you sell it.
+- [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and|ADV-032]]: recognition vs. recall and encoding specificity.
+- [[ADV-033-the-brand-attitude-objective-takes-five-forms-create|ADV-033]]: five brand attitude objectives.
+- [[INS-051-involvement-is-the-target-audience-s-perceived-risk-not-an|INS-051]]: involvement as perceived risk.
+- [[INS-046-we-buy-for-three-negative-motives-problem-solution-problem|INS-046]]: three negative motives, two positive ones.
+- [[INS-020-brand-attitude-is-a-relative-evaluation-made-of-beliefs-and|INS-020]]: attitude, relative and dependent on the current motivation.
+- [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with|ADV-034]]: the Rossiter-Percy grid.
+- [[ADV-035-the-low-involvement-informational-strategy-calls-for|ADV-035]], [[ADV-036-the-low-involvement-transformational-strategy-calls-for|ADV-036]], [[ADV-037-the-high-involvement-informational-strategy-must-convince|ADV-037]], [[ADV-038-the-high-involvement-transformational-strategy-requires-the|ADV-038]]: the four quadrants, with principles, creative tactics, source and media.
+- [[ADV-041-corporate-advertising-calls-for-name-recognition-and-almost|ADV-041]]: corporate advertising is almost always transformational.
 
-**Media și digital**
-- [[ADV-052-media-se-aleg-dupa-trei-cerinte-de-procesare-continut|ADV-052]] — media după vizual, timp de procesare, frecvență.
-- [[ADV-054-planul-media-se-judeca-dupa-acoperirea-la-frecventa-minima|ADV-054]] — frecvența minimă efectivă; „greșește spre frecvență”.
-- [[ADV-056-tiparul-de-acoperire-se-alege-dupa-ciclul-de-cumparare-si|ADV-056]] — tiparele de acoperire.
-- [[ADV-057-vehiculele-media-se-aleg-prin-potrivire-directa-cu|ADV-057]] — potrivire directă, nu demografică.
-- [[ADV-085-eficienta-publicitatii-digitale-ramane-nedovedita-iar|ADV-085]] — dezbaterea despre eficiența digitalului.
-- [[INS-016-simpla-prezenta-a-smartphone-ului-reduce-resursele-de|INS-016]] — smartphone-ul reduce procesarea.
+**Media and digital**
+- [[ADV-052-media-are-chosen-by-three-processing-requirements-visual|ADV-052]]: media by visual content, processing time, frequency.
+- [[ADV-054-a-media-plan-is-judged-by-reach-at-the-minimum-effective|ADV-054]]: minimum effective frequency; "err on the side of frequency".
+- [[ADV-056-the-reach-pattern-is-chosen-by-purchase-cycle-and-decision|ADV-056]]: reach patterns.
+- [[ADV-057-media-vehicles-are-selected-by-direct-matching-with-the|ADV-057]]: direct matching, not demographic matching.
+- [[ADV-085-the-effectiveness-of-digital-advertising-remains-unproven|ADV-085]]: the debate about the effectiveness of digital.
+- [[INS-016-the-mere-presence-of-a-smartphone-reduces-attentional|INS-016]]: the smartphone reduces processing.
 
-**Procesare și creație**
-- [[INS-003-o-reclama-e-procesata-prin-patru-raspunsuri-atentie|INS-003]] — patru răspunsuri de procesare; atenția reflexă.
-- [[INS-010-memoria-emotionala-intra-in-memoria-de-lucru-inaintea-celei|INS-010]] — emoția intră prima în memoria de lucru; emoția încorporată.
-- [[INS-018-percy-si-rosenbaum-elliott-sustin-ca-procesarea|INS-018]] — dezbaterea despre procesarea subliminală sau inconștientă.
-- [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea|CPY-006]] — cuvinte pentru atenție vs. pentru învățare.
-- [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]] — imagini: mărime, culoare, concretețe, ordinea imagine → text.
-- [[INS-037-modelul-viscap-alege-prezentatorul-dupa-obiectivul-de|INS-037]] — modelul VisCAP.
-- [[BRF-006-brief-ul-creativ-incape-pe-o-pagina-in-trei-blocuri-sarcina|BRF-006]] — brief-ul creativ pe o pagină.
-- [[IDE-004-ideea-creativa-trebuie-intai-sa-dramatizeze-beneficiul|IDE-004]] — cerințele ideii creative și vehiculul îndepărtat.
-- [[BRD-048-un-look-feel-consecvent-ani-la-rand-ajunge-sa-declanseze|BRD-048]] — consecvența look & feel; slogan vs. tagline; crowdsourcing.
-- [[ADV-079-pretestul-se-construieste-pe-obiectivele-de-comunicare-cu|ADV-079]] — pretestul: ordinea măsurilor; fără focus grupuri și fără *day-after recall*.
+**Processing and creative**
+- [[INS-003-an-ad-is-processed-through-four-responses-attention|INS-003]]: four processing responses; reflexive attention.
+- [[INS-010-emotional-memory-enters-working-memory-before-declarative|INS-010]]: emotion enters working memory first; embodied emotion.
+- [[INS-018-percy-and-rosenbaum-elliott-argue-that-unconscious-or|INS-018]]: the debate about subliminal or unconscious processing.
+- [[CPY-006-unexpected-words-draw-attention-in-the-headline-but|CPY-006]]: words for attention vs. for learning.
+- [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]]: pictures: size, color, concreteness, the picture → text order.
+- [[INS-037-the-viscap-model-chooses-the-presenter-by-the-communication|INS-037]]: the VisCAP model.
+- [[BRF-006-the-creative-brief-fits-on-one-page-in-three-blocks-task|BRF-006]]: the creative brief on one page.
+- [[IDE-004-the-creative-idea-must-first-dramatize-the-key-benefit|IDE-004]]: the requirements of the creative idea and the remote conveyor.
+- [[BRD-048-a-look-and-feel-kept-consistent-for-years-ends-up|BRD-048]]: a consistent look and feel; slogan vs. tagline; crowdsourcing.
+- [[ADV-079-the-pretest-is-built-on-the-communication-objectives-with|ADV-079]]: the pretest: the order of the measures; no focus groups and no *day-after recall*.
 
-**Context, cultură, campanie**
-- [[ADV-009-teoriile-despre-cum-functioneaza-publicitatea-se-ordoneaza|ADV-009]] — harta perspectivelor teoretice.
-- [[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si|ART-029]] — persuasiunea vizuală (Messaris).
-- [[ADV-049-cat-adaptezi-o-campanie-intre-culturi-depinde-de-implicarea|ADV-049]] — gradientul de adaptare culturală.
-- [[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale|ART-028]] — scheme biologice; perspectivă și refugiu.
-- [[ADV-084-pentru-percy-si-rosenbaum-elliott-jargonul-nou-platforme|ADV-084]] — dezbaterea cu jargonul nou și cu „brand ideals”.
-- [[ADV-071-tehnica-de-promotie-se-alege-dupa-obiectivul-de-actiune|ADV-071]] — tehnicile de promoție după încercare sau recumpărare.
-- [[ADV-048-comunicarea-sociala-trebuie-sa-schimbe-atitudinea-si|ADV-048]] — comunicarea socială: normă socială, etape, frică moderată.
-- [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu|ADV-070]] — efectul de clichet; ponderea publicitate/promoție.
-- [[ADV-082-trackingul-continuu-masoara-campania-pe-aceiasi-patru-pasi|ADV-082]] — bugetul prin metoda sarcinii; tracking continuu; uzura.
-- Cazuri: [[ADV-072-whopper-detour-a-transformat-restaurantele-mcdonald-s-in|ADV-072]] (Whopper Detour), [[ADV-050-probably-the-best-beer-in-the-world-a-functionat-decenii-pe|ADV-050]] (Carlsberg), [[BRD-017-zendium-se-diferentiaza-de-liderul-colgate-prin-ce-nu|BRD-017]] (Zendium).
+**Context, culture, campaign**
+- [[ADV-009-theories-of-how-advertising-works-fall-on-two-axes-active|ADV-009]]: the map of theoretical perspectives.
+- [[ART-029-the-image-persuades-through-iconicity-indexicality-and-the|ART-029]]: visual persuasion (Messaris).
+- [[ADV-049-how-much-you-adapt-a-campaign-across-cultures-depends-on|ADV-049]]: the gradient of cultural adaptation.
+- [[ART-028-when-the-target-audience-does-not-share-the-same-cultural|ART-028]]: biological schemas; prospect and refuge.
+- [[ADV-084-for-percy-and-rosenbaum-elliott-the-new-jargon-platforms|ADV-084]]: the debate with the new jargon and with "brand ideals".
+- [[ADV-071-the-promotion-technique-is-chosen-by-the-action-objective|ADV-071]]: promotion techniques by trial or repurchase.
+- [[ADV-048-social-marketing-communication-must-change-attitude-and|ADV-048]]: social marketing communication: the social norm, stages, moderate fear.
+- [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with|ADV-070]]: the ratchet effect; the advertising/promotion balance.
+- [[ADV-082-continuous-tracking-measures-the-campaign-on-the-same-four|ADV-082]]: the budget by the task method; continuous tracking; wearout.
+- Cases: [[ADV-072-whopper-detour-turned-mcdonald-s-restaurants-into-ordering|ADV-072]] (Whopper Detour), [[ADV-050-probably-the-best-beer-in-the-world-worked-for-decades-in|ADV-050]] (Carlsberg), [[BRD-017-zendium-differentiates-itself-from-the-leader-colgate-by|BRD-017]] (Zendium).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Sursa e o transcriere audio.** Figurile și reclamele nu se văd, iar unele pasaje sunt deformate (vezi mai sus). Cifrele din tabele au fost verificate pe cât posibil în narațiune. La citare exactă, verificați în ediția tipărită.
-- **Modelul autorilor domină.** Aproape tot cadrul (efecte de comunicare, grilă, BSM, VisCAP, tipare de acoperire) vine din lucrările lui Rossiter și Percy. Cartea îl prezintă ca singurul util pentru management. Alternative precum școala Ehrenberg-Bass (Byron Sharp: disponibilitate mentală, penetrare vs. loialitate) apar doar ca trimiteri bibliografice, deși contrazic direct accentul pe loialitate din cap. 6.
-- **Poziții polemice discutabile.** Respingerea fermă a oricărei influențe a procesării inconștiente (cap. 12), scepticismul radical față de eficiența digitalului (cap. 11, cu date până în 2019–2020) și critica „brand ideals” ca jargon (cap. 8) sunt opinii argumentate, dar contestate de alți autori. Trebuie citite ca dezbatere.
-- **Cifre vechi sau nesursate în audio.** Probabilitățile de atenție pentru unitățile creative (cap. 13) provin din cercetări mai vechi și nu reflectă formatele verticale de pe mobil. Unele recomandări (fața emoțională în stânga paginii, pragul de 20 de tăieturi pe 30 de secunde) sunt prezentate fără detalii despre studiile de bază.
-- **Ediția a 6-a vorbește de patru efecte de comunicare**, nu de cinci. Facilitarea cumpărării (*purchase facilitation*) din lucrările mai vechi ale lui Rossiter–Percy apare doar ca lectură suplimentară (Triandis, cap. 9).
-- **Studiile de caz** (Jaguar, Monki, Carlsberg, Whopper Detour, Aperol, Swapfiets, Rains, Zendium, Liquid Death, Twix, Gatorade, Tide, Cheetos, Old Spice, JetBlue, Velux) sunt scurte și descriptive, fără date de eficiență riguroase. Sunt bune pentru seminar, mai puțin ca dovezi.
-- **Capitolul de etică** (cap. 1) e mai degrabă o trecere în revistă filozofică decât un ghid practic. Pozițiile concrete (adevăr cu *puffery*, omisiunea conștientă e greșită, exagerarea în marketingul social e minciună) sunt puține, dar nete.
-- **Exemplele sunt preponderent britanice, nordice și FMCG.** Puține exemple din Europa de Est. Contextul românesc trebuie adăugat la seminar.
-- **Capitolul 15 e o trecere în revistă.** PR, sponsorizare, plasare de produs, content marketing și ambalaj sunt tratate pe scurt și sunt acoperite mai bine de alte surse din bibliotecă. Din el s-a extras o singură notă (promoțiile). Ambalajul ca „publicitate după cumpărare” (Tropicana, 2009: redesign, −20% în sub două luni) merită o notă viitoare.
+- **The source is an audio transcript.** The figures and adverts cannot be seen, and some passages are garbled (see above). The figures in the tables were checked against the narration as far as possible. For exact citation, check the printed edition.
+- **The authors' model dominates.** Almost the whole framework (communication effects, the grid, the BSM, VisCAP, reach patterns) comes from the work of Rossiter and Percy. The book presents it as the only one useful for management. Alternatives such as the Ehrenberg-Bass school (Byron Sharp: mental availability, penetration vs. loyalty) appear only as bibliographic references, although they directly contradict the emphasis on loyalty in ch. 6.
+- **Debatable polemical positions.** The firm rejection of any influence of unconscious processing (ch. 12), the radical skepticism about the effectiveness of digital (ch. 11, with data up to 2019–2020) and the critique of "brand ideals" as jargon (ch. 8) are argued opinions, but other authors contest them. Read them as a debate.
+- **Old or unsourced figures in the audio.** The attention probabilities for creative units (ch. 13) come from older research and do not reflect vertical mobile formats. Some recommendations (the emotional face on the left side of the page, the threshold of 20 cuts per 30 seconds) are presented without details of the underlying studies.
+- **The 6th edition speaks of four communication effects**, not five. Purchase facilitation from Rossiter and Percy's older work appears only as further reading (Triandis, ch. 9).
+- **The case studies** (Jaguar, Monki, Carlsberg, Whopper Detour, Aperol, Swapfiets, Rains, Zendium, Liquid Death, Twix, Gatorade, Tide, Cheetos, Old Spice, JetBlue, Velux) are short and descriptive, without rigorous effectiveness data. They are good for seminars, less so as evidence.
+- **The ethics chapter** (ch. 1) is more a philosophical survey than a practical guide. The concrete positions (truth allows *puffery*, deliberate omission is wrong, exaggeration in social marketing is a lie) are few but clear.
+- **The examples are mostly British, Nordic and FMCG.** Few examples from Eastern Europe. The Romanian context has to be added in the seminar.
+- **Chapter 15 is a survey.** PR, sponsorship, product placement, content marketing and packaging are treated briefly and are better covered by other sources in the library. Only one note was drawn from it (promotions). Packaging as "advertising after purchase" (Tropicana, 2009: redesign, −20% in under two months) deserves a future note.
 
-## Citat
+## Quote
 
-> „It is better to err on the side of frequency.” (cap. 10, audio 20)
+> "it is better to err on the side of frequency." (ch. 10, audio 20)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-001-publicitatea-intoarce-omul-spre-brand-pe-termen-lung|ADV-001]] — Publicitatea „întoarce" omul spre brand pe termen lung, promoția „mișcă înainte" vânzarea acum, și nu are nevoie de un stimulent
-- [[ADV-006-secventa-de-raspuns-la-comunicare-are-patru-pasi-cu|ADV-006]] — Secvența de răspuns la comunicare are patru pași cu probabilități compuse, deci un mesaj eșuează dacă un singur pas eșuează
-- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-- [[ADV-009-teoriile-despre-cum-functioneaza-publicitatea-se-ordoneaza|ADV-009]] — Teoriile despre cum funcționează publicitatea se ordonează pe două axe, audiență activă sau pasivă și explicație individuală sau culturală
-- [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la|ADV-010]] — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte
-- [[ADV-011-planificarea-parcurge-secventa-de-raspuns-in-sens-invers|ADV-011]] — Planificarea parcurge secvența de răspuns în sens invers, iar o greșeală la un pas nu anulează pașii de dinainte
-- [[ADV-015-audienta-tinta-se-alege-dintre-cinci-grupuri-de-cumparatori|ADV-015]] — Audiența țintă se alege dintre cinci grupuri de cumpărători, iar fiecare grup cere încercare sau recumpărare, la costuri diferite
-- [[ADV-016-loialitatea-se-citeste-din-riscul-perceput-al-schimbarii-si|ADV-016]] — Loialitatea se citește din riscul perceput al schimbării și din satisfacție, nu doar din comportamentul de cumpărare
-- [[ADV-020-modelul-general-de-pozitionare-pune-doua-intrebari-ce-este|ADV-020]] — Modelul general de poziționare pune două întrebări, „ce este?" pentru notorietate și „ce oferă?" pentru atitudine
-- [[ADV-031-nevoia-de-categorie-devine-obiectiv-doar-in-doua-cazuri|ADV-031]] — Nevoia de categorie devine obiectiv doar în două cazuri, când trebuie amintită sau când trebuie vândută, iar vânzarea ei cere o campanie întreagă
-- [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea|ADV-032]] — Notorietatea prin recunoaștere (brand → nevoie, la raft) și cea prin reamintire (nevoie → brand, înainte de cumpărare) cer tactici creative și media opuse
-- [[ADV-033-obiectivul-de-atitudine-are-cinci-forme-creezi-cresti|ADV-033]] — Obiectivul de atitudine are cinci forme (creezi, crești, menții, modifici, schimbi) și se alege doar după ce știi ce crede deja ținta
-- [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia|ADV-034]] — Grila Rossiter-Percy combină implicarea (risc) cu motivația (negativă sau pozitivă) în patru strategii de atitudine, fiecare cu tactici creative proprii
-- [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema|ADV-035]] — Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-- [[ADV-036-strategia-transformationala-cu-implicare-mica-cere|ADV-036]] — Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- [[ADV-037-strategia-informationala-cu-implicare-mare-trebuie-sa|ADV-037]] — Strategia informațională cu implicare mare trebuie să convingă, cu afirmații ținute în latitudinea de acceptare a țintei sau cu o abordare refutațională
-- [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta|ADV-038]] — Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-- [[ADV-039-grila-fcb-vaughn-ordoneaza-gandeste-simte-actioneaza-dupa|ADV-039]] — Grila FCB (Vaughn) ordonează „gândește–simte–acționează" după implicare și tipul de decizie, dar leagă implicarea de categoria de produs
-- [[ADV-041-publicitatea-corporativa-cere-recunoasterea-numelui-si|ADV-041]] — Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-- [[ADV-048-comunicarea-sociala-trebuie-sa-schimbe-atitudinea-si|ADV-048]] — Comunicarea socială trebuie să schimbe atitudinea și comportamentul, așa că adaugă norma socială (Fishbein-Ajzen), etapele schimbării și o frică moderată, rezolvată
-- [[ADV-049-cat-adaptezi-o-campanie-intre-culturi-depinde-de-implicarea|ADV-049]] — Cât adaptezi o campanie între culturi depinde de implicarea și emoția categoriei și de distanța culturală, pe un gradient de la global la local
-- [[ADV-050-probably-the-best-beer-in-the-world-a-functionat-decenii-pe|ADV-050]] — „Probably the best beer in the world" a funcționat decenii pe unele piețe, dar ironia modestă din „probably" nu s-a tradus în Rusia și Asia
-- [[ADV-052-media-se-aleg-dupa-trei-cerinte-de-procesare-continut|ADV-052]] — Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- [[ADV-054-planul-media-se-judeca-dupa-acoperirea-la-frecventa-minima|ADV-054]] — Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
-- [[ADV-056-tiparul-de-acoperire-se-alege-dupa-ciclul-de-cumparare-si|ADV-056]] — Tiparul de acoperire se alege după ciclul de cumpărare și timpul de decizie, iar un produs nou aproape nu poate fi suprapromovat
-- [[ADV-057-vehiculele-media-se-aleg-prin-potrivire-directa-cu|ADV-057]] — Vehiculele media se aleg prin potrivire directă cu comportamentul de brand al audienței, nu prin potrivire demografică
-- [[ADV-063-ambalajul-este-un-mediu-de-comunicare-la-raft-declanseaza|ADV-063]] — Ambalajul este un mediu de comunicare — la raft declanșează notorietatea prin recunoaștere și trebuie să poarte beneficiul din publicitate
-- [[ADV-064-relatiile-publice-castiga-credibilitate-tocmai-pentru-ca|ADV-064]] — Relațiile publice câștigă credibilitate tocmai pentru că spațiul nu e cumpărat, dar pierd controlul mesajului și legătura cu brandul
-- [[ADV-065-sponsorizarea-congruenta-e-tinuta-minte-mai-bine-dar-poate|ADV-065]] — Sponsorizarea congruentă e ținută minte mai bine, dar poate fi atribuită greșit liderului categoriei, iar efectul asupra vânzărilor rămâne slab dovedit
-- [[ADV-066-plasarea-de-produs-si-publicitatea-nativa-ocolesc|ADV-066]] — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar efectul lor e disputat și se întoarce împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
-- [[ADV-069-comunicarea-integrata-de-marketing-imc-trateaza-toate|ADV-069]] — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
-- [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu|ADV-070]] — Promoția singură doar mută vânzările în timp; împreună cu publicitatea produce un „efect de clichet", iar ponderea lor se alege după ciclul de viață, diferențiere și loialitate
-- [[ADV-071-tehnica-de-promotie-se-alege-dupa-obiectivul-de-actiune|ADV-071]] — Tehnica de promoție se alege după obiectivul de acțiune (încercare sau recumpărare), dar trebuie să construiască și brandul, purtând același beneficiu și look
-- [[ADV-072-whopper-detour-a-transformat-restaurantele-mcdonald-s-in|ADV-072]] — Whopper Detour a transformat restaurantele McDonald's în puncte de comandă pentru Burger King, ca să obțină descărcarea aplicației
-- [[ADV-076-bugetul-de-comunicare-se-construieste-din-obiective-si|ADV-076]] — Bugetul de comunicare se construiește din obiective și sarcini — de la ținta de vânzări înapoi la expuneri și cost —, iar metodele euristice dau doar plafonul
-- [[ADV-078-tinte-cifrice-pe-reclama-pentru-expunere-si-procesare-pe|ADV-078]] — Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
-- [[ADV-079-pretestul-se-construieste-pe-obiectivele-de-comunicare-cu|ADV-079]] — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
-- [[ADV-082-trackingul-continuu-masoara-campania-pe-aceiasi-patru-pasi|ADV-082]] — Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-- [[ADV-084-pentru-percy-si-rosenbaum-elliott-jargonul-nou-platforme|ADV-084]] — Pentru Percy și Rosenbaum-Elliott, jargonul nou („platforme", „metrici", „brand ideals") nu schimbă felul în care funcționează publicitatea
-- [[ADV-085-eficienta-publicitatii-digitale-ramane-nedovedita-iar|ADV-085]] — Eficiența publicității digitale rămâne nedovedită, iar cartea vede rețelele sociale ca un mediu „negociat", afectat de fraudă și de vizibilitate slabă
-- [[ADV-086-continut-in-locul-reclamei-teza-ca-reclamele-nu-construiesc|ADV-086]] — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
-- [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]] — Imaginea atrage și reține atenția dacă e mare, colorată, concretă, arată produsul folosit și e văzută înaintea textului
-- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța
-- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
-- [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare|ART-023]] — Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul
-- [[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale|ART-028]] — Când ținta nu împărtășește aceleași scheme culturale, imaginea trebuie să atingă scheme biologice universale, ca perspectiva și refugiul
-- [[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si|ART-029]] — Imaginea persuadează prin iconicitate, indexicalitate și lipsa unei sintaxe explicite, care îi permite să sugereze ce nu s-ar putea spune
-- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — Brandul e un activ pe termen lung condus de oameni judecați pe trimestru — cele trei C ale branding-ului și bucla fatală a promoțiilor
-- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
-- [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste|BRD-009]] — Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze
-- [[BRD-010-pozitionarea-orientata-spre-utilizator-are-sens-doar-pentru|BRD-010]] — Poziționarea orientată spre utilizator are sens doar pentru o nișă sau pentru motivul aprobării sociale, altfel produsul e eroul
-- [[BRD-011-beneficiul-de-pozitionare-se-alege-cu-modelul-expectanta|BRD-011]] — Beneficiul de poziționare se alege cu modelul expectanță-valoare, care arată ce beneficii contează, cine le livrează și unde poți muta importanța
-- [[BRD-017-zendium-se-diferentiaza-de-liderul-colgate-prin-ce-nu|BRD-017]] — Zendium se diferențiază de liderul Colgate prin ce nu conține și printr-o poveste de armonie în locul „războiului cu bacteriile"
-- [[BRD-048-un-look-feel-consecvent-ani-la-rand-ajunge-sa-declanseze|BRD-048]] — Un look & feel consecvent ani la rând ajunge să declanșeze brandul fără nume, iar execuțiile trebuie să varieze în interiorul lui, nu să fie identice
-- [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-049]] — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
-- [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-061]] — Scop sau poziționare: brandurile operează la altitudini diferite
-- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-- [[BRF-004-documentul-de-briefing-precede-strategia-produs-piata-sursa|BRF-004]] — Documentul de briefing precede strategia — produs, piață, sursă de business, concurență și obiective, plus persona și journey-ul ei în digital
-- [[BRF-006-brief-ul-creativ-incape-pe-o-pagina-in-trei-blocuri-sarcina|BRF-006]] — Brief-ul creativ încape pe o pagină, în trei blocuri (sarcina, obiectivele și strategia, execuția), și se detaliază doar ținta și susținerea beneficiului
-- [[BRF-010-declaratia-de-pozitionare-se-scrie-intr-o-fraza-brandul-x|BRF-010]] — Declarația de poziționare se scrie într-o frază, „brandul X este brandul pentru [țintă] din [nevoia de categorie] care oferă [beneficiu]"
-- [[BRF-023-zece-semnale-de-alarma-intr-un-brief-de-la-obiectivul-care|BRF-023]] — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
-- [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei|CLI-002]] — Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă
-- [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]] — Clientul își organizează creația în casă, cu o agenție parteneră sau cu un roster de agenții — iar criteriul corect e eficacitatea muncii, nu costul
-- [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy|CPY-001]] — Anatomia reclamei tipărite — vizual, titlu, subtitlu, body copy și semnătură, fiecare cu o sarcină proprie
-- [[CPY-006-cuvintele-neasteptate-atrag-atentia-in-titlu-dar-invatarea|CPY-006]] — Cuvintele neașteptate atrag atenția în titlu, dar învățarea cere cuvinte familiare, concrete, fraze active și fără negații
-- [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la|CPY-012]] — La motivație negativă, focalizezi direct pe beneficiu, iar la motivație pozitivă, pe consecința lui emoțională
-- [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un|CPY-016]] — Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
-- [[HIS-026-publicitatea-subliminala-este-un-mit-care-rezista-dovezilor|HIS-026]] — Publicitatea subliminală este un mit care rezistă dovezilor
-- [[IDE-004-ideea-creativa-trebuie-intai-sa-dramatizeze-beneficiul|IDE-004]] — Ideea creativă trebuie întâi să dramatizeze beneficiul-cheie, apoi să atragă atenția, să accelereze procesarea și să susțină multe execuții
-- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
-- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
-- [[INS-003-o-reclama-e-procesata-prin-patru-raspunsuri-atentie|INS-003]] — O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
-- [[INS-010-memoria-emotionala-intra-in-memoria-de-lucru-inaintea-celei|INS-010]] — Memoria emoțională intră în memoria de lucru înaintea celei declarative și încadrează procesarea, iar emoția se transmite prin fețe autentice
-- [[INS-016-simpla-prezenta-a-smartphone-ului-reduce-resursele-de|INS-016]] — Simpla prezență a smartphone-ului reduce resursele de atenție și memoria, așa că reclamele de pe telefon sunt procesate mai superficial
-- [[INS-018-percy-si-rosenbaum-elliott-sustin-ca-procesarea|INS-018]] — Percy și Rosenbaum-Elliott susțin că procesarea inconștientă sau subliminală a unei reclame nu poate schimba atitudinea sau comportamentul
-- [[INS-020-atitudinea-fata-de-brand-e-o-evaluare-relativa-din|INS-020]] — Atitudinea față de brand e o evaluare relativă, din convingeri și emoții, a capacității brandului de a satisface motivația de acum
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
-- [[INS-032-personalitatea-nu-alege-tinta-dar-schimba-felul-in-care-e|INS-032]] — Personalitatea nu alege ținta, dar schimbă felul în care e procesat mesajul, prin trăsături stabile și stări temporare
-- [[INS-037-modelul-viscap-alege-prezentatorul-dupa-obiectivul-de|INS-037]] — Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate
-- [[INS-046-cumparam-din-trei-motive-negative-rezolvare-evitare|INS-046]] — Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială)
-- [[INS-051-implicarea-este-riscul-perceput-de-tinta-nu-un-atribut-al|INS-051]] — Implicarea este riscul perceput de țintă, nu un atribut al produsului: la implicare mică ajunge curiozitatea, la implicare mare mesajul trebuie crezut
-- [[INS-054-in-orice-decizie-de-cumparare-exista-cinci-roluri-iar|INS-054]] — În orice decizie de cumpărare există cinci roluri, iar publicitatea vorbește unui individ într-un rol, nu unui grup
-- [[INS-055-modelul-secventei-comportamentale-bsm-pune-pe-o-grila|INS-055]] — Modelul secvenței comportamentale (BSM) pune pe o grilă etapele deciziei și, pentru fiecare, cine, unde, când și cum
-- [[MKT-008-piata-unui-brand-o-definesc-consumatorii-prin-partitionare|MKT-008]] — Piața unui brand o definesc consumatorii, prin partiționare ierarhică după tip, beneficiu final, situație de utilizare și brand
-- [[MKT-016-demografia-defineste-piata-tinta-dar-audienta-tinta-a|MKT-016]] — Demografia definește piața țintă, dar audiența țintă a comunicării se segmentează numai după atitudine
+- [[ADV-001-advertising-turns-people-toward-the-brand-over-the-long|ADV-001]]: Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive
+- [[ADV-006-the-communication-response-sequence-has-four-steps-with|ADV-006]]: The communication response sequence has four steps with compounding probabilities, so a message fails if a single step fails
+- [[ADV-007-any-communication-can-produce-four-effects-but-brand|ADV-007]]: Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- [[ADV-009-theories-of-how-advertising-works-fall-on-two-axes-active|ADV-009]]: Theories of how advertising works fall on two axes, active or passive audience and individual or cultural explanation
+- [[ADV-010-strategic-communication-planning-has-five-steps-from|ADV-010]]: Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before
+- [[ADV-011-planning-goes-through-the-response-sequence-in-reverse-and|ADV-011]]: Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it
+- [[ADV-015-the-target-audience-is-chosen-from-five-buyer-groups-and|ADV-015]]: The target audience is chosen from five buyer groups, and each group calls for trial or repeat purchase, at different costs
+- [[ADV-016-loyalty-is-read-from-the-perceived-risk-in-switching-and|ADV-016]]: Loyalty is read from the perceived risk in switching and from satisfaction, not only from purchase behavior
+- [[ADV-020-the-general-model-of-positioning-asks-two-questions-what-is|ADV-020]]: The general model of positioning asks two questions, "what is it?" for brand awareness and "what does it offer?" for brand attitude
+- [[ADV-031-category-need-becomes-an-objective-in-only-two-cases-when|ADV-031]]: Category need becomes an objective in only two cases, when people must be reminded of it or when it must be sold, and selling it takes a whole campaign
+- [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and|ADV-032]]: Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics
+- [[ADV-033-the-brand-attitude-objective-takes-five-forms-create|ADV-033]]: The brand attitude objective takes five forms (create, increase, maintain, modify, change) and is chosen only once you know what the target audience already believes
+- [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with|ADV-034]]: The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+- [[ADV-035-the-low-involvement-informational-strategy-calls-for|ADV-035]]: The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+- [[ADV-036-the-low-involvement-transformational-strategy-calls-for|ADV-036]]: The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- [[ADV-037-the-high-involvement-informational-strategy-must-convince|ADV-037]]: The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach
+- [[ADV-038-the-high-involvement-transformational-strategy-requires-the|ADV-038]]: The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- [[ADV-039-the-fcb-grid-vaughn-orders-think-feel-do-by-involvement-and|ADV-039]]: The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category
+- [[ADV-041-corporate-advertising-calls-for-name-recognition-and-almost|ADV-041]]: Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- [[ADV-048-social-marketing-communication-must-change-attitude-and|ADV-048]]: Social marketing communication must change attitude and behavior, so it adds the social norm (Fishbein-Ajzen), the stages of change and a moderate fear that is then resolved
+- [[ADV-049-how-much-you-adapt-a-campaign-across-cultures-depends-on|ADV-049]]: How much you adapt a campaign across cultures depends on the category's involvement and emotion and on cultural distance, along a gradient from global to local
+- [[ADV-050-probably-the-best-beer-in-the-world-worked-for-decades-in|ADV-050]]: "Probably the best beer in the world" worked for decades in some markets, but the modest irony of "probably" did not translate in Russia and Asia
+- [[ADV-052-media-are-chosen-by-three-processing-requirements-visual|ADV-052]]: Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- [[ADV-054-a-media-plan-is-judged-by-reach-at-the-minimum-effective|ADV-054]]: A media plan is judged by reach at the minimum effective frequency, not by GRPs or average frequency, and when in doubt it is better to choose frequency
+- [[ADV-056-the-reach-pattern-is-chosen-by-purchase-cycle-and-decision|ADV-056]]: The reach pattern is chosen by purchase cycle and decision time, and a new product can hardly be over-advertised
+- [[ADV-057-media-vehicles-are-selected-by-direct-matching-with-the|ADV-057]]: Media vehicles are selected by direct matching with the audience's brand behavior, not by demographic matching
+- [[ADV-063-packaging-is-a-communication-medium-at-the-shelf-it|ADV-063]]: Packaging is a communication medium: at the shelf it triggers recognition awareness and must carry the benefit from the advertising
+- [[ADV-064-public-relations-gains-credibility-precisely-because-the|ADV-064]]: Public relations gains credibility precisely because the space is not bought, but it loses control of the message and the link with the brand
+- [[ADV-065-congruent-sponsorship-is-remembered-better-but-it-can-be|ADV-065]]: Congruent sponsorship is remembered better, but it can be misattributed to the category leader, and its effect on sales remains poorly proven
+- [[ADV-066-product-placement-and-native-advertising-bypass-resistance|ADV-066]]: Product placement and native advertising bypass resistance, but their effect is disputed, and they backfire on the brand when they are too visible or linked to something negative
+- [[ADV-069-integrated-marketing-communications-imc-treats-all-channels|ADV-069]]: Integrated marketing communications (IMC) treats all channels as one whole: for clarity, consistency and maximum impact
+- [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with|ADV-070]]: Promotion alone only shifts sales in time; together with advertising it produces a ratchet effect, and their weighting is chosen by life cycle, differentiation and loyalty
+- [[ADV-071-the-promotion-technique-is-chosen-by-the-action-objective|ADV-071]]: The promotion technique is chosen by the action objective (trial or repeat purchase), but it must also build the brand, carrying the same benefit and look
+- [[ADV-072-whopper-detour-turned-mcdonald-s-restaurants-into-ordering|ADV-072]]: Whopper Detour turned McDonald's restaurants into ordering points for Burger King to get the app downloaded
+- [[ADV-076-the-communication-budget-is-built-from-objectives-and-tasks|ADV-076]]: The communication budget is built from objectives and tasks (from the sales goal back to exposures and cost), and rule-of-thumb methods only give the ceiling
+- [[ADV-078-numerical-goals-are-set-per-ad-for-exposure-and-processing|ADV-078]]: Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- [[ADV-079-the-pretest-is-built-on-the-communication-objectives-with|ADV-079]]: The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- [[ADV-082-continuous-tracking-measures-the-campaign-on-the-same-four|ADV-082]]: Continuous tracking measures the campaign on the same four steps of the response sequence, and wearout is diagnosed from the plan down to the execution
+- [[ADV-084-for-percy-and-rosenbaum-elliott-the-new-jargon-platforms|ADV-084]]: For Percy and Rosenbaum-Elliott, the new jargon ("platforms", "metrics", "brand ideals") does not change how advertising works
+- [[ADV-085-the-effectiveness-of-digital-advertising-remains-unproven|ADV-085]]: The effectiveness of digital advertising remains unproven, and the book sees social media as a "negotiated" medium, hit by fraud and poor visibility
+- [[ADV-086-content-instead-of-advertising-the-thesis-that-ads-do-not|ADV-086]]: Content instead of advertising? The thesis that ads do not build relationships, and its limits
+- [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]]: A picture attracts and holds attention if it is large, in color, concrete, shows the product in use and is seen before the words
+- [[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]]: Color tells the story, sets the brand apart from competitors and motivates, and saturation matters more than hue
+- [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the|ART-022]]: The Tropicana case: the packaging redesign erased the recognition cues
+- [[ART-023-packaging-is-also-designed-for-its-life-after-purchase-its|ART-023]]: Packaging is also designed for its life after purchase: its shape is a brand cue, and every use repeats the benefit
+- [[ART-028-when-the-target-audience-does-not-share-the-same-cultural|ART-028]]: When the target audience does not share the same cultural schemas, the image must tap into universal biological schemas, such as prospect and refuge
+- [[ART-029-the-image-persuades-through-iconicity-indexicality-and-the|ART-029]]: The image persuades through iconicity, indexicality and the lack of an explicit syntax, which lets it suggest what could not be said
+- [[BRD-005-a-brand-is-a-long-term-asset-run-by-people-judged-quarter|BRD-005]]: A brand is a long-term asset run by people judged quarter by quarter: the Three Cs of branding and the branding doom loop
+- [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of|BRD-006]]: The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand|BRD-007]]: The frame of reference tells consumers the goal the brand serves
+- [[BRD-009-central-positioning-is-reserved-for-the-leader-that-defines|BRD-009]]: Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate
+- [[BRD-010-user-oriented-positioning-makes-sense-only-for-a-niche-or|BRD-010]]: User-oriented positioning makes sense only for a niche or for the social approval motive; otherwise the product is the hero
+- [[BRD-011-the-positioning-benefit-is-chosen-with-the-expectancy-value|BRD-011]]: The positioning benefit is chosen with the expectancy-value model, which shows which benefits matter, who delivers them and where you can shift importance
+- [[BRD-017-zendium-differentiates-itself-from-the-leader-colgate-by|BRD-017]]: Zendium differentiates itself from the leader Colgate by what it leaves out and by a story of harmony instead of a war on bacteria
+- [[BRD-048-a-look-and-feel-kept-consistent-for-years-ends-up|BRD-048]]: A look and feel kept consistent for years ends up triggering the brand without its name, and executions should vary within it, not be identical
+- [[BRD-049-global-brands-with-soul-the-common-thread-the-glocal|BRD-049]]: Global brands with soul: the common thread, the glocal balance, the agile rollout
+- [[BRD-061-purpose-or-positioning-brands-operate-at-different-altitudes|BRD-061]]: Purpose or positioning: brands operate at different altitudes
+- [[BRD-063-does-the-brand-live-in-each-customer-s-mind-or-in-the|BRD-063]]: Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+- [[BRF-004-the-briefing-document-comes-before-the-strategy-product|BRF-004]]: The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital
+- [[BRF-006-the-creative-brief-fits-on-one-page-in-three-blocks-task|BRF-006]]: The creative brief fits on one page, in three blocks (task definition, objectives and strategy, execution), and only the target audience and the benefit support are spelled out in detail
+- [[BRF-010-the-positioning-statement-is-written-in-one-sentence-brand|BRF-010]]: The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]"
+- [[BRF-023-ten-red-flags-in-a-brief-from-an-objective-that-is-not|BRF-023]]: Ten red flags in a brief: from an objective that is not falsifiable to measurement decided after the campaign
+- [[CLI-002-the-account-manager-sells-in-both-directions-the-agency-s|CLI-002]]: The account manager sells in both directions: the agency's work to the client and the client's problem to the team
+- [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an|CLI-015]]: The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost
+- [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy|CPY-001]]: The anatomy of a print ad: visual, headline, subhead, body copy and signature, each with its own job
+- [[CPY-006-unexpected-words-draw-attention-in-the-headline-but|CPY-006]]: Unexpected words draw attention in the headline, but learning needs familiar, concrete words, active sentences and no negatives
+- [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit|CPY-012]]: With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence
+- [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor|CPY-016]]: A two-sided message gains credibility if it admits a minor, plausible flaw linked to the main benefit
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]]: Literally true slogans can mislead through the inferences they leave to the audience
+- [[HIS-026-subliminal-advertising-is-a-myth-that-survives-the-evidence|HIS-026]]: Subliminal advertising is a myth that survives the evidence
+- [[IDE-004-the-creative-idea-must-first-dramatize-the-key-benefit|IDE-004]]: The creative idea must first dramatize the key benefit claim, then get attention, speed up processing and support many executions
+- [[IDE-009-volume-comes-before-quality-the-good-idea-comes-out-of-a|IDE-009]]: Volume comes before quality: the good idea comes out of a large number of attempts, most of them bad
+- [[IDE-023-idea-evaluation-grids-converge-on-three-questions-does-it|IDE-023]]: Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
+- [[INS-003-an-ad-is-processed-through-four-responses-attention|INS-003]]: An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second
+- [[INS-010-emotional-memory-enters-working-memory-before-declarative|INS-010]]: Emotional memory enters working memory before declarative memory and frames processing, and emotion is passed on through authentic faces
+- [[INS-016-the-mere-presence-of-a-smartphone-reduces-attentional|INS-016]]: The mere presence of a smartphone reduces attentional resources and memory, so ads on the phone are processed more superficially
+- [[INS-018-percy-and-rosenbaum-elliott-argue-that-unconscious-or|INS-018]]: Percy and Rosenbaum-Elliott argue that unconscious or subliminal processing of an ad cannot change attitudes or behavior
+- [[INS-020-brand-attitude-is-a-relative-evaluation-made-of-beliefs-and|INS-020]]: Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- [[INS-032-personality-does-not-choose-the-target-audience-but-it|INS-032]]: Personality does not choose the target audience, but it changes how the message is processed, through stable traits and temporary states
+- [[INS-037-the-viscap-model-chooses-the-presenter-by-the-communication|INS-037]]: The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity
+- [[INS-046-we-buy-for-three-negative-motives-problem-solution-problem|INS-046]]: We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval)
+- [[INS-051-involvement-is-the-target-audience-s-perceived-risk-not-an|INS-051]]: Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed
+- [[INS-054-every-purchase-decision-involves-five-roles-and-advertising|INS-054]]: Every purchase decision involves five roles, and advertising speaks to an individual in a role, not to a group
+- [[INS-055-the-behavioral-sequence-model-bsm-puts-the-decision-stages|INS-055]]: The behavioral sequence model (BSM) puts the decision stages on a grid and, for each one, who, where, when and how
+- [[MKT-008-consumers-define-a-brand-s-market-through-hierarchical|MKT-008]]: Consumers define a brand's market, through hierarchical partitioning by type of product, end benefit, usage situation and brand
+- [[MKT-016-demographics-define-the-target-market-but-the-target|MKT-016]]: Demographics define the target market, but the target audience of communication is segmented only by attitude
 <!-- backlinks:end -->

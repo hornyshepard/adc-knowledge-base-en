@@ -1,1 +1,1 @@
-# P2-ART: nicio comasare internă (notele ART nu aveau duplicate între ele).
+# P2-ART: no internal merges (the ART notes had no duplicates among them).

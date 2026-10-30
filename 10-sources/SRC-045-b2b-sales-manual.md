@@ -14,58 +14,58 @@ level: 1
 
 # The Complete Guide to B2B Sales Success
 
-**Bharat Bhuval Nishad, 2024.** Autopublicare. Circa 20.000 de cuvinte, fără numere de pagină — trimiterile sunt pe titlurile de secțiune.
+**Bharat Bhuval Nishad, 2024.** Self-published. About 20,000 words, with no page numbers: references are to section titles.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** trei „cursuri” lipite: prospectare (frica de respingere, sistemul de 1–5+ contacte pe zi, Dream 100, vânzarea prin sfera de influență), generare de lead-uri (recomandări, Person of Influence, lead magnet, webinarii, house list, prezentări la grupuri) și programarea întâlnirilor (unghiul valorii, stage selling, introducerea în trei, e-mailul-teaser, șabloane). Totul e spus la persoana întâi, prin anecdote.
-- **Teza centrală:** vânzarea B2B se câștigă la începutul pâlniei — prin activitate constantă, sisteme repetabile și acces prin relații — iar fiecare etapă vinde doar pasul următor.
-- **Pentru cine și când:** studenți interesați de *new business* în agenții, account manageri juniori, freelanceri care își caută primii clienți.
-- **Relevanță pentru ADC:** ★★☆☆☆ — câteva instrumente concrete și transferabile (Dream 100, stage selling, three-way introduction, formula mesajului de cerere a întâlnirii), dar titlul promite mult mai mult decât oferă: nu există capitole despre procesul complet de vânzare, negociere, propunere de valoare sau închidere.
+- **What it is about:** three "courses" stuck together: prospecting (fear of rejection, the system of 1–5+ contacts a day, the Dream 100, sphere of influence selling), lead generation (referrals, Person of Influence, lead magnet, webinars, house list, speaking to groups) and appointment setting (the value angle, stage selling, the 3-way introduction, the teaser email, templates). Everything is told in the first person, through anecdotes.
+- **Central thesis:** B2B sales are won at the top of the funnel (through constant activity, repeatable systems and access through relationships), and each stage sells only the next step.
+- **For whom and when:** students interested in *new business* at agencies, junior account managers, freelancers looking for their first clients.
+- **Relevance for ADC:** ★★☆☆☆: a few concrete, transferable tools (the Dream 100, stage selling, the 3-way introduction, the formula of the message asking for a meeting), but the title promises much more than it delivers: there are no chapters on the full sales process, negotiation, the value proposition or closing.
 
-## Harta capitolelor
+## Chapter map
 
-| Secțiune | Tema | Note derivate |
+| Section | Topic | Derived notes |
 |---|---|---|
-| Introduction, Goals | inner game / outer game / action; formula GSA (Goal–Strategy–Action) | [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara\|CLI-008]] |
-| Overcoming Call Reluctance, Prospecting | „no, no, no… yes”; „câștig sau câștig dublu” | [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara\|CLI-008]] |
-| The B2B Prospecting System, Play the Prospecting Game, Consistency | 1–5+ contacte pe zi, „prospectează prin orice mijloc”, gamificare | [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara\|CLI-008]] |
-| The Dream 100 | lista celor mai doriți 100 de clienți, marketing secvențial (după Chet Holmes) | [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat\|CLI-009]] |
-| Sphere of Influence Selling, 3-Way Introduction | acces prin cineva care cunoaște ținta; e-mailul de introducere | [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le\|CLI-011]] |
-| Referrals, Best Practices, Person of Influence, Reciprocal Referral Relationship | sisteme de recomandări; cine are deja clientul tău | [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in\|CLI-010]] |
-| Lead Magnet, Webinars, House List, Speaking to the Groups, Leads Stored | lead-uri prin conținut gratuit, baza proprie, CRM | — (acoperit de skill-ul DIG) |
-| B2B Stage Selling, Stage Selling, Further the Sales Call | „vinde pasul următor” | [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa\|CLI-006]] |
-| All About the Angle, Using a Template, Case Study, Inviting, Teaser Email | mesajul de cerere a întâlnirii: valoare vs. timp; structura în patru propoziții | [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru\|CLI-012]] |
-| Intention in B2B Sales, Hire Appointment Setter | intenția specifică; delegarea programărilor | [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat\|CLI-009]] |
+| Introduction, Goals | inner game / outer game / action; the GSA formula (Goal, Strategy, Action) | [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the\|CLI-008]] |
+| Overcoming Call Reluctance, Prospecting | "no, no, no… yes"; "win or double win" | [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the\|CLI-008]] |
+| The B2B Prospecting System, Play the Prospecting Game, Consistency | 1–5+ contacts a day, prospecting "by any means necessary", gamification | [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the\|CLI-008]] |
+| The Dream 100 | the list of the 100 most wanted clients, sequential marketing (after Chet Holmes) | [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached\|CLI-009]] |
+| Sphere of Influence Selling, 3-Way Introduction | access through someone who knows the target; the introduction email | [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not\|CLI-011]] |
+| Referrals, Best Practices, Person of Influence, Reciprocal Referral Relationship | referral systems; who already has your client | [[CLI-010-person-of-influence-look-for-whoever-already-has-your\|CLI-010]] |
+| Lead Magnet, Webinars for B2B Sales, B2B Sales House List, Speaking to the Groups, Leads Stored | leads through free content, your own database, CRM | none (covered by the DIG skill) |
+| B2B Stage Selling, Stage Selling, Further the Sales Call | "sell the next step" | [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next\|CLI-006]] |
+| All About the Angle, Using a Template, Case Study, Inviting, Teaser Email | the message asking for a meeting: value vs. time; the four-sentence structure | [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it\|CLI-012]] |
+| Intention in B2B Sales, Hire Appointment Setter | specific intention; delegating appointment setting | [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached\|CLI-009]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]] — stage selling: fiecare etapă vinde doar etapa următoare.
-- [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat|CLI-009]] — Dream 100: o listă scurtă de clienți-țintă, abordați repetat pe canale diferite.
-- [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le|CLI-011]] — introducerea în trei deschide uși pe care apelul rece nu le deschide.
-- [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in|CLI-010]] — Person of Influence: caută cine are deja clienții tăi în rețea.
-- [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara|CLI-008]] — prospectarea e un joc de consistență: activitatea zilnică, nu rezultatul, e unitatea de măsură.
-- [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] — cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut.
+- [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]]: stage selling: each stage sells only the next stage.
+- [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached|CLI-009]]: the Dream 100: a short list of target clients, approached repeatedly through different channels.
+- [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not|CLI-011]]: the 3-way introduction opens doors that the cold call does not.
+- [[CLI-010-person-of-influence-look-for-whoever-already-has-your|CLI-010]]: Person of Influence: look for who already has your clients in their network.
+- [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the|CLI-008]]: prospecting is a game of consistency: daily activity, not the result, is the unit of measure.
+- [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]]: a request for a meeting must offer value for the time it asks for.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Problemă de atribuire:** naratorul se prezintă constant drept „Eric”, trainer de vânzări fost angajat al lui Tony Robbins, care își publică cartea *Continuous Sales Improvement* la Morgan James. Textul pare transcrierea cursurilor video ale altui autor (foarte probabil trainerul american Eric Lofholm), publicată sub alt nume. Ideile trebuie citate cu această rezervă.
-- Transcriere neprelucrată: repetiții, erori de recunoaștere vocală („Rick Perry” / „Rick Barry”, „siren” pentru CRM), anunțuri de tipul „acesta e ultimul capitol” la mijlocul cărții.
-- Dovezile sunt exclusiv anecdotice (vânzarea către Michael Gerber, angajarea la Tony Robbins, căsătoria ca „prospectare”); cifrele (8.000 de recomandări, 50.000 de lead-uri) nu pot fi verificate.
-- Lipsesc complet: descoperirea nevoilor, propunerea de valoare, negocierea, gestionarea contului, etica în prospectarea agresivă („până îți spun să nu-i mai contactezi”).
+- **An attribution problem:** the narrator constantly presents himself as "Eric", a sales trainer and former employee of Tony Robbins, who publishes his book *Continuous Sales Improvement* with Morgan James. The text looks like the transcript of another author's video courses (very probably the American trainer Eric Lofholm), published under a different name. The ideas should be cited with this reservation.
+- An unedited transcript: repetitions, speech recognition errors ("Rick Perry" / "Rick Barry", "siren" for CRM), announcements such as "this last chapter" in the middle of the book.
+- The evidence is purely anecdotal (the sale to Michael Gerber, being hired by Tony Robbins, marriage as "prospecting"); the figures (8,000 referrals, 50,000 leads) cannot be checked.
+- Completely missing: needs discovery, the value proposition, negotiation, account management, ethics in aggressive prospecting ("until they tell you to stop contacting them").
 
-## Citat
+## Quote
 
-> „The purpose of setting an appointment is to set an appointment.” (secțiunea „Stage Selling”)
+> "The purpose of setting an appointment is to set an appointment." (section "Stage Selling")
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]] — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
-- [[CLI-007-vanzarea-personala-are-cinci-pasi-iar-prezentarea-incepe|CLI-007]] — Vânzarea personală are cinci pași, iar prezentarea începe prin a afla în ce etapă de cumpărare e clientul
-- [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara|CLI-008]] — Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile
-- [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat|CLI-009]] — Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite
-- [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in|CLI-010]] — Person of Influence — caută cine are deja clienții tăi în rețea
-- [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le|CLI-011]] — Introducerea în trei deschide uși pe care apelul rece nu le deschide
-- [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] — Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut
+- [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]]: Stage selling: each stage of the sale sells only the next step
+- [[CLI-007-personal-selling-has-five-steps-and-the-presentation-starts|CLI-007]]: Personal selling has five steps, and the presentation starts by finding out where the customer is in the buying process
+- [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the|CLI-008]]: Prospecting is a game of consistency in which you count the activity, not the replies
+- [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached|CLI-009]]: The Dream 100: a short list of target clients, approached repeatedly through different channels
+- [[CLI-010-person-of-influence-look-for-whoever-already-has-your|CLI-010]]: Person of Influence: look for whoever already has your customers in their network
+- [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not|CLI-011]]: The 3-way introduction opens doors that a cold call does not
+- [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]]: A request for a meeting has to offer value for the time it asks for
 <!-- backlinks:end -->

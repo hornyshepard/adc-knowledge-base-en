@@ -14,88 +14,88 @@ level: 2
 
 # Strategic Advertising Mechanisms: From Copy Strategy to Iconic Brands
 
-**Jorge David Fernández Gómez, 2021.** Intellect (Bristol / Chicago), publicație cu recenzie academică (*peer-reviewed*). Traducere a volumului spaniol *Mecanismos estratégicos en publicidad. De la USP a las Lovemarks* (Advook). Prefață de Charles Vallance (VCCP). Capitolul 8 se bazează pe *Branding Cultural* (2019), scris de autor împreună cu María del Mar Rubio și Antonio Pineda. ~74.000 de cuvinte; ediția EPUB nu are numere de pagină, așa că trimiterile sunt pe capitole și subcapitole.
+**Jorge David Fernández Gómez, 2021.** Intellect (Bristol / Chicago), a peer-reviewed publication. A translation of the Spanish volume *Mecanismos estratégicos en publicidad. De la USP a las Lovemarks* (Advook). Foreword by Charles Vallance (VCCP). Chapter 8 is based on *Branding Cultural* (2019), written by the author with María del Mar Rubio and Antonio Pineda. About 74,000 words; the EPUB edition has no page numbers, so references are to chapters and sections.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** o istorie critică a celor mai importante „mecanisme strategice" ale publicității moderne, de la copy strategy-ul P&G și reason-why-ul lui Hopkins, prin USP, brand image, axa psihologică, star strategy, Lovemarks și Passionbrands, până la poziționare și brandurile iconice ale lui Holt. Pentru fiecare: context, definiție, trăsături, precursori, critici.
-- **Teza centrală:** mecanismele strategice se încadrează în trei paradigme de brand management (product, personality, consumer branding), coexistă în timp și sunt adesea reinventări cu nume noi ale unor idei vechi, create pentru că industria trebuie să-și vândă diferențierea.
-- **Pentru cine și când:** studenți la strategie de publicitate și brand, după cursul introductiv. Foarte bun pentru seminarele de istorie a gândirii strategice și pentru a-i învăța pe studenți să citească critic „metodologiile proprietare" ale agențiilor.
-- **Relevanță pentru ADC:** ★★★★☆ — singura carte din bibliotecă ce pune cap la cap, comparativ, USP, brand image, Joannis, Séguéla, Lovemarks, poziționarea și Holt. Puncte forte: surse primare citate bogat, ton demistificator, legături între modele (dominant idea → USP → poziționare). Limite: academică și repetitivă, cu multe citate lungi; puține exemple de campanii; aproape nimic despre digital, media sau măsurarea eficienței.
+- **What it is about:** a critical history of the most important "strategic mechanisms" of modern advertising, from P&G's copy strategy and Hopkins's reason-why, through the USP, brand image, the psychological axis, the star strategy, Lovemarks and Passionbrands, to positioning and Holt's iconic brands. For each one: context, definition, features, precedents, criticism.
+- **Central thesis:** strategic mechanisms fit into three brand management paradigms (product, personality and consumer branding), coexist over time and are often reinventions, under new names, of old ideas, created because the industry has to sell its own differentiation.
+- **For whom and when:** advertising and brand strategy students, after the introductory course. Very good for seminars on the history of strategic thinking and for teaching students to read agencies' "proprietary methodologies" critically.
+- **Relevance for ADC:** ★★★★☆: the only book in the library that brings together, side by side, the USP, brand image, Joannis, Séguéla, Lovemarks, positioning and Holt. Strengths: primary sources cited at length, a demystifying tone, links between models (dominant idea → USP → positioning). Limits: academic and repetitive, with many long quotations; few campaign examples; almost nothing about digital, media or measuring effectiveness.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Introducere | Ierarhia paradigmă–teorie–mecanism; „monismul strategic"; de ce „mecanism"; metodologiile de agenție lăsate deoparte | [[ADV-003-mecanismele-strategice-ale-publicitatii-se-ordoneaza-in\|ADV-003]], [[ADV-004-nu-orice-decizie-de-comunicare-este-strategie-critica\|ADV-004]], [[HIS-015-inventia-recurenta-publicitatea-isi-reinventeaza-periodic\|HIS-015]] |
-| 1 | P&G și nașterea brand management-ului (McElroy, Camay); Kennedy, Hopkins și reason-why; copy strategy | [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu\|ADV-042]], [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive\|CPY-003]] |
-| 2 | USP-ul lui Reeves: cele trei reguli, cele trei drumuri, ideea dominantă (McJunkin & Finn), perseverența, criticile | [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta\|ADV-024]], [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il\|ADV-025]], [[ADV-029-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea\|ADV-029]], [[ADV-027-disputa-reeves-ogilvy-usp-contra-brand-image-ratiune-contra\|ADV-027]], [[HIS-015-inventia-recurenta-publicitatea-isi-reinventeaza-periodic\|HIS-015]] |
-| 3 | Cercetarea motivațională, Martineau, brand image-ul lui Ogilvy, Gardner & Levy | [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul\|INS-091]], [[ADV-026-brand-image-ogilvy-fiecare-reclama-e-o-contributie-la\|ADV-026]], [[BRD-003-brandul-este-un-simbol-complex-de-asocieri-nu-o-eticheta\|BRD-003]], [[ADV-027-disputa-reeves-ogilvy-usp-contra-brand-image-ratiune-contra\|ADV-027]] |
-| 4 | Axa psihologică a lui Henri Joannis: motivații și frâne | [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o\|ADV-040]] |
-| 5 | Star strategy (Séguéla): fizic, caracter, stil; modelul „căsătoriei" al lui Chevron | [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter\|BRD-028]] |
-| 6 | Lovemarks (Roberts) și Passionbrands (Edwards & Day) | [[BRD-036-lovemarks-roberts-iubire-peste-respect-construita-prin\|BRD-036]], [[BRD-062-passionbrands-la-nucleu-un-brand-puternic-conduce\|BRD-062]] |
-| 7 | Poziționarea: origini, definiții, nouă principii, USP-ul ca precursor | [[ADV-021-pozitionarea-trout-ries-se-sprijina-pe-noua-principii-de-la\|ADV-021]], [[ADV-028-pozitionarea-e-mostenitoarea-usp-ului-idee-noua-sau-vin\|ADV-028]], [[BRD-008-pozitionarea-in-doi-pasi-contextualizare-alegi-brandul-de\|BRD-008]] |
-| 8 | Brandurile iconice (Holt): tensiune socială, mit identitar, lumi populiste, critici | [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva\|BRD-038]] |
+| Introduction | The paradigm-theory-mechanism hierarchy; "strategic advertising monism"; why "mechanism"; agency methodologies left aside | [[ADV-003-strategic-advertising-mechanisms-fall-into-three-paradigms\|ADV-003]], [[ADV-004-not-every-communication-decision-is-strategy-the-critique\|ADV-004]], [[HIS-015-recurrent-invention-advertising-periodically-reinvents-its\|HIS-015]] |
+| 1 | Procter & Gamble's Copy Strategy: When the Advertiser Made Products and Advertising: P&G and the birth of brand management (McElroy, Camay); Kennedy, Hopkins and reason-why; copy strategy | [[ADV-042-p-g-s-copy-strategy-fixes-in-writing-the-objective-the\|ADV-042]], [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives\|CPY-003]] |
+| 2 | Rosser Reeves's USP: The Reality in Advertising Is the Product: the three rules, the three routes, the dominant idea (McJunkin & Finn), perseverance, the criticism | [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition\|ADV-024]], [[ADV-025-there-are-three-roads-to-a-usp-you-find-it-in-the-product\|ADV-025]], [[ADV-029-changing-the-campaign-too-often-destroys-penetration-the\|ADV-029]], [[ADV-027-the-reeves-ogilvy-dispute-usp-versus-brand-image-reason\|ADV-027]], [[HIS-015-recurrent-invention-advertising-periodically-reinvents-its\|HIS-015]] |
+| 3 | David Ogilvy's Brand Image: The Rise of Emotion in Advertising Communication: motivation research, Martineau, Ogilvy's brand image, Gardner & Levy | [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden\|INS-091]], [[ADV-026-brand-image-ogilvy-every-advertisement-is-a-contribution-to\|ADV-026]], [[BRD-003-a-brand-is-a-complex-symbol-of-associations-not-a-label-the\|BRD-003]], [[ADV-027-the-reeves-ogilvy-dispute-usp-versus-brand-image-reason\|ADV-027]] |
+| 4 | Henri Joannis's Psychological Axis: The Advent of Motivational Research in European Advertising: motivations and inhibitions | [[ADV-040-joannis-s-psychological-axis-the-campaign-chooses-either-to\|ADV-040]] |
+| 5 | Jacques Séguéla's "Star Strategy": Selling the Hollywood Star System to Sell Brands: physique, character, style; the Chevron model in "give your brand in marriage" | [[BRD-028-star-strategy-seguela-the-brand-person-has-physique\|BRD-028]] |
+| 6 | Kevin Roberts's Lovemarks: The Return of Emotional Mechanisms in the New Century: Lovemarks (Roberts) and Passionbrands (Edwards & Day) | [[BRD-036-lovemarks-roberts-love-above-respect-built-through-mystery\|BRD-036]], [[BRD-062-passionbrands-at-the-core-a-strong-brand-leads-the-consumer\|BRD-062]] |
+| 7 | Jack Trout and Al Ries's Positioning: The Appearance of Cognitive Psychology in Advertising: origins, definitions, nine principles, the USP as a precedent | [[ADV-021-positioning-trout-ries-rests-on-nine-principles-from\|ADV-021]], [[ADV-028-positioning-is-the-heir-of-the-usp-a-new-idea-or-old-wine\|ADV-028]], [[BRD-008-positioning-in-two-steps-contextualization-you-choose-the\|BRD-008]] |
+| 8 | Douglas Holt's Iconic Brands: When Cognitive Psychology and Motivation Research Converge: social tension, identity myth, populist worlds, criticism | [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a\|BRD-038]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[ADV-003-mecanismele-strategice-ale-publicitatii-se-ordoneaza-in|ADV-003]] — cele trei paradigme de brand management, cadrul care organizează toată cartea.
-- [[ADV-004-nu-orice-decizie-de-comunicare-este-strategie-critica|ADV-004]] — critica folosirii vagi a cuvântului „strategie".
-- [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu|ADV-042]] — copy strategy P&G: obiectiv, suport, ton.
-- [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive|CPY-003]] — reason-why și „vânzarea tipărită" (Kennedy, Hopkins).
-- [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta|ADV-024]] — cele trei condiții ale USP-ului.
-- [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il|ADV-025]] — cele trei drumuri spre un USP.
-- [[ADV-029-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-029]] — perseverența: schimbarea campaniei distruge penetrarea.
-- [[ADV-027-disputa-reeves-ogilvy-usp-contra-brand-image-ratiune-contra|ADV-027]] — disputa Reeves–Ogilvy și variantele ESP/UBP/MSP.
-- [[ADV-026-brand-image-ogilvy-fiecare-reclama-e-o-contributie-la|ADV-026]] — brand image-ul lui Ogilvy, concept de emisie pe termen lung.
-- [[BRD-003-brandul-este-un-simbol-complex-de-asocieri-nu-o-eticheta|BRD-003]] — Gardner & Levy: brandul ca simbol complex și patru recomandări pentru reclame.
-- [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul|INS-091]] — cercetarea motivațională și mitul persuasorilor ascunși.
-- [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o|ADV-040]] — axa psihologică a lui Joannis.
-- [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter|BRD-028]] — star strategy și brandul-persoană.
-- [[BRD-036-lovemarks-roberts-iubire-peste-respect-construita-prin|BRD-036]] — Lovemarks și critica lor.
-- [[BRD-062-passionbrands-la-nucleu-un-brand-puternic-conduce|BRD-062]] — Passionbrands: brand care conduce, nu e condus de consumator.
-- [[HIS-015-inventia-recurenta-publicitatea-isi-reinventeaza-periodic|HIS-015]] — „invenția recurentă" a mecanismelor strategice.
-- [[ADV-021-pozitionarea-trout-ries-se-sprijina-pe-noua-principii-de-la|ADV-021]] — poziționarea în nouă principii.
-- [[ADV-028-pozitionarea-e-mostenitoarea-usp-ului-idee-noua-sau-vin|ADV-028]] — poziționarea ca moștenitoare a USP-ului.
-- [[BRD-008-pozitionarea-in-doi-pasi-contextualizare-alegi-brandul-de|BRD-008]] — contextualizare și conceptualizare (Ollé & Riu).
-- [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva|BRD-038]] — brandurile iconice ale lui Holt.
+- [[ADV-003-strategic-advertising-mechanisms-fall-into-three-paradigms|ADV-003]]: the three brand management paradigms, the framework that organizes the whole book.
+- [[ADV-004-not-every-communication-decision-is-strategy-the-critique|ADV-004]]: the critique of the vague use of the word "strategy".
+- [[ADV-042-p-g-s-copy-strategy-fixes-in-writing-the-objective-the|ADV-042]]: P&G's copy strategy: objective, support, tone.
+- [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives|CPY-003]]: reason-why and "salesmanship in print" (Kennedy, Hopkins).
+- [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition|ADV-024]]: the three conditions of the USP.
+- [[ADV-025-there-are-three-roads-to-a-usp-you-find-it-in-the-product|ADV-025]]: the three routes to a USP.
+- [[ADV-029-changing-the-campaign-too-often-destroys-penetration-the|ADV-029]]: perseverance: changing the campaign destroys penetration.
+- [[ADV-027-the-reeves-ogilvy-dispute-usp-versus-brand-image-reason|ADV-027]]: the Reeves-Ogilvy dispute and the ESP/UBP/MSP variants.
+- [[ADV-026-brand-image-ogilvy-every-advertisement-is-a-contribution-to|ADV-026]]: Ogilvy's brand image, a long-term concept of emission.
+- [[BRD-003-a-brand-is-a-complex-symbol-of-associations-not-a-label-the|BRD-003]]: Gardner & Levy: the brand as a complex symbol, and four recommendations for ads.
+- [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden|INS-091]]: motivation research and the myth of the hidden persuaders.
+- [[ADV-040-joannis-s-psychological-axis-the-campaign-chooses-either-to|ADV-040]]: Joannis's psychological axis.
+- [[BRD-028-star-strategy-seguela-the-brand-person-has-physique|BRD-028]]: the star strategy and the brand-person.
+- [[BRD-036-lovemarks-roberts-love-above-respect-built-through-mystery|BRD-036]]: Lovemarks and their critique.
+- [[BRD-062-passionbrands-at-the-core-a-strong-brand-leads-the-consumer|BRD-062]]: Passionbrands: a brand that leads, not one led by the consumer.
+- [[HIS-015-recurrent-invention-advertising-periodically-reinvents-its|HIS-015]]: the "recurrent invention" of strategic mechanisms.
+- [[ADV-021-positioning-trout-ries-rests-on-nine-principles-from|ADV-021]]: positioning in nine principles.
+- [[ADV-028-positioning-is-the-heir-of-the-usp-a-new-idea-or-old-wine|ADV-028]]: positioning as the heir of the USP.
+- [[BRD-008-positioning-in-two-steps-contextualization-you-choose-the|BRD-008]]: contextualization and conceptualization (Ollé & Riu).
+- [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a|BRD-038]]: Holt's iconic brands.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Cartea e o istorie a ideilor, nu un manual: aproape nu dă pași de lucru și are puține studii de caz cu rezultate. Exemplele de campanii apar mai ales în capitolul 8.
-- Multe citate lungi din surse secundare spaniole (Moliné, Eguizábal, Rom & Sabaté, Ollé & Riu). Unele afirmații despre paternitate (capitolul „pierdut" al lui Reeves) se sprijină pe surse indirecte.
-- Clasificarea paradigmelor e a autorului și nu e general acceptată. Preferința lui pentru consumer branding ca „cea mai avansată" e o opinie.
-- Lipsesc complet: modelele de efect al publicității (Rossiter-Percy, FCB), școala Ehrenberg-Bass, media planning, măsurarea eficienței și digitalul. Pentru acestea, alte surse din bibliotecă.
-- Tonul polemic (Ogilvy „a împrumutat", Roberts „a reambalat") e util pentru gândire critică, dar uneori nedrept față de valoarea practică a acestor autori.
+- The book is a history of ideas, not a handbook: it gives almost no working steps and has few case studies with results. The campaign examples appear mostly in chapter 8.
+- Many long quotations from secondary Spanish sources (Moliné, Eguizábal, Rom & Sabaté, Ollé & Riu). Some claims about authorship (Reeves's "lost chapter") rest on indirect sources.
+- The classification of paradigms is the author's own and is not generally accepted. His preference for consumer branding as "the most advanced" is an opinion.
+- Entirely missing: models of advertising effect (Rossiter-Percy, FCB), the Ehrenberg-Bass school, media planning, measuring effectiveness and digital. For these, see other sources in the library.
+- The polemical tone (Ogilvy "borrowed", Roberts "repackaged") is useful for critical thinking, but sometimes unfair to the practical value of these authors.
 
-## Citat
+## Quote
 
-> „Positioning is not what you do to a product." (Ries & Trout, citați în cap. 7)
+> "Positioning is not what you do to a product." (Ries & Trout, quoted in ch. 7)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-003-mecanismele-strategice-ale-publicitatii-se-ordoneaza-in|ADV-003]] — Mecanismele strategice ale publicității se ordonează în trei paradigme — product, personality și consumer branding
-- [[ADV-004-nu-orice-decizie-de-comunicare-este-strategie-critica|ADV-004]] — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
-- [[ADV-021-pozitionarea-trout-ries-se-sprijina-pe-noua-principii-de-la|ADV-021]] — Poziționarea (Trout & Ries) se sprijină pe nouă principii — de la saturația informațională la permanență
-- [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta|ADV-024]] — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele — și nu e un slogan
-- [[ADV-025-la-un-usp-se-ajunge-pe-trei-drumuri-il-gasesti-in-produs-il|ADV-025]] — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
-- [[ADV-026-brand-image-ogilvy-fiecare-reclama-e-o-contributie-la|ADV-026]] — Brand image (Ogilvy) — fiecare reclamă e o contribuție la simbolul complex care este imaginea brandului
-- [[ADV-027-disputa-reeves-ogilvy-usp-contra-brand-image-ratiune-contra|ADV-027]] — Disputa Reeves–Ogilvy — USP contra brand image, rațiune contra emoție, cercetare contra judecată
-- [[ADV-028-pozitionarea-e-mostenitoarea-usp-ului-idee-noua-sau-vin|ADV-028]] — Poziționarea e moștenitoarea USP-ului — idee nouă sau „vin vechi în sticle noi"?
-- [[ADV-029-schimbarea-prea-deasa-a-campaniei-distruge-penetrarea|ADV-029]] — Schimbarea prea deasă a campaniei distruge penetrarea — principiul perseverenței
-- [[ADV-040-axa-psihologica-joannis-campania-alege-fie-sa-stimuleze-o|ADV-040]] — Axa psihologică (Joannis) — campania alege fie să stimuleze o motivație, fie să slăbească o frână
-- [[ADV-042-copy-strategy-p-g-fixeaza-in-scris-obiectivul-beneficiul-cu|ADV-042]] — Copy strategy (P&G) fixează în scris obiectivul, beneficiul cu dovada lui și tonul — nu execuția
-- [[BRD-003-brandul-este-un-simbol-complex-de-asocieri-nu-o-eticheta|BRD-003]] — Brandul este un simbol complex de asocieri, nu o etichetă — „The Product and the Brand" (Gardner & Levy, 1955)
-- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
-- [[BRD-008-pozitionarea-in-doi-pasi-contextualizare-alegi-brandul-de|BRD-008]] — Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu)
-- [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter|BRD-028]] — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
-- [[BRD-036-lovemarks-roberts-iubire-peste-respect-construita-prin|BRD-036]] — Lovemarks (Roberts) — iubire peste respect, construită prin mister, senzualitate și intimitate
-- [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva|BRD-038]] — Brandurile iconice (Holt) oferă un mit identitar care rezolvă o tensiune culturală a momentului — și își pierd puterea când tensiunea dispare
-- [[BRD-062-passionbrands-la-nucleu-un-brand-puternic-conduce|BRD-062]] — Passionbrands — la nucleu, un brand puternic conduce consumatorul, nu se lasă condus de el
-- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-- [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive|CPY-003]] — Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare
-- [[CPY-038-consecventa-bate-noutatea-nu-schimba-o-reclama-care-inca|CPY-038]] — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
-- [[HIS-015-inventia-recurenta-publicitatea-isi-reinventeaza-periodic|HIS-015]] — „Invenția recurentă" — publicitatea își reinventează periodic mecanismele strategice sub nume noi
-- [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul|INS-091]] — Cercetarea motivațională și psihanaliza caută „de ce"-ul ascuns al cumpărării — bune pentru ipoteze de insight, nedovedite ca știință
+- [[ADV-003-strategic-advertising-mechanisms-fall-into-three-paradigms|ADV-003]]: Strategic advertising mechanisms fall into three paradigms: product, personality and consumer branding
+- [[ADV-004-not-every-communication-decision-is-strategy-the-critique|ADV-004]]: Not every communication decision is strategy: the critique of strategic advertising monism
+- [[ADV-021-positioning-trout-ries-rests-on-nine-principles-from|ADV-021]]: Positioning (Trout & Ries) rests on nine principles, from information saturation to permanence
+- [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition|ADV-024]]: Reeves's USP has three conditions (a concrete proposition, unique, strong enough to move the mass millions) and is not a slogan
+- [[ADV-025-there-are-three-roads-to-a-usp-you-find-it-in-the-product|ADV-025]]: There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+- [[ADV-026-brand-image-ogilvy-every-advertisement-is-a-contribution-to|ADV-026]]: Brand image (Ogilvy): every advertisement is a contribution to the complex symbol that is the brand image
+- [[ADV-027-the-reeves-ogilvy-dispute-usp-versus-brand-image-reason|ADV-027]]: The Reeves-Ogilvy dispute: USP versus brand image, reason versus emotion, research versus judgment
+- [[ADV-028-positioning-is-the-heir-of-the-usp-a-new-idea-or-old-wine|ADV-028]]: Positioning is the heir of the USP: a new idea or "old wine in new bottles"?
+- [[ADV-029-changing-the-campaign-too-often-destroys-penetration-the|ADV-029]]: Changing the campaign too often destroys penetration: the principle of perseverance
+- [[ADV-040-joannis-s-psychological-axis-the-campaign-chooses-either-to|ADV-040]]: Joannis's psychological axis: the campaign chooses either to stimulate a motivation or to lessen a restraint
+- [[ADV-042-p-g-s-copy-strategy-fixes-in-writing-the-objective-the|ADV-042]]: P&G's copy strategy fixes in writing the objective, the benefit with its proof, and the tone, not the execution
+- [[BRD-003-a-brand-is-a-complex-symbol-of-associations-not-a-label-the|BRD-003]]: A brand is a complex symbol of associations, not a label: "The Product and the Brand" (Gardner & Levy, 1955)
+- [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand|BRD-007]]: The frame of reference tells consumers the goal the brand serves
+- [[BRD-008-positioning-in-two-steps-contextualization-you-choose-the|BRD-008]]: Positioning in two steps: contextualization (you choose the reference brand) and conceptualization (you say it simply)
+- [[BRD-028-star-strategy-seguela-the-brand-person-has-physique|BRD-028]]: Star strategy (Séguéla): the brand-person has physique, character and style
+- [[BRD-036-lovemarks-roberts-love-above-respect-built-through-mystery|BRD-036]]: Lovemarks (Roberts): love above respect, built through mystery, sensuality and intimacy
+- [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a|BRD-038]]: Iconic brands (Holt) offer an identity myth that resolves a cultural tension of the moment, and lose their power when the tension fades
+- [[BRD-062-passionbrands-at-the-core-a-strong-brand-leads-the-consumer|BRD-062]]: Passionbrands: at the core, a strong brand leads the consumer instead of being led by them
+- [[BRD-063-does-the-brand-live-in-each-customer-s-mind-or-in-the|BRD-063]]: Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+- [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives|CPY-003]]: Reason-why: the ad as "salesmanship in print" that gives concrete, verifiable reasons to buy
+- [[CPY-038-consistency-beats-novelty-do-not-change-an-ad-that-still|CPY-038]]: Consistency beats novelty: do not change an ad that still works
+- [[HIS-015-recurrent-invention-advertising-periodically-reinvents-its|HIS-015]]: Recurrent invention: advertising periodically reinvents its strategic mechanisms under new names
+- [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden|INS-091]]: Motivation research and psychoanalysis look for the hidden "why" of buying: good for insight hypotheses, unproven as science
 <!-- backlinks:end -->

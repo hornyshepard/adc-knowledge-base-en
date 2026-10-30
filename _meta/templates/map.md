@@ -1,14 +1,14 @@
 ---
 id: MAP-000
-title: Titlul hărții
+title: Map title
 type: map
 skills: []
 ---
 
-# Titlul hărții
+# Map title
 
-O hartă (structure note) care traversează mai multe skill-uri: un flux de lucru, o comparație de modele sau un traseu de învățare. Fiecare punct trimite spre note permanente, cu o propoziție de context.
+A map (structure note) that crosses several skills: a workflow, a comparison of models or a learning path. Each item points to permanent notes, with one sentence of context.
 
-## Secțiunea 1
+## Section 1
 
-- [[XXX-000]] — rolul notei în această hartă
+- [[XXX-000]]: the role of the note in this map

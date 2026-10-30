@@ -1,52 +1,52 @@
 ---
 name: skill-slug
-description: Numele skill-ului — ce acoperă și CÂND să fie folosit (ex. „Folosește când lucrezi la poziționare, platformă de brand…"). Această descriere declanșează skill-ul în Claude.
+description: Name of the skill. What it covers and WHEN to use it (e.g. "Use when you work on positioning, a brand platform…"). This description triggers the skill in Claude.
 code: XXX
 domain: D1
 type: skill
 ---
 
-# Numele skill-ului (XXX)
+# Name of the skill (XXX)
 
-## Ce înseamnă să stăpânești acest skill
+## What mastering this skill means
 
-Competențe observabile („poți să…"):
+Observable competencies ("you can…"):
 
-- **C1** Poți …
-- **C2** Poți …
+- **C1** You can …
+- **C2** You can …
 
-## Harta notelor (traseu de învățare)
+## Note map (learning path)
 
-### 1. Fundamente
-- [[XXX-001]] — titlu — de ce e primul pas
+### 1. Foundations
+- [[XXX-001]] short title: why it is the first step
 
-### 2. Modele și instrumente
+### 2. Models and tools
 - …
 
-### 3. Practică și cazuri
+### 3. Practice and cases
 - …
 
-### 4. Tensiuni și dezbateri
+### 4. Tensions and debates
 - …
 
-## Surse principale
+## Main sources
 
-| Sursă | Pentru ce | Relevanță |
+| Source | What for | Relevance |
 |---|---|---|
 | [[SRC-000]] | … | ★★★★☆ |
 
-## Skill-uri vecine
+## Neighboring skills
 
-- [[YYY]] — cum se leagă
+- [[YYY]]: how it connects
 
-## Cum folosește un agent AI acest skill
+## How an AI agent uses this skill
 
-1. Pentru un task de tip …, citește întâi notele [[XXX-001]], [[XXX-004]].
-2. Aplică checklist-ul [[XXX-010]].
-3. Citează ID-urile notelor folosite, ca răspunsul să fie verificabil.
-4. Dacă ai nevoie de detaliu, deschide textul sursei din `90-library/text/` la capitolul indicat în notă.
+1. For a task of the … kind, first read the notes [[XXX-001]], [[XXX-004]].
+2. Apply the checklist [[XXX-010]].
+3. Cite the IDs of the notes you use, so the answer can be checked.
+4. If you need detail, open the source text in `90-library/text/` at the chapter given in the note.
 
-## Toate notele (generat automat)
+## All notes (generated)
 
 <!-- auto:notes:start -->
 <!-- auto:notes:end -->

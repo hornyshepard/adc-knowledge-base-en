@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
-"""kb.py — unealta de întreținere a knowledge base-ului ADC (Zettelkasten pe skill-uri).
+"""kb.py: the maintenance tool for the ADC knowledge base (a Zettelkasten organized by skills).
 
-Fără dependențe externe (Python 3.9+).
+No external dependencies (Python 3.9+).
 
-Comenzi:
-  check                 verifică notele; scrie _meta/health.md
-  build [--rename]      normalizează legăturile, backlink-uri, indexuri, catalog, graf, acoperire
+Commands:
+  check                 checks the notes; writes _meta/health.md
+  build [--rename]      normalizes links, backlinks, indexes, catalog, graph, coverage
   suggest [--skill S] [--top N] [--min X]
-                        propune legături între note similare, încă nelegate (TF-IDF)
-  merge KEEP DROP       redirecționează toate legăturile DROP→KEEP, unește sursele/tag-urile, șterge DROP
-  redirect FILE         aplică redirecționări `DROP KEEP` dintr-un fișier (după comasări manuale)
-  renumber [--dry-run]  ID-uri definitive (CODE-001…) în ordinea traseului din SKILL.md
-  new CODE "Titlu"      creează o notă permanentă nouă din șablon, cu următorul ID liber
-  stats                 statistici pe skill, tip, nivel, status
+                        suggests links between similar notes not yet linked (TF-IDF)
+  merge KEEP DROP       redirects every link DROP→KEEP, merges sources/tags, deletes DROP
+  redirect FILE         applies `DROP KEEP` redirects from a file (after manual merges)
+  renumber [--dry-run]  final IDs (CODE-001…) in the order of the learning path in SKILL.md
+  new CODE "Title"      creates a new permanent note from the template, with the next free ID
+  stats                 statistics by skill, kind, level, status
 """
 import csv
 import datetime as _dt
@@ -30,7 +30,7 @@ SKIP_DIRS = {"90-library", "tools", "templates", ".obsidian", ".git", ".claude",
 
 ID_RE = re.compile(r"^([A-Z]{3}-\d{3,4})\b")
 LINK_RE = re.compile(r"\[\[([^\]|#\\]+)(#[^\]|\\]*)?(?:\\?\|([^\]]*))?\]\]")
-TYPED_RE = re.compile(r"^\s*[-*]\s*\*\*([a-zăâîșț]+)\*\*\s*\[\[([^\]|#]+)")
+TYPED_RE = re.compile(r"^\s*[-*]\s*\*\*([a-z]+)\*\*\s*\[\[([^\]|#]+)")
 BACK_START, BACK_END = "<!-- backlinks:start -->", "<!-- backlinks:end -->"
 AUTO_START, AUTO_END = "<!-- auto:notes:start -->", "<!-- auto:notes:end -->"
 
@@ -132,7 +132,7 @@ class Note:
         return re.sub(re.escape(AUTO_START) + r".*?" + re.escape(AUTO_END), "", b, flags=re.S)
 
     def links(self):
-        """[(target_id, relation_or_None)] din corpul notei (fără secțiunile auto)."""
+        """[(target_id, relation_or_None)] from the note body (without the auto sections)."""
         out = []
         body = self.body_without_auto()
         typed = {}
@@ -152,7 +152,7 @@ class Note:
 
     def words(self):
         b = self.body_without_auto()
-        b = re.sub(r"^## (Legături|Surse)\b.*", "", b, flags=re.S | re.M)
+        b = re.sub(r"^## (Links|Sources)\b.*", "", b, flags=re.S | re.M)
         return len(re.findall(r"\w+", b))
 
 
@@ -220,7 +220,7 @@ def cmd_check(quiet=False):
     notes = load()
     by_id, dups = index(notes)
     problems = defaultdict(list)
-    incoming = Counter()  # doar legături laterale, din alte note permanente
+    incoming = Counter()  # only lateral links, from other permanent notes
     for n in notes:
         if n.type != "zettel":
             continue
@@ -229,68 +229,68 @@ def cmd_check(quiet=False):
                 incoming[tid] += 1
 
     for i, group in dups.items():
-        problems["ID duplicat"].append(f"{i}: " + ", ".join(x.rel for x in group))
+        problems["Duplicate ID"].append(f"{i}: " + ", ".join(x.rel for x in group))
 
     for n in notes:
         for f in REQUIRED.get(n.type, []):
             if f not in n.meta or n.meta.get(f) in ("", []):
-                problems["Câmp lipsă în frontmatter"].append(f"{n.rel}: `{f}`")
+                problems["Missing frontmatter field"].append(f"{n.rel}: `{f}`")
         if n.type == "zettel":
             if not n.path.name.startswith(n.id + "-") and n.path.stem != n.id:
-                problems["Nume de fișier ≠ ID"].append(f"{n.rel} (id {n.id})")
+                problems["File name ≠ ID"].append(f"{n.rel} (id {n.id})")
             code = n.id[:3]
             sk = SKILL_BY_CODE.get(code)
             if not sk:
-                problems["Cod de skill necunoscut"].append(f"{n.rel}: {code}")
+                problems["Unknown skill code"].append(f"{n.rel}: {code}")
             else:
                 if n.meta.get("skill") != sk["slug"]:
-                    problems["`skill` nu corespunde codului din ID"].append(f"{n.rel}: skill={n.meta.get('skill')} cod={code}")
+                    problems["`skill` does not match the code in the ID"].append(f"{n.rel}: skill={n.meta.get('skill')} cod={code}")
                 if f"20-skills/{sk['slug']}/" not in n.rel:
-                    problems["Notă în folderul greșit"].append(n.rel)
+                    problems["Note in the wrong folder"].append(n.rel)
             for a in as_list(n.meta.get("also")):
                 if a not in SKILL_BY_SLUG:
-                    problems["Skill necunoscut în `also`"].append(f"{n.rel}: {a}")
+                    problems["Unknown skill in `also`"].append(f"{n.rel}: {a}")
             if n.meta.get("kind") and n.meta.get("kind") not in KINDS:
-                problems["`kind` invalid"].append(f"{n.rel}: {n.meta.get('kind')}")
+                problems["Invalid `kind`"].append(f"{n.rel}: {n.meta.get('kind')}")
             if str(n.meta.get("level", "")) not in LEVEL_NAMES:
-                problems["`level` invalid"].append(f"{n.rel}: {n.meta.get('level')}")
+                problems["Invalid `level`"].append(f"{n.rel}: {n.meta.get('level')}")
             if n.meta.get("status") and n.meta.get("status") not in SKILLS["statuses"]:
-                problems["`status` invalid"].append(f"{n.rel}: {n.meta.get('status')}")
+                problems["Invalid `status`"].append(f"{n.rel}: {n.meta.get('status')}")
             sids = source_ids(n)
             if not sids:
-                problems["Fără sursă"].append(n.rel)
+                problems["No source"].append(n.rel)
             for s in sids:
                 if s not in by_id:
-                    problems["Sursă inexistentă"].append(f"{n.rel}: {s}")
+                    problems["Source does not exist"].append(f"{n.rel}: {s}")
             out_links = [t for t, _ in n.links() if t != n.id and not t.startswith("SRC") and len(t) > 3]
             if len(out_links) < 2:
-                problems["Sub 2 legături spre alte note"].append(f"{n.rel} ({len(out_links)})")
+                problems["Fewer than 2 links to other notes"].append(f"{n.rel} ({len(out_links)})")
             if incoming[n.id] == 0:
-                problems["Orfan (nicio notă permanentă nu trimite spre ea)"].append(n.rel)
+                problems["Orphan (no permanent note links to it)"].append(n.rel)
             w = n.words()
             if w < 100 or w > 650:
-                problems["Lungime atipică (corp < 100 sau > 650 cuvinte)"].append(f"{n.rel}: {w}")
+                problems["Unusual length (body < 100 or > 650 words)"].append(f"{n.rel}: {w}")
         for tid, rel in n.links():
             if tid not in by_id:
-                problems["Legătură ruptă"].append(f"{n.rel} → {tid}")
+                problems["Broken link"].append(f"{n.rel} → {tid}")
         if n.type == "zettel":
             for line in n.body_without_auto().splitlines():
                 m = TYPED_RE.match(line)
                 if m and m.group(1) not in RELATIONS:
-                    problems["Relație necunoscută"].append(f"{n.rel}: **{m.group(1)}**")
+                    problems["Unknown relation"].append(f"{n.rel}: **{m.group(1)}**")
                 elif not m and re.match(r"^\s*[-*]\s*\*\*", line) and "[[" in line:
-                    problems["Relație necunoscută"].append(f"{n.rel}: {line.strip()[:60]}")
+                    problems["Unknown relation"].append(f"{n.rel}: {line.strip()[:60]}")
 
     total = sum(len(v) for v in problems.values())
     zettels = [n for n in notes if n.type == "zettel"]
     lines = [
-        "# Sănătatea bazei de cunoștințe",
+        "# Knowledge base health",
         "",
-        f"_Generat de `tools/kb.py check` la {_dt.datetime.now():%Y-%m-%d %H:%M}._",
+        f"_Generated by `tools/kb.py check` on {_dt.datetime.now():%Y-%m-%d %H:%M}._",
         "",
-        f"- Note totale: **{len(notes)}** (permanente: {len(zettels)}, surse: {sum(n.type == 'source' for n in notes)}, "
-        f"skill-uri: {sum(n.type == 'skill' for n in notes)}, hărți: {sum(n.type == 'map' for n in notes)})",
-        f"- Probleme: **{total}**",
+        f"- Total notes: **{len(notes)}** (permanent: {len(zettels)}, sources: {sum(n.type == 'source' for n in notes)}, "
+        f"skills: {sum(n.type == 'skill' for n in notes)}, maps: {sum(n.type == 'map' for n in notes)})",
+        f"- Problems: **{total}**",
         "",
     ]
     for k in sorted(problems, key=lambda k: -len(problems[k])):
@@ -298,11 +298,11 @@ def cmd_check(quiet=False):
         lines.append("")
         lines += [f"- {x}" for x in problems[k][:300]]
         if len(problems[k]) > 300:
-            lines.append(f"- … încă {len(problems[k]) - 300}")
+            lines.append(f"- … {len(problems[k]) - 300} more")
         lines.append("")
     (META / "health.md").write_text("\n".join(lines), encoding="utf-8")
     if not quiet:
-        print(f"{len(notes)} note, {total} probleme → _meta/health.md")
+        print(f"{len(notes)} notes, {total} problems → _meta/health.md")
         for k in sorted(problems, key=lambda k: -len(problems[k])):
             print(f"  {len(problems[k]):>4}  {k}")
     return problems
@@ -311,7 +311,7 @@ def cmd_check(quiet=False):
 # ---------------------------------------------------------------- build
 
 def normalize_links(text, by_id):
-    """[[ID]] → [[stem|ID]]; în rândurile de tabel separatorul devine \\| (altfel strică tabelul)."""
+    """[[ID]] → [[stem|ID]]; in table rows the separator becomes \\| (otherwise it breaks the table)."""
     def fix_line(line):
         sep = "\\|" if line.lstrip().startswith("|") else "|"
 
@@ -343,7 +343,7 @@ def cmd_build(rename=False):
     notes = load()
     by_id, dups = index(notes)
     if dups:
-        print("Atenție: ID-uri duplicate — rulează check.", file=sys.stderr)
+        print("Warning: duplicate IDs. Run check.", file=sys.stderr)
 
     if rename:
         for n in notes:
@@ -381,29 +381,29 @@ def cmd_build(rename=False):
                 if src.type == "skill":
                     continue
                 r = f" _{rel}_" if rel else ""
-                items.append(f"- {md_link(src)}{r} — {src.title}")
-            content = "## Backlinks\n\n" + ("\n".join(items) if items else "_Nicio notă nu trimite încă aici._")
+                items.append(f"- {md_link(src)}{r}: {src.title}")
+            content = "## Backlinks\n\n" + ("\n".join(items) if items else "_No note links here yet._")
             body = replace_block(body, BACK_START, BACK_END, content)
         if n.type == "skill":
             code = n.id
             slug = SKILL_BY_CODE.get(code, {}).get("slug")
             own = by_skill.get(slug, [])
             also = [z for z in zettels if slug in as_list(z.meta.get("also"))]
-            rows = ["| ID | Titlu | Tip | Nivel | Status |", "|---|---|---|---|---|"]
+            rows = ["| ID | Title | Kind | Level | Status |", "|---|---|---|---|---|"]
             for z in own:
                 rows.append(f"| {md_link(z, table=True)} | {z.title} | {z.meta.get('kind', '')} | "
                             f"{LEVEL_NAMES.get(str(z.meta.get('level')), '')} | {z.meta.get('status', '')} |")
-            content = f"_{len(own)} note proprii._\n\n" + "\n".join(rows)
+            content = f"_{len(own)} own notes._\n\n" + "\n".join(rows)
             if also:
-                content += "\n\n**Note din alte skill-uri, relevante și aici:**\n\n" + "\n".join(
-                    f"- {md_link(z)} — {z.title}" for z in also)
+                content += "\n\n**Notes from other skills that are also relevant here:**\n\n" + "\n".join(
+                    f"- {md_link(z)}: {z.title}" for z in also)
             body = replace_block(body, AUTO_START, AUTO_END, content)
         new_text = f"---\n{fm}\n---\n{body}" if fm is not None else body
         if new_text != n.text:
             n.path.write_text(new_text, encoding="utf-8")
 
     srcs = sorted([n for n in notes if n.type == "source"], key=lambda n: n.id)
-    # hărți generate (frontmatter `auto: debates | library | curriculum`)
+    # generated maps (frontmatter `auto: debates | library | curriculum`)
     for n in [x for x in notes if x.type == "map" and x.meta.get("auto")]:
         kind = n.meta.get("auto")
         if kind == "debates":
@@ -412,12 +412,12 @@ def cmd_build(rename=False):
                 ds = [z for z in by_skill.get(s["slug"], []) if z.meta.get("kind") == "debate"]
                 if ds:
                     parts.append(f"### {s['code']} · {s['name']}\n")
-                    parts += [f"- {md_link(z)} — {z.title}" for z in ds]
+                    parts += [f"- {md_link(z)}: {z.title}" for z in ds]
                     parts.append("")
-            content = f"_{sum(1 for z in zettels if z.meta.get('kind') == 'debate')} note de tip dezbatere._\n\n" + "\n".join(parts)
+            content = f"_{sum(1 for z in zettels if z.meta.get('kind') == 'debate')} debate notes._\n\n" + "\n".join(parts)
         elif kind == "library":
             cited = Counter(s for z in zettels for s in source_ids(z))
-            rows_ = ["| Sursă | Titlu | Autori | An | Relevanță | Skill-uri | Note care o citează |", "|---|---|---|---|---|---|---|"]
+            rows_ = ["| Source | Title | Authors | Year | Relevance | Skills | Notes citing it |", "|---|---|---|---|---|---|---|"]
             for sn in sorted(srcs, key=lambda x: (-int(str(x.meta.get("relevance", 0)) or 0), x.id)):
                 r = int(str(sn.meta.get("relevance", 0)) or 0)
                 sk = ", ".join(SKILL_BY_SLUG[k]["code"] for k in as_list(sn.meta.get("skills")) if k in SKILL_BY_SLUG)
@@ -434,7 +434,7 @@ def cmd_build(rename=False):
                     own = [z.id for z in by_skill.get(s["slug"], [])]
                     first = (skill_order(hub, set(own)) if hub else [])[:3] or own[:3]
                     starts = ", ".join(md_link(by_id[i]) for i in first if i in by_id)
-                    parts.append(f"- [[20-skills/{s['slug']}/SKILL|{c}]] **{s['name']}** ({len(own)} note) — începe cu {starts}")
+                    parts.append(f"- [[20-skills/{s['slug']}/SKILL|{c}]] **{s['name']}** ({len(own)} notes): start with {starts}")
                 parts.append("")
             content = "\n".join(parts)
         else:
@@ -475,22 +475,22 @@ def cmd_build(rename=False):
     for z in zettels:
         for s in source_ids(z):
             cov[z.meta.get("skill")][s] += 1
-    lines = ["# Acoperire: skill × sursă", "", f"_Generat de `kb.py build` la {_dt.datetime.now():%Y-%m-%d %H:%M}._", "",
-             "Câte note permanente din fiecare skill citează fiecare sursă.", "",
-             "## Pe skill", "", "| Skill | Note | Nivel 1/2/3 | Surse folosite | Top surse |", "|---|---|---|---|---|"]
+    lines = ["# Coverage: skill × source", "", f"_Generated by `kb.py build` on {_dt.datetime.now():%Y-%m-%d %H:%M}._", "",
+             "How many permanent notes from each skill cite each source.", "",
+             "## By skill", "", "| Skill | Notes | Level 1/2/3 | Sources used | Top sources |", "|---|---|---|---|---|"]
     for s in SKILLS["skills"]:
         own = by_skill.get(s["slug"], [])
         lv = Counter(str(z.meta.get("level")) for z in own)
         top = ", ".join(f"{k} ({v})" for k, v in cov[s["slug"]].most_common(4))
         lines.append(f"| {s['code']} {s['name']} | {len(own)} | {lv['1']}/{lv['2']}/{lv['3']} | {len(cov[s['slug']])} | {top} |")
-    lines += ["", "## Pe sursă", "", "| Sursă | Titlu | Note care o citează | Skill-uri |", "|---|---|---|---|"]
+    lines += ["", "## By source", "", "| Source | Title | Notes citing it | Skills |", "|---|---|---|---|"]
     for sn in srcs:
         cnt = sum(cov[k][sn.id] for k in cov)
         sk = sorted({k for k in cov if cov[k][sn.id]})
         lines.append(f"| {sn.id} | {sn.title} | {cnt} | {', '.join(SKILL_BY_SLUG[k]['code'] for k in sk if k in SKILL_BY_SLUG)} |")
     thin = [s for s in SKILLS["skills"] if len(by_skill.get(s["slug"], [])) < 10]
     if thin:
-        lines += ["", "## Goluri", ""] + [f"- **{s['code']}** {s['name']}: doar {len(by_skill.get(s['slug'], []))} note." for s in thin]
+        lines += ["", "## Gaps", ""] + [f"- **{s['code']}** {s['name']}: only {len(by_skill.get(s['slug'], []))} notes." for s in thin]
     (META / "coverage.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     # INDEX auto
@@ -503,25 +503,24 @@ def cmd_build(rename=False):
             for c in d["skills"]:
                 s = SKILL_BY_CODE[c]
                 own = by_skill.get(s["slug"], [])
-                parts.append(f"- [[20-skills/{s['slug']}/SKILL|{c}]] **{s['name']}** — {len(own)} note")
+                parts.append(f"- [[20-skills/{s['slug']}/SKILL|{c}]] **{s['name']}**: {len(own)} notes")
             parts.append("")
-        parts.append(f"**Total:** {len(zettels)} note permanente · {len(srcs)} surse · "
-                     f"{len([n for n in notes if n.type == 'map'])} hărți · {len(edges)} legături")
+        parts.append(f"**Total:** {len(zettels)} permanent notes · {len(srcs)} sources · "
+                     f"{len([n for n in notes if n.type == 'map'])} maps · {len(edges)} links")
         idx.write_text(replace_block(t, AUTO_START, AUTO_END, "\n".join(parts)), encoding="utf-8")
 
-    print(f"build: {len(notes)} note, {len(edges)} legături. Catalog, graf, acoperire actualizate.")
+    print(f"build: {len(notes)} notes, {len(edges)} links. Catalog, graph and coverage updated.")
 
 
 # ---------------------------------------------------------------- suggest
 
-STOP = set("""a ai al ale am ar are as asa asta aceasta acest acesta aceste acestea acei aceia acel acela acele
-acolo acum adica ai al alt alta alte altii am apoi ar are as atat atunci au avea b ba c ca cand care cat cate catre
-ce cea cei cel cele cele ceva chiar ci cine cum cu d da daca dar de deci decat deja desi despre din dintr dintre doar
-dupa e ea ei el ele era este eu fara fi fie fiecare fiind foarte fost fata g h i ia iar ii il imi in inainte inca
-intr intre isi j l la le li lor lui m ma mai mult multe multi n ne nici nimic noi nostru nu o ori p pe pentru peste
-poate pot prin s sa sau se si sunt spre sub sus t ta tot toata toate toti tu u un una unei unor unde unei unui v va
-vor x z the and of to in a is for that on with as by an be or are from this it at not your you can they their more
-nota notei note idee ideea exemplu aplicare explicatie intrebari legaturi surse cap p vezi fundament extinde src
+STOP = set("""a about above after again against all also am an and any are as at be because been before being
+below between both but by can could did do does doing down during each few for from further had has have having he her
+here hers him his how i if in into is it its itself just me more most my no nor not now of off on once only or other our
+ours out over own same she should so some such than that the their theirs them then there these they this those through
+to too under until up very was we were what when where which while who whom why will with would you your yours
+one two three can may might must also even way ways make makes made use used using get gets like well much many often
+note notes idea example application explanation questions links sources ch p pp see foundation extends src
 """.split())
 
 
@@ -536,7 +535,7 @@ def cmd_suggest(skill=None, top=6, min_sim=0.10):
     docs = {}
     for n in notes:
         body = n.body_without_auto()
-        body = re.split(r"^## (Legături|Surse)\b", body, flags=re.M)[0]
+        body = re.split(r"^## (Links|Sources)\b", body, flags=re.M)[0]
         tags = " ".join(as_list(n.meta.get("tags")))
         docs[n.id] = tokenize((n.title + " ") * 3 + (tags + " ") * 2 + body)
     df = Counter()
@@ -571,11 +570,11 @@ def cmd_suggest(skill=None, top=6, min_sim=0.10):
         cands = [(j, s) for j, s in scores.most_common(40) if s >= min_sim and (n.id, j) not in linked][:top]
         if cands:
             out.append((n, cands))
-    lines = ["# Propuneri de legături", "",
-             f"_Generat de `kb.py suggest` la {_dt.datetime.now():%Y-%m-%d %H:%M}. Similaritate TF-IDF; "
-             "confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._", ""]
+    lines = ["# Link suggestions", "",
+             f"_Generated by `kb.py suggest` on {_dt.datetime.now():%Y-%m-%d %H:%M}. TF-IDF similarity; "
+             "confirm only the links that have a clear reason and write them with a typed relation._", ""]
     for n, cands in out:
-        lines.append(f"## {n.id} — {n.title}")
+        lines.append(f"## {n.id}: {n.title}")
         for j, s in cands:
             o = by_id[j]
             same = "" if o.meta.get("skill") == n.meta.get("skill") else f" · _{o.meta.get('skill')}_"
@@ -583,23 +582,23 @@ def cmd_suggest(skill=None, top=6, min_sim=0.10):
         lines.append("")
     name = f"link-suggestions-{skill}.md" if skill else "link-suggestions.md"
     (META / name).write_text("\n".join(lines), encoding="utf-8")
-    print(f"suggest: {sum(len(c) for _, c in out)} propuneri pentru {len(out)} note → _meta/{name}")
+    print(f"suggest: {sum(len(c) for _, c in out)} suggestions for {len(out)} notes → _meta/{name}")
 
 
 # ---------------------------------------------------------------- merge / renumber / new
 
 def rewrite_ids(mapping, notes=None):
-    """Înlocuiește ID-uri în toate fișierele .md (o singură trecere, fără înlănțuiri)."""
+    """Replaces IDs in every .md file (a single pass, no chaining)."""
     if not mapping:
         return
     pat = re.compile(r"\b(" + "|".join(re.escape(k) for k in sorted(mapping, key=len, reverse=True)) + r")\b(?!-\d)")
     for p in iter_md():
         rel = p.relative_to(ROOT).as_posix()
         if rel.startswith("_meta/") or rel in ("README.md", "CLAUDE.md"):
-            continue  # documentația conține ID-uri de exemplu, nu legături reale
+            continue  # the documentation holds example IDs, not real links
         t = p.read_text(encoding="utf-8")
         new = pat.sub(lambda m: mapping[m.group(1)], t)
-        # legăturile [[OLD-slug|...]] devin [[NEW-slug|...]]; build le reface oricum
+        # links [[OLD-slug|...]] become [[NEW-slug|...]]; build rewrites them anyway
         if new != t:
             p.write_text(new, encoding="utf-8")
 
@@ -634,7 +633,7 @@ def cmd_merge(keep, drop):
     notes = load()
     by_id, _ = index(notes)
     if keep not in by_id or drop not in by_id:
-        sys.exit(f"ID inexistent: {keep if keep not in by_id else drop}")
+        sys.exit(f"No such ID: {keep if keep not in by_id else drop}")
     k, d = by_id[keep], by_id[drop]
     text = k.text
     for field in ("sources", "tags", "also"):
@@ -647,24 +646,24 @@ def cmd_merge(keep, drop):
     k.path.write_text(text, encoding="utf-8")
     d.path.unlink()
     rewrite_ids({drop: keep})
-    # elimină auto-legăturile apărute după redirect
+    # remove self-links created by the redirect
     t = k.path.read_text(encoding="utf-8")
     t = re.sub(rf"^\s*[-*]\s*\*\*\w+\*\*\s*\[\[{re.escape(keep)}[^\]]*\]\].*\n", "", t, flags=re.M)
     k.path.write_text(t, encoding="utf-8")
     log = META / "merges.log"
     with open(log, "a", encoding="utf-8") as f:
         f.write(f"{_dt.datetime.now():%Y-%m-%d %H:%M}\t{drop} → {keep}\t{d.title}\n")
-    print(f"merge: {drop} → {keep}. Toate legăturile spre {drop} trimit acum la {keep}. Rulează build.")
+    print(f"merge: {drop} → {keep}. Every link to {drop} now points to {keep}. Run build.")
 
 
 def cmd_redirect(path):
-    """Aplică redirecționări dintr-un fișier: pe fiecare rând `DROP KEEP` (sau `DROP → KEEP`)."""
+    """Applies redirects from a file: `DROP KEEP` (or `DROP → KEEP`) on each line."""
     mapping = {}
     for line in Path(path).read_text(encoding="utf-8").splitlines():
         ids = re.findall(r"[A-Z]{3}-\d{3,4}", line)
         if len(ids) >= 2 and not line.lstrip().startswith("#"):
             mapping[ids[0]] = ids[1]
-    # rezolvă lanțurile A→B, B→C
+    # resolve chains A→B, B→C
     for k in list(mapping):
         seen = {k}
         while mapping[k] in mapping and mapping[k] not in seen:
@@ -674,7 +673,7 @@ def cmd_redirect(path):
     with open(META / "merges.log", "a", encoding="utf-8") as f:
         for a, b in mapping.items():
             f.write(f"{_dt.datetime.now():%Y-%m-%d %H:%M}\t{a} → {b}\t(redirect)\n")
-    print(f"redirect: {len(mapping)} ID-uri redirecționate. Rulează build.")
+    print(f"redirect: {len(mapping)} IDs redirected. Run build.")
 
 
 def skill_order(skill_note, own_ids):
@@ -691,7 +690,7 @@ def cmd_renumber(dry=False):
     notes = load()
     by_id, dups = index(notes)
     if dups:
-        sys.exit("ID-uri duplicate; rezolvă-le întâi (kb.py check).")
+        sys.exit("Duplicate IDs; resolve them first (kb.py check).")
     mapping = {}
     for s in SKILLS["skills"]:
         own = sorted([n for n in notes if n.type == "zettel" and n.id.startswith(s["code"] + "-")],
@@ -715,19 +714,19 @@ def cmd_renumber(dry=False):
             if n.path.name != want:
                 n.path.rename(n.path.with_name(want))
     (META / "renumber-map.json").write_text(json.dumps(mapping, indent=1), encoding="utf-8")
-    print(f"renumber: {len(mapping)} ID-uri schimbate → _meta/renumber-map.json. Rulează acum build.")
+    print(f"renumber: {len(mapping)} IDs changed → _meta/renumber-map.json. Now run build.")
 
 
 def cmd_new(code, title):
     s = SKILL_BY_CODE.get(code)
     if not s:
-        sys.exit(f"Cod necunoscut: {code}")
+        sys.exit(f"Unknown code: {code}")
     notes = load()
     nums = [int(n.id.split("-")[1]) for n in notes if n.type == "zettel" and n.id.startswith(code + "-")]
     nid = f"{code}-{(max(nums) + 1 if nums else 1):03d}"
     tpl = (META / "templates" / "zettel.md").read_text(encoding="utf-8")
     tpl = tpl.replace("XXX-000", nid, 1).replace("skill-slug", s["slug"])
-    tpl = tpl.replace("Titlul este o afirmație sau un concept precis", title)
+    tpl = tpl.replace("The title is a precise claim or concept", title)
     p = ROOT / "20-skills" / s["slug"] / "notes" / f"{nid}-{slugify(title)}.md"
     p.write_text(tpl, encoding="utf-8")
     print(p.relative_to(ROOT))
@@ -736,7 +735,7 @@ def cmd_new(code, title):
 def cmd_stats():
     notes = load()
     z = [n for n in notes if n.type == "zettel"]
-    print(f"Note: {len(notes)} · permanente: {len(z)} · surse: {sum(n.type == 'source' for n in notes)} · hărți: {sum(n.type == 'map' for n in notes)}")
+    print(f"Notes: {len(notes)} · permanent: {len(z)} · sources: {sum(n.type == 'source' for n in notes)} · maps: {sum(n.type == 'map' for n in notes)}")
     by = Counter(n.meta.get("skill") for n in z)
     for s in SKILLS["skills"]:
         print(f"  {s['code']} {s['slug']:24} {by[s['slug']]:>4}")

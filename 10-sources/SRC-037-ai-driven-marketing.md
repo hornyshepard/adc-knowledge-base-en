@@ -14,65 +14,65 @@ level: 1
 
 # AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
 
-**Karen Noil, 2025.** Autoeditată (nu apare o editură; doar copyright-ul autoarei). ~26.000 de cuvinte.
+**Karen Noil, 2025.** Self-published (no publisher appears; only the author's copyright). About 26,000 words.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un tur introductiv al aplicațiilor AI în marketing: personalizare, colectarea datelor, segmentare, analiză predictivă, conținut, e-mail, chatboți, publicitate plătită, analytics, unelte, etică și tendințe. Fiecare capitol are aceeași structură: definiție → cum ajută AI → unelte → bune practici → provocări → concluzie.
-- **Teza centrală:** AI permite trecerea de la comunicarea de masă la personalizarea unu-la-unu, la scară și în timp real, cu condiția unor date curate și a supravegherii umane.
-- **Pentru cine și când:** începători absoluți, în primele ore ale modulului AIM, ca vocabular de bază. Nu e lectură pentru strategi sau creativi avansați.
-- **Relevanță pentru ADC:** ★★☆☆☆ — utilă doar ca glosar și hartă a aplicațiilor. Textul e generic și foarte repetitiv (aceleași „provocări": date, confidențialitate, expertiză, repetate în aproape fiecare capitol). Pare scris cu asistență AI. Nu are nimic despre creativitate, idee sau brand ca sistem de semnificații.
+- **What it is about:** an introductory tour of AI applications in marketing: personalization, data collection, segmentation, predictive analytics, content, email, chatbots, paid advertising, analytics, tools, ethics and trends. Every chapter has the same structure: definition → how AI helps → tools → best practices → challenges → conclusion.
+- **Central thesis:** AI makes it possible to move from mass communication to one-to-one personalization, at scale and in real time, provided the data is clean and humans supervise.
+- **For whom and when:** complete beginners, in the first hours of the AIM module, as basic vocabulary. Not reading for strategists or advanced creatives.
+- **Relevance for ADC:** ★★☆☆☆: useful only as a glossary and a map of applications. The text is generic and very repetitive (the same "challenges": data, privacy, expertise, repeated in almost every chapter). It looks written with AI assistance. It has nothing on creativity, the idea or the brand as a system of meanings.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Intro, 1 | Ce este AI (ML, NLP, deep learning), aplicații, beneficii, provocări | — (generic) |
-| 2 | De ce contează personalizarea; cele patru moduri; Amazon, Netflix, Spotify | [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp\|AIM-016]] |
-| 3 | Tipuri de date (comportamentale, demografice, tranzacționale, sociale, psihografice), unelte | [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp\|AIM-016]] |
-| 4 | Segmentare comportamentală, psihografică, în timp real, predictivă; hiper-segmente dinamice; supra-segmentare | [[AIM-017-segmentele-construite-cu-ai-sunt-dinamice-clientul-migreaza\|AIM-017]] |
-| 5 | Analiza predictivă: proces în 5 pași, CLV, lead scoring, churn | [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde\|AIM-006]] |
-| 6 | Conținut personalizat (Jasper, Persado, Phrasee, Dynamic Yield); supra-personalizare, silozuri de date | [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp\|AIM-016]] |
-| 7 | E-mail: segmentare, send-time și frequency optimization, e-mailuri de ciclu de viață | [[DIG-036-in-e-mailul-cu-ai-momentul-si-frecventa-trimiterii-se\|DIG-036]] |
-| 8 | Chatboți: NLP, context, model hibrid, escaladare spre om | [[AIM-023-chatbotul-bun-stie-cand-sa-predea-conversatia-unui-om\|AIM-023]] |
-| 9 | Publicitate plătită: programmatic, RTB, Smart Bidding, reclame dinamice | — (generic) |
-| 10 | Analytics cu AI: CLV, churn, ROAS, CRO, engagement | — (generic) |
-| 11 | Unelte, cursuri, conferințe | — (liste) |
-| 12 | Etică: consimțământ, acces, transparență, minimizare, bias, explicabilitate, responsabilitate | [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza\|AIM-030]] |
-| 13, Concluzie, Anexă | Tendințe (voice search, AR/VR, conținut generat), resurse | — |
+| Introduction, 1 | The Basics of AI Marketing: what AI is (ML, NLP, deep learning), applications, benefits, challenges | none (generic) |
+| 2 | AI-Powered Personalization: Why It Matters (the four ways; Amazon, Netflix, Spotify) | [[AIM-016-ai-personalization-works-in-four-registers-real-time\|AIM-016]] |
+| 3 | Leveraging AI for Data Collection and Customer Insights: types of data (behavioral, demographic, transactional, social, psychographic), tools | [[AIM-016-ai-personalization-works-in-four-registers-real-time\|AIM-016]] |
+| 4 | AI and Customer Segmentation: behavioral, psychographic, real-time and predictive segmentation; dynamic hyper-segments; over-segmentation | [[AIM-017-ai-built-segments-are-dynamic-customers-move-between-them\|AIM-017]] |
+| 5 | Predictive Analytics: Forecasting Customer Behavior (a 5-step process, CLV, lead scoring, churn) | [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell\|AIM-006]] |
+| 6 | Creating Personalized Content with AI (Jasper, Persado, Phrasee, Dynamic Yield); over-personalization, data silos | [[AIM-016-ai-personalization-works-in-four-registers-real-time\|AIM-016]] |
+| 7 | AI in Email Marketing: Tailored Customer Journeys (segmentation, send-time and frequency optimization, lifecycle emails) | [[DIG-036-in-ai-driven-email-send-time-and-frequency-are-optimized\|DIG-036]] |
+| 8 | AI-Powered Chatbots and Customer Support: NLP, context, the hybrid approach, escalation to a human | [[AIM-023-a-good-chatbot-knows-when-to-hand-the-conversation-over-to\|AIM-023]] |
+| 9 | AI in Paid Advertising: Precision Targeting for Maximum ROI (programmatic, RTB, Smart Bidding, dynamic ads) | none (generic) |
+| 10 | AI-Powered Analytics: Measuring Success and Optimizing Campaigns (CLV, churn, ROAS, CRO, engagement) | none (generic) |
+| 11 | AI Tools, Tips, and Resources for Marketing Success (tools, courses, conferences) | none (lists) |
+| 12 | Ethical Considerations in AI-Driven Marketing: consent, access, transparency, minimization, bias, explainability, accountability | [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent\|AIM-030]] |
+| 13, Conclusion, Appendix | Future Trends in AI-Driven Marketing (voice search, AR/VR, generated content), resources | none |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] — tipologia celor patru registre ale personalizării și cele două limite (supra-personalizare, silozuri de date).
-- [[AIM-017-segmentele-construite-cu-ai-sunt-dinamice-clientul-migreaza|AIM-017]] — segmentul dinamic, din care clientul intră și iese după comportament; riscul supra-segmentării.
-- [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde|AIM-006]] — analiza predictivă ca ciclu cu buclă de feedback; cinci utilizări-tip.
-- [[DIG-036-in-e-mailul-cu-ai-momentul-si-frecventa-trimiterii-se|DIG-036]] — e-mailul cu AI: ora și ritmul trimiterii optimizate pe individ; patru e-mailuri de ciclu de viață.
-- [[AIM-023-chatbotul-bun-stie-cand-sa-predea-conversatia-unui-om|AIM-023]] — modelul hibrid bot + om și regula „ieșirii ușoare" spre un agent uman.
-- [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza|AIM-030]] — patru reguli de etică a datelor plus explicabilitate și răspundere.
+- [[AIM-016-ai-personalization-works-in-four-registers-real-time|AIM-016]]: the typology of the four registers of personalization and its two limits (over-personalization, data silos).
+- [[AIM-017-ai-built-segments-are-dynamic-customers-move-between-them|AIM-017]]: the dynamic segment, which the customer enters and leaves depending on behavior; the risk of over-segmentation.
+- [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell|AIM-006]]: predictive analytics as a cycle with a feedback loop; five typical uses.
+- [[DIG-036-in-ai-driven-email-send-time-and-frequency-are-optimized|DIG-036]]: email with AI: send time and frequency optimized for each person; four lifecycle emails.
+- [[AIM-023-a-good-chatbot-knows-when-to-hand-the-conversation-over-to|AIM-023]]: the hybrid bot + human model and the rule of an "easy exit" to a human agent.
+- [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent|AIM-030]]: four rules of data ethics, plus explainability and accountability.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Statistici fără sursă verificabilă:** „91% dintre consumatori" (Accenture), „80%" (Epsilon), fără an, eșantion sau context.
-- **Exemple ipotetice**, nu cazuri: aproape toate exemplele sunt „un retailer ar putea…". Cazurile reale (Amazon, Netflix, Spotify, Sephora) sunt cele mai cunoscute și sunt descrise superficial.
-- **Liste de unelte care se perimează repede** (Jasper, Copy.ai, Albert, Persado, Phrasee, IBM Watson Analytics, unele deja retrase sau rebranduite).
-- **Nicio discuție despre incrementalitate:** cartea presupune că personalizarea crește vânzările, fără să întrebe dacă predicția doar identifică oameni care ar fi cumpărat oricum. Vezi Struhl ([[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]]) pentru rigoare.
-- Capitolul 13 nu apare în cuprins, iar structura identică a capitolelor sugerează text generat sau asamblat rapid.
-- Lipsește complet perspectiva creativă: ce înseamnă personalizarea pentru idee, consecvența brandului și producție.
+- **Statistics without a verifiable source:** "91% of consumers" (Accenture), "80%" (Epsilon), with no year, sample or context.
+- **Hypothetical examples**, not cases: almost all examples are "a retailer might…". The real cases (Amazon, Netflix, Spotify, Sephora) are the best known and are described superficially.
+- **Lists of tools that date quickly** (Jasper, Copy.ai, Albert, Persado, Phrasee, IBM Watson Analytics, some already retired or rebranded).
+- **No discussion of incrementality:** the book assumes that personalization increases sales, without asking whether the prediction only identifies people who would have bought anyway. See Struhl ([[SRC-038-artificial-intelligence-marketing-and-predicting-consumer-choice|SRC-038]]) for rigor.
+- Chapter 13 does not appear in the table of contents, and the identical structure of the chapters suggests a text that was generated or assembled quickly.
+- The creative perspective is completely missing: what personalization means for the idea, brand consistency and production.
 
-## Citat
+## Quote
 
-> „AI is a tool that should be used to enhance—not replace—human creativity" (cap. 13, Concluzie).
+> "AI is a tool that should be used to enhance—not replace—human creativity" (ch. 13, conclusion).
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde|AIM-006]] — Analiza predictivă estimează cine va cumpăra, ce se va vinde și ce va funcționa — un ciclu care se verifică continuu, nu un raport
-- [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
-- [[AIM-017-segmentele-construite-cu-ai-sunt-dinamice-clientul-migreaza|AIM-017]] — Segmentele construite cu AI sunt dinamice — clientul migrează între ele după comportament
-- [[AIM-023-chatbotul-bun-stie-cand-sa-predea-conversatia-unui-om|AIM-023]] — Chatbotul bun știe când să predea conversația unui om
-- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
-- [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza|AIM-030]] — Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
-- [[AIM-032-biasul-in-marketingul-cu-ai-are-doua-surse-datele-din-care|AIM-032]] — Biasul în marketingul cu AI are două surse — datele din care învață modelul și încrederea oarbă a omului în recomandare
-- [[DIG-036-in-e-mailul-cu-ai-momentul-si-frecventa-trimiterii-se|DIG-036]] — În e-mailul cu AI, momentul și frecvența trimiterii se optimizează pe individ, nu pe listă
-- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+- [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell|AIM-006]]: Predictive analytics estimates who will buy, what will sell and what will work: a cycle that is checked continuously, not a report
+- [[AIM-016-ai-personalization-works-in-four-registers-real-time|AIM-016]]: AI personalization works in four registers: real-time, behavioral, micro-segment and predictive
+- [[AIM-017-ai-built-segments-are-dynamic-customers-move-between-them|AIM-017]]: AI-built segments are dynamic: customers move between them as their behavior changes
+- [[AIM-023-a-good-chatbot-knows-when-to-hand-the-conversation-over-to|AIM-023]]: A good chatbot knows when to hand the conversation over to a human
+- [[AIM-029-can-ai-create-a-brand-s-identity-the-promise-of-ai|AIM-029]]: Can AI create a brand's identity? The promise of “AI-generated brand assets” vs. the brand as meaning and relationship
+- [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent|AIM-030]]: Data ethics in AI marketing has four basic rules: consent, access and erasure, transparency, minimization
+- [[AIM-032-bias-in-ai-marketing-has-two-sources-the-data-the-model|AIM-032]]: Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+- [[DIG-036-in-ai-driven-email-send-time-and-frequency-are-optimized|DIG-036]]: In AI-driven email, send time and frequency are optimized for the individual, not for the list
+- [[SRC-042-the-future-of-marketing|SRC-042]]: The Future of Marketing: Harnessing Artificial Intelligence for Success
 <!-- backlinks:end -->

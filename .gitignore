@@ -1,7 +1,7 @@
-# Textele integrale ale cărților (protejate de copyright) rămân doar local
+# Full book texts (protected by copyright) stay local only
 90-library/text/
 
-# Fișiere originale de cărți, dacă ajung din greșeală aici
+# Original book files, in case they end up here by mistake
 *.pdf
 *.epub
 *.azw3
@@ -9,7 +9,7 @@
 *.mp3
 *.docx
 
-# Sistem / editoare
+# System / editors
 .DS_Store
 .obsidian/workspace*
 .obsidian/cache
@@ -17,5 +17,5 @@ __pycache__/
 *.pyc
 .venv/
 
-# Vault Obsidian separat, creat local (nu face parte din bază)
+# Separate Obsidian vault, created locally (not part of the base)
 Vual/

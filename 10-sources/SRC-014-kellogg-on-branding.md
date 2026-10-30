@@ -14,154 +14,154 @@ level: 2
 
 # Kellogg on Branding in a Hyper-Connected World
 
-**Alice M. Tybout & Tim Calkins (editori), 2019.** John Wiley & Sons, Hoboken (NJ). Prefață de Jim Stengel. Volum colectiv: 24 de capitole scrise de profesori Kellogg (Northwestern University) și de practicieni (McDonald's, Ulta Beauty, John Deere, Google, Novant Health, fostul secretar al turismului din Mexic).
+**Alice M. Tybout & Tim Calkins (editors), 2019.** John Wiley & Sons, Hoboken (NJ). Foreword by Jim Stengel. An edited volume: 24 chapters written by Kellogg professors (Northwestern University) and by practitioners (McDonald's, Ulta Beauty, John Deere, Google, Novant Health, the former secretary of tourism of Mexico).
 
-> Notă despre pagini: în note se folosește **paginația tipărită** a cărții (capitolul 1 începe la p. 3). În fișierul text, marcajul `=== [page N] ===` = pagina tipărită + 30 (ex. p. 3 = `[page 33]`); introducerea are numerotare romană (p. xix–xxviii).
+> Note on pages: the notes use the book's **printed page numbers** (chapter 1 starts on p. 3). In the text file, the marker `=== [page N] ===` = printed page + 30 (e.g., p. 3 = `[page 33]`); the introduction has Roman numerals (pp. xix–xxviii).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual de strategie de brand pentru era „hiper-conectată": poziționare, scop, portofoliu, competiție, implementare, branduri globale (secțiunea I); design, puncte de contact, conexiunea brand–sine, publicitate, storytelling, servicii (II); insight, neuroștiință, măsurarea sănătății și a valorii brandului (III); studii de caz ale unor lideri de brand (IV).
-- **Teza centrală:** contrar ideii că digitalul face brandurile inutile, brandurile contează mai mult ca oricând — diferențiază, simplifică alegerea, creează identitate —, dar construirea lor e mai grea din cauza presiunii pe termen scurt, a punctelor de contact care se înmulțesc și a aglomerării.
-- **Pentru cine și când:** cursul de strategie de brand (nivel 1–2) și seminarii de strategie de publicitate; capitolele 1, 3, 7, 8, 10, 15 sunt lecturi de bază, secțiunea IV oferă cazuri pentru discuții.
-- **Relevanță pentru ADC:** ★★★★★ (5) — cea mai solidă sursă academică a grupului: modele clare (declarația de poziționare, ecuația valorii, matricea motivelor, modelul notorietate–simpatie–cotă, 4M media, șablonul de design cu 12 indicii), numeroase exemple de campanii cu linkuri, plus o dezbatere internă onestă despre brand purpose. Limite: exemple aproape exclusiv americane, date din 2018 (social media, ad-tech) deja parțial depășite; unele capitole de practicieni sunt auto-promoționale.
+- **What it is about:** a brand strategy handbook for the "hyper-connected" era: positioning, purpose, portfolio, competition, implementation, global brands (section one); design, touchpoints, the connection between brands and the self, advertising, storytelling, services (section two); insight, neuroscience, measuring brand health and brand value (section three); case studies from brand leaders (section four).
+- **Central thesis:** contrary to the idea that digital makes brands unnecessary, brands matter more than ever (they differentiate, simplify choice and create identity), but building them is harder because of short-term pressure, multiplying touchpoints and clutter.
+- **For whom and when:** the brand strategy course (level 1–2) and advertising strategy seminars; chapters 1, 3, 7, 8, 10 and 15 are core readings, and section four offers cases for discussion.
+- **Relevance for ADC:** ★★★★★ (5): the strongest academic source in the group: clear models (the brand positioning statement, the value equation, the motive matrix, the awareness/liking/market-share model, the 4Ms of media strategy, the brand design template with 12 cues), many campaign examples with links, and an honest internal debate about brand purpose. Limits: almost exclusively American examples, data from 2018 (social media, ad tech) already partly outdated; some practitioner chapters are self-promotional.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema (autor) | Note derivate |
+| Ch. | Topic (author) | Derived notes |
 |---|---|---|
-| Intro | Puterea și provocarea branding-ului (Calkins) | [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o\|BRD-001]], [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati\|BRD-005]] |
-| 1 | Poziționarea (Tybout) | [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru\|BRD-006]], [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop\|BRD-007]], [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe\|BRD-012]], [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la\|BRD-013]], [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea\|BRD-053]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
-| 2 | Brand purpose (Stengel, Carcieri, Dunn) | [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l\|BRD-023]] |
-| 3 | Portofoliul de branduri (Calkins) | [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of\|BRD-044]], [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta\|BRD-045]], [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea\|BRD-046]] |
-| 4 | Pionier, fast follower, late mover (Carpenter & Nakamoto) | [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau\|BRD-016]] |
-| 5 | Implementarea strategiei de brand (Leininger) | [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu\|BRD-047]] |
-| 6 | Branduri globale cu suflet (Khosla) | [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal\|BRD-049]] |
-| 7 | Design de brand și design thinking (Calder) | [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la\|ART-011]], [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii\|ART-012]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]], [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop\|BRD-007]] |
-| 8 | Puncte de contact și călătoria clientului (McTigue) | [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment\|ADV-018]] |
-| 9 | Conexiuni brand–sine (Roese & Gardner) | [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine\|BRD-033]], [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid\|BRD-034]], [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de\|BRD-035]] |
-| 10 | Strategia de publicitate online (Sternthal) | [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau\|ADV-045]], [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia\|ADV-043]], [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om\|ADV-067]], [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire\|ADV-058]], [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de\|ART-022]], [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine\|BRD-033]] |
-| 11 | Digital brand storytelling (Sawhney) | [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar\|STO-006]], [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale\|STO-031]] |
-| 12 | Branduri de servicii (O'Toole) | [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul\|BRD-050]] |
-| 13 | Insight-uri în era digitală (Braig) | [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator\|INS-093]] |
-| 14 | Neuroștiința în evaluarea brandurilor (Cerf) | — (EEG, fMRI, eye-tracking; citit, nenotat separat) |
-| 15 | Măsurarea relevanței și sănătății brandului (Hennessy) | [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia\|BRD-057]], [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari\|BRD-058]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
-| 16 | Marketing și finanțe: valoarea brandului (Calder) | [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e\|BRD-059]] |
-| 17 | Has purpose lost its purpose? McDonald's (Lagnado & Mitchell) | [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini\|BRD-061]], [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa\|BRD-019]] |
-| 18 | Ulta Beauty (Dillon & Kimbell) | [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu\|BRD-047]] |
-| 19 | John Deere (Docherty & Porter) | [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea\|BRD-055]] |
-| 20 | Novant Health (Davis & Duvall) | [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of\|BRD-044]] |
-| 21 | Repoziționarea brandului Mexic (Guevara) | [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar\|BRD-056]] |
-| 22 | Comunicarea de brand în digital (Halvorsen, Google) | [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia\|ADV-043]], [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire\|ADV-058]] |
-| 23 | Experiența clientului (Pereira) | [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]] |
-| 24 | Crearea unui brand de la zero (Earle) | [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume\|BRD-042]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]] |
+| Intro | The Power and Challenge of Branding (Calkins) | [[BRD-001-a-brand-is-a-set-of-associations-that-acts-as-a-prism-on\|BRD-001]], [[BRD-005-a-brand-is-a-long-term-asset-run-by-people-judged-quarter\|BRD-005]] |
+| 1 | Brand Positioning: The Foundation for Building a Strong Brand (Tybout) | [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of\|BRD-006]], [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand\|BRD-007]], [[BRD-012-attribute-reasons-to-believe-get-copied-while-image-reasons\|BRD-012]], [[BRD-013-the-value-equation-brands-compete-in-the-numerator-or-in\|BRD-013]], [[BRD-053-a-position-is-sustained-through-modern-instantiation-a-new\|BRD-053]], [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only\|BRD-054]] |
+| 2 | Leveraging the Power of Brand Purpose (Stengel, Carcieri, Dunn) | [[BRD-023-purpose-path-to-growth-discover-the-purpose-then-activate\|BRD-023]] |
+| 3 | Creating a Powerful Brand Portfolio (Calkins) | [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of\|BRD-044]], [[BRD-045-a-brand-extension-succeeds-only-if-the-brand-helps-the-new\|BRD-045]], [[BRD-046-a-strong-portfolio-is-also-built-by-pruning-weak-brands\|BRD-046]] |
+| 4 | Competitive Brand Strategies: Creating Pioneer, Fast-Follower, and Late-Mover Advantage (Carpenter & Nakamoto) | [[BRD-016-timing-of-entry-pioneer-fast-follower-or-late-mover\|BRD-016]] |
+| 5 | Leading the Brand: Brand Strategy Orchestration and Implementation (Leininger) | [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a\|BRD-047]] |
+| 6 | The Three Keys to Building Global Brands with Soul (Khosla) | [[BRD-049-global-brands-with-soul-the-common-thread-the-glocal\|BRD-049]] |
+| 7 | Brand Design and Design Thinking (Calder) | [[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target\|ART-011]], [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues\|ART-012]], [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and\|BRD-043]], [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand\|BRD-007]] |
+| 8 | Leveraging Touchpoints in Today's Branding Environment (McTigue) | [[ADV-018-the-customer-journey-is-built-on-a-single-segment-in-six\|ADV-018]] |
+| 9 | Building Strong Connections between Brands and the Self (Roese & Gardner) | [[BRD-033-the-motive-matrix-coherence-agency-and-communion-turned\|BRD-033]], [[BRD-034-life-transitions-and-threats-to-the-self-concept-open\|BRD-034]], [[BRD-035-the-ideal-brand-community-is-distinct-exclusive-and\|BRD-035]] |
+| 10 | Building Strong Brands through Advertising Strategy in the Online Age (Sternthal) | [[ADV-045-the-message-must-be-framed-to-fit-a-promotion-or-a\|ADV-045]], [[ADV-043-an-effective-ad-does-three-things-gains-attention-amplifies\|ADV-043]], [[ADV-067-messages-go-viral-through-broadcast-not-from-person-to\|ADV-067]], [[ADV-058-media-strategy-has-four-objectives-the-4ms-matching\|ADV-058]], [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the\|ART-022]], [[BRD-033-the-motive-matrix-coherence-agency-and-communion-turned\|BRD-033]] |
+| 11 | Digital Brand Storytelling (Sawhney) | [[STO-006-in-brand-storytelling-the-brand-is-oxygen-everywhere-but\|STO-006]], [[STO-031-transmedia-storytelling-divides-one-story-world-among\|STO-031]] |
+| 12 | Branding Services in the Digital Era (O'Toole) | [[BRD-050-a-service-brand-is-won-or-lost-in-the-moment-of-interaction\|BRD-050]] |
+| 13 | Digital Transformation and the Evolution of Customer Insights in Brand Building (Braig) | [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising\|INS-093]] |
+| 14 | Using Neuroscience to Assess Brands (Cerf) | none (EEG, fMRI, eye tracking; read, not noted separately) |
+| 15 | Measuring Brand Relevance and Health (Hennessy) | [[BRD-057-the-awareness-liking-market-share-model-points-to-the-brand\|BRD-057]], [[BRD-058-brand-associations-are-measured-more-honestly-with-open\|BRD-058]], [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only\|BRD-054]] |
+| 16 | Connecting Marketing and Finance via Brand Value (Calder) | [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is\|BRD-059]] |
+| 17 | Has Purpose Lost Its Purpose? McDonald's Defines Its Style of Marketing (Lagnado & Mitchell) | [[BRD-061-purpose-or-positioning-brands-operate-at-different-altitudes\|BRD-061]], [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it\|BRD-019]] |
+| 18 | Ulta Beauty Gets a Branding Makeover (Dillon & Kimbell) | [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a\|BRD-047]] |
+| 19 | Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story (Docherty & Porter) | [[BRD-055-the-john-deere-case-the-brand-essence-stays-the-company-s\|BRD-055]] |
+| 20 | Rebranding an Organization: The Novant Health Story (Davis & Duvall) | [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of\|BRD-044]] |
+| 21 | Repositioning a Country Brand: Changing the Conversation about Mexico (Guevara) | [[BRD-056-the-mexico-case-countering-a-negative-story-only-brings-you\|BRD-056]] |
+| 22 | Managing Brand Communications in a Digital World (Halvorsen, Google) | [[ADV-043-an-effective-ad-does-three-things-gains-attention-amplifies\|ADV-043]], [[ADV-058-media-strategy-has-four-objectives-the-4ms-matching\|ADV-058]] |
+| 23 | Customer Experience: The New Frontier of Branding (Pereira) | [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete\|EXP-027]] |
+| 24 | Brand New: Creating a Brand from Scratch (Earle) | [[BRD-042-a-new-brand-is-built-in-four-steps-hook-name-trademark\|BRD-042]], [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and\|BRD-043]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-001]] — brandul ca set de asociații și „prisma" care ridică sau coboară produsul (experimentul Tiffany/Walmart).
-- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — cash, consistency, clutter și bucla fatală a promoțiilor.
-- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — declarația de poziționare în patru elemente și testele de claritate și distinctivitate.
-- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — cele trei moduri de a comunica cadrul de referință; numele categoriei ca decizie de design.
-- [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-012]] — motive de a crede bazate pe atribute vs pe imagine.
-- [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-013]] — ecuația valorii (beneficii fizice+emoționale / costuri bani+timp).
-- [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-053]] — instanțiere modernă, schimbarea dovezii, laddering.
-- [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — când e justificată repoziționarea; Old Spice și publicul nou.
-- [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-023]] — modelul Purpose Path to Growth.
-- [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-061]] — dezbaterea scop vs poziționare („altitudini" diferite).
-- [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of|BRD-044]] — arhitectura de brand: brand primar, sub-brand, endorser, ingredient; branded house vs house of brands.
-- [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta|BRD-045]] — testul celor trei întrebări pentru extensii.
-- [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-046]] — cele cinci chei ale portofoliului și eliminarea brandurilor (cazul GM).
-- [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-016]] — avantajul pionierului, fast follower, late mover „suficient de diferit" sau inovator.
-- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — modelul de implementare în șase elemente.
-- [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-049]] — firul comun, echilibrul glocal, lansarea agilă (Oreo, Axe, Pond's).
-- [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-033]] — matricea motivelor (și modelul 3C al lui Sternthal).
-- [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-034]] — tranziții de viață, conflicte și amenințări identitare, încurajarea utilizării.
-- [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-035]] — comunitatea de brand optimă și „adversarul" de brand.
-- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — specificul brandurilor de servicii și standardele cu latitudine.
-- [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-057]] — modelul notorietate–simpatie–cotă și cele cinci strategii.
-- [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-058]] — măsurarea asocierilor cu întrebări deschise (Uber vs Lyft).
-- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — brandul ca activ; puterea brandului vs performanța lui.
-- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — criterii de naming și simbolism fonetic.
-- [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-042]] — cei patru pași pentru un brand nou și „convenția Altoids".
-- [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-056]] — cazul Mexic: schimbarea conversației.
-- [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-055]] — cazul John Deere: revitalizarea unui brand istoric.
-- [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]] — designul de brand în Sistemul 1 și harta perceptuală.
-- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — șablonul cu 12 indicii de design.
-- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — cazul Tropicana.
-- [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment|ADV-018]] — călătoria clientului în șase etape.
-- [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-045]] — încadrarea pe promovare vs prevenție.
-- [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia|ADV-043]] — atenție, amplificare, legătura cu brandul; video pentru mobil.
-- [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-067]] — viralitatea are nevoie de broadcast.
-- [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire|ADV-058]] — cei 4M ai strategiei media.
-- [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-006]] — brandul ca oxigen în poveste.
-- [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-031]] — transmedia și cei 4P.
-- [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — insight prin „de ce" și fricțiuni.
-- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — brandurile DTC ca lanț de experiență.
+- [[BRD-001-a-brand-is-a-set-of-associations-that-acts-as-a-prism-on|BRD-001]]: the brand as a set of associations and the "prism" that raises or lowers the product (the Tiffany/Walmart experiment).
+- [[BRD-005-a-brand-is-a-long-term-asset-run-by-people-judged-quarter|BRD-005]]: cash, consistency, clutter and the branding doom loop of promotions.
+- [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of|BRD-006]]: the brand positioning statement in four elements and the tests of clarity and distinctiveness.
+- [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand|BRD-007]]: the three ways to convey the frame of reference; the category name as a design decision.
+- [[BRD-012-attribute-reasons-to-believe-get-copied-while-image-reasons|BRD-012]]: attribute reasons to believe vs. image reasons to believe.
+- [[BRD-013-the-value-equation-brands-compete-in-the-numerator-or-in|BRD-013]]: the value equation (functional + emotional benefits / money + time costs).
+- [[BRD-053-a-position-is-sustained-through-modern-instantiation-a-new|BRD-053]]: modern instantiation, switching from attribute to image reasons to believe, laddering.
+- [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only|BRD-054]]: when repositioning is justified; Old Spice and the new target.
+- [[BRD-023-purpose-path-to-growth-discover-the-purpose-then-activate|BRD-023]]: the Purpose Path to Growth model.
+- [[BRD-061-purpose-or-positioning-brands-operate-at-different-altitudes|BRD-061]]: the debate between purpose and positioning (different "altitudes").
+- [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of|BRD-044]]: brand architecture: primary brand, sub-brand, endorser brand, ingredient brand; branded house vs. house of brands.
+- [[BRD-045-a-brand-extension-succeeds-only-if-the-brand-helps-the-new|BRD-045]]: the three-question test for extensions.
+- [[BRD-046-a-strong-portfolio-is-also-built-by-pruning-weak-brands|BRD-046]]: the five keys to success for a portfolio and pruning brands (the GM case).
+- [[BRD-016-timing-of-entry-pioneer-fast-follower-or-late-mover|BRD-016]]: pioneering advantage, the fast follower, the late mover that is "just different enough" or innovative.
+- [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a|BRD-047]]: the implementation model in six elements.
+- [[BRD-049-global-brands-with-soul-the-common-thread-the-glocal|BRD-049]]: the common threads, the glocal balance, the nimble rollout (Oreo, Axe, Pond's).
+- [[BRD-033-the-motive-matrix-coherence-agency-and-communion-turned|BRD-033]]: the motive matrix (and Sternthal's 3C framework).
+- [[BRD-034-life-transitions-and-threats-to-the-self-concept-open|BRD-034]]: life transitions, identity conflicts and threats, encouraging usage.
+- [[BRD-035-the-ideal-brand-community-is-distinct-exclusive-and|BRD-035]]: the ideal brand community and the brand "foil".
+- [[BRD-050-a-service-brand-is-won-or-lost-in-the-moment-of-interaction|BRD-050]]: what is specific to service brands, and brand standards that allow latitude.
+- [[BRD-057-the-awareness-liking-market-share-model-points-to-the-brand|BRD-057]]: the awareness/liking/market-share model and the five strategies.
+- [[BRD-058-brand-associations-are-measured-more-honestly-with-open|BRD-058]]: measuring associations with open-ended questions (Uber vs. Lyft).
+- [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is|BRD-059]]: the brand as an asset; brand strength vs. brand performance.
+- [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]: naming criteria and sound symbolism.
+- [[BRD-042-a-new-brand-is-built-in-four-steps-hook-name-trademark|BRD-042]]: the four steps to a new brand and the "Altoids convention".
+- [[BRD-056-the-mexico-case-countering-a-negative-story-only-brings-you|BRD-056]]: the Mexico case: changing the conversation.
+- [[BRD-055-the-john-deere-case-the-brand-essence-stays-the-company-s|BRD-055]]: the John Deere case: transforming a historic brand.
+- [[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target|ART-011]]: brand design in System 1 and the perceptual mind map.
+- [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues|ART-012]]: the template with 12 design cues.
+- [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the|ART-022]]: the Tropicana case.
+- [[ADV-018-the-customer-journey-is-built-on-a-single-segment-in-six|ADV-018]]: the customer journey in six stages.
+- [[ADV-045-the-message-must-be-framed-to-fit-a-promotion-or-a|ADV-045]]: framing for a promotion vs. a prevention orientation.
+- [[ADV-043-an-effective-ad-does-three-things-gains-attention-amplifies|ADV-043]]: attention, amplification, brand linkage; video for mobile.
+- [[ADV-067-messages-go-viral-through-broadcast-not-from-person-to|ADV-067]]: virality needs broadcast.
+- [[ADV-058-media-strategy-has-four-objectives-the-4ms-matching|ADV-058]]: the 4Ms of media strategy.
+- [[STO-006-in-brand-storytelling-the-brand-is-oxygen-everywhere-but|STO-006]]: the brand as oxygen in the story.
+- [[STO-031-transmedia-storytelling-divides-one-story-world-among|STO-031]]: transmedia storytelling and the four Ps.
+- [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising|INS-093]]: insight through "why" and friction points.
+- [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete|EXP-027]]: DTC brands as a chain of experience.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Perspectivă aproape exclusiv americană și corporatistă**; puține exemple europene sau din piețe mici; nimic despre România/Europa de Est.
-- **Datele digitale din 2017–2018** (programatic, Facebook, Snapchat) sunt deja datate; principiile rezistă mai bine decât cifrele.
-- **Capitolul despre purpose (Stengel)** se bazează parțial pe studiile proprii ale autorului și ale partenerilor; trebuie citit împreună cu critica din cap. 17.
-- **Capitolele de practicieni** (Ulta, Novant, Mexic, John Deere) sunt relatări ale propriilor succese, fără analiza eșecurilor sau date independente.
-- **Lipsesc perspectivele „Byron Sharp" / Ehrenberg-Bass** (penetrare, active distinctive, disponibilitate mentală) — școala care contestă importanța diferențierii și a loialității; merită pusă în dialog cu cap. 1 și 9.
-- Capitolul 14 (neuroștiință) e interesant, dar tehnic și cu aplicabilitate redusă pentru o agenție mică.
+- **An almost exclusively American and corporate perspective**; few European examples or examples from small markets; nothing about Romania or Eastern Europe.
+- **The digital data from 2017–2018** (programmatic, Facebook, Snapchat) are already dated; the principles hold up better than the figures.
+- **The chapter on purpose (Stengel)** relies partly on studies by the author and his partners; it should be read together with the critique in ch. 17.
+- **The practitioner chapters** (Ulta, Novant, Mexico, John Deere) are accounts of the authors' own successes, with no analysis of failures and no independent data.
+- **The Byron Sharp / Ehrenberg-Bass perspectives are missing** (penetration, distinctive assets, mental availability): the school that disputes the importance of differentiation and loyalty. It is worth putting it in dialogue with ch. 1 and 9.
+- Chapter 14 (neuroscience) is interesting, but technical and of limited use for a small agency.
 
-## Citat
+## Quote
 
-> „A superb brand wrapped around an average product will outperform the inverse." (Paul Earle, p. 301)
+> "a superb brand wrapped around an average product will outperform the inverse every time" (Paul Earle, p. 301)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-018-calatoria-clientului-se-construieste-pe-un-singur-segment|ADV-018]] — Călătoria clientului se construiește pe un singur segment, în șase etape, cu trei întrebări la fiecare — abia apoi vin obiectivele și KPI-urile
-- [[ADV-043-o-reclama-eficienta-face-trei-lucruri-prinde-atentia|ADV-043]] — O reclamă eficientă face trei lucruri — prinde atenția, amplifică beneficiul și îl leagă de brand —, iar fără al treilea publicul ține minte povestea, nu brandul
-- [[ADV-045-mesajul-trebuie-incadrat-dupa-orientarea-de-promovare-sau|ADV-045]] — Mesajul trebuie încadrat după orientarea de promovare sau de prevenție
-- [[ADV-058-strategia-media-are-patru-obiective-4m-potrivire|ADV-058]] — Strategia media are patru obiective (4M) — potrivire, monopolizare, moment, mentalitate —, nu doar acoperirea ieftină a țintei
-- [[ADV-067-mesajele-devin-virale-prin-difuzare-de-masa-nu-din-om-in-om|ADV-067]] — Mesajele devin virale prin difuzare de masă, nu din om în om
-- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța
-- [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]] — Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă
-- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale
-- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere
-- [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare|ART-023]] — Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul
-- [[BRD-001-brandul-este-un-set-de-asociatii-care-actioneaza-ca-o|BRD-001]] — Brandul este un set de asociații care acționează ca o prismă asupra produsului
-- [[BRD-004-capitalul-de-brand-se-masoara-prin-patru-componente|BRD-004]] — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
-- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — Brandul e un activ pe termen lung condus de oameni judecați pe trimestru — cele trei C ale branding-ului și bucla fatală a promoțiilor
-- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
-- [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste|BRD-009]] — Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze
-- [[BRD-012-dovezile-bazate-pe-atribute-se-copiaza-cele-bazate-pe|BRD-012]] — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
-- [[BRD-013-ecuatia-valorii-brandurile-concureaza-la-numarator-sau-la|BRD-013]] — Ecuația valorii: brandurile concurează la numărător sau la numitor
-- [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-016]] — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
-- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — Misiunea spune de ce există brandul, viziunea unde vrea să ajungă, iar valorile cum se poartă pe drum
-- [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-023]] — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
-- [[BRD-033-matricea-motivelor-coerenta-agentie-si-comuniune-spre-sine|BRD-033]] — Matricea motivelor: coerență, agenție și comuniune, spre sine sau spre ceilalți
-- [[BRD-034-tranzitiile-de-viata-si-amenintarile-identitare-deschid|BRD-034]] — Tranzițiile de viață și amenințările identitare deschid oamenii spre branduri noi
-- [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-035]] — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
-- [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-042]] — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
-- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of|BRD-044]] — Arhitectura de brand merge de la branded house la house of brands — cu cât produsele diferă mai mult, cu atât au nevoie de nume separate
-- [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta|BRD-045]] — O extensie de brand reușește doar dacă brandul ajută produsul nou, produsul ajută brandul și ideea are sens de business — altfel diluează brandul
-- [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-046]] — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
-- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
-- [[BRD-049-brandurile-globale-cu-suflet-firul-comun-echilibrul-glocal|BRD-049]] — Brandurile globale cu suflet: firul comun, echilibrul glocal, lansarea agilă
-- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
-- [[BRD-053-o-pozitie-se-sustine-prin-instantiere-moderna-schimbarea|BRD-053]] — O poziție se susține prin instanțiere modernă, schimbarea dovezii și laddering
-- [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — Repoziționarea e scumpă și riscantă — se justifică doar în câteva situații clare și reușește mai des vorbind unui public nou
-- [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-055]] — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
-- [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-056]] — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
-- [[BRD-057-modelul-notorietate-simpatie-cota-de-piata-indica-strategia|BRD-057]] — Modelul notorietate–simpatie–cotă de piață indică strategia de brand
-- [[BRD-058-asocierile-de-brand-se-masoara-mai-onest-cu-intrebari|BRD-058]] — Asocierile de brand se măsoară mai onest cu întrebări deschise
-- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
-- [[BRD-061-scop-sau-pozitionare-brandurile-opereaza-la-altitudini|BRD-061]] — Scop sau poziționare: brandurile operează la altitudini diferite
-- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
-- [[INS-085-personas-nu-segmente-ozzy-osbourne-si-printul-charles-au|INS-085]] — Personas, nu segmente — Ozzy Osbourne și Prințul Charles au același profil demografic
-- [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — Insight-ul se găsește trăgând de firul unui „ce" surprinzător — o fricțiune, o contradicție, un gest ciudat — până la „de ce"
-- [[MKT-002-valoarea-este-ce-primesti-raportat-la-ce-dai-nu-pretul-mic|MKT-002]] — Valoarea este ce primești raportat la ce dai, nu prețul mic
-- [[STO-002-calatoria-eroului-protagonistul-pleaca-din-lumea-obisnuita|STO-002]] — Călătoria eroului — protagonistul pleacă din lumea obișnuită, trece prin încercări și se întoarce transformat; în publicitate eroul e de regulă clientul, nu brandul
-- [[STO-006-in-povestea-de-brand-brandul-e-oxigen-peste-tot-dar|STO-006]] — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
-- [[STO-031-povestirea-transmedia-imparte-o-lume-narativa-intre-canale|STO-031]] — Povestirea transmedia împarte o lume narativă între canale cu roluri diferite
-- [[SRC-015-the-brand-blueprint|SRC-015]] — The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
-- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]] — Goddess Guide to Branding
-- [[SRC-017-logos-that-last|SRC-017]] — Logos That Last: How to Create Iconic Visual Branding
+- [[ADV-018-the-customer-journey-is-built-on-a-single-segment-in-six|ADV-018]]: The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs
+- [[ADV-043-an-effective-ad-does-three-things-gains-attention-amplifies|ADV-043]]: An effective ad does three things (gains attention, amplifies the benefit, links it to the brand), and without the third the audience remembers the story, not the brand
+- [[ADV-045-the-message-must-be-framed-to-fit-a-promotion-or-a|ADV-045]]: The message must be framed to fit a promotion or a prevention orientation
+- [[ADV-058-media-strategy-has-four-objectives-the-4ms-matching|ADV-058]]: Media strategy has four objectives (the 4Ms: matching, monopolizing, moment, mindset), not only reaching the target cheaply
+- [[ADV-067-messages-go-viral-through-broadcast-not-from-person-to|ADV-067]]: Messages go viral through broadcast, not from person to person
+- [[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]]: Color tells the story, sets the brand apart from competitors and motivates, and saturation matters more than hue
+- [[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target|ART-011]]: Brand design works in System 1 and starts from 3–4 target associations
+- [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues|ART-012]]: The brand design template: twelve types of sensory cues
+- [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the|ART-022]]: The Tropicana case: the packaging redesign erased the recognition cues
+- [[ART-023-packaging-is-also-designed-for-its-life-after-purchase-its|ART-023]]: Packaging is also designed for its life after purchase: its shape is a brand cue, and every use repeats the benefit
+- [[BRD-001-a-brand-is-a-set-of-associations-that-acts-as-a-prism-on|BRD-001]]: A brand is a set of associations that acts as a prism on the product
+- [[BRD-004-brand-equity-is-measured-by-four-components-awareness|BRD-004]]: Brand equity is measured by four components: awareness, perceived value, associations and loyalty
+- [[BRD-005-a-brand-is-a-long-term-asset-run-by-people-judged-quarter|BRD-005]]: A brand is a long-term asset run by people judged quarter by quarter: the Three Cs of branding and the branding doom loop
+- [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of|BRD-006]]: The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand|BRD-007]]: The frame of reference tells consumers the goal the brand serves
+- [[BRD-009-central-positioning-is-reserved-for-the-leader-that-defines|BRD-009]]: Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate
+- [[BRD-012-attribute-reasons-to-believe-get-copied-while-image-reasons|BRD-012]]: Attribute reasons to believe get copied, while image reasons to believe can be owned
+- [[BRD-013-the-value-equation-brands-compete-in-the-numerator-or-in|BRD-013]]: The value equation: brands compete in the numerator or in the denominator
+- [[BRD-016-timing-of-entry-pioneer-fast-follower-or-late-mover|BRD-016]]: Timing of entry: pioneer, fast follower or late mover
+- [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it|BRD-019]]: The mission says why the brand exists, the vision where it wants to go, and the values how it behaves on the way
+- [[BRD-023-purpose-path-to-growth-discover-the-purpose-then-activate|BRD-023]]: Purpose Path to Growth: discover the purpose, then activate it inside first
+- [[BRD-033-the-motive-matrix-coherence-agency-and-communion-turned|BRD-033]]: The motive matrix: coherence, agency and communion, turned inward or outward
+- [[BRD-034-life-transitions-and-threats-to-the-self-concept-open|BRD-034]]: Life transitions and threats to the self-concept open people up to new brands
+- [[BRD-035-the-ideal-brand-community-is-distinct-exclusive-and|BRD-035]]: The ideal brand community is distinct, exclusive and intermediate in size
+- [[BRD-042-a-new-brand-is-built-in-four-steps-hook-name-trademark|BRD-042]]: A new brand is built in four steps: hook, name, trademark, design
+- [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]: A good brand name is relevant, emotional, easy to say and marketable
+- [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of|BRD-044]]: Brand architecture runs from branded house to house of brands: the more the products differ, the more they need separate names
+- [[BRD-045-a-brand-extension-succeeds-only-if-the-brand-helps-the-new|BRD-045]]: A brand extension succeeds only if the brand helps the new product, the product helps the brand and the idea makes business sense: otherwise it dilutes the brand
+- [[BRD-046-a-strong-portfolio-is-also-built-by-pruning-weak-brands|BRD-046]]: A strong portfolio is also built by pruning weak brands
+- [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a|BRD-047]]: Implementing a brand strategy takes six elements, not just a positioning
+- [[BRD-049-global-brands-with-soul-the-common-thread-the-glocal|BRD-049]]: Global brands with soul: the common thread, the glocal balance, the agile rollout
+- [[BRD-050-a-service-brand-is-won-or-lost-in-the-moment-of-interaction|BRD-050]]: A service brand is won or lost in the moment of interaction
+- [[BRD-053-a-position-is-sustained-through-modern-instantiation-a-new|BRD-053]]: A position is sustained through modern instantiation, a new kind of reason to believe and laddering
+- [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only|BRD-054]]: Repositioning is expensive and risky: it is justified only in a few clear situations and succeeds more often by speaking to a new audience
+- [[BRD-055-the-john-deere-case-the-brand-essence-stays-the-company-s|BRD-055]]: The John Deere case: the brand essence stays, the company's orientation changes
+- [[BRD-056-the-mexico-case-countering-a-negative-story-only-brings-you|BRD-056]]: The Mexico case: countering a negative story only brings you back to neutral ground
+- [[BRD-057-the-awareness-liking-market-share-model-points-to-the-brand|BRD-057]]: The awareness/liking/market share model points to the brand strategy
+- [[BRD-058-brand-associations-are-measured-more-honestly-with-open|BRD-058]]: Brand associations are measured more honestly with open-ended questions
+- [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is|BRD-059]]: The brand is an asset, not an expense, and its strength is not its performance
+- [[BRD-061-purpose-or-positioning-brands-operate-at-different-altitudes|BRD-061]]: Purpose or positioning: brands operate at different altitudes
+- [[BRD-063-does-the-brand-live-in-each-customer-s-mind-or-in-the|BRD-063]]: Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+- [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete|EXP-027]]: For direct-to-consumer brands, the brand is the complete chain of the experience
+- [[INS-085-personas-not-segments-ozzy-osbourne-and-prince-charles-have|INS-085]]: Personas, not segments: Ozzy Osbourne and Prince Charles have the same demographic profile
+- [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising|INS-093]]: An insight is found by pulling the thread of a surprising "what" (a friction, a contradiction, an odd gesture) until you reach the "why"
+- [[MKT-002-value-is-what-you-get-for-what-you-give-not-a-low-price|MKT-002]]: Value is what you get for what you give, not a low price
+- [[STO-002-the-hero-s-journey-the-protagonist-leaves-the-ordinary|STO-002]]: The hero's journey: the protagonist leaves the ordinary world, goes through trials and returns transformed; in advertising the hero is usually the customer, not the brand
+- [[STO-006-in-brand-storytelling-the-brand-is-oxygen-everywhere-but|STO-006]]: In brand storytelling, the brand is oxygen: everywhere, but never the protagonist
+- [[STO-031-transmedia-storytelling-divides-one-story-world-among|STO-031]]: Transmedia storytelling divides one story world among channels with different roles
+- [[SRC-015-the-brand-blueprint|SRC-015]]: The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
+- [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy|SRC-016]]: Goddess Guide to Branding
+- [[SRC-017-logos-that-last|SRC-017]]: Logos That Last: How to Create Iconic Visual Branding
 <!-- backlinks:end -->

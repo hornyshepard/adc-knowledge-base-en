@@ -14,87 +14,87 @@ level: 2
 
 # Marketing 4.0: Moving from Traditional to Digital
 
-**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2017** (copyright 2017; scrisă în 2016, după cum spun autorii în Marketing 5.0). John Wiley & Sons, Hoboken (ISBN 978-1-119-34120-8). Cercetarea a fost făcută de echipa MarkPlus, Inc. (Indonezia). Copia text e un EPUB fără pagini, așa că notele citează capitolul și secțiunea.
+**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2017** (copyright 2017; written in 2016, as the authors say in Marketing 5.0). John Wiley & Sons, Hoboken (ISBN 978-1-119-34120-8). The research was done by the MarkPlus, Inc. team (Indonesia). The text copy is an EPUB with no pages, so the notes cite the chapter and section.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** continuarea cărții Marketing 3.0. Arată cum conectivitatea (mobil, social, big data) mută puterea spre comunitățile de clienți și propune o nouă cale a clientului (5A: aware, appeal, ask, act, advocate), noi metrici de productivitate (PAR, BAR), arhetipuri de industrie și patru tactici: brand uman, content marketing, omnichannel, engagement.
-- **Teza centrală:** în economia digitală, rolul marketerului e să ghideze clientul de la notorietate la recomandare (*advocacy*), combinând online cu offline, stil cu substanță și mașină cu om.
-- **Pentru cine și când:** anul I-II, după AIDA și ierarhiile de efect; esențială pentru planificare strategică, customer journey și măsurare.
-- **Relevanță pentru ADC:** ★★★★★ (5/5) — cea mai practică carte din serie. 5A, zona O3, PAR/BAR și cele șase atribute ale brandului uman se folosesc direct în brief, pitch și planificare. Cartea e scurtă și clară, dar cu date din 2014-2016 și fără studii empirice publicate.
+- **What it is about:** the sequel to Marketing 3.0. It shows how connectivity (mobile, social, big data) shifts power to customer communities and proposes a new customer path (the five A's: aware, appeal, ask, act, advocate), new productivity metrics (PAR, BAR), industry archetypes and four tactics: human-centric marketing, content marketing, omnichannel marketing and engagement marketing.
+- **Central thesis:** in the digital economy, the marketer's role is to guide customers from awareness to advocacy, combining online with offline, style with substance and machine with human.
+- **For whom and when:** years 1 and 2, after AIDA and the hierarchies of effects; essential for strategic planning, the customer journey and measurement.
+- **Relevance for ADC:** ★★★★★ (5/5). The most practical book in the series. The five A's, the O Zone (O3), PAR/BAR and the six attributes of human-centric brands can be used directly in briefs, pitches and planning. The book is short and clear, but its data are from 2014-2016 and it has no published empirical studies.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Prolog | De la 3.0 la 4.0 | [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la\|MKT-032]] |
-| 1 | Mutările de putere: inclusiv, orizontal, social; factorul F | [[MKT-034-puterea-a-trecut-la-clientii-conectati-de-la-vertical\|MKT-034]] |
-| 2 | Paradoxurile clientului conectat | [[INS-068-clientul-conectat-traieste-trei-paradoxuri-online-vs\|INS-068]] |
-| 3 | Subculturile digitale: tineri, femei, netizeni | [[INS-067-tinerii-femeile-si-netizenii-ywn-sunt-subculturile-cele-mai\|INS-067]] |
-| 4 | Marketing 4.0: comunități, caractere și coduri, 4C, customer care; tradițional vs. digital | [[MKT-035-seria-kotler-traduce-conceptele-clasice-in-echivalente\|MKT-035]] |
-| 5 | Calea 5A; zona O3 | [[MKT-036-calea-clientului-5a-aware-appeal-ask-act-advocate\|MKT-036]], [[ADV-019-zona-o3-influenta-proprie-a-celorlalti-si-cea-exterioara\|ADV-019]] |
-| 6 | PAR și BAR; cele patru conversii și intervenții | [[ADV-013-par-si-bar-masoara-productivitatea-marketingului-cat-din\|ADV-013]] |
-| 7 | Arhetipuri de industrie; patru practici după BAR | [[MKT-037-forma-caii-5a-defineste-patru-arhetipuri-de-industrie\|MKT-037]] |
-| 8 | Marketing human-centric: antropologie digitală; șase atribute | [[INS-087-antropologia-digitala-descopera-anxietatile-ascunse-prin\|INS-087]], [[BRD-027-brandurile-human-centric-au-sase-atribute-umane\|BRD-027]] |
-| 9 | Content marketing în opt pași | [[STO-025-strategia-de-content-marketing-e-un-ciclu-obiective-si\|STO-025]] |
-| 10 | Omnichannel | [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se\|DIG-020]] |
-| 11 | Engagement: aplicații, social CRM, gamificare | [[DIG-038-afinitatea-de-dupa-cumparare-se-construieste-prin-aplicatii\|DIG-038]] |
-| Epilog | Getting to WOW! | [[EXP-011-momentul-wow-e-surprinzator-personal-si-contagios-si-poate\|EXP-011]] |
+| Prologue | From Marketing 3.0 to Marketing 4.0 | [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to\|MKT-032]] |
+| 1 | Power Shifts to the Connected Customers: inclusive, horizontal, social; the f-factor | [[MKT-034-power-has-shifted-to-connected-customers-from-vertical\|MKT-034]] |
+| 2 | The Paradoxes of Marketing to Connected Customers | [[INS-068-the-connected-customer-lives-with-three-paradoxes-online-vs\|INS-068]] |
+| 3 | The Influential Digital Subcultures: youth, women, netizens | [[INS-067-youth-women-and-netizens-ywn-are-the-most-influential\|INS-067]] |
+| 4 | Marketing 4.0 in the Digital Economy: communities, characters and codes, the 4C's, collaborative customer care; traditional vs. digital | [[MKT-035-the-kotler-series-translates-the-classic-concepts-into\|MKT-035]] |
+| 5 | The New Customer Path: the five A's; the O Zone (O3) | [[MKT-036-the-five-a-s-customer-path-aware-appeal-ask-act-advocate\|MKT-036]], [[ADV-019-the-o-zone-o3-own-others-and-outer-influence-decide-where\|ADV-019]] |
+| 6 | Marketing Productivity Metrics: PAR and BAR; the four conversions and interventions | [[ADV-013-par-and-bar-measure-marketing-productivity-how-much-brand\|ADV-013]] |
+| 7 | Industry Archetypes and Best Practices; four practices by BAR | [[MKT-037-the-shape-of-the-five-a-s-path-defines-four-industry\|MKT-037]] |
+| 8 | Human-Centric Marketing for Brand Attraction: digital anthropology; six attributes | [[INS-087-digital-anthropology-uncovers-hidden-anxieties-through\|INS-087]], [[BRD-027-human-centric-brands-have-six-human-attributes-physicality\|BRD-027]] |
+| 9 | Content Marketing for Brand Curiosity: eight steps | [[STO-025-content-marketing-strategy-is-a-cycle-objectives-and\|STO-025]] |
+| 10 | Omnichannel Marketing for Brand Commitment | [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is\|DIG-020]] |
+| 11 | Engagement Marketing for Brand Affinity: mobile apps, social CRM, gamification | [[DIG-038-affinity-after-purchase-is-built-through-mobile-apps-social\|DIG-038]] |
+| Epilogue | Getting to WOW! | [[EXP-011-the-wow-moment-is-surprising-personal-and-contagious-and-it\|EXP-011]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-034-puterea-a-trecut-la-clientii-conectati-de-la-vertical|MKT-034]] — puterea trece la comunități; încrederea în factorul F (prieteni, familie, fani, urmăritori).
-- [[INS-068-clientul-conectat-traieste-trei-paradoxuri-online-vs|INS-068]] — trei paradoxuri; polarizarea lovers/haters ca activ.
-- [[INS-067-tinerii-femeile-si-netizenii-ywn-sunt-subculturile-cele-mai|INS-067]] — YWN: mind share, market share, heart share.
-- [[MKT-035-seria-kotler-traduce-conceptele-clasice-in-echivalente|MKT-035]] — echivalentele digitale ale STP, poziționării, 4P și serviciului.
-- [[MKT-036-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-036]] — calea 5A, cu salturi și spirale.
-- [[ADV-019-zona-o3-influenta-proprie-a-celorlalti-si-cea-exterioara|ADV-019]] — zona O3: influență exterioară, a celorlalți, proprie.
-- [[ADV-013-par-si-bar-masoara-productivitatea-marketingului-cat-din|ADV-013]] — PAR/BAR, blocaje, conversația ca „datorie".
-- [[MKT-037-forma-caii-5a-defineste-patru-arhetipuri-de-industrie|MKT-037]] — clanță, peștișor auriu, trompetă, pâlnie, papion.
-- [[BRD-027-brandurile-human-centric-au-sase-atribute-umane|BRD-027]] — cele șase atribute ale brandului uman.
-- [[INS-087-antropologia-digitala-descopera-anxietatile-ascunse-prin|INS-087]] — social listening, netnografie, cercetare empatică.
-- [[STO-025-strategia-de-content-marketing-e-un-ciclu-obiective-si|STO-025]] — content marketing în opt pași.
-- [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se|DIG-020]] — omnichannel: hartă, Pareto, silozuri.
-- [[DIG-038-afinitatea-de-dupa-cumparare-se-construieste-prin-aplicatii|DIG-038]] — aplicații, social CRM, gamificare.
-- [[EXP-011-momentul-wow-e-surprinzator-personal-si-contagios-si-poate|EXP-011]] — WOW: surprinzător, personal, contagios.
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — dezbatere: comunitățile ca segmente și rolul digitalului sunt revizuite în 5.0 și 6.0.
+- [[MKT-034-power-has-shifted-to-connected-customers-from-vertical|MKT-034]]: power shifts to communities; trust in the f-factor (friends, families, Facebook fans, Twitter followers).
+- [[INS-068-the-connected-customer-lives-with-three-paradoxes-online-vs|INS-068]]: three paradoxes; the polarization between lovers and haters as an asset.
+- [[INS-067-youth-women-and-netizens-ywn-are-the-most-influential|INS-067]]: YWN: mind share, market share, heart share.
+- [[MKT-035-the-kotler-series-translates-the-classic-concepts-into|MKT-035]]: the digital equivalents of STP, positioning, the 4P's and customer service.
+- [[MKT-036-the-five-a-s-customer-path-aware-appeal-ask-act-advocate|MKT-036]]: the five A's path, with skips and spirals.
+- [[ADV-019-the-o-zone-o3-own-others-and-outer-influence-decide-where|ADV-019]]: the O Zone: outer influence, others' influence, own influence.
+- [[ADV-013-par-and-bar-measure-marketing-productivity-how-much-brand|ADV-013]]: PAR/BAR, bottlenecks, customer conversation as "debt".
+- [[MKT-037-the-shape-of-the-five-a-s-path-defines-four-industry|MKT-037]]: door knob, goldfish, trumpet, funnel, bow tie.
+- [[BRD-027-human-centric-brands-have-six-human-attributes-physicality|BRD-027]]: the six attributes of human-centric brands.
+- [[INS-087-digital-anthropology-uncovers-hidden-anxieties-through|INS-087]]: social listening, netnography, empathic research.
+- [[STO-025-content-marketing-strategy-is-a-cycle-objectives-and|STO-025]]: content marketing in eight steps.
+- [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is|DIG-020]]: omnichannel: map, Pareto, silos.
+- [[DIG-038-affinity-after-purchase-is-built-through-mobile-apps-social|DIG-038]]: mobile apps, social CRM, gamification.
+- [[EXP-011-the-wow-moment-is-surprising-personal-and-contagious-and-it|EXP-011]]: WOW: surprising, personal, contagious.
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: debate: communities as segments and the role of digital are revised in 5.0 and 6.0.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Date nepublicate:** arhetipurile de industrie și statisticile BAR vin din cercetarea MarkPlus, fără metodologie, eșantion sau cifre în carte. Sunt mai degrabă ipoteze utile decât rezultate demonstrate.
-- **Cifre îndoielnice:** „atenția de 8 secunde" e o statistică populară contestată de cercetători. Multe procente vin din sondaje de industrie (Google, Nielsen, Content Marketing Institute).
-- **Stereotipuri:** capitolul despre femei se sprijină pe generalizări psihologice (Mars/Venus) care trebuie citite critic.
-- **Exemple datate:** Pokémon Go, Dash Button, Hipmunk, beaconii iBeacon; câteva servicii au dispărut între timp.
-- **Optimism față de conversație:** cartea minimizează efectele negative ale platformelor (recenzii false, algoritmi, scăderea reach-ului organic) și problemele de confidențialitate legate de prețul dinamic și de urmărirea în magazin.
-- Comparativ cu 3.0, valorile și sustenabilitatea trec în plan secund, deși sunt menționate (Body Shop, Unilever).
+- **Unpublished data:** the industry archetypes and the BAR statistics come from MarkPlus research, with no methodology, sample or figures in the book. They are useful hypotheses rather than demonstrated results.
+- **Doubtful figures:** the "8-second attention span" is a popular statistic that researchers dispute. Many percentages come from industry surveys (Google, Nielsen, Content Marketing Institute).
+- **Stereotypes:** the chapter on women relies on psychological generalizations (Mars/Venus) that should be read critically.
+- **Dated examples:** Pokémon Go, the Dash Button, Hipmunk, iBeacon beacons; some of these services have since disappeared.
+- **Optimism about conversation:** the book plays down the negative effects of platforms (fake reviews, algorithms, the decline of organic reach) and the privacy problems of dynamic pricing and in-store tracking.
+- Compared with 3.0, values and sustainability move into the background, although they are mentioned (The Body Shop, Unilever).
 
-## Citat
+## Quote
 
-> „Random conversations about brands are now more credible than targeted advertising campaigns." (cap. 1)
+> "Random conversations about brands are now more credible than targeted advertising campaigns." (ch. 1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-013-par-si-bar-masoara-productivitatea-marketingului-cat-din|ADV-013]] — PAR și BAR măsoară productivitatea marketingului — cât din notorietate devine cumpărare și recomandare
-- [[ADV-019-zona-o3-influenta-proprie-a-celorlalti-si-cea-exterioara|ADV-019]] — Zona O3 — influența proprie, a celorlalți și cea exterioară decid unde investești efortul de marketing
-- [[BRD-027-brandurile-human-centric-au-sase-atribute-umane|BRD-027]] — Brandurile human-centric au șase atribute umane — fizicalitate, intelectualitate, sociabilitate, emoționalitate, personabilitate, moralitate
-- [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se|DIG-020]] — Omnicanalul înseamnă canale care se întăresc reciproc — se construiește pe scenariile critice de cumpărare, cu silozurile sparte, și se măsoară prin valoarea clientului, nu prin clicuri pe canal
-- [[DIG-038-afinitatea-de-dupa-cumparare-se-construieste-prin-aplicatii|DIG-038]] — Afinitatea de după cumpărare se construiește prin aplicații mobile, social CRM și gamificare
-- [[EXP-011-momentul-wow-e-surprinzator-personal-si-contagios-si-poate|EXP-011]] — Momentul WOW e surprinzător, personal și contagios — și poate fi proiectat, nu lăsat la voia întâmplării
-- [[INS-067-tinerii-femeile-si-netizenii-ywn-sunt-subculturile-cele-mai|INS-067]] — Tinerii, femeile și netizenii (YWN) sunt subculturile cele mai influente din era digitală
-- [[INS-068-clientul-conectat-traieste-trei-paradoxuri-online-vs|INS-068]] — Clientul conectat trăiește trei paradoxuri — online vs. offline, informat vs. distras, advocacy negativă vs. pozitivă
-- [[INS-087-antropologia-digitala-descopera-anxietatile-ascunse-prin|INS-087]] — Antropologia digitală descoperă anxietățile ascunse prin social listening, netnografie și cercetare empatică
-- [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea|MKT-004]] — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
-- [[MKT-014-stp-se-face-in-cinci-pasi-strategie-segmentare|MKT-014]] — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
-- [[MKT-018-pozitionarea-se-construieste-pe-valoare-atribute-simboluri|MKT-018]] — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
-- [[MKT-020-mixul-de-marketing-4p-produsul-creeaza-pretul-capteaza|MKT-020]] — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
-- [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la|MKT-032]] — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
-- [[MKT-034-puterea-a-trecut-la-clientii-conectati-de-la-vertical|MKT-034]] — Puterea a trecut la clienții conectați — de la vertical, exclusiv și individual la orizontal, inclusiv și social
-- [[MKT-035-seria-kotler-traduce-conceptele-clasice-in-echivalente|MKT-035]] — Seria Kotler traduce conceptele clasice în echivalente orizontale — co-creare și 4C în loc de 4P, comunități în loc de segmente, caracter în loc de poziționare
-- [[MKT-036-calea-clientului-5a-aware-appeal-ask-act-advocate|MKT-036]] — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
-- [[MKT-037-forma-caii-5a-defineste-patru-arhetipuri-de-industrie|MKT-037]] — Forma căii 5A definește patru arhetipuri de industrie — clanța, peștișorul auriu, trompeta și pâlnia — cu papionul ca ideal
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
-- [[STO-017-story-beats-tin-ritmul-si-imping-atentia-spre-ce-urmeaza|STO-017]] — Story beats țin ritmul și împing atenția spre ce urmează
-- [[STO-023-content-marketingul-este-always-on-iar-campania-doar-il|STO-023]] — Content marketingul este „always on", iar campania doar îl punctează — conținutul conține ce vrea clientul să folosească, nu ce vrea brandul să vândă
-- [[STO-025-strategia-de-content-marketing-e-un-ciclu-obiective-si|STO-025]] — Strategia de content marketing e un ciclu — obiective și public, creație, distribuție și amplificare, evaluare și reluare; Kotler o desface în opt pași, Zahay în patru
+- [[ADV-013-par-and-bar-measure-marketing-productivity-how-much-brand|ADV-013]]: PAR and BAR measure marketing productivity: how much brand awareness turns into purchase and advocacy
+- [[ADV-019-the-o-zone-o3-own-others-and-outer-influence-decide-where|ADV-019]]: The O Zone (O3): own, others' and outer influence decide where you invest your marketing effort
+- [[BRD-027-human-centric-brands-have-six-human-attributes-physicality|BRD-027]]: Human-centric brands have six human attributes: physicality, intellectuality, sociability, emotionality, personability, morality
+- [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is|DIG-020]]: Omnichannel means channels that reinforce each other: it is built on the critical purchase scenarios, with the silos broken, and measured by customer value, not by clicks per channel
+- [[DIG-038-affinity-after-purchase-is-built-through-mobile-apps-social|DIG-038]]: Affinity after purchase is built through mobile apps, social CRM and gamification
+- [[EXP-011-the-wow-moment-is-surprising-personal-and-contagious-and-it|EXP-011]]: The WOW moment is surprising, personal and contagious, and it can be designed instead of left to chance
+- [[INS-067-youth-women-and-netizens-ywn-are-the-most-influential|INS-067]]: Youth, women and netizens (YWN) are the most influential subcultures of the digital era
+- [[INS-068-the-connected-customer-lives-with-three-paradoxes-online-vs|INS-068]]: The connected customer lives with three paradoxes: online vs. offline, informed vs. distracted, negative vs. positive advocacy
+- [[INS-087-digital-anthropology-uncovers-hidden-anxieties-through|INS-087]]: Digital anthropology uncovers hidden anxieties through social listening, netnography and emphatic research
+- [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction|MKT-004]]: A customer is worth the relationship, not the transaction: customer lifetime value (CLV)
+- [[MKT-014-stp-is-done-in-five-steps-strategy-segmentation|MKT-014]]: STP is done in five steps: strategy, segmentation, attractiveness, choice of target, positioning
+- [[MKT-018-positioning-is-built-on-value-attributes-symbols-or-the|MKT-018]]: Positioning is built on value, attributes, symbols or the competition, and is checked on the perceptual map
+- [[MKT-020-the-4p-marketing-mix-product-creates-price-captures-place|MKT-020]]: The 4P marketing mix: product creates, price captures, place delivers, promotion communicates value
+- [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to|MKT-032]]: The evolution of marketing from 1.0 to 6.0: from product to customer, to the human being, to digital, to technology for humanity and to immersion
+- [[MKT-034-power-has-shifted-to-connected-customers-from-vertical|MKT-034]]: Power has shifted to connected customers: from vertical, exclusive and individual to horizontal, inclusive and social
+- [[MKT-035-the-kotler-series-translates-the-classic-concepts-into|MKT-035]]: The Kotler series translates the classic concepts into horizontal equivalents: cocreation and the 4Cs instead of the 4Ps, communities instead of segments, character instead of positioning
+- [[MKT-036-the-five-a-s-customer-path-aware-appeal-ask-act-advocate|MKT-036]]: The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world
+- [[MKT-037-the-shape-of-the-five-a-s-path-defines-four-industry|MKT-037]]: The shape of the five A's path defines four industry archetypes (door knob, goldfish, trumpet and funnel), with the bow tie as the ideal
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: The Kotler X.0 series revises its own ideas: segmentation, the role of purpose and the online–offline balance change from one book to the next
+- [[STO-017-story-beats-keep-the-pace-and-push-attention-toward-what|STO-017]]: Story beats keep the pace and push attention toward what happens next
+- [[STO-023-content-marketing-is-always-on-and-the-campaign-only|STO-023]]: Content marketing is "always on" and the campaign only highlights it: content contains what customers want to use, not what the brand wants to sell
+- [[STO-025-content-marketing-strategy-is-a-cycle-objectives-and|STO-025]]: Content marketing strategy is a cycle: objectives and audience, creation, distribution and amplification, evaluation and a new round; Kotler breaks it into eight steps, Zahay into four
 <!-- backlinks:end -->

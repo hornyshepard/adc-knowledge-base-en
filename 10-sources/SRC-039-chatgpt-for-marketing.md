@@ -14,60 +14,60 @@ level: 1
 
 # ChatGPT for Marketing: Learn Practical Applications of ChatGPT for Marketing
 
-**Eldar Najafov, 2024.** Apress (Springer Nature), ISBN 979-8-8688-0311-6, DOI 10.1007/979-8-8688-0312-3. 172 de pagini PDF (~150 tipărite), ~47.000 de cuvinte. Autorul, din Baku, are opt ani de experiență în dezvoltare web și inginerie software, nu în marketing. Recenzent tehnic: Sumit Dhami (agenția 3rd Shade, Pune). Paginile citate în note sunt cele tipărite (cuprinsul `.toc.txt` folosește paginile PDF, cu ~15 mai mari).
+**Eldar Najafov, 2024.** Apress (Springer Nature), ISBN 979-8-8688-0311-6, DOI 10.1007/979-8-8688-0312-3. 172 PDF pages (about 150 printed), about 47,000 words. The author, from Baku, has eight years of experience in web development and software engineering, not in marketing. Technical reviewer: Sumit Dhami (the 3rd Shade agency, Pune). The pages cited in the notes are the printed ones (the `.toc.txt` contents use the PDF pages, about 15 higher).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un tur al utilizărilor ChatGPT în marketing: conținut, e-mail, social media, customer service, lead-uri, A/B testing, integrări cu CRM, platforme de automatizare și e-commerce, analiză de date, video generat cu AI și landing pages dinamice. Multe pagini despre etică, confidențialitate și reglementări.
-- **Teza centrală:** ChatGPT automatizează sarcinile repetitive și eliberează marketerii pentru strategie și creație, cu condiția supravegherii umane și a transparenței.
-- **Pentru cine și când:** începători, la prima întâlnire cu AI generativ. Utilă pentru discuția despre etică și transparență și ca punct de plecare pentru un atelier de prompting, pe care cartea însă nu-l oferă.
-- **Relevanță pentru ADC:** ★★☆☆☆ — titlul promite metode de prompting, dar cartea conține doar cinci exemple simple de prompt (cap. 1). Restul sunt liste de beneficii repetate aproape identic (consistență, personalizare, viteză, eficiență) pentru fiecare tip de conținut. Partea solidă: trusa de transparență, checklisturile etice, cadrul de supraveghere umană a vocii de brand.
+- **What it is about:** a tour of the uses of ChatGPT in marketing: content, email, social media, customer service, leads, A/B testing, integrations with CRM, automation and e-commerce platforms, data analysis, AI-generated video and dynamic landing pages. Many pages on ethics, privacy and regulation.
+- **Central thesis:** ChatGPT automates repetitive tasks and frees marketers for strategy and creative work, provided there is human oversight and transparency.
+- **For whom and when:** beginners, at their first encounter with generative AI. Useful for the discussion of ethics and transparency and as a starting point for a prompting workshop, which the book itself does not offer.
+- **Relevance for ADC:** ★★☆☆☆. The title promises prompting methods, but the book contains only five simple prompt examples (ch. 1). The rest are lists of benefits repeated almost word for word (consistency, personalization, speed, efficiency) for each type of content. The solid part: the transparency kit, the ethics checklists, the human oversight framework for the brand voice.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Intro, 1 | ChatGPT în marketing; cinci scenarii cu prompt (e-mail, social, suport, idei de blog, asistent) | [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul\|AIM-025]] |
-| 2 | Cum funcționează (transformer); bias și cadre de atenuare; bune practici; checklist etic; securitatea datelor; ton și stil; multilingvism; reglementări (GDPR, CCPA, PDPA, LGPD, DSL) | [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un\|AIM-033]], [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu\|CPY-029]], [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul\|AIM-025]] |
-| 3 | Sarcini: conținut, suport, cercetare, ad copy, e-mail, social, lead-uri; transparență și etichetare AI; checklist etic; descrieri de produs; privacy by design | [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un\|AIM-033]], [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza\|AIM-030]] |
-| 4 | „Tehnici avansate": limitele vocii de brand, cadrul de supraveghere umană; lead-uri om + AI; A/B testing cu ipoteze umane; integrări (CRM, social, automatizare, e-commerce, project management); analiză și raportare | [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu\|CPY-029]], [[AIM-024-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza-omul-o\|AIM-024]], [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze\|AIM-027]] |
-| 5 | Analiza datelor de marketing cu ChatGPT: preprocesare, NLP, rezumare, vizualizare; trei cazuri anonime | [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze\|AIM-027]] |
-| 6 | Video de marketing generat cu AI: proces, beneficii, riscuri (calitate generică, deepfake, locuri de muncă) | [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un\|AIM-033]] |
-| 7 | UX și landing pages dinamice: Spotify, HubSpot, blocuri de conținut dinamic, A/B, consimțământ | [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp\|AIM-016]] |
+| Introduction, 1 | "Overview of ChatGPT": ChatGPT in marketing; five scenarios with prompts (email, social, support, blog ideas, assistant) | [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer\|AIM-025]] |
+| 2 | "Understanding ChatGPT": how it works (the transformer); bias and mitigation frameworks; best practices; ethics checklist; data security; tone and style; multilingual capabilities; regulation (GDPR, CCPA, PDPA, LGPD, DSL) | [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an\|AIM-033]], [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle\|CPY-029]], [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer\|AIM-025]] |
+| 3 | "Using ChatGPT for Marketing Tasks": content, support, research, ad copy, email, social, leads; transparency and AI labeling; ethics checklist; product descriptions; privacy by design | [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an\|AIM-033]], [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent\|AIM-030]] |
+| 4 | "Advanced Techniques for Marketing with ChatGPT": the limits of AI in capturing brand voice, the human oversight framework; leads from humans + AI; A/B testing with human hypotheses; integrations (CRM, social, automation, e-commerce, project management); analysis and reporting | [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle\|CPY-029]], [[AIM-024-the-human-forms-the-hypothesis-the-ai-runs-it-the-human\|AIM-024]], [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove\|AIM-027]] |
+| 5 | "Insights Unveiled: ChatGPT and the Art of Marketing Data Analysis": preprocessing, NLP, summarization, visualization; three anonymous cases | [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove\|AIM-027]] |
+| 6 | "Visual Narratives: The Future of AI-Generated Marketing Videos": process, benefits, risks (generic quality, deepfakes, jobs) | [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an\|AIM-033]] |
+| 7 | "AI-Driven User Experience (UX) and Dynamic Landing Page Design": Spotify, HubSpot, dynamic content blocks, A/B, consent | [[AIM-016-ai-personalization-works-in-four-registers-real-time\|AIM-016]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul|AIM-025]] — promptul de marketing ca mini-brief; ieșirea e ciornă.
-- [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu|CPY-029]] — cadrul în cinci pași pentru vocea brandului în conținutul generat.
-- [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un|AIM-033]] — trusa de transparență (etichete, insigne, pagini de transparență) și checklistul etic în opt puncte.
-- [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze|AIM-027]] — dezbatere: modelul de limbaj rezumă text, dar nu dovedește cauze (în tensiune cu Struhl).
-- [[AIM-024-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza-omul-o|AIM-024]] — împărțirea muncii om–AI în testare și generare de lead-uri.
-- Îmbogățiri: [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza|AIM-030]] (privacy by design), [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] (mecanica personalizării Spotify).
+- [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer|AIM-025]]: the marketing prompt as a mini-brief; the output is a draft.
+- [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle|CPY-029]]: the five-step framework for the brand voice in generated content.
+- [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an|AIM-033]]: the transparency kit (labels, badges, transparency pages) and the eight-point ethics checklist.
+- [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove|AIM-027]]: debate: a language model summarizes text but does not prove causes (in tension with Struhl).
+- [[AIM-024-the-human-forms-the-hypothesis-the-ai-runs-it-the-human|AIM-024]]: the division of work between humans and AI in testing and lead generation.
+- Enrichments: [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent|AIM-030]] (privacy by design), [[AIM-016-ai-personalization-works-in-four-registers-real-time|AIM-016]] (the mechanics of Spotify's personalization).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Promisiunea din titlu nu e livrată:** nu există tehnici de prompting (roluri, exemple, constrângeri, iterație, lanțuri de pași), nici biblioteci de prompturi pentru sarcini de marketing.
-- **Erori și imprecizii tehnice:** afirmă că ChatGPT „învață din fiecare interacțiune" cu clienții și că GPT are o „arhitectură deschisă", ambele înșelătoare. Vorbește de „sute de milioane de parametri" și de arhitectura GPT-3.5 într-o carte din 2024.
-- **Studii de caz anonime și cifre neverificabile** („Company A", „Brand X", „+40% ROI", „-30% abandon de coș"), fără metodă.
-- **Text foarte repetitiv**, cu urme de redactare asistată și neîngrijită: secțiuni duplicate (bune practici, social media), fraze despre „includerea acestor ghiduri în carte" lăsate în text, rezumatul cap. 7 care descrie de fapt capitolul despre video.
-- Supraestimează capacitatea modelului de a face analiză cauzală și curățare de date (vezi [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze|AIM-027]]).
-- Aproape nimic despre idee, insight sau calitatea creativă. AI-ul e tratat ca unealtă de volum.
+- **The promise of the title is not delivered:** there are no prompting techniques (roles, examples, constraints, iteration, chains of steps), nor libraries of prompts for marketing tasks.
+- **Technical errors and inaccuracies:** it claims that ChatGPT "learns from each interaction" with customers and that GPT has an "open architecture", both misleading. It speaks of "hundreds of millions of parameters" and of the GPT-3.5 architecture in a book from 2024.
+- **Anonymous case studies and unverifiable figures** ("Company A", "Brand X", "+40% ROI", "-30% cart abandonment"), with no method.
+- **A very repetitive text**, with traces of assisted and careless writing: duplicated sections (best practices, social media), sentences about "including these guidelines in the book" left in the text, a summary of ch. 7 that actually describes the chapter on video.
+- It overestimates the model's ability to do causal analysis and data cleaning (see [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove|AIM-027]]).
+- Almost nothing on the idea, insight or creative quality. AI is treated as a tool for volume.
 
-## Citat
+## Quote
 
-> ChatGPT poate avea dificultăți „to fully capture the unique voice and nuanced tone of a brand" (cap. 4, p. 80).
+> ChatGPT "may struggle to fully capture the unique voice and nuanced tone of a brand" (ch. 4, p. 80).
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-016-personalizarea-cu-ai-lucreaza-in-patru-registre-in-timp|AIM-016]] — Personalizarea cu AI lucrează în patru registre — în timp real, comportamental, micro-segment și predictiv
-- [[AIM-024-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza-omul-o|AIM-024]] — Ipoteza o formulează omul, AI-ul o rulează, omul o interpretează — împărțirea muncii în testare și lead-uri
-- [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul|AIM-025]] — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
-- [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze|AIM-027]] — Un model de limbaj rezumă bine text, dar nu dovedește cauze — „de ce a crescut conversia?" nu e o întrebare pentru chatbot
-- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
-- [[AIM-030-etica-datelor-in-marketingul-cu-ai-are-patru-reguli-de-baza|AIM-030]] — Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
-- [[AIM-032-biasul-in-marketingul-cu-ai-are-doua-surse-datele-din-care|AIM-032]] — Biasul în marketingul cu AI are două surse — datele din care învață modelul și încrederea oarbă a omului în recomandare
-- [[AIM-033-declara-cand-folosesti-ai-o-trusa-de-transparenta-si-un|AIM-033]] — Declară când folosești AI — o trusă de transparență și un checklist etic în opt puncte
-- [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la|CPY-019]] — Vocea brandului rămâne constantă, tonul se adaptează la canal, public și situație
-- [[CPY-029-vocea-brandului-nu-se-obtine-din-prompt-ci-dintr-un-ciclu|CPY-029]] — Vocea brandului nu se obține din prompt, ci dintr-un ciclu exemple → ciornă → editare umană → feedback → control final
+- [[AIM-016-ai-personalization-works-in-four-registers-real-time|AIM-016]]: AI personalization works in four registers: real-time, behavioral, micro-segment and predictive
+- [[AIM-024-the-human-forms-the-hypothesis-the-ai-runs-it-the-human|AIM-024]]: The human forms the hypothesis, the AI runs it, the human interprets it: the division of labor in testing and leads
+- [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer|AIM-025]]: A marketing prompt is a mini-brief, and the model's answer is a draft, not a deliverable
+- [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove|AIM-027]]: A language model summarizes text well but does not prove causes: "why did conversion go up?" is not a question for a chatbot
+- [[AIM-029-can-ai-create-a-brand-s-identity-the-promise-of-ai|AIM-029]]: Can AI create a brand's identity? The promise of “AI-generated brand assets” vs. the brand as meaning and relationship
+- [[AIM-030-data-ethics-in-ai-marketing-has-four-basic-rules-consent|AIM-030]]: Data ethics in AI marketing has four basic rules: consent, access and erasure, transparency, minimization
+- [[AIM-032-bias-in-ai-marketing-has-two-sources-the-data-the-model|AIM-032]]: Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+- [[AIM-033-disclose-when-you-use-ai-a-transparency-toolkit-and-an|AIM-033]]: Disclose when you use AI: a transparency toolkit and an eight-point ethical checklist
+- [[CPY-019-the-brand-s-voice-stays-constant-while-the-tone-adapts-to|CPY-019]]: The brand's voice stays constant, while the tone adapts to channel, audience and situation
+- [[CPY-029-brand-voice-does-not-come-from-a-prompt-but-from-a-cycle|CPY-029]]: Brand voice does not come from a prompt but from a cycle: examples → draft → human editing → feedback → final check
 <!-- backlinks:end -->

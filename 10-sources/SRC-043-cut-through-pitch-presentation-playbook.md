@@ -14,110 +14,110 @@ level: 2
 
 # Cut-Through: The pitch and presentation playbook
 
-**Dominic Colenso, 2026** (pagina de copyright indică 2026; notele bibliografice sunt accesate în mai 2025). Practical Inspiration Publishing, Marea Britanie. Prefață de David Hieatt (The Do Lectures, Hiut Denim). Ediție EPUB fără numere de pagină — trimiterile sunt pe capitole și subcapitole.
+**Dominic Colenso, 2026** (the copyright page says 2026; the endnotes were accessed in May 2025). Practical Inspiration Publishing, UK. Foreword by David Hieatt (The Do Lectures, Hiut Denim). An EPUB edition with no page numbers: references are to chapters and sections.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un „playbook” practic pentru pitch-uri și prezentări, scris de un fost actor (Virgil Tracy în *Thunderbirds*) devenit regizor la RADA și apoi trainer de comunicare (firma In Flow). Cartea transformă procesul teatral (cercetare → repetiții → spectacol → analiză) într-o metodă în șase pași, „cele șase D”: Discover, Distil, Design, Drill, Deliver, Debrief. Fiecare capitol are exerciții „Stand & Deliver” și acronime ușor de reținut (S.T.A.R., S.A.L.T., POP, PPF, SELL, SOLVE, cele cinci R).
-- **Teza centrală:** cut-through (succesul de a capta atenția și de a influența) se obține combinând emoția, simplitatea și energia, iar asta nu ține de talent, ci de un proces repetabil, în care gândirea și repetiția contează mai mult decât slide-urile.
-- **Pentru cine și când:** studenți de la anul I în sus, înainte de primul pitch de proiect; strategi și conturi pentru pitch-uri de agenție; creativi care își prezintă ideile. Ideal în modulul PIT, ca manual de lucru.
-- **Relevanță pentru ADC:** ★★★★★ — cea mai practică și mai completă carte de pitch din bibliotecă: structură, audiență, mesaj, poveste, repetiție, livrare, Q&A, obiecții, debrief. Limite: nu e specifică publicității (exemplele sunt corporate, vânzări, conferințe), nu tratează prezentarea ideilor creative (scenarii, key visual-uri) ca atare, iar unele afirmații „neuroștiințifice” sunt simplificate.
+- **What it is about:** a practical "playbook" for pitches and presentations, written by a former actor (Virgil Tracy in *Thunderbirds*) who became a director at RADA and then a communication trainer (the firm In Flow). The book turns the theatrical process (research → rehearsals → performance → analysis) into a six-step method, "the six Ds": Discover, Distil, Design, Drill, Deliver, Debrief. Every chapter has "Stand and deliver" exercises and easy-to-remember acronyms (S.T.A.R., S.A.L.T., POP, PPF, SELL, SOLVE, the five Rs).
+- **Central thesis:** cut-through (succeeding in capturing attention and influencing) comes from combining emotion, simplicity and energy, and this is not a matter of talent but of a repeatable process, in which thinking and rehearsal count for more than the slides.
+- **For whom and when:** students from year 1 up, before their first project pitch; strategists and account people for agency pitches; creatives presenting their ideas. Ideal in the PIT module, as a workbook.
+- **Relevance for ADC:** ★★★★★. The most practical and complete pitch book in the library: structure, audience, message, story, rehearsal, delivery, Q&A, objections, debrief. Limits: it is not specific to advertising (the examples are corporate, sales, conferences), it does not deal with presenting creative ideas (scripts, key visuals) as such, and some "neuroscientific" claims are simplified.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Introducere | Lumea AHA; cut-through = emoție + simplitate + energie; modelul IMPACT; cele șase D | [[PIT-001-cut-through-apare-la-intersectia-dintre-emotie-simplitate\|PIT-001]], [[PIT-002-un-pitch-se-construieste-in-sase-pasi-discover-distil\|PIT-002]] |
-| 1 Discover | „Întrebarea de examen”, a spune nu; audiența (fapte vs. sentimente, centrele de energie In Flow); see it–feel it–say it; echipa (ABC); unicitatea; concurența (Define–Differentiate–Destroy); go big to go small | [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si\|PIT-006]], [[PIT-008-audienta-comunica-din-patru-centre-de-energie-cap-inima\|PIT-008]], [[PIT-007-cercetarea-audientei-separa-faptele-verificabile-de\|PIT-007]], [[PIT-009-obiectivul-unui-pitch-se-vizualizeaza-se-simte-si-abia-apoi\|PIT-009]], [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa\|PIT-024]], [[PIT-011-a-spune-de-ce-esti-tu-cel-potrivit-este-un-act-de\|PIT-011]], [[PIT-010-orice-prezentare-are-concurenta-define-differentiate-destroy\|PIT-010]] |
-| 2 Distil | Feature film vs. box set; Know–Feel–Do–Why now; headline și puterea lui trei; intenția emoțională (verbe active); cererea / următorul pas logic; towards vs. away from; stardust; formula blockbuster 20:70:10 | [[PIT-003-intentia-unei-prezentari-raspunde-la-patru-intrebari-know\|PIT-003]], [[PIT-004-un-pitch-se-organizeaza-ca-un-arbore-un-headline-trei\|PIT-004]], [[PIT-012-calatoria-emotionala-a-audientei-se-planifica-prin-verbe\|PIT-012]], [[PIT-014-cererea-dintr-un-pitch-este-urmatorul-pas-logic-nu-da-ul\|PIT-014]], [[PIT-013-urgenta-unui-pitch-se-construieste-pe-motivatia-towards-sau\|PIT-013]], [[PIT-015-stardust-cinci-tipuri-de-dovezi-care-fac-un-mesaj-memorabil\|PIT-015]], [[PIT-005-formula-blockbuster-20-setup-70-confruntare-10-rezolutie\|PIT-005]] |
-| 3 Design | Înapoi la întrebarea de examen; script vs. framework-uri; S.T.A.R.; 1.2.3. (POP, PPF); SELL și SOLVE; S.A.L.T. și peak-end; presentation on a page; șase principii pentru slide-uri | [[PIT-021-prezinta-din-framework-uri-si-cuvinte-cheie-nu-dintr-un\|PIT-021]], [[PIT-016-deschiderea-s-t-a-r-surprise-takeaways-authority-roadmap\|PIT-016]], [[PIT-017-mijlocul-prezentarii-se-organizeaza-in-trei-parti-pop-ppf\|PIT-017]], [[PIT-018-povestile-dintr-un-pitch-se-structureaza-cu-sell-sau-solve\|PIT-018]], [[PIT-019-incheierea-s-a-l-t-controleaza-ultima-impresie-conform\|PIT-019]], [[PIT-020-slide-urile-sunt-decor-nu-script-sase-principii-de-design\|PIT-020]] |
-| 4 Drill | Cinci etape de repetiție, MVR; a da drumul scriptului, energia nivel 8; echipa și tranzițiile; camera; Q&A în cinci pași (P + + – P); planuri B și C, „parașuta” | [[PIT-022-repetitia-trece-prin-cinci-etape-de-la-car-crash-la\|PIT-022]], [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa\|PIT-024]], [[PIT-025-q-a-se-pregateste-in-cinci-pasi-iar-raspunsul-se-da-cu\|PIT-025]], [[PIT-031-prezentarea-virtuala-cere-gandire-de-editor-tv-privire-in\|PIT-031]] |
-| 5 Deliver | Nervii ca energie; respirația; încălzirea fizică și vocală; tehnica; începutul cu energie; virtual/hibrid; implicarea audienței; cele cinci R ale obiecțiilor | [[PIT-027-nervii-sunt-energie-se-reincadreaza-se-fragmenteaza-in\|PIT-027]], [[PIT-029-vorbitorul-conduce-energia-salii-la-nivelul-8-si-isi\|PIT-029]], [[PIT-031-prezentarea-virtuala-cere-gandire-de-editor-tv-privire-in\|PIT-031]], [[PIT-030-implicarea-audientei-se-construieste-prin-intrebari\|PIT-030]], [[PIT-032-obiectiile-se-trateaza-in-cinci-pasi-reveal-relate-refine\|PIT-032]] |
-| 6 Debrief | Wash-up în 24 h; WWWEBI, What? So what? Now what?, SWOT; feedback cerut dinainte; presentation bank și learning log | [[PIT-026-debrief-ul-in-24-de-ore-presentation-bank-ul-si-learning\|PIT-026]] |
-| Anexa A | Zece formule 1.2.3. (FIT, FAB, ACE, PRO, ROI, AIM, SET, MAP, GRO, LED) | [[PIT-017-mijlocul-prezentarii-se-organizeaza-in-trei-parti-pop-ppf\|PIT-017]] |
+| Introduction | Why life's a pitch: the AHA world; cut-through = emotion + simplicity + energy; the IMPACT model; the six Ds | [[PIT-001-cut-through-happens-at-the-intersection-of-emotion\|PIT-001]], [[PIT-002-a-pitch-is-built-in-six-steps-discover-distil-design-drill\|PIT-002]] |
+| 1 Discover | Zoom out to the big picture: the "exam question", saying no; the audience (facts vs. feelings, the In Flow Energy Centres); see it, feel it, say it; the team (ABC); uniqueness; the competition (Define, Differentiate, Destroy); go big to go small | [[PIT-006-before-any-pitch-define-the-exam-question-and-decide\|PIT-006]], [[PIT-008-an-audience-communicates-from-four-energy-centers-head\|PIT-008]], [[PIT-007-audience-research-separates-verifiable-facts-from-feelings\|PIT-007]], [[PIT-009-you-visualize-a-pitch-s-goal-feel-it-and-only-then-say-it\|PIT-009]], [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its\|PIT-024]], [[PIT-011-saying-why-you-are-the-right-person-is-an-act-of-generosity\|PIT-011]], [[PIT-010-every-presentation-has-competition-define-differentiate\|PIT-010]] |
+| 2 Distil | Cut it back to the core: feature film vs. box set; Know, Feel, Do, Why now; the headline and the power of three; emotional intent (active verbs); the ask / the logical next step; towards vs. away from; stardust; the blockbuster formula 20:70:10 | [[PIT-003-a-presentation-s-intention-answers-four-questions-know-feel\|PIT-003]], [[PIT-004-a-pitch-is-organized-like-a-tree-one-headline-three-key\|PIT-004]], [[PIT-012-you-plan-the-audience-s-emotional-journey-with-active-verbs\|PIT-012]], [[PIT-014-the-ask-in-a-pitch-is-the-logical-next-step-not-the-final\|PIT-014]], [[PIT-013-a-pitch-s-urgency-is-built-on-towards-or-away-from\|PIT-013]], [[PIT-015-stardust-five-kinds-of-evidence-that-make-a-message\|PIT-015]], [[PIT-005-the-blockbuster-formula-20-setup-70-confrontation-10\|PIT-005]] |
+| 3 Design | Craft a blockbuster narrative: back to the exam question; script vs. frameworks; S.T.A.R.; 1.2.3. (POP, PPF); SELL and SOLVE; S.A.L.T. and the Peak End Rule; a presentation on a page; six principles for slides | [[PIT-021-present-from-frameworks-and-key-words-not-from-a-memorized\|PIT-021]], [[PIT-016-the-s-t-a-r-opening-surprise-takeaways-authority-roadmap\|PIT-016]], [[PIT-017-the-middle-of-a-presentation-is-organized-in-three-parts\|PIT-017]], [[PIT-018-the-stories-in-a-pitch-are-structured-with-sell-or-solve\|PIT-018]], [[PIT-019-the-s-a-l-t-ending-controls-the-last-impression-following\|PIT-019]], [[PIT-020-slides-are-set-dressing-not-a-script-six-principles-of-deck\|PIT-020]] |
+| 4 Drill | Prepare a star performance: five stages of rehearsal, MVR; letting go of the script, level 8 energy; the team and the transitions; the camera; Q&A in five steps (P + + – P); plans B and C, the "parachute" | [[PIT-022-rehearsal-goes-through-five-stages-from-the-car-crash-to\|PIT-022]], [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its\|PIT-024]], [[PIT-025-you-prepare-for-q-a-in-five-steps-and-answer-with-the-p-p\|PIT-025]], [[PIT-031-a-virtual-presentation-calls-for-a-tv-editor-s-thinking\|PIT-031]] |
+| 5 Deliver | Leave them wanting more: nerves as energy; breathing; the physical and vocal warm-up; the tech; starting with energy; virtual/hybrid; audience engagement; the five Rs of objections | [[PIT-027-nerves-are-energy-reframe-them-break-them-into-quick-wins\|PIT-027]], [[PIT-029-the-speaker-leads-the-room-s-energy-at-level-8-and-warms-up\|PIT-029]], [[PIT-031-a-virtual-presentation-calls-for-a-tv-editor-s-thinking\|PIT-031]], [[PIT-030-audience-engagement-is-built-through-rhetorical-questions\|PIT-030]], [[PIT-032-objections-are-handled-in-five-steps-reveal-relate-refine\|PIT-032]] |
+| 6 Debrief | Enjoy the accolades and learn from the critics: a wash-up within 24 h; WWWEBI, What? So what? Now what?, SWOT; feedback asked for in advance; the presentation bank and the learning log | [[PIT-026-the-debrief-within-24-hours-the-presentation-bank-and-the\|PIT-026]] |
+| Appendix A | Ten 1.2.3. formulas (FIT, FAB, ACE, PRO, ROI, AIM, SET, MAP, GRO, LED) | [[PIT-017-the-middle-of-a-presentation-is-organized-in-three-parts\|PIT-017]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[PIT-001-cut-through-apare-la-intersectia-dintre-emotie-simplitate|PIT-001]] — cut-through e intersecția emoție–simplitate–energie, într-o lume „AHA” saturată de mesaje.
-- [[PIT-002-un-pitch-se-construieste-in-sase-pasi-discover-distil|PIT-002]] — metoda celor șase D, un proces-buclă inspirat din teatru.
-- [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si|PIT-006]] — „întrebarea de examen” și curajul de a refuza un pitch fără șanse.
-- [[PIT-008-audienta-comunica-din-patru-centre-de-energie-cap-inima|PIT-008]] — tipologia audienței cap / inimă / instinct / picioare (derivată din Yat Malmgren).
-- [[PIT-007-cercetarea-audientei-separa-faptele-verificabile-de|PIT-007]] — cercetarea audienței: fapte vs. sentimente, pre-call, video cu decidenții.
-- [[PIT-009-obiectivul-unui-pitch-se-vizualizeaza-se-simte-si-abia-apoi|PIT-009]] — obiectivul prezentatorului: vizualizează, simte, apoi spune în sub zece cuvinte.
-- [[PIT-003-intentia-unei-prezentari-raspunde-la-patru-intrebari-know|PIT-003]] — intenția în patru întrebări: Know, Feel, Do, Why now.
-- [[PIT-004-un-pitch-se-organizeaza-ca-un-arbore-un-headline-trei|PIT-004]] — headline de tabloid și trei mesaje cheie, structură „arbore genealogic”.
-- [[PIT-012-calatoria-emotionala-a-audientei-se-planifica-prin-verbe|PIT-012]] — intenția emoțională prin verbe active și „schimbări de viteză”.
-- [[PIT-014-cererea-dintr-un-pitch-este-urmatorul-pas-logic-nu-da-ul|PIT-014]] — cererea ca „următor pas logic”, semănată de la început.
-- [[PIT-013-urgenta-unui-pitch-se-construieste-pe-motivatia-towards-sau|PIT-013]] — motivația towards / away from ca motor al urgenței.
-- [[PIT-015-stardust-cinci-tipuri-de-dovezi-care-fac-un-mesaj-memorabil|PIT-015]] — „stardust”: cifre, cazuri, imagini, social proof, metafore.
-- [[PIT-005-formula-blockbuster-20-setup-70-confruntare-10-rezolutie|PIT-005]] — formula blockbuster 20:70:10.
-- [[PIT-016-deschiderea-s-t-a-r-surprise-takeaways-authority-roadmap|PIT-016]] — deschiderea S.T.A.R.
-- [[PIT-017-mijlocul-prezentarii-se-organizeaza-in-trei-parti-pop-ppf|PIT-017]] — mijlocul 1.2.3.: POP, PPF și zece formule.
-- [[PIT-018-povestile-dintr-un-pitch-se-structureaza-cu-sell-sau-solve|PIT-018]] — poveștile SELL și SOLVE; clientul ca erou.
-- [[PIT-019-incheierea-s-a-l-t-controleaza-ultima-impresie-conform|PIT-019]] — încheierea S.A.L.T. și regula peak-end.
-- [[PIT-020-slide-urile-sunt-decor-nu-script-sase-principii-de-design|PIT-020]] — șase principii pentru slide-uri; deck de prezentare ≠ deck de lăsat.
-- [[PIT-021-prezinta-din-framework-uri-si-cuvinte-cheie-nu-dintr-un|PIT-021]] — prezintă din framework-uri, nu din script memorat.
-- [[PIT-022-repetitia-trece-prin-cinci-etape-de-la-car-crash-la|PIT-022]] — cinci etape de repetiție și MVR; planurile B și C.
-- [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa|PIT-024]] — echipa de pitch: ABC, lider clar, tranziții ca la ștafetă.
-- [[PIT-025-q-a-se-pregateste-in-cinci-pasi-iar-raspunsul-se-da-cu|PIT-025]] — Q&A în cinci pași și formula P + + – P.
-- [[PIT-032-obiectiile-se-trateaza-in-cinci-pasi-reveal-relate-refine|PIT-032]] — cele cinci R ale obiecțiilor.
-- [[PIT-027-nervii-sunt-energie-se-reincadreaza-se-fragmenteaza-in|PIT-027]] — nervii sunt energie; respirația diafragmatică și box breathing.
-- [[PIT-029-vorbitorul-conduce-energia-salii-la-nivelul-8-si-isi|PIT-029]] — energia „nivel 8” și încălzirea instrumentului.
-- [[PIT-031-prezentarea-virtuala-cere-gandire-de-editor-tv-privire-in|PIT-031]] — prezentarea virtuală și hibridă.
-- [[PIT-030-implicarea-audientei-se-construieste-prin-intrebari|PIT-030]] — implicarea audienței fără „tumbleweed”.
-- [[PIT-026-debrief-ul-in-24-de-ore-presentation-bank-ul-si-learning|PIT-026]] — debrief, presentation bank și learning log.
-- [[PIT-010-orice-prezentare-are-concurenta-define-differentiate-destroy|PIT-010]] — concurența: Define, Differentiate, Destroy.
-- [[PIT-011-a-spune-de-ce-esti-tu-cel-potrivit-este-un-act-de|PIT-011]] — unicitatea prezentatorului ca act de generozitate.
+- [[PIT-001-cut-through-happens-at-the-intersection-of-emotion|PIT-001]]: cut-through is the intersection of emotion, simplicity and energy, in an "AHA" world saturated with messages.
+- [[PIT-002-a-pitch-is-built-in-six-steps-discover-distil-design-drill|PIT-002]]: the six Ds method, a looping process inspired by theater.
+- [[PIT-006-before-any-pitch-define-the-exam-question-and-decide|PIT-006]]: the "exam question" and the courage to turn down a pitch you cannot win.
+- [[PIT-008-an-audience-communicates-from-four-energy-centers-head|PIT-008]]: the audience typology head / heart / gut / feet (derived from Yat Malmgren).
+- [[PIT-007-audience-research-separates-verifiable-facts-from-feelings|PIT-007]]: audience research: facts vs. feelings, the pre-call, video of the decision-makers.
+- [[PIT-009-you-visualize-a-pitch-s-goal-feel-it-and-only-then-say-it|PIT-009]]: the presenter's objective: see it, feel it, then say it in under ten words.
+- [[PIT-003-a-presentation-s-intention-answers-four-questions-know-feel|PIT-003]]: the intention in four questions: Know, Feel, Do, Why now.
+- [[PIT-004-a-pitch-is-organized-like-a-tree-one-headline-three-key|PIT-004]]: a tabloid headline and three key messages, a "family tree" structure.
+- [[PIT-012-you-plan-the-audience-s-emotional-journey-with-active-verbs|PIT-012]]: emotional intent through active verbs and "gear changes".
+- [[PIT-014-the-ask-in-a-pitch-is-the-logical-next-step-not-the-final|PIT-014]]: the ask as the "logical next step", seeded from the start.
+- [[PIT-013-a-pitch-s-urgency-is-built-on-towards-or-away-from|PIT-013]]: towards / away from motivation as the engine of urgency.
+- [[PIT-015-stardust-five-kinds-of-evidence-that-make-a-message|PIT-015]]: "stardust": facts and figures, case studies, visuals, social proof, metaphors.
+- [[PIT-005-the-blockbuster-formula-20-setup-70-confrontation-10|PIT-005]]: the blockbuster formula 20:70:10.
+- [[PIT-016-the-s-t-a-r-opening-surprise-takeaways-authority-roadmap|PIT-016]]: the S.T.A.R. opening.
+- [[PIT-017-the-middle-of-a-presentation-is-organized-in-three-parts|PIT-017]]: the 1.2.3. middle: POP, PPF and ten formulas.
+- [[PIT-018-the-stories-in-a-pitch-are-structured-with-sell-or-solve|PIT-018]]: SELL and SOLVE stories; the client as the hero.
+- [[PIT-019-the-s-a-l-t-ending-controls-the-last-impression-following|PIT-019]]: the S.A.L.T. close and the Peak End Rule.
+- [[PIT-020-slides-are-set-dressing-not-a-script-six-principles-of-deck|PIT-020]]: six principles for slides; the presentation deck ≠ the takeaway deck.
+- [[PIT-021-present-from-frameworks-and-key-words-not-from-a-memorized|PIT-021]]: present from frameworks, not from a memorized script.
+- [[PIT-022-rehearsal-goes-through-five-stages-from-the-car-crash-to|PIT-022]]: five stages of rehearsal and the MVR; plans B and C.
+- [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its|PIT-024]]: the pitch team: ABC, a clear leader, transitions like a relay.
+- [[PIT-025-you-prepare-for-q-a-in-five-steps-and-answer-with-the-p-p|PIT-025]]: Q&A in five steps and the P + + – P formula.
+- [[PIT-032-objections-are-handled-in-five-steps-reveal-relate-refine|PIT-032]]: the five Rs of objections.
+- [[PIT-027-nerves-are-energy-reframe-them-break-them-into-quick-wins|PIT-027]]: nerves are energy; diaphragmatic breathing and box breathing.
+- [[PIT-029-the-speaker-leads-the-room-s-energy-at-level-8-and-warms-up|PIT-029]]: "level 8" energy and warming up the instrument.
+- [[PIT-031-a-virtual-presentation-calls-for-a-tv-editor-s-thinking|PIT-031]]: virtual and hybrid presentations.
+- [[PIT-030-audience-engagement-is-built-through-rhetorical-questions|PIT-030]]: engaging the audience without "tumbleweed".
+- [[PIT-026-the-debrief-within-24-hours-the-presentation-bank-and-the|PIT-026]]: debrief, presentation bank and learning log.
+- [[PIT-010-every-presentation-has-competition-define-differentiate|PIT-010]]: the competition: Define, Differentiate, Destroy.
+- [[PIT-011-saying-why-you-are-the-right-person-is-an-act-of-generosity|PIT-011]]: the presenter's uniqueness as an act of generosity.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Exemplele sunt din vânzări B2B, conferințe și prezentări interne; prezentarea muncii creative (concepte, storyboard-uri, reacția clientului la o idee „riscantă”) lipsește — trebuie completată din surse de agenție.
-- Tipologia „In Flow Energy Centres” e dezvoltată de autor pe baza lui Yat Malmgren; nu e un instrument psihometric validat, ci o euristică de lucru.
-- Unele afirmații științifice sunt simplificate sau popularizate: „7 ± 2” al lui Miller, oxitocina declanșată de povești, cortizol/testosteron prin respirație, „33 de milisecunde” pentru prima impresie. Structura în trei acte e atribuită lui Joseph Campbell, deși în scenaristică e asociată mai ales cu Syd Field.
-- Raportul 20:70:10 e o regulă empirică a autorului, nu un rezultat de cercetare.
-- Cartea trimite des la site-ul ei (worksheet-uri, video) și la prima carte, *IMPACT* (2019) — unele modele (cadrele de conversație, „level 8”) sunt doar rezumate aici.
+- The examples come from B2B sales, conferences and internal presentations; presenting creative work (concepts, storyboards, the client's reaction to a "risky" idea) is missing and has to be supplemented from agency sources.
+- The "In Flow Energy Centres" typology was developed by the author from Yat Malmgren's work; it is not a validated psychometric tool but a working heuristic.
+- Some scientific claims are simplified or popularized: Miller's "7 ± 2", oxytocin released by stories, cortisol/testosterone through breathing, "33 milliseconds" for a first impression. The three-act structure is attributed to Joseph Campbell, although in screenwriting it is associated mainly with Syd Field.
+- The 20:70:10 ratio is the author's rule of thumb, not a research finding.
+- The book often refers to its website (worksheets, video) and to the author's first book, *IMPACT* (2019); some models (the conversation frameworks, "level 8") are only summarized here.
 
-## Citat
+## Quote
 
-> „A pitch is a presentation, and a presentation is a pitch.” (Introducere, „The six Ds”)
+> "A pitch is a presentation, and a presentation is a pitch." (Introduction, "The six Ds")
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]] — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
-- [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica|CLI-013]] — Competiția de agenții costă scump ambele părți — se califică, se cadrează contractual și are un singur câștigător
-- [[PIT-001-cut-through-apare-la-intersectia-dintre-emotie-simplitate|PIT-001]] — Cut-through apare la intersecția dintre emoție, simplitate și energie
-- [[PIT-002-un-pitch-se-construieste-in-sase-pasi-discover-distil|PIT-002]] — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
-- [[PIT-003-intentia-unei-prezentari-raspunde-la-patru-intrebari-know|PIT-003]] — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
-- [[PIT-004-un-pitch-se-organizeaza-ca-un-arbore-un-headline-trei|PIT-004]] — Un pitch se organizează ca un arbore — un headline, trei mesaje cheie și dovezile dedesubt
-- [[PIT-005-formula-blockbuster-20-setup-70-confruntare-10-rezolutie|PIT-005]] — Formula blockbuster — 20% setup, 70% confruntare, 10% rezoluție
-- [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si|PIT-006]] — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
-- [[PIT-007-cercetarea-audientei-separa-faptele-verificabile-de|PIT-007]] — Cercetarea audienței separă faptele verificabile de sentimente
-- [[PIT-008-audienta-comunica-din-patru-centre-de-energie-cap-inima|PIT-008]] — Audiența comunică din patru centre de energie — cap, inimă, instinct și picioare
-- [[PIT-009-obiectivul-unui-pitch-se-vizualizeaza-se-simte-si-abia-apoi|PIT-009]] — Obiectivul unui pitch se vizualizează, se simte și abia apoi se spune în sub zece cuvinte
-- [[PIT-010-orice-prezentare-are-concurenta-define-differentiate-destroy|PIT-010]] — Orice prezentare are concurență — Define, Differentiate, Destroy
-- [[PIT-011-a-spune-de-ce-esti-tu-cel-potrivit-este-un-act-de|PIT-011]] — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
-- [[PIT-012-calatoria-emotionala-a-audientei-se-planifica-prin-verbe|PIT-012]] — Călătoria emoțională a audienței se planifică prin verbe active
-- [[PIT-013-urgenta-unui-pitch-se-construieste-pe-motivatia-towards-sau|PIT-013]] — Urgența unui pitch se construiește pe motivația „towards” sau „away from”
-- [[PIT-014-cererea-dintr-un-pitch-este-urmatorul-pas-logic-nu-da-ul|PIT-014]] — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
-- [[PIT-015-stardust-cinci-tipuri-de-dovezi-care-fac-un-mesaj-memorabil|PIT-015]] — „Stardust” — cinci tipuri de dovezi care fac un mesaj memorabil
-- [[PIT-016-deschiderea-s-t-a-r-surprise-takeaways-authority-roadmap|PIT-016]] — Deschiderea S.T.A.R. — Surprise, Takeaways, Authority, Roadmap
-- [[PIT-017-mijlocul-prezentarii-se-organizeaza-in-trei-parti-pop-ppf|PIT-017]] — Mijlocul prezentării se organizează în trei părți — POP, PPF și alte zece formule
-- [[PIT-018-povestile-dintr-un-pitch-se-structureaza-cu-sell-sau-solve|PIT-018]] — Poveștile dintr-un pitch se structurează cu SELL sau SOLVE, iar eroul este clientul
-- [[PIT-019-incheierea-s-a-l-t-controleaza-ultima-impresie-conform|PIT-019]] — Încheierea S.A.L.T. controlează ultima impresie, conform regulii peak-end
-- [[PIT-020-slide-urile-sunt-decor-nu-script-sase-principii-de-design|PIT-020]] — Slide-urile sunt decor, nu script — șase principii de design al deck-ului
-- [[PIT-021-prezinta-din-framework-uri-si-cuvinte-cheie-nu-dintr-un|PIT-021]] — Prezintă din framework-uri și cuvinte cheie, nu dintr-un script memorat
-- [[PIT-022-repetitia-trece-prin-cinci-etape-de-la-car-crash-la|PIT-022]] — Repetiția trece prin cinci etape, de la „car crash” la repetiția generală
-- [[PIT-023-repetitia-pe-video-functioneaza-cand-corectezi-un-singur|PIT-023]] — Repetiția pe video funcționează când corectezi un singur defect pe rundă, până îți place ce vezi
-- [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa|PIT-024]] — Echipa de pitch se alege după ABC și se judecă după tranziții
-- [[PIT-025-q-a-se-pregateste-in-cinci-pasi-iar-raspunsul-se-da-cu|PIT-025]] — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
-- [[PIT-026-debrief-ul-in-24-de-ore-presentation-bank-ul-si-learning|PIT-026]] — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
-- [[PIT-027-nervii-sunt-energie-se-reincadreaza-se-fragmenteaza-in|PIT-027]] — Nervii sunt energie — se reîncadrează, se fragmentează în „quick wins” și se calmează prin respirație
-- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
-- [[PIT-029-vorbitorul-conduce-energia-salii-la-nivelul-8-si-isi|PIT-029]] — Vorbitorul conduce energia sălii la „nivelul 8” și își încălzește corpul și vocea ca un instrument
-- [[PIT-030-implicarea-audientei-se-construieste-prin-intrebari|PIT-030]] — Implicarea audienței se construiește prin întrebări retorice, cadre de interacțiune și nume
-- [[PIT-031-prezentarea-virtuala-cere-gandire-de-editor-tv-privire-in|PIT-031]] — Prezentarea virtuală cere gândire de editor TV — privire în cameră, cadru strâns, schimbări de „plan”
-- [[PIT-032-obiectiile-se-trateaza-in-cinci-pasi-reveal-relate-refine|PIT-032]] — Obiecțiile se tratează în cinci pași — Reveal, Relate, Refine, Reduce, Redirect
-- [[PIT-033-tracul-se-trateaza-prin-tehnici-de-calmare-sau-prin|PIT-033]] — Tracul se tratează prin tehnici de calmare sau prin eliminarea necunoscutului? Două abordări în tensiune
-- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
+- [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]]: Stage selling: each stage of the sale sells only the next step
+- [[CLI-013-an-agency-competition-is-expensive-for-both-sides-it-is|CLI-013]]: An agency competition is expensive for both sides: it is qualified, framed by contract and has only one winner
+- [[PIT-001-cut-through-happens-at-the-intersection-of-emotion|PIT-001]]: Cut-through happens at the intersection of emotion, simplicity and energy
+- [[PIT-002-a-pitch-is-built-in-six-steps-discover-distil-design-drill|PIT-002]]: A pitch is built in six steps: Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-003-a-presentation-s-intention-answers-four-questions-know-feel|PIT-003]]: A presentation's intention answers four questions: Know, Feel, Do and Why now
+- [[PIT-004-a-pitch-is-organized-like-a-tree-one-headline-three-key|PIT-004]]: A pitch is organized like a tree: one headline, three key messages and the evidence underneath
+- [[PIT-005-the-blockbuster-formula-20-setup-70-confrontation-10|PIT-005]]: The blockbuster formula: 20% setup, 70% confrontation, 10% resolution
+- [[PIT-006-before-any-pitch-define-the-exam-question-and-decide|PIT-006]]: Before any pitch, define the "exam question" and decide whether it is worth taking part
+- [[PIT-007-audience-research-separates-verifiable-facts-from-feelings|PIT-007]]: Audience research separates verifiable facts from feelings
+- [[PIT-008-an-audience-communicates-from-four-energy-centers-head|PIT-008]]: An audience communicates from four energy centers: head, heart, gut and feet
+- [[PIT-009-you-visualize-a-pitch-s-goal-feel-it-and-only-then-say-it|PIT-009]]: You visualize a pitch's goal, feel it, and only then say it in fewer than ten words
+- [[PIT-010-every-presentation-has-competition-define-differentiate|PIT-010]]: Every presentation has competition: Define, Differentiate, Destroy
+- [[PIT-011-saying-why-you-are-the-right-person-is-an-act-of-generosity|PIT-011]]: Saying why you are the right person is an act of generosity towards the audience
+- [[PIT-012-you-plan-the-audience-s-emotional-journey-with-active-verbs|PIT-012]]: You plan the audience's emotional journey with active verbs
+- [[PIT-013-a-pitch-s-urgency-is-built-on-towards-or-away-from|PIT-013]]: A pitch's urgency is built on "towards" or "away from" motivation
+- [[PIT-014-the-ask-in-a-pitch-is-the-logical-next-step-not-the-final|PIT-014]]: The ask in a pitch is the "logical next step", not the final "yes"
+- [[PIT-015-stardust-five-kinds-of-evidence-that-make-a-message|PIT-015]]: Stardust: five kinds of evidence that make a message memorable
+- [[PIT-016-the-s-t-a-r-opening-surprise-takeaways-authority-roadmap|PIT-016]]: The S.T.A.R. opening: Surprise, Takeaways, Authority, Roadmap
+- [[PIT-017-the-middle-of-a-presentation-is-organized-in-three-parts|PIT-017]]: The middle of a presentation is organized in three parts: POP, PPF and ten more formulas
+- [[PIT-018-the-stories-in-a-pitch-are-structured-with-sell-or-solve|PIT-018]]: The stories in a pitch are structured with SELL or SOLVE, and the hero is the client
+- [[PIT-019-the-s-a-l-t-ending-controls-the-last-impression-following|PIT-019]]: The S.A.L.T. ending controls the last impression, following the peak-end rule
+- [[PIT-020-slides-are-set-dressing-not-a-script-six-principles-of-deck|PIT-020]]: Slides are set dressing, not a script: six principles of deck design
+- [[PIT-021-present-from-frameworks-and-key-words-not-from-a-memorized|PIT-021]]: Present from frameworks and key words, not from a memorized script
+- [[PIT-022-rehearsal-goes-through-five-stages-from-the-car-crash-to|PIT-022]]: Rehearsal goes through five stages, from "the car crash" to the dress rehearsal
+- [[PIT-023-rehearsing-on-video-works-when-you-correct-a-single-flaw|PIT-023]]: Rehearsing on video works when you correct a single flaw per round, until you like what you see
+- [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its|PIT-024]]: You pick a pitch team by ABC and it is judged by its transitions
+- [[PIT-025-you-prepare-for-q-a-in-five-steps-and-answer-with-the-p-p|PIT-025]]: You prepare for Q&A in five steps and answer with the P + + – P formula
+- [[PIT-026-the-debrief-within-24-hours-the-presentation-bank-and-the|PIT-026]]: The debrief within 24 hours, the presentation bank and the learning log turn every pitch into progress
+- [[PIT-027-nerves-are-energy-reframe-them-break-them-into-quick-wins|PIT-027]]: Nerves are energy: reframe them, break them into "quick wins" and calm them with your breath
+- [[PIT-028-to-speak-with-life-in-front-of-a-room-break-out-of-written|PIT-028]]: To speak with life in front of a room, break out of "written punctuation": firm attacks, deliberate silences, enjambment, scansion, contrasting rhythm
+- [[PIT-029-the-speaker-leads-the-room-s-energy-at-level-8-and-warms-up|PIT-029]]: The speaker leads the room's energy at "level 8" and warms up body and voice like an instrument
+- [[PIT-030-audience-engagement-is-built-through-rhetorical-questions|PIT-030]]: Audience engagement is built through rhetorical questions, frames for interaction and names
+- [[PIT-031-a-virtual-presentation-calls-for-a-tv-editor-s-thinking|PIT-031]]: A virtual presentation calls for a TV editor's thinking: eyes on the lens, a tight frame, changes of “shot”
+- [[PIT-032-objections-are-handled-in-five-steps-reveal-relate-refine|PIT-032]]: Objections are handled in five steps: Reveal, Relate, Refine, Reduce, Redirect
+- [[PIT-033-is-stage-fright-treated-with-calming-techniques-or-by|PIT-033]]: Is stage fright treated with calming techniques or by removing the unknown? Two approaches in tension
+- [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio|PRT-004]]: The portfolio sent in advance and the portfolio presentation are two different documents
 <!-- backlinks:end -->

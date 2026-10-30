@@ -14,51 +14,51 @@ level: 1
 
 # Future-Proof Marketing: Strategies for Success in 2024 and Beyond
 
-**The DX Review, 2024** (autorul nu apare în textul extras; atribuirea vine din catalog). Fără editură, fără bibliografie. ~17.000 de cuvinte.
+**The DX Review, 2024** (the author does not appear in the extracted text; the attribution comes from the catalog). No publisher, no bibliography. About 17,000 words.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** nouă capitole scurte despre șase „nișe": strategia de marketing în 2024, personalizare și hiper-targetare, căutare vocală, marketing bazat pe date (AI, analiză predictivă), mobile-first, omnicanal, plus un capitol despre echipa de marketing „pregătită pentru viitor".
-- **Teza centrală:** marketerii trebuie să adopte personalizarea, optimizarea pentru voce, deciziile bazate pe date, abordarea mobile-first și integrarea omnicanal ca să rămână relevanți.
-- **Pentru cine și când:** practic pentru nimeni dintre studenții ADC. Cel mult ca glosar de termeni sau, mai util, ca **exemplu negativ** într-un seminar despre citirea critică a surselor.
-- **Relevanță pentru ADC:** ★☆☆☆☆ — text cu toate semnele unei generări automate: aceleași șase teme reluate aproape identic în fiecare subcapitol, lista de public („CEOs, CMOs, marketing professionals, marketing students…") repetată de peste 40 de ori, subcapitole care anunță conținut („this subchapter will explore…") pe care nu-l mai livrează. Nu are niciun caz, niciun exemplu de brand și nicio sursă.
+- **What it is about:** nine short chapters on six "niches": marketing strategy in 2024, personalization and hyper-targeting, voice search, data-driven marketing (AI, predictive analytics), mobile-first, omni-channel, plus a chapter on a "future-proof" marketing team.
+- **Central thesis:** marketers must adopt personalization, optimization for voice, data-driven decisions, a mobile-first approach and omni-channel integration to stay relevant.
+- **For whom and when:** in practice, for none of the ADC students. At most as a glossary of terms or, more usefully, as a **negative example** in a seminar on reading sources critically.
+- **Relevance for ADC:** ★☆☆☆☆: a text with every sign of automatic generation: the same six themes repeated almost word for word in every subchapter, the audience list ("CEOs, CMOs, marketing professionals, marketing students…") repeated more than 40 times, subchapters that announce content ("This subchapter will explore…") they never deliver. It has no case, no brand example and no source.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1–2 | Evoluția strategiilor, nevoia de „future-proofing", publicul-țintă, peisajul actual, trenduri | [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum\|MKT-059]] (exemplu negativ) |
-| 3 | Personalizare, hiper-targetare, echilibrul confidențialitate–personalizare | [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult\|AIM-031]] |
-| 4 | Căutarea vocală: optimizare, campanii, asistenți vocali | [[DIG-031-cautarea-vocala-cere-continut-scris-ca-raspuns-la-intrebari\|DIG-031]] |
-| 5 | Date, AI/ML, decizii pe date, analiză predictivă | — (generic) |
-| 6 | Mobile-first, design responsiv, portofele mobile | — (generic) |
-| 7 | Omnicanal: integrare online/offline, experiență fără fisuri, măsurare (CLV, atribuire) | [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se\|DIG-020]] |
-| 8 | Echipa: roluri, învățare continuă, agilitate, creativitate | — (generic) |
-| 9 | Concluzii | — |
+| 1–2 | Introduction to Future-Proof Marketing; Marketing Strategy in 2024 and Beyond: the evolution of strategies, the need for "future-proofing", the target audience, the current landscape, trends | [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate\|MKT-059]] (negative example) |
+| 3 | Personalization and Hyper-Targeting in Marketing Strategy in 2024 and Beyond: balancing privacy and personalization | [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you\|AIM-031]] |
+| 4 | Voice Search and Marketing Strategy in 2024 and Beyond: optimization, campaigns, voice assistants | [[DIG-031-voice-search-calls-for-content-written-as-answers-to-spoken\|DIG-031]] |
+| 5 | Data-Driven Marketing Strategy in 2024 and Beyond: data, AI and machine learning, data-driven decisions, predictive analytics | none (generic) |
+| 6 | Mobile-First Marketing Strategy in 2024 and Beyond: responsive design, mobile wallets | none (generic) |
+| 7 | Omni-Channel Marketing Strategy in 2024 and Beyond: integrating online and offline channels, a seamless customer experience, measurement (CLV, attribution) | [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is\|DIG-020]] |
+| 8 | Future-Proofing Your Marketing Department: roles, continuous learning, agility, creativity | none (generic) |
+| 9 | Conclusion | none |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[DIG-031-cautarea-vocala-cere-continut-scris-ca-raspuns-la-intrebari|DIG-031]] — optimizarea pentru căutarea vocală: cuvinte-cheie conversaționale, răspunsuri directe, date structurate. Și prognoza nerealizată „peste 50% din căutări vocale până în 2024".
-- [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se|DIG-020]] — omnicanalul ca integrare reciprocă a canalelor și măsurarea lui prin CLV și atribuire.
-- [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult|AIM-031]] — echilibrul confidențialitate–personalizare: transparență, consimțământ, control, încredere.
-- [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum|MKT-059]] — cartea ca studiu de caz despre conținutul de umplutură.
+- [[DIG-031-voice-search-calls-for-content-written-as-answers-to-spoken|DIG-031]]: optimizing for voice search: conversational keywords, direct answers, structured data. Also the forecast that did not come true, that more than 50% of search queries would be made through voice by 2024.
+- [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is|DIG-020]]: omni-channel as the mutual integration of channels, measured through CLV and attribution.
+- [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you|AIM-031]]: the balance between privacy and personalization: transparency, consent, control, trust.
+- [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate|MKT-059]]: the book as a case study in filler content.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Aproape tot.** Lipsesc exemplele, datele cu sursă, metodele pas cu pas, creativitatea (invocată doar ca „thinking outside the box") și orice discuție despre brand sau idee.
-- **Prognoze neverificate:** „peste 50% din căutări vor fi vocale până în 2024" nu s-a confirmat. Căutarea a mers mai degrabă spre răspunsurile generate de AI.
-- **Fenomen de semnalat studenților:** textul pare generat cu un model de limbaj pe o schemă fixă. E o lecție despre cum arată conținutul care sună competent, dar nu spune nimic: generalități corecte, zero specificitate.
-- Cele câteva idei utile (CLV pentru campaniile omnicanal, transparență și control asupra datelor) se găsesc mai bine dezvoltate în alte surse ale bazei.
+- **Almost everything.** It lacks examples, sourced data, step-by-step methods, creativity (invoked only as "think outside the box") and any discussion of brand or idea.
+- **Unverified forecasts:** the claim that more than 50% of searches would be voice searches by 2024 did not come true. Search moved instead toward AI-generated answers.
+- **A phenomenon to point out to students:** the text looks generated with a language model on a fixed outline. It is a lesson in what content looks like when it sounds competent but says nothing: correct generalities, zero specificity.
+- The few useful ideas (CLV for omni-channel campaigns, transparency and control over data) are better developed in other sources in the base.
 
-## Citat
+## Quote
 
-> Niciun pasaj nu merită citat; textul e reformulare repetitivă.
+> No passage is worth quoting; the text is repetitive rewording.
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult|AIM-031]] — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
-- [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se|DIG-020]] — Omnicanalul înseamnă canale care se întăresc reciproc — se construiește pe scenariile critice de cumpărare, cu silozurile sparte, și se măsoară prin valoarea clientului, nu prin clicuri pe canal
-- [[DIG-031-cautarea-vocala-cere-continut-scris-ca-raspuns-la-intrebari|DIG-031]] — Căutarea vocală cere conținut scris ca răspuns la întrebări rostite — o prognoză exagerată, dar o practică utilă
-- [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum|MKT-059]] — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you|AIM-031]]: The personalization paradox: the more an ad knows about you, the more it risks scaring you
+- [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is|DIG-020]]: Omnichannel means channels that reinforce each other: it is built on the critical purchase scenarios, with the silos broken, and measured by customer value, not by clicks per channel
+- [[DIG-031-voice-search-calls-for-content-written-as-answers-to-spoken|DIG-031]]: Voice search calls for content written as answers to spoken questions: an exaggerated forecast, but a useful practice
+- [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate|MKT-059]]: Trend books are read as hypotheses, not maps: how to separate signal from filler
 <!-- backlinks:end -->

@@ -1,62 +1,62 @@
-# Raport P2-ART — integrarea skill-ului Direcție artistică și identitate vizuală
+# Report P2-ART: integration of the Art direction and visual identity skill
 
-Agent: P2-CPY-ART-HIS (deține și CPY, HIS). Data: 2026-10-01.
+Agent: P2-CPY-ART-HIS (also owns CPY, HIS). Date: 2026-10-01.
 
-## 1. Cifre
+## 1. Numbers
 
-| | Înainte | După |
+| | Before | After |
 |---|---|---|
-| Note permanente ART | 27 | 29 (+2 noi, nicio comasare) |
-| Note cu `status: growing` | 0 | 29 |
-| Legături tipizate pe notă | 3–6 | 4–6 (toate au cel puțin o legătură spre alt grup de cărți sau alt skill) |
+| ART permanent notes | 27 | 29 (+2 new, no merges) |
+| Notes with `status: growing` | 0 | 29 |
+| Typed links per note | 3–6 | 4–6 (all have at least one link to another book group or another skill) |
 
-`kb.py check`: nicio problemă în fișierele ART.
+`kb.py check`: no problems in the ART files.
 
-## 2. Comasări
+## 2. Merges
 
-Niciuna (`merges-ART.txt` conține doar un comentariu). Notele de identitate (G05, Peters/Calder) și cele de idee vizuală (G07, Ingledew) sunt înrudite, dar nu duplicate. Le-am legat cu relații tipizate.
+None (`merges-ART.txt` contains only a comment). The identity notes (G05, Peters/Calder) and the visual idea notes (G07, Ingledew) are related, but not duplicates. I linked them with typed relations.
 
-## 3. Traseu coerent pentru un skill amestecat
+## 3. A coherent path for a mixed skill
 
-Skill-ul combina trei familii: identitate și logo (*Logos That Last*, Calder), tehnici de idee vizuală (Ingledew, Milavsky) și tactici vizuale din cercetare (Percy, ART-15xx). Plus lecții istorice (G08) și un banner (G10). Harta din `SKILL.md` le ordonează așa:
+The skill combined three families: identity and logo (*Logos That Last*, Calder), visual idea techniques (Ingledew, Milavsky) and visual tactics from research (Percy, ART-15xx). Plus historical lessons (G08) and a banner (G10). The map in `SKILL.md` orders them like this:
 
-1. cum e privită o reclamă (imagine, culoare, tipografie, privire);
-2. ideea vizuală de campanie;
-3. identitatea: de la asociații la semn;
-4. sistemul de identitate în timp: consecvență, redesign, ambalaj;
-5. lecții din istorie;
-6. avansat: canale, culturi, persuasiune implicită.
+1. how an ad is looked at (image, color, typography, gaze);
+2. the visual campaign idea;
+3. identity: from associations to the mark;
+4. the identity system over time: consistency, redesign, packaging;
+5. lessons from history;
+6. advanced: channels, cultures, implicit persuasion.
 
-## 4. Note noi (Phase 2)
+## 4. New notes (Phase 2)
 
-- **ART-9901** — Culoarea spune povestea, diferențiază și motivează; saturația contează mai mult decât nuanța. Surse: SRC-017 „Color Palette", SRC-016 interviul cu Laura Guido-Clark, SRC-049 cap. 13, SRC-031 cap. 3, SRC-014 cap. 7. „Culoarea" era în scope fără notă proprie. Nota arată și dezacordul: tabelele populare de semnificații (Sachdev) față de saturație și luminozitate (Guido-Clark).
-- **ART-9902** — Ambalajul se proiectează și pentru viața de după cumpărare: forma ca indiciu, beneficiul repetat la fiecare folosire. Surse: SRC-049 cap. 15, SRC-014 cap. 7. Golul fusese semnalat în rapoartele G03 și G15. **Atenție:** agentul ADV a scris în paralel **ADV-9901** (ambalajul la raft), din același pasaj Percy. Am rescris ART-9902 pe unghiul de design (reclama după cumpărare, Rossiter & Bellman; forma ca indiciu, Calder), cu ADV-9901 ca `fundament`. Suprapunerea rămasă e mică, dar perechea e de verificat.
+- **ART-9901**: Color tells the story, differentiates and motivates; saturation matters more than hue. Sources: SRC-017 "Color Palette", SRC-016 the interview with Laura Guido-Clark, SRC-049 ch. 13, SRC-031 ch. 3, SRC-014 ch. 7. "Color" was in scope with no note of its own. The note also shows the disagreement: the popular tables of meanings (Sachdev) versus saturation and brightness (Guido-Clark).
+- **ART-9902**: Packaging is also designed for its life after purchase: shape as a cue, the benefit repeated at every use. Sources: SRC-049 ch. 15, SRC-014 ch. 7. The gap had been flagged in the G03 and G15 reports. **Caution:** the ADV agent wrote **ADV-9901** (packaging at the shelf) in parallel, from the same Percy passage. I rewrote ART-9902 from the design angle (advertising after purchase, Rossiter & Bellman; shape as a cue, Calder), with ADV-9901 as `foundation`. The remaining overlap is small, but the pair should be checked.
 
-## 5. Revizii de conținut
+## 5. Content revisions
 
-- Au primit secțiunea „Exemplu", care lipsea: ART-0703 (Pearson, *Penguin by Design*), ART-0704 (Fukuda, *Sea Cannot Be Cut Apart*), ART-0705 (seria HSBC), ART-0706 (felicitările johnson banks). Exemplele au fost mutate din explicație, nu dublate.
-- ART-0503: am adăugat SRC-049 (aceeași scădere Tropicana de circa 20%, citată de Percy): două surse independente confirmă cazul.
-- Am tăiat ART-1503 (de la 560 la circa 430 de cuvinte) și ART-1501. Am scurtat titlul la ART-1001.
-- Am adăugat legături spre alte grupuri, mai ales pentru notele G05, care aveau doar legături interne: ART-0505/0506 → IDE-0704/0705/0707, ART-0509 → BRD-1505, STO-1108, ART-0511 → BRD-1505, CPY-0817.
+- These notes got the missing "Example" section: ART-0703 (Pearson, *Penguin by Design*), ART-0704 (Fukuda, *Sea Cannot Be Cut Apart*), ART-0705 (the HSBC series), ART-0706 (the johnson banks greeting cards). The examples were moved out of the explanation, not duplicated.
+- ART-0503: I added SRC-049 (the same Tropicana drop of about 20%, cited by Percy): two independent sources confirm the case.
+- I cut ART-1503 (from 560 to about 430 words) and ART-1501. I shortened the title of ART-1001.
+- I added links to other groups, especially for the G05 notes, which had only internal links: ART-0505/0506 → IDE-0704/0705/0707, ART-0509 → BRD-1505, STO-1108, ART-0511 → BRD-1505, CPY-0817.
 
-## 6. Duplicate între skill-uri
+## 6. Duplicates across skills
 
-| Nota ART | Nota din alt skill | Relație |
+| ART note | Note in another skill | Relation |
 |---|---|---|
-| ART-9902 ambalajul după cumpărare | ADV-9901 ambalajul la raft | aceeași sursă (SRC-049 cap. 15); unghiuri diferite, legate cu `fundament` |
-| ART-0511 hardware/software, ART-0509, ART-0701 | BRD-1505 (look & feel consecvent, Percy) | aceeași idee de consecvență vizuală din trei surse |
-| ART-1001 bannerul | DIG-0921 (evoluția display) | execuție vs. evoluția formatului |
-| ART-0702/0703/0704 | IDE-0705/0706/0707 | tehnicile Ingledew împărțite între ART (limbaj vizual) și IDE (mecanismul ideii) |
-| ART-0401 privirea | DIG-0104 (mobil, fețe), DIG-0913 (convenții web) | compoziție vs. format |
+| ART-9902 packaging after purchase | ADV-9901 packaging at the shelf | the same source (SRC-049 ch. 15); different angles, linked with `foundation` |
+| ART-0511 hardware/software, ART-0509, ART-0701 | BRD-1505 (consistent look & feel, Percy) | the same idea of visual consistency from three sources |
+| ART-1001 the banner | DIG-0921 (the evolution of display) | execution vs. the evolution of the format |
+| ART-0702/0703/0704 | IDE-0705/0706/0707 | Ingledew's techniques split between ART (visual language) and IDE (the mechanism of the idea) |
+| ART-0401 gaze | DIG-0104 (mobile, faces), DIG-0913 (web conventions) | composition vs. format |
 
-## 7. Goluri rămase
+## 7. Remaining gaps
 
-- **Compoziție și ierarhie tipografică** (grid, contrast, aliniere): acoperite doar indirect (ART-1503, ART-0801, ART-0508). Cărțile de portofoliu (SRC-046, SRC-048) ar putea da o notă de bază.
-- **Design pentru social și video vertical**: doar ART-1001 și, în DIG, DIG-0104. Ar merita o notă dedicată dacă biblioteca o permite.
-- **Fotografia și ilustrația ca alegeri de direcție artistică**: lipsesc ca note proprii.
-- **Audio branding**: semnalat de G15; nu se potrivește în ART (vizual) și nici în CPY. Propun o hartă sau o notă BRD/EXP.
+- **Composition and typographic hierarchy** (grid, contrast, alignment): covered only indirectly (ART-1503, ART-0801, ART-0508). The portfolio books (SRC-046, SRC-048) could give a basic note.
+- **Design for social and vertical video**: only ART-1001 and, in DIG, DIG-0104. It would deserve a dedicated note if the library allows it.
+- **Photography and illustration as art direction choices**: missing as notes of their own.
+- **Audio branding**: flagged by G15; it fits neither ART (visual) nor CPY. I propose a map or a BRD/EXP note.
 
-## 8. Pentru orchestrator
+## 8. For the orchestrator
 
-- Ordinea de renumerotare e cea din `SKILL.md`: ART-1503 devine ART-001, ART-9901 devine ART-002.
-- În notele mele am redirecționat deja legăturile BRD-0105 → BRD-0508 și DIG-1011 → DIG-0920.
+- The renumbering order is the one in `SKILL.md`: ART-1503 becomes ART-001, ART-9901 becomes ART-002.
+- In my notes I already redirected the links BRD-0105 → BRD-0508 and DIG-1011 → DIG-0920.

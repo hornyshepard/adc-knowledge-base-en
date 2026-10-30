@@ -1,207 +1,207 @@
 ---
 name: client-business
-description: Client, vânzări și business — relația agenție–client (account management, decidenții clientului, aprobarea creației, comunicarea asertivă), câștigarea clienților noi (vânzare personală, prospectare, introduceri, pitch-ul între agenții) și business-ul agenției (remunerare, in-house vs. agenție, holding-uri și boutique-uri, conflictul de cont). Folosește când pregătești o întâlnire cu un client sau un prospect, conduci o ședință de aprobare, decizi dacă intri într-un pitch, faci un plan de new business ori explici cum câștigă bani o agenție.
+description: Client, sales and business. The agency-client relationship (account management, the client's decision makers, creative approval, assertive communication), winning new clients (personal selling, prospecting, introductions, the agency pitch) and the agency business (compensation, in-house vs. agency, holding companies and boutiques, account conflict). Use when you prepare a meeting with a client or a prospect, run an approval meeting, decide whether to enter a pitch, make a new business plan or explain how an agency makes money.
 code: CLI
 domain: D5
 type: skill
 ---
 
-# Client, vânzări și business (CLI)
+# Client, sales and business (CLI)
 
-Skill-ul răspunde la trei întrebări ale omului de agenție: **cine e clientul și cum lucrezi cu el zi de zi**, **cum câștigi clienți noi** și **cum funcționează agenția ca afacere**. E cel mai subțire skill al bazei: partea de prospectare vine dintr-o singură carte modestă (ghidul B2B semnat de Nishad, cu atribuire suspectă), iar restul e construit din capitole bine documentate din manualul lui Grewal și Levy, din *La boîte à outils de la publicité*, din McTigue & Rucker, Milavsky, Richards și Percy. Negocierea propriu-zisă (contract, preț, scope) nu are încă o sursă dedicată — vezi limitele de la final.
+The skill answers three questions an agency person has: **who the client is and how you work with them day to day**, **how you win new clients** and **how the agency works as a business**. It is the thinnest skill in the base: the prospecting part comes from a single modest book (the B2B guide signed by Nishad, with a suspect attribution), and the rest is built from well-documented chapters of Grewal and Levy's textbook, *La boîte à outils de la publicité*, McTigue & Rucker, Milavsky, Richards and Percy. Negotiation itself (contract, price, scope) has no dedicated source yet (see the limits at the end).
 
-## Ce înseamnă să stăpânești acest skill
+## What mastering this skill means
 
-Competențe observabile („poți să…"):
+Observable competencies ("you can…"):
 
-- **C1** Poți face harta decidenților unui client (roluri, cultura de decizie, situația de cumpărare) și poți adapta întâlnirea fiecărui rol.
-- **C2** Poți lucra ca account: traduci brief-ul clientului pentru echipă, negociezi bugetul și modificările, ții memoria scrisă a contului.
-- **C3** Poți conduce sau susține o ședință de aprobare care protejează ideea și poți spune „nu" asertiv, fără să strici relația.
-- **C4** Poți construi un plan de new business: listă-țintă, prospectare constantă, introduceri, cereri de întâlnire care oferă valoare, vânzare pe etape.
-- **C5** Poți decide dacă merită intrat într-un pitch între agenții și ce condiții ceri.
-- **C6** Poți explica modelele de business ale agenției — remunerarea, in-house vs. agenție, holding vs. boutique, conflictul de cont — și efectul lor asupra muncii creative.
+- **C1** You can map a client's decision makers (roles, decision culture, buying situation) and adapt the meeting to each role.
+- **C2** You can work as an account person: you translate the client's brief for the team, negotiate the budget and the changes, and keep the written memory of the account.
+- **C3** You can lead or support an approval meeting that protects the idea, and you can say "no" assertively without damaging the relationship.
+- **C4** You can build a new business plan: a target list, steady prospecting, introductions, meeting requests that offer value, selling in stages.
+- **C5** You can decide whether an agency pitch is worth entering and what conditions to ask for.
+- **C6** You can explain the agency's business models (compensation, in-house vs. agency, holding company vs. boutique, account conflict) and their effect on creative work.
 
-## Harta notelor (traseu de învățare)
+## Note map (learning path)
 
-### 1. Fundamente — cine e clientul și cine îl servește
-- [[CLI-001-clientul-b2b-decide-ca-un-centru-de-cumparare-sase-roluri|CLI-001]] — clientul B2B decide ca un centru de cumpărare — șase roluri, patru culturi de decizie; baza oricărei relații.
-- [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei|CLI-002]] — account managerul vinde în ambele direcții — rolul care ține legătura dintre client și echipă.
-- [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput|CLI-003]] — clientul bun primește munca bună — încrederea, alinierea de la început și riscul strategic.
+### 1. Foundations: who the client is and who serves them
+- [[CLI-001-the-b2b-client-decides-as-a-buying-center-six-roles-four|CLI-001]] the B2B client decides as a buying center: six roles, four decision cultures; the basis of any relationship.
+- [[CLI-002-the-account-manager-sells-in-both-directions-the-agency-s|CLI-002]] the account manager sells in both directions: the role that keeps the link between the client and the team.
+- [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start|CLI-003]] the good client gets the good work: trust, alignment from the start and strategic risk.
 
-### 2. Lucrul pe cont — aprobare, feedback, conflict
-- [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] — comunicarea asertivă, între agresiv și pasiv — cum spui „nu" clientului sau echipei.
-- [[CLI-005-ideile-se-erodeaza-in-circuitul-de-aprobare-fiecare-nivel|CLI-005]] — ideile se erodează în circuitul de aprobare — de ce trebuie protejată ideea după prezentare.
-- Din alte skill-uri, pe același traseu: [[PIT-034-prezentarea-muncii-creative-la-client-are-un-ritual|PIT-034]] (ritualul prezentării de creație), [[BRF-024-primirea-brief-ului-il-reduci-la-esenta-il-verifici-pe|BRF-024]] (preluarea brief-ului), [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii|BRF-025]] și [[BRF-026-adplan-sase-intrebari-pentru-o-executie-care-e-on-brief-dar|BRF-026]] (feedback-ul clientului la creație), [[PIT-032-obiectiile-se-trateaza-in-cinci-pasi-reveal-relate-refine|PIT-032]] (obiecțiile în sală), [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] (ce poți arăta din munca pentru client), [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] (comunicarea de criză).
+### 2. Working on the account: approval, feedback, conflict
+- [[CLI-004-assertive-communication-sits-between-aggressive-and-passive|CLI-004]] assertive communication, between aggressive and passive: how you say "no" to the client or to the team.
+- [[CLI-005-ideas-erode-in-the-approval-chain-each-level-that-asks-for|CLI-005]] ideas erode in the approval chain: why the idea must be protected after the presentation.
+- From other skills, on the same path: [[PIT-034-presenting-creative-work-to-the-client-follows-a-ritual-the|PIT-034]] (the ritual of presenting creative work), [[BRF-024-receiving-the-brief-you-reduce-it-to-its-essence-check-it|BRF-024]] (taking the brief), [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i|BRF-025]] and [[BRF-026-adplan-six-questions-for-an-execution-that-is-on-brief-but|BRF-026]] (the client's feedback on creative work), [[PIT-032-objections-are-handled-in-five-steps-reveal-relate-refine|PIT-032]] (objections in the room), [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]] (what you can show of your work for a client), [[ADV-075-in-crisis-communication-denial-is-the-worst-option|ADV-075]] (crisis communication).
 
-### 3. Câștigarea clienților — new business
-- [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]] — stage selling: fiecare etapă vinde doar etapa următoare — principiul de bază al prospectării.
-- [[CLI-007-vanzarea-personala-are-cinci-pasi-iar-prezentarea-incepe|CLI-007]] — vânzarea personală în cinci pași — procesul complet, aliniat la etapele de cumpărare ale clientului.
-- [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara|CLI-008]] — prospectarea e un joc de consistență — cum depășești frica de respingere.
-- [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat|CLI-009]] — Dream 100: o listă scurtă de clienți-țintă — pe cine urmărești.
-- [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in|CLI-010]] — Person of Influence: cine are deja clienții tăi — recomandările ca sistem.
-- [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le|CLI-011]] — introducerea în trei deschide uși — instrumentul concret al recomandării.
-- [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] — cererea întâlnirii oferă valoare pentru timpul cerut — mesajul de programare.
-- [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica|CLI-013]] — competiția de agenții costă scump ambele părți — când intri într-un pitch și în ce condiții.
-- Din alte skill-uri: [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si|PIT-006]] (dreptul de a refuza), [[PIT-014-cererea-dintr-un-pitch-este-urmatorul-pas-logic-nu-da-ul|PIT-014]] (următorul pas logic), [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa|PIT-024]] (echipa de pitch), [[PIT-035-recomandarea-de-agentie-reco-arata-de-ce-s-a-ales-o-solutie|PIT-035]] (recomandarea), [[DIG-039-demand-generation-duce-prospectul-de-la-continut-la-lead|DIG-039]] (generarea cererii în B2B), [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-036]] (influența în B2B).
+### 3. Winning clients: new business
+- [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]] stage selling, each stage sells only the next step: the basic principle of prospecting.
+- [[CLI-007-personal-selling-has-five-steps-and-the-presentation-starts|CLI-007]] personal selling in five steps: the full process, aligned with the client's buying stages.
+- [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the|CLI-008]] prospecting is a game of consistency: how you get past the fear of rejection.
+- [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached|CLI-009]] the Dream 100, a short list of target clients: whom you pursue.
+- [[CLI-010-person-of-influence-look-for-whoever-already-has-your|CLI-010]] Person of Influence, who already has your customers: referrals as a system.
+- [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not|CLI-011]] the 3-way introduction opens doors: the concrete tool of the referral.
+- [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]] the meeting request offers value for the time it asks for: the scheduling message.
+- [[CLI-013-an-agency-competition-is-expensive-for-both-sides-it-is|CLI-013]] an agency competition is expensive for both sides: when you enter a pitch and on what terms.
+- From other skills: [[PIT-006-before-any-pitch-define-the-exam-question-and-decide|PIT-006]] (the right to decline), [[PIT-014-the-ask-in-a-pitch-is-the-logical-next-step-not-the-final|PIT-014]] (the next logical step), [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its|PIT-024]] (the pitch team), [[PIT-035-the-agency-recommendation-reco-shows-why-a-solution-was|PIT-035]] (the recommendation), [[DIG-039-demand-generation-takes-the-prospect-from-content-to|DIG-039]] (demand generation in B2B), [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders|SOC-036]] (influence in B2B).
 
-### 4. Business-ul agenției
-- [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii|CLI-014]] — agenția vinde timpul oamenilor ei — remunerarea, marja și costul brief-ului neclar.
-- [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]] — in-house, agenție parteneră sau roster — cum își organizează clientul creația.
-- [[CLI-016-industria-agentiilor-s-a-polarizat-in-holding-uri-globale|CLI-016]] — holding-uri, boutique-uri și conflictul de cont — structura industriei.
-- [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de|CLI-017]] — agenția viitorului: șase forțe care îi schimbă modelul — tendințele care continuă transformarea.
-- Din alte skill-uri: [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]] (cum e plătită agenția îi decide loialitatea), [[HIS-014-planificarea-strategica-account-planning-a-mutat-cercetarea|HIS-014]] (nașterea planificării strategice), [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia|SOC-038]] (cine deține influencer marketingul), [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-030]] (negocierea cu un creator — singura notă de negociere din bază), [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea|MKT-004]] (valoarea relației pe termen lung).
+### 4. The agency business
+- [[CLI-014-the-agency-sells-its-people-s-time-an-unclear-brief-eats|CLI-014]] the agency sells its people's time: compensation, margin and the cost of an unclear brief.
+- [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an|CLI-015]] in-house, agency of choice or roster: how the client organizes its creative work.
+- [[CLI-016-the-agency-industry-has-polarized-into-global-holding|CLI-016]] holding companies, boutiques and account conflict: the structure of the industry.
+- [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its|CLI-017]] the agency of the future, six forces that are changing its model: the trends that continue the transformation.
+- From other skills: [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]] (how the agency is paid decides its loyalty), [[HIS-014-account-planning-moved-research-from-answers-to-questions|HIS-014]] (the birth of account planning), [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist|SOC-038]] (who owns influencer marketing), [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and|SOC-030]] (negotiating with a creator, the only negotiation note in the base), [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction|MKT-004]] (the long-term value of the relationship).
 
-## Surse principale
+## Main sources
 
-| Sursă | Pentru ce | Relevanță |
+| Source | What for | Relevance |
 |---|---|---|
-| [[SRC-001-marketing-grewal-levy\|SRC-001]] Grewal & Levy, *Marketing* (cap. 7, 20) | centrul de cumpărare B2B, procesul de cumpărare, vânzarea personală în cinci pași | ★★★★☆ |
-| [[SRC-019-la-boite-a-outils-de-la-publicite\|SRC-019]] Barre & Gayrard-Carrera, *La boîte à outils de la publicité* | rolurile de cont (chef de publicité, directeur de clientèle), așteptările client–agenție, cadrarea competiției | ★★★★☆ |
-| [[SRC-022-the-creative-brief-blueprint\|SRC-022]] McTigue & Rucker, *The Creative Brief Blueprint* | clientul bun, încrederea, remunerarea legată de obiective | ★★★★★ |
-| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | circuitul de aprobare, schimbarea omului de la client, agency review | ★★★★☆ |
-| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | holding-uri, conflictul de cont, separarea media, modelele de colaborare de după 2020 | ★★★★☆ |
-| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | cine face reclama: in-house, agenții, independenți | ★★★★★ |
-| [[SRC-045-b2b-sales-manual\|SRC-045]] Nishad, *The Complete Guide to B2B Sales Success* | prospectare, Dream 100, introduceri, cererea întâlnirii; doar lead generation, iar textul pare transcrierea cursului altui trainer (probabil Eric Lofholm) — citează cu rezervă | ★★☆☆☆ |
-| [[SRC-008-future-marketing\|SRC-008]] Wuebben, *Future Marketing* | forțele care schimbă modelul agenției | ★★★☆☆ |
-| [[SRC-020-la-bible-de-la-communication\|SRC-020]] Muller, *La bible de la communication* | comunicarea asertivă; compilație fără surse | ★☆☆☆☆ |
+| [[SRC-001-marketing-grewal-levy\|SRC-001]] Grewal & Levy, *Marketing* (ch. 7, 20) | the B2B buying center, the buying process, personal selling in five steps | ★★★★☆ |
+| [[SRC-019-la-boite-a-outils-de-la-publicite\|SRC-019]] Barre & Gayrard-Carrera, *La boîte à outils de la publicité* | account roles (*chef de publicité*, *directeur de clientèle*), client-agency expectations, framing the competition | ★★★★☆ |
+| [[SRC-022-the-creative-brief-blueprint\|SRC-022]] McTigue & Rucker, *The Creative Brief Blueprint* | the good client, trust, compensation tied to objectives | ★★★★★ |
+| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | the approval chain, a change of person on the client side, agency review | ★★★★☆ |
+| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | holding companies, account conflict, the separation of media, the models of collaboration after 2020 | ★★★★☆ |
+| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | who makes the advertising: in-house, agencies, independents | ★★★★★ |
+| [[SRC-045-b2b-sales-manual\|SRC-045]] Nishad, *The Complete Guide to B2B Sales Success* | prospecting, Dream 100, introductions, the meeting request; lead generation only, and the text looks like the transcript of another trainer's course (probably Eric Lofholm); cite with caution | ★★☆☆☆ |
+| [[SRC-008-future-marketing\|SRC-008]] Wuebben, *Future Marketing* | the forces changing the agency model | ★★★☆☆ |
+| [[SRC-020-la-bible-de-la-communication\|SRC-020]] Muller, *La bible de la communication* | assertive communication; a compilation without sources | ★☆☆☆☆ |
 
-## Skill-uri vecine
+## Neighboring skills
 
-- [[20-skills/pitch-presentation/SKILL|PIT]] — prezentarea e momentul în care relația cu clientul se câștigă sau se pierde.
-- [[20-skills/creative-brief/SKILL|BRF]] — brief-ul e contractul de lucru dintre client și agenție.
-- [[20-skills/portfolio/SKILL|PRT]] — căutarea unui job folosește aceleași instrumente ca new business-ul.
-- [[20-skills/advertising-history/SKILL|HIS]] — istoria remunerării și a structurii agențiilor.
-- [[20-skills/advertising-strategy/SKILL|ADV]] — strategia și planul pe care le vinde agenția.
-- [[20-skills/marketing-fundamentals/SKILL|MKT]] — valoarea relației cu clientul și propunerea de valoare.
+- [[20-skills/pitch-presentation/SKILL|PIT]]: the presentation is the moment when the relationship with the client is won or lost.
+- [[20-skills/creative-brief/SKILL|BRF]]: the brief is the working contract between the client and the agency.
+- [[20-skills/portfolio/SKILL|PRT]]: looking for a job uses the same tools as new business.
+- [[20-skills/advertising-history/SKILL|HIS]]: the history of compensation and of agency structure.
+- [[20-skills/advertising-strategy/SKILL|ADV]]: the strategy and the plan the agency sells.
+- [[20-skills/marketing-fundamentals/SKILL|MKT]]: the value of the customer relationship and the value proposition.
 
-## Cum folosește un agent AI acest skill
+## How an AI agent uses this skill
 
-1. **Când pregătești prima întâlnire cu un client nou sau cu un prospect**: fă harta rolurilor cu [[CLI-001-clientul-b2b-decide-ca-un-centru-de-cumparare-sase-roluri|CLI-001]], alege obiectivul întâlnirii după etapa clientului ([[CLI-007-vanzarea-personala-are-cinci-pasi-iar-prezentarea-incepe|CLI-007]], [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]]), scrie cererea de întâlnire după [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] și cercetează audiența cu [[PIT-007-cercetarea-audientei-separa-faptele-verificabile-de|PIT-007]].
-2. **Când trebuie să prezinți creația și să obții aprobarea**: [[PIT-034-prezentarea-muncii-creative-la-client-are-un-ritual|PIT-034]] pentru ședință, [[CLI-005-ideile-se-erodeaza-in-circuitul-de-aprobare-fiecare-nivel|CLI-005]] pentru circuitul de după, [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii|BRF-025]] ca să anticipezi feedback-ul, [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] pentru refuzurile asertive și [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput|CLI-003]] pentru relația pe termen lung.
-3. **Când decizi dacă intri într-un pitch**: filtrul de calificare din [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica|CLI-013]], întrebarea de examen din [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si|PIT-006]], harta decidenților din [[CLI-001-clientul-b2b-decide-ca-un-centru-de-cumparare-sase-roluri|CLI-001]]; exemplul retragerii Ogilvy din [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]].
-4. **Când faci un plan de new business pentru o agenție mică sau un freelancer**: [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat|CLI-009]] (lista-țintă), [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara|CLI-008]] (ritmul zilnic), [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in|CLI-010]] și [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le|CLI-011]] (recomandări și introduceri), [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru|CLI-012]] (mesajul); verifică conflictul de cont cu [[CLI-016-industria-agentiilor-s-a-polarizat-in-holding-uri-globale|CLI-016]].
-5. **Când discuți buget, revizii sau remunerare**: [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii|CLI-014]] și [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei|CLI-002]]; pentru negocierea cu creatori, [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-030]]. Spune explicit că baza nu are încă o sursă despre negocierea contractuală, pricing sau scope.
-6. **Când explici cum funcționează industria**: [[CLI-016-industria-agentiilor-s-a-polarizat-in-holding-uri-globale|CLI-016]], [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]], [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de|CLI-017]], [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]].
+1. **When you prepare the first meeting with a new client or a prospect**: map the roles with [[CLI-001-the-b2b-client-decides-as-a-buying-center-six-roles-four|CLI-001]], choose the meeting's objective by the client's stage ([[CLI-007-personal-selling-has-five-steps-and-the-presentation-starts|CLI-007]], [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]]), write the meeting request following [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]] and research the audience with [[PIT-007-audience-research-separates-verifiable-facts-from-feelings|PIT-007]].
+2. **When you have to present the creative work and get approval**: [[PIT-034-presenting-creative-work-to-the-client-follows-a-ritual-the|PIT-034]] for the meeting, [[CLI-005-ideas-erode-in-the-approval-chain-each-level-that-asks-for|CLI-005]] for the chain that follows, [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i|BRF-025]] to anticipate the feedback, [[CLI-004-assertive-communication-sits-between-aggressive-and-passive|CLI-004]] for assertive refusals and [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start|CLI-003]] for the long-term relationship.
+3. **When you decide whether to enter a pitch**: the qualification filter from [[CLI-013-an-agency-competition-is-expensive-for-both-sides-it-is|CLI-013]], the exam question from [[PIT-006-before-any-pitch-define-the-exam-question-and-decide|PIT-006]], the map of decision makers from [[CLI-001-the-b2b-client-decides-as-a-buying-center-six-roles-four|CLI-001]]; the example of Ogilvy's withdrawal in [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]].
+4. **When you make a new business plan for a small agency or a freelancer**: [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached|CLI-009]] (the target list), [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the|CLI-008]] (the daily rhythm), [[CLI-010-person-of-influence-look-for-whoever-already-has-your|CLI-010]] and [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not|CLI-011]] (referrals and introductions), [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it|CLI-012]] (the message); check for account conflict with [[CLI-016-the-agency-industry-has-polarized-into-global-holding|CLI-016]].
+5. **When you discuss budget, revisions or compensation**: [[CLI-014-the-agency-sells-its-people-s-time-an-unclear-brief-eats|CLI-014]] and [[CLI-002-the-account-manager-sells-in-both-directions-the-agency-s|CLI-002]]; for negotiating with creators, [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and|SOC-030]]. Say explicitly that the base does not yet have a source on contract negotiation, pricing or scope.
+6. **When you explain how the industry works**: [[CLI-016-the-agency-industry-has-polarized-into-global-holding|CLI-016]], [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an|CLI-015]], [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its|CLI-017]], [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]].
 
-Citează ID-urile notelor folosite și menționează rezerva de atribuire pentru notele din [[SRC-045-b2b-sales-manual|SRC-045]]. Textele integrale sunt în `90-library/text/` (`marketing.txt` cap. 7 și 20; `la-boite-a-outils-de-la-publicite-dunod-2015.txt` dosarele 1 și 9; `b2b-sales-manual.txt`); caută cu `grep -n` capitolul indicat în notă. Dacă subiectul nu e acoperit (negociere, contracte, retenția contului, pricing), spune asta și propune o notă nouă în `00-inbox/`.
+Cite the IDs of the notes you use and mention the attribution caveat for the notes from [[SRC-045-b2b-sales-manual|SRC-045]]. The full texts are in `90-library/text/` (`marketing.txt` ch. 7 and 20; `la-boite-a-outils-de-la-publicite-dunod-2015.txt` dossiers 1 and 9; `b2b-sales-manual.txt`); search with `grep -n` for the chapter given in the note. If the topic is not covered (negotiation, contracts, account retention, pricing), say so and propose a new note in `00-inbox/`.
 
-## Toate notele (generat automat)
+## All notes (generated)
 
 <!-- auto:notes:start -->
-_17 note proprii._
+_17 own notes._
 
-| ID | Titlu | Tip | Nivel | Status |
+| ID | Title | Kind | Level | Status |
 |---|---|---|---|---|
-| [[CLI-001-clientul-b2b-decide-ca-un-centru-de-cumparare-sase-roluri\|CLI-001]] | Clientul B2B decide ca un centru de cumpărare — șase roluri, patru culturi de decizie și trei situații de cumpărare | framework | Fundament | growing |
-| [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei\|CLI-002]] | Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă | concept | Fundament | growing |
-| [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput\|CLI-003]] | Clientul bun primește munca bună — aliniere de la început, încredere și risc strategic | principle | Practică | growing |
-| [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct\|CLI-004]] | Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel | method | Fundament | growing |
-| [[CLI-005-ideile-se-erodeaza-in-circuitul-de-aprobare-fiecare-nivel\|CLI-005]] | Ideile se erodează în circuitul de aprobare — fiecare nivel care cere „o mică schimbare" scade riscul și, odată cu el, forța reclamei | principle | Practică | growing |
-| [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa\|CLI-006]] | Stage selling — fiecare etapă a vânzării vinde doar etapa următoare | principle | Fundament | growing |
-| [[CLI-007-vanzarea-personala-are-cinci-pasi-iar-prezentarea-incepe\|CLI-007]] | Vânzarea personală are cinci pași, iar prezentarea începe prin a afla în ce etapă de cumpărare e clientul | framework | Practică | growing |
-| [[CLI-008-prospectarea-este-un-joc-de-consistenta-in-care-se-numara\|CLI-008]] | Prospectarea este un joc de consistență în care se numără activitatea, nu răspunsurile | method | Fundament | growing |
-| [[CLI-009-dream-100-o-lista-scurta-de-clienti-tinta-abordati-repetat\|CLI-009]] | Dream 100 — o listă scurtă de clienți-țintă, abordați repetat pe canale diferite | method | Practică | growing |
-| [[CLI-010-person-of-influence-cauta-cine-are-deja-clientii-tai-in\|CLI-010]] | Person of Influence — caută cine are deja clienții tăi în rețea | concept | Practică | growing |
-| [[CLI-011-introducerea-in-trei-deschide-usi-pe-care-apelul-rece-nu-le\|CLI-011]] | Introducerea în trei deschide uși pe care apelul rece nu le deschide | method | Practică | growing |
-| [[CLI-012-cererea-unei-intalniri-trebuie-sa-ofere-valoare-pentru\|CLI-012]] | Cererea unei întâlniri trebuie să ofere valoare pentru timpul cerut | method | Practică | growing |
-| [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica\|CLI-013]] | Competiția de agenții costă scump ambele părți — se califică, se cadrează contractual și are un singur câștigător | principle | Practică | growing |
-| [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii\|CLI-014]] | Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare | principle | Practică | growing |
-| [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie\|CLI-015]] | Clientul își organizează creația în casă, cu o agenție parteneră sau cu un roster de agenții — iar criteriul corect e eficacitatea muncii, nu costul | concept | Practică | growing |
-| [[CLI-016-industria-agentiilor-s-a-polarizat-in-holding-uri-globale\|CLI-016]] | Industria agențiilor s-a polarizat în holding-uri globale și boutique-uri, iar conflictul de cont limitează cine poate lucra pentru cine | concept | Practică | growing |
-| [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de\|CLI-017]] | Agenția viitorului: șase forțe care îi schimbă modelul de afaceri | concept | Practică | growing |
+| [[CLI-001-the-b2b-client-decides-as-a-buying-center-six-roles-four\|CLI-001]] | The B2B client decides as a buying center: six roles, four decision cultures and three buying situations | framework | Foundation | growing |
+| [[CLI-002-the-account-manager-sells-in-both-directions-the-agency-s\|CLI-002]] | The account manager sells in both directions: the agency's work to the client and the client's problem to the team | concept | Foundation | growing |
+| [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start\|CLI-003]] | The good client gets the good work: alignment from the start, trust and strategic risk | principle | Practice | growing |
+| [[CLI-004-assertive-communication-sits-between-aggressive-and-passive\|CLI-004]] | Assertive communication sits between aggressive and passive: you say directly what you think and need, while respecting the other person's right to think differently | method | Foundation | growing |
+| [[CLI-005-ideas-erode-in-the-approval-chain-each-level-that-asks-for\|CLI-005]] | Ideas erode in the approval chain: each level that asks for "a small change" lowers the risk and, with it, the power of the ad | principle | Practice | growing |
+| [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next\|CLI-006]] | Stage selling: each stage of the sale sells only the next step | principle | Foundation | growing |
+| [[CLI-007-personal-selling-has-five-steps-and-the-presentation-starts\|CLI-007]] | Personal selling has five steps, and the presentation starts by finding out where the customer is in the buying process | framework | Practice | growing |
+| [[CLI-008-prospecting-is-a-game-of-consistency-in-which-you-count-the\|CLI-008]] | Prospecting is a game of consistency in which you count the activity, not the replies | method | Foundation | growing |
+| [[CLI-009-the-dream-100-a-short-list-of-target-clients-approached\|CLI-009]] | The Dream 100: a short list of target clients, approached repeatedly through different channels | method | Practice | growing |
+| [[CLI-010-person-of-influence-look-for-whoever-already-has-your\|CLI-010]] | Person of Influence: look for whoever already has your customers in their network | concept | Practice | growing |
+| [[CLI-011-the-3-way-introduction-opens-doors-that-a-cold-call-does-not\|CLI-011]] | The 3-way introduction opens doors that a cold call does not | method | Practice | growing |
+| [[CLI-012-a-request-for-a-meeting-has-to-offer-value-for-the-time-it\|CLI-012]] | A request for a meeting has to offer value for the time it asks for | method | Practice | growing |
+| [[CLI-013-an-agency-competition-is-expensive-for-both-sides-it-is\|CLI-013]] | An agency competition is expensive for both sides: it is qualified, framed by contract and has only one winner | principle | Practice | growing |
+| [[CLI-014-the-agency-sells-its-people-s-time-an-unclear-brief-eats\|CLI-014]] | The agency sells its people's time: an unclear brief eats its margin, and modern compensation ties the bonus to communication objectives | principle | Practice | growing |
+| [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an\|CLI-015]] | The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost | concept | Practice | growing |
+| [[CLI-016-the-agency-industry-has-polarized-into-global-holding\|CLI-016]] | The agency industry has polarized into global holding companies and boutiques, and account conflicts limit who can work for whom | concept | Practice | growing |
+| [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its\|CLI-017]] | The agency of the future: six forces that are changing its business model | concept | Practice | growing |
 
-**Note din alte skill-uri, relevante și aici:**
+**Notes from other skills that are also relevant here:**
 
-- [[ADV-004-nu-orice-decizie-de-comunicare-este-strategie-critica|ADV-004]] — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
-- [[ADV-014-planning-ul-strategic-transforma-o-compilatie-de-informatii|ADV-014]] — Planning-ul strategic transformă o compilație de informații într-un unghi de vedere — veghe, semnale slabe, sinteză
-- [[ADV-030-exagerarea-subiectiva-puffery-e-legala-dar-orice-afirmatie|ADV-030]] — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
-- [[ADV-041-publicitatea-corporativa-cere-recunoasterea-numelui-si|ADV-041]] — Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-- [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa|ADV-074]] — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
-- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
-- [[ADV-076-bugetul-de-comunicare-se-construieste-din-obiective-si|ADV-076]] — Bugetul de comunicare se construiește din obiective și sarcini — de la ținta de vânzări înapoi la expuneri și cost —, iar metodele euristice dau doar plafonul
-- [[ADV-079-pretestul-se-construieste-pe-obiectivele-de-comunicare-cu|ADV-079]] — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
-- [[ADV-082-trackingul-continuu-masoara-campania-pe-aceiasi-patru-pasi|ADV-082]] — Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-- [[AIM-008-alegi-metoda-de-analiza-dupa-intrebarea-de-marketing-nu|AIM-008]] — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
-- [[AIM-010-precizie-sau-transparenta-ansamblurile-si-retelele|AIM-010]] — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
-- [[AIM-015-simularea-de-piata-arata-cand-o-reducere-de-pret-creste|AIM-015]] — Simularea de piață arată când o reducere de preț crește cota, dar scade veniturile
-- [[AIM-019-ofera-ce-e-mai-probabil-sa-accepte-clientul-nu-ce-aduce|AIM-019]] — Oferă ce e mai probabil să accepte clientul, nu ce aduce marja cea mai mare — un „da" aduce alt „da"
-- [[AIM-022-marketingul-augmentat-amplifica-oamenii-in-loc-sa-i|AIM-022]] — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
-- [[AIM-024-ipoteza-o-formuleaza-omul-ai-ul-o-ruleaza-omul-o|AIM-024]] — Ipoteza o formulează omul, AI-ul o rulează, omul o interpretează — împărțirea muncii în testare și lead-uri
-- [[ART-014-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-014]] — Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe
-- [[ART-016-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-016]] — Procesul de brand mark: cincizeci de schițe înainte de orice finisare
-- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — Misiunea spune de ce există brandul, viziunea unde vrea să ajungă, iar valorile cum se poartă pe drum
-- [[BRD-023-purpose-path-to-growth-descopera-scopul-apoi-activeaza-l|BRD-023]] — Purpose Path to Growth: descoperă scopul, apoi activează-l întâi în interior
-- [[BRD-046-un-portofoliu-puternic-se-construieste-si-prin-eliminarea|BRD-046]] — Un portofoliu puternic se construiește și prin eliminarea brandurilor slabe
-- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
-- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
-- [[BRD-055-cazul-john-deere-esenta-brandului-ramane-orientarea|BRD-055]] — Cazul John Deere: esența brandului rămâne, orientarea companiei se schimbă
-- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
-- [[BRF-001-brief-ul-creativ-este-planul-de-arhitect-al-executiei-harta|BRF-001]] — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
-- [[BRF-002-brief-ul-ingradeste-curtea-constrangerea-strategica-le-da|BRF-002]] — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
-- [[BRF-003-brief-ul-clientului-pune-intrebarea-brief-ul-creativ-o|BRF-003]] — Brief-ul clientului pune întrebarea, brief-ul creativ o transformă într-o „problemă de rezolvat" pentru echipa de creație
-- [[BRF-019-brief-ul-red-cell-opt-cerinte-indicii-de-executie-si-un|BRF-019]] — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- [[BRF-021-modelele-de-brief-de-agentie-au-acelasi-nucleu-dar-fiecare|BRF-021]] — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
-- [[BRF-023-zece-semnale-de-alarma-intr-un-brief-de-la-obiectivul-care|BRF-023]] — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
-- [[BRF-024-primirea-brief-ului-il-reduci-la-esenta-il-verifici-pe|BRF-024]] — Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
-- [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii|BRF-025]] — Feedback-ul la creație se organizează în patru categorii — iubesc, îmi place, întrebări, semnale roșii
-- [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea|CPY-017]] — „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea
-- [[CPY-023-reclama-institutionala-vinde-incredere-prin-explicatie|CPY-023]] — Reclama instituțională vinde încredere prin explicație răbdătoare, nu prin laudă
-- [[CPY-024-o-idee-de-reclama-se-verifica-pe-hartie-inainte-de|CPY-024]] — O idee de reclamă se verifică pe hârtie, înainte de producție — brand clar, provocatoare, clară, memorabilă, unică, accesibilă ca buget
-- [[DIG-006-pregatirea-digitala-se-evalueaza-pe-doua-axe-clienti-gata|DIG-006]] — Pregătirea digitală se evaluează pe două axe — clienți gata să migreze și companie capabilă — cu patru cadrane și strategii diferite
-- [[DIG-023-site-ul-se-construieste-in-sapte-pasi-iar-marketingul|DIG-023]] — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
-- [[DIG-037-modelul-idic-identifica-diferentiaza-interactioneaza|DIG-037]] — Modelul IDIC — identifică, diferențiază, interacționează, customizează — pune clientul, nu produsul, în centrul CRM
-- [[DIG-039-demand-generation-duce-prospectul-de-la-continut-la-lead|DIG-039]] — Demand generation duce prospectul de la conținut la lead calificat în șase pași, iar în B2B decizia e luată de un grup
-- [[DIG-055-frauda-publicitara-se-depisteaza-in-timpul-campaniei-prin|DIG-055]] — Frauda publicitară se depistează în timpul campaniei, prin anomalii, nu după, iar plata pe vânzări verificate o face neatractivă
-- [[DIG-062-strategia-de-date-first-party-porneste-de-la-intrebarea-ce|DIG-062]] — Strategia de date first-party pornește de la întrebarea „ce date ne cresc vânzările?” și obține datele prin invitație și schimb de valoare, nu prin colectare ascunsă
-- [[DIG-065-zece-practici-de-confidentialitate-pentru-marketeri-de-la|DIG-065]] — Zece practici de confidențialitate pentru marketeri, de la consimțământul cu valoare arătată până la minimizarea datelor
-- [[DIG-068-in-continutul-digital-marcile-textele-si-imaginile-altora|DIG-068]] — În conținutul digital, mărcile, textele și imaginile altora se folosesc doar cu un drept clar — licență, domeniu public sau excepția îngustă a „fair use”
-- [[EXP-018-capitalul-de-empatie-inlocuieste-people-angajatii-trebuie|EXP-018]] — Capitalul de empatie înlocuiește „People" — angajații trebuie să gândească întâi ca clientul
-- [[EXP-029-optimizarea-conjoint-a-serviciilor-arata-unde-supra-livrezi|EXP-029]] — Optimizarea conjoint a serviciilor arată unde supra-livrezi și unde sub-livrezi
-- [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]] — Felul în care e plătită agenția îi decide loialitatea — de la broker de spațiu la partener plătit pe onorariu
-- [[HIS-007-premiile-publicitatii-au-doua-filozofii-estetica-adc-cannes|HIS-007]] — Premiile publicității au două filozofii — estetica (ADC, Cannes, One Show) și eficiența (Effie)
-- [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in|HIS-022]] — Autoreglementarea publicității a început la editori, nu în agenții
-- [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie|HIS-023]] — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
-- [[IDE-010-brainstormingul-lui-osborn-are-patru-reguli-cantitate|IDE-010]] — Brainstormingul lui Osborn are patru reguli — cantitate, judecată amânată, idei sălbatice, combinare — și cere ca generarea să fie separată de evaluare
-- [[IDE-014-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-014]] — Geniul e un sport de echipă: trei mituri ale creativității care blochează colaborarea
-- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
-- [[IDE-024-ideea-se-naste-in-solitudine-in-pereche-sau-in-sedinta|IDE-024]] — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
-- [[INS-054-in-orice-decizie-de-cumparare-exista-cinci-roluri-iar|INS-054]] — În orice decizie de cumpărare există cinci roluri, iar publicitatea vorbește unui individ într-un rol, nu unui grup
-- [[INS-063-conformarea-fara-schimbarea-atitudinii-se-obtine-prin-sapte|INS-063]] — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
-- [[INS-086-capitalul-de-empatie-se-formeaza-cu-harta-empatiei-si-cu|INS-086]] — Capitalul de empatie se formează cu harta empatiei și cu cele șase aspecte ale modelului McLaren
-- [[MKT-003-conceptul-de-vanzare-impinge-ce-face-fabrica-conceptul-de|MKT-003]] — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața — o evoluție descrisă ca ere (Grewal-Levy) sau ca filozofii (Kotler)
-- [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea|MKT-004]] — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
-- [[MKT-006-cele-cinci-forte-ale-lui-porter-arata-cine-iti-poate-lua|MKT-006]] — Cele cinci forțe ale lui Porter arată cine îți poate lua din marjă — rivalii, noii intrați, furnizorii, cumpărătorii și substitutele
-- [[MKT-012-planul-de-marketing-are-cinci-pasi-grupati-in-trei-faze|MKT-012]] — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
-- [[MKT-024-pretul-este-sacrificiul-total-al-clientului-si-se-fixeaza|MKT-024]] — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
-- [[MKT-037-forma-caii-5a-defineste-patru-arhetipuri-de-industrie|MKT-037]] — Forma căii 5A definește patru arhetipuri de industrie — clanța, peștișorul auriu, trompeta și pâlnia — cu papionul ca ideal
-- [[MKT-039-marketingul-agil-executa-rapid-si-la-scara-analitica-in|MKT-039]] — Marketingul agil execută rapid și la scară — analitică în timp real, echipe descentralizate, platformă flexibilă, MVP și experimentare rapidă
-- [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie|MKT-051]] — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
-- [[MKT-052-can-want-should-zona-de-pericol-se-afla-intre-ce-poti-si-ce|MKT-052]] — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
-- [[MKT-053-cele-mai-multe-strategii-esueaza-din-cauza-biasurilor|MKT-053]] — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
-- [[MKT-054-contextul-decide-metoda-patru-tipuri-de-cunoscut-si|MKT-054]] — Contextul decide metoda: patru tipuri de cunoscut și necunoscut cer patru moduri de a decide (o variantă necitată a cadrului Cynefin)
-- [[MKT-055-transformarea-modifica-ce-exista-inovarea-adauga-ceva-nou|MKT-055]] — Transformarea modifică ce există, inovarea adaugă ceva nou: diagnostichezi lanțul problemei sau al obiectivului înainte să alegi
-- [[MKT-061-echipa-de-marketing-se-compune-din-trei-tipuri-de-talente|MKT-061]] — Echipa de marketing se compune din trei tipuri de talente — think, do, feel — coordonate de un orchestrator
-- [[PIT-002-un-pitch-se-construieste-in-sase-pasi-discover-distil|PIT-002]] — Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
-- [[PIT-006-inainte-de-orice-pitch-defineste-intrebarea-de-examen-si|PIT-006]] — Înainte de orice pitch definește „întrebarea de examen” și decide dacă merită să participi
-- [[PIT-007-cercetarea-audientei-separa-faptele-verificabile-de|PIT-007]] — Cercetarea audienței separă faptele verificabile de sentimente
-- [[PIT-008-audienta-comunica-din-patru-centre-de-energie-cap-inima|PIT-008]] — Audiența comunică din patru centre de energie — cap, inimă, instinct și picioare
-- [[PIT-010-orice-prezentare-are-concurenta-define-differentiate-destroy|PIT-010]] — Orice prezentare are concurență — Define, Differentiate, Destroy
-- [[PIT-011-a-spune-de-ce-esti-tu-cel-potrivit-este-un-act-de|PIT-011]] — A spune de ce ești tu cel potrivit este un act de generozitate față de audiență
-- [[PIT-013-urgenta-unui-pitch-se-construieste-pe-motivatia-towards-sau|PIT-013]] — Urgența unui pitch se construiește pe motivația „towards” sau „away from”
-- [[PIT-014-cererea-dintr-un-pitch-este-urmatorul-pas-logic-nu-da-ul|PIT-014]] — Cererea dintr-un pitch este „următorul pas logic”, nu „da”-ul final
-- [[PIT-017-mijlocul-prezentarii-se-organizeaza-in-trei-parti-pop-ppf|PIT-017]] — Mijlocul prezentării se organizează în trei părți — POP, PPF și alte zece formule
-- [[PIT-024-echipa-de-pitch-se-alege-dupa-abc-si-se-judeca-dupa|PIT-024]] — Echipa de pitch se alege după ABC și se judecă după tranziții
-- [[PIT-025-q-a-se-pregateste-in-cinci-pasi-iar-raspunsul-se-da-cu|PIT-025]] — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
-- [[PIT-026-debrief-ul-in-24-de-ore-presentation-bank-ul-si-learning|PIT-026]] — Debrief-ul în 24 de ore, presentation bank-ul și learning log-ul transformă fiecare pitch în progres
-- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
-- [[PIT-032-obiectiile-se-trateaza-in-cinci-pasi-reveal-relate-refine|PIT-032]] — Obiecțiile se tratează în cinci pași — Reveal, Relate, Refine, Reduce, Redirect
-- [[PIT-034-prezentarea-muncii-creative-la-client-are-un-ritual|PIT-034]] — Prezentarea muncii creative la client are un ritual — strategia recitită, ideea dezvăluită, întrebări în loc de soluții, pasul următor cerut
-- [[PIT-035-recomandarea-de-agentie-reco-arata-de-ce-s-a-ales-o-solutie|PIT-035]] — Recomandarea de agenție („reco") arată de ce s-a ales o soluție, nu drumul întortocheat până la ea
-- [[PIT-036-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-036]] — Logo-ul puternic se vinde condus de designer, nu dictat de client
-- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
-- [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei|PRT-026]] — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
-- [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-030]] — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
-- [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-031]] — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
-- [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-036]] — În B2B influența vine din angajați și thought leaders
-- [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia|SOC-038]] — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
+- [[ADV-004-not-every-communication-decision-is-strategy-the-critique|ADV-004]]: Not every communication decision is strategy: the critique of strategic advertising monism
+- [[ADV-014-strategic-planning-turns-a-compilation-of-information-into|ADV-014]]: Strategic planning turns a compilation of information into a point of view: monitoring, weak signals, synthesis
+- [[ADV-030-subjective-exaggeration-puffery-is-legal-but-any|ADV-030]]: Subjective exaggeration (puffery) is legal, but any quantifiable claim must be backed up
+- [[ADV-041-corporate-advertising-calls-for-name-recognition-and-almost|ADV-041]]: Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- [[ADV-074-an-organization-s-communication-has-three-registers|ADV-074]]: An organization's communication has three registers (external, internal, institutional), with different targets, objectives and tools
+- [[ADV-075-in-crisis-communication-denial-is-the-worst-option|ADV-075]]: In crisis communication, denial is the worst option: acknowledge it first, measure the impact, choose the channel, tell the truth, learn
+- [[ADV-076-the-communication-budget-is-built-from-objectives-and-tasks|ADV-076]]: The communication budget is built from objectives and tasks (from the sales goal back to exposures and cost), and rule-of-thumb methods only give the ceiling
+- [[ADV-079-the-pretest-is-built-on-the-communication-objectives-with|ADV-079]]: The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- [[ADV-082-continuous-tracking-measures-the-campaign-on-the-same-four|ADV-082]]: Continuous tracking measures the campaign on the same four steps of the response sequence, and wearout is diagnosed from the plan down to the execution
+- [[AIM-008-you-choose-the-analysis-method-by-the-marketing-question|AIM-008]]: You choose the analysis method by the marketing question, not by technological fashion
+- [[AIM-010-accuracy-or-transparency-ensembles-and-neural-networks|AIM-010]]: Accuracy or transparency: ensembles and neural networks predict but do not explain
+- [[AIM-015-a-market-simulation-shows-when-a-price-cut-raises-share-but|AIM-015]]: A market simulation shows when a price cut raises share but lowers revenue
+- [[AIM-019-offer-what-the-customer-is-most-likely-to-accept-not-what|AIM-019]]: Offer what the customer is most likely to accept, not what brings the highest margin: one "yes" leads to another
+- [[AIM-022-augmented-marketing-amplifies-people-instead-of-replacing|AIM-022]]: Augmented marketing amplifies people instead of replacing them: tiered interfaces and digital tools for frontliners
+- [[AIM-024-the-human-forms-the-hypothesis-the-ai-runs-it-the-human|AIM-024]]: The human forms the hypothesis, the AI runs it, the human interprets it: the division of labor in testing and leads
+- [[ART-014-the-brand-noun-list-sets-the-subject-of-the-logo-before-the|ART-014]]: The brand noun list sets the subject of the logo before the sketches
+- [[ART-016-the-brand-mark-process-fifty-sketches-before-any-polish|ART-016]]: The brand mark process: fifty sketches before any polish
+- [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it|BRD-019]]: The mission says why the brand exists, the vision where it wants to go, and the values how it behaves on the way
+- [[BRD-023-purpose-path-to-growth-discover-the-purpose-then-activate|BRD-023]]: Purpose Path to Growth: discover the purpose, then activate it inside first
+- [[BRD-046-a-strong-portfolio-is-also-built-by-pruning-weak-brands|BRD-046]]: A strong portfolio is also built by pruning weak brands
+- [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a|BRD-047]]: Implementing a brand strategy takes six elements, not just a positioning
+- [[BRD-050-a-service-brand-is-won-or-lost-in-the-moment-of-interaction|BRD-050]]: A service brand is won or lost in the moment of interaction
+- [[BRD-055-the-john-deere-case-the-brand-essence-stays-the-company-s|BRD-055]]: The John Deere case: the brand essence stays, the company's orientation changes
+- [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is|BRD-059]]: The brand is an asset, not an expense, and its strength is not its performance
+- [[BRF-001-the-creative-brief-is-the-blueprint-for-the-execution-a|BRF-001]]: The creative brief is the blueprint for the execution: a road map for the creative work and a criterion for evaluating it
+- [[BRF-002-the-brief-fences-in-the-yard-strategic-constraint-gives|BRF-002]]: The brief "fences in the yard": strategic constraint gives creatives a place to start
+- [[BRF-003-the-client-brief-asks-the-question-and-the-creative-brief|BRF-003]]: The client brief asks the question, and the creative brief turns it into a problem for the creative team to solve
+- [[BRF-019-the-red-cell-brief-eight-requirements-execution-hints-and-a|BRF-019]]: The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- [[BRF-021-agency-brief-models-share-the-same-core-but-each-one|BRF-021]]: Agency brief models share the same core, but each one optimizes something else: inspiration, conciseness, context, process or evidence
+- [[BRF-023-ten-red-flags-in-a-brief-from-an-objective-that-is-not|BRF-023]]: Ten red flags in a brief: from an objective that is not falsifiable to measurement decided after the campaign
+- [[BRF-024-receiving-the-brief-you-reduce-it-to-its-essence-check-it|BRF-024]]: Receiving the brief: you reduce it to its essence, check it component by component, ask the naive questions and agree any change in writing
+- [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i|BRF-025]]: Creative feedback is organized in four categories: things I love, things I like, questions, red flags
+- [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is|CPY-017]]: Disrupt, then reframe: a small oddity in how the price is stated, followed by a persuasive conclusion, increases sales
+- [[CPY-023-institutional-advertising-sells-trust-through-patient|CPY-023]]: Institutional advertising sells trust through patient explanation, not praise
+- [[CPY-024-an-ad-idea-is-checked-on-paper-before-production-brand-id|CPY-024]]: An ad idea is checked on paper before production: brand ID, provocative, clear, memorable, unique, affordable
+- [[DIG-006-digital-readiness-is-assessed-on-two-axes-customers-ready|DIG-006]]: Digital readiness is assessed on two axes, customers ready to migrate and a capable company: four quadrants, each with its own strategy
+- [[DIG-023-a-website-is-built-in-seven-steps-and-marketing-leads-the|DIG-023]]: A website is built in seven steps, and marketing leads the first ones: otherwise you get technology without an objective
+- [[DIG-037-the-idic-model-identify-differentiate-interact-customize|DIG-037]]: The IDIC model (identify, differentiate, interact, customize) puts the customer, not the product, at the center of CRM
+- [[DIG-039-demand-generation-takes-the-prospect-from-content-to|DIG-039]]: Demand generation takes the prospect from content to qualified lead in six steps, and in B2B the decision is made by a group
+- [[DIG-055-ad-fraud-is-detected-during-the-campaign-through-anomalies|DIG-055]]: Ad fraud is detected during the campaign, through anomalies, not after it, and paying only for verified sales makes it unattractive
+- [[DIG-062-the-first-party-data-strategy-starts-from-the-question-what|DIG-062]]: The first-party data strategy starts from the question "What data can I use to drive sales?" and gets the data through invitation and value exchange, not hidden collection
+- [[DIG-065-ten-privacy-practices-for-marketers-from-consent-that-shows|DIG-065]]: Ten privacy practices for marketers, from consent that shows the value provided to data minimization
+- [[DIG-068-in-digital-content-other-people-s-trademarks-texts-and|DIG-068]]: In digital content, other people's trademarks, texts and images are used only with a clear right: a license, the public domain or the narrow “fair use” exception
+- [[EXP-018-empathy-capital-replaces-people-employees-must-first-think|EXP-018]]: Empathy capital replaces "People": employees must first think like the customer
+- [[EXP-029-conjoint-service-optimization-shows-where-you-overdeliver|EXP-029]]: Conjoint service optimization shows where you overdeliver and where you underdeliver
+- [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]]: The way an agency is paid decides its loyalty: from space broker to fee-paid partner
+- [[HIS-007-advertising-awards-follow-two-philosophies-aesthetics-adc|HIS-007]]: Advertising awards follow two philosophies: aesthetics (ADC, Cannes, One Show) and effectiveness (Effie)
+- [[HIS-022-advertising-self-regulation-started-with-publishers-not|HIS-022]]: Advertising self-regulation started with publishers, not with agencies
+- [[HIS-023-the-american-standard-for-deception-a-claim-must-be|HIS-023]]: The American standard for deception: a claim must be substantiated before it is published
+- [[IDE-010-osborn-s-brainstorming-has-four-rules-quantity-deferred|IDE-010]]: Osborn's brainstorming has four rules (quantity, deferred judgment, wild ideas, combination) and keeps generating separate from evaluating
+- [[IDE-014-genius-is-a-team-sport-three-myths-of-creativity-that-block|IDE-014]]: Genius is a team sport: three myths of creativity that block collaboration
+- [[IDE-023-idea-evaluation-grids-converge-on-three-questions-does-it|IDE-023]]: Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
+- [[IDE-024-is-the-idea-born-alone-in-a-pair-or-in-a-meeting-the|IDE-024]]: Is the idea born alone, in a pair or in a meeting? The classics disagree
+- [[INS-054-every-purchase-decision-involves-five-roles-and-advertising|INS-054]]: Every purchase decision involves five roles, and advertising speaks to an individual in a role, not to a group
+- [[INS-063-compliance-without-attitude-change-is-achieved-through|INS-063]]: Compliance without attitude change is achieved through seven principles of influence (Cialdini plus confusion)
+- [[INS-086-empathy-capital-is-formed-with-the-empathy-map-and-the-six|INS-086]]: Empathy capital is formed with the empathy map and the six aspects of McLaren's model
+- [[MKT-003-the-selling-concept-pushes-what-the-factory-makes-the|MKT-003]]: The selling concept pushes what the factory makes, the marketing concept starts from what the market wants: an evolution described as eras (Grewal-Levy) or as philosophies (Kotler)
+- [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction|MKT-004]]: A customer is worth the relationship, not the transaction: customer lifetime value (CLV)
+- [[MKT-006-porter-s-five-forces-show-who-can-take-part-of-your-margin|MKT-006]]: Porter's five forces show who can take part of your margin: rivals, new entrants, suppliers, buyers and substitutes
+- [[MKT-012-the-marketing-plan-has-five-steps-grouped-in-three-phases|MKT-012]]: The marketing plan has five steps grouped in three phases: planning, implementation, control
+- [[MKT-024-price-is-the-customer-s-overall-sacrifice-and-is-set|MKT-024]]: Price is the customer's overall sacrifice and is set through the five Cs: company objectives, customers, costs, competition, channel members
+- [[MKT-037-the-shape-of-the-five-a-s-path-defines-four-industry|MKT-037]]: The shape of the five A's path defines four industry archetypes (door knob, goldfish, trumpet and funnel), with the bow tie as the ideal
+- [[MKT-039-agile-marketing-executes-at-pace-and-scale-real-time|MKT-039]]: Agile marketing executes at pace and scale: real-time analytics, decentralized teams, a flexible platform, MVPs and rapid experimentation
+- [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with|MKT-051]]: Strategy is a lifecycle (positioning, choices, execution) with the 40-20-40 time rule
+- [[MKT-052-can-want-should-the-danger-zone-lies-between-what-you-can|MKT-052]]: Can–Want–Should: the danger zone lies between what you can do and what you want, when you skip what you should do
+- [[MKT-053-most-strategies-fail-because-of-decision-makers-biases-not|MKT-053]]: Most strategies fail because of decision makers' biases, not for lack of ideas
+- [[MKT-054-context-decides-the-method-four-kinds-of-known-and-unknown|MKT-054]]: Context decides the method: four kinds of known and unknown call for four ways of deciding (an uncredited version of the Cynefin framework)
+- [[MKT-055-transformation-alters-what-exists-innovation-adds-something|MKT-055]]: Transformation alters what exists, innovation adds something new: diagnose the problem chain or the goal chain before you choose
+- [[MKT-061-the-marketing-team-is-made-of-three-types-of-talent-think|MKT-061]]: The marketing team is made of three types of talent (think, do, feel), coordinated by an orchestrator
+- [[PIT-002-a-pitch-is-built-in-six-steps-discover-distil-design-drill|PIT-002]]: A pitch is built in six steps: Discover, Distil, Design, Drill, Deliver, Debrief
+- [[PIT-006-before-any-pitch-define-the-exam-question-and-decide|PIT-006]]: Before any pitch, define the "exam question" and decide whether it is worth taking part
+- [[PIT-007-audience-research-separates-verifiable-facts-from-feelings|PIT-007]]: Audience research separates verifiable facts from feelings
+- [[PIT-008-an-audience-communicates-from-four-energy-centers-head|PIT-008]]: An audience communicates from four energy centers: head, heart, gut and feet
+- [[PIT-010-every-presentation-has-competition-define-differentiate|PIT-010]]: Every presentation has competition: Define, Differentiate, Destroy
+- [[PIT-011-saying-why-you-are-the-right-person-is-an-act-of-generosity|PIT-011]]: Saying why you are the right person is an act of generosity towards the audience
+- [[PIT-013-a-pitch-s-urgency-is-built-on-towards-or-away-from|PIT-013]]: A pitch's urgency is built on "towards" or "away from" motivation
+- [[PIT-014-the-ask-in-a-pitch-is-the-logical-next-step-not-the-final|PIT-014]]: The ask in a pitch is the "logical next step", not the final "yes"
+- [[PIT-017-the-middle-of-a-presentation-is-organized-in-three-parts|PIT-017]]: The middle of a presentation is organized in three parts: POP, PPF and ten more formulas
+- [[PIT-024-you-pick-a-pitch-team-by-abc-and-it-is-judged-by-its|PIT-024]]: You pick a pitch team by ABC and it is judged by its transitions
+- [[PIT-025-you-prepare-for-q-a-in-five-steps-and-answer-with-the-p-p|PIT-025]]: You prepare for Q&A in five steps and answer with the P + + – P formula
+- [[PIT-026-the-debrief-within-24-hours-the-presentation-bank-and-the|PIT-026]]: The debrief within 24 hours, the presentation bank and the learning log turn every pitch into progress
+- [[PIT-028-to-speak-with-life-in-front-of-a-room-break-out-of-written|PIT-028]]: To speak with life in front of a room, break out of "written punctuation": firm attacks, deliberate silences, enjambment, scansion, contrasting rhythm
+- [[PIT-032-objections-are-handled-in-five-steps-reveal-relate-refine|PIT-032]]: Objections are handled in five steps: Reveal, Relate, Refine, Reduce, Redirect
+- [[PIT-034-presenting-creative-work-to-the-client-follows-a-ritual-the|PIT-034]]: Presenting creative work to the client follows a ritual: the strategy reread, the idea revealed, questions instead of solutions, the next step asked for
+- [[PIT-035-the-agency-recommendation-reco-shows-why-a-solution-was|PIT-035]]: The agency recommendation (reco) shows why a solution was chosen, not the winding path to it
+- [[PIT-036-a-strong-logo-is-sold-with-the-designer-leading-not-with|PIT-036]]: A strong logo is sold with the designer leading, not with the client dictating
+- [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]]: Non-disclosure agreements are not worked around by breaking them, a password or anonymizing, but negotiated in advance
+- [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive|PRT-026]]: A portfolio does not get found on its own: proactive targeting, the two-step and measuring the response
+- [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and|SOC-030]]: Negotiating with a creator involves multiple variables, and the contract sets the rights
+- [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no|SOC-031]]: The creator is a one-person production house: gifting is no substitute for payment
+- [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders|SOC-036]]: In B2B, influence comes from employees and thought leaders
+- [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist|SOC-038]]: Who owns influencer marketing: PR, media, the specialist agency or the brand
 <!-- auto:notes:end -->

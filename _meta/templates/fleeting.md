@@ -1,7 +1,7 @@
 ---
 type: fleeting
-created: AAAA-LL-ZZ
-source: SRC-000 | p. X  (sau: curs, conversație, link)
+created: YYYY-MM-DD
+source: SRC-000 | p. X  (or: course, conversation, link)
 ---
 
-Ce am observat, pe scurt. Se procesează în CEQRC: Explain → notă permanentă, apoi se șterge de aici.
+What I noticed, briefly. It is processed in CEQRC: Explain → permanent note, then deleted from here.

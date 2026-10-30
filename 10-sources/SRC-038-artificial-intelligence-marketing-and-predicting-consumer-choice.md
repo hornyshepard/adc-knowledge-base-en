@@ -14,91 +14,91 @@ level: 3
 
 # Artificial Intelligence Marketing and Predicting Consumer Choice: An Overview of Tools and Techniques
 
-**Steven Struhl, 2017.** Kogan Page, Londra / New York / New Delhi. ISBN 978 0 7494 7955 8. ~84.000 de cuvinte, plus două capitole bonus și simulatoare Excel disponibile online. Autorul are un MBA (Chicago), doctorat în psihologie și un master în lingvistică, peste 30 de ani de consultanță în analiză avansată (Converge Analytic) și a mai scris *Practical Text Analytics*.
+**Steven Struhl, 2017.** Kogan Page, London / New York / New Delhi. ISBN 978 0 7494 7955 8. About 84,000 words, plus two bonus chapters and Excel simulators available online. The author has an MBA (Chicago), a doctorate in psychology and a master's degree in linguistics, more than 30 years of consulting in advanced analytics (Converge Analytic), and he also wrote *Practical Text Analytics*.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid pentru practicieni despre metodele care prognozează ce vor alege oamenii: experimentele de trade-off (alegere discretă, conjoint, MaxDiff, Q-Sort) cu analiză bayesiană ierarhică, arborii de clasificare (CHAID) cu ansamblurile lor, rețelele bayesiene și, pe scurt, rețelele neuronale. Fără ecuații, cu multe cazuri reale deghizate și mult umor sec.
-- **Teza centrală:** AI-ul util în marketing nu e magie, ci învățare automată care lucrează de decenii în metodele de cercetare. Datele multe nu înlocuiesc întrebarea bună, eșantionul corect, experimentul și judecata umană.
-- **Pentru cine și când:** strategi, planneri, studenți la nivel avansat al modulului AIM și INS. E cartea care îi învață pe viitorii oameni de agenție să **evalueze critic** promisiunile furnizorilor de date și AI.
-- **Relevanță pentru ADC:** ★★★★☆ — cea mai riguroasă carte din grupul AI. Puncte forte: alfabetizare de cercetare (eșantionare, semnificație, validare), testarea mesajelor publicitare, măsurarea brandului prin alegere, cazuri memorabile. Limite: tehnică pe alocuri, anterioară AI-ului generativ, centrată pe cercetarea cantitativă, nu pe creație.
+- **What it is about:** a guide for practitioners to the methods that forecast what people will choose: trade-off experiments (discrete choice, conjoint, MaxDiff, Q-Sort) with hierarchical Bayesian analysis, classification trees (CHAID) and their ensembles, Bayes Nets and, briefly, neural networks. No equations, with many real cases in disguise and plenty of dry humor.
+- **Central thesis:** the AI that is useful in marketing is not magic, but machine learning that has been working inside research methods for decades. Large amounts of data do not replace the right question, the correct sample, the experiment and human judgment.
+- **For whom and when:** strategists, planners, students at the advanced level of the AIM and INS modules. It is the book that teaches future agency people to **evaluate critically** the promises of data and AI vendors.
+- **Relevance for ADC:** ★★★★☆: the most rigorous book in the AI group. Strengths: research literacy (sampling, significance, validation), testing advertising messages, measuring the brand through choice, memorable cases. Limits: technical in places, earlier than generative AI, centered on quantitative research rather than creative work.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Prefață, 1 | Definiția AI, prognoză vs. proiecție, date vs. informație, patru familii de metode, imagini implicite despre om | [[AIM-001-metodele-de-predictie-a-alegerilor-formeaza-patru-familii\|AIM-001]], [[AIM-005-datele-istorice-prezic-repetarea-nu-noutatea-nu-raspund-la\|AIM-005]], [[AIM-014-cota-de-preferinta-nu-e-cota-de-piata-prognoza-trebuie\|AIM-014]], [[INS-079-literary-digest-1936-volumul-de-date-nu-salveaza-un-cadru\|INS-079]] |
-| 2 | Pornirea proiectului: cadrul de eșantionare (Literary Digest), ce poate da fiecare metodă (JC Penney, legenda „scutece și bere"), cotă de preferință, semnificație, putere, eșantioane mici și focus grupuri, corelație, criterii de evaluare, validare | [[INS-079-literary-digest-1936-volumul-de-date-nu-salveaza-un-cadru\|INS-079]], [[INS-080-semnificatia-statistica-nu-inseamna-importanta-cu-date\|INS-080]], [[INS-077-focus-grupul-e-bun-pentru-limbaj-si-pentru-detectarea\|INS-077]], [[AIM-007-validarea-pe-un-esantion-de-control-separa-tiparele-reale\|AIM-007]], [[AIM-005-datele-istorice-prezic-repetarea-nu-noutatea-nu-raspund-la\|AIM-005]], [[AIM-014-cota-de-preferinta-nu-e-cota-de-piata-prognoza-trebuie\|AIM-014]], [[AIM-008-alegi-metoda-de-analiza-dupa-intrebarea-de-marketing-nu\|AIM-008]] |
-| 3 | Eșecul ratingurilor de importanță (bancherul de la 3 noaptea), metodele de trade-off, designul experimental, HB | [[INS-078-intrebati-direct-ce-conteaza-oamenii-spun-totul-ratingurile\|INS-078]], [[AIM-012-metodele-de-trade-off-alegere-discreta-conjoint-maxdiff-q\|AIM-012]] |
-| 4 | Alegerea discretă: brandul ca container, bune practici, preț și elasticitate, curba S, simulatoare (turnurile de telefonie), alocare | [[AIM-015-simularea-de-piata-arata-cand-o-reducere-de-pret-creste\|AIM-015]], [[AIM-013-un-studiu-de-alegere-bun-se-construieste-inainte-de\|AIM-013]], [[BRD-060-in-modelele-de-alegere-brandul-e-un-container-de-atribute\|BRD-060]] |
-| 5 | Conjoint: produse cu cotă mică (pixuri), optimizarea mesajelor (direct mail, print, web vs. A/B, HIPPO), optimizarea serviciilor (NewInnova), interacțiuni brand × preț (Sony) | [[ADV-080-elementele-unei-reclame-se-pot-testa-ca-un-experiment\|ADV-080]], [[EXP-029-optimizarea-conjoint-a-serviciilor-arata-unde-supra-livrezi\|EXP-029]], [[BRD-060-in-modelele-de-alegere-brandul-e-un-container-de-atribute\|BRD-060]] |
-| 6 | Arbori de clasificare (CHAID): SoggyOs, croaziere, reguli, gains chart, păduri aleatorii, boosting | [[AIM-009-arborii-de-clasificare-transforma-o-baza-de-date-in-cateva\|AIM-009]], [[AIM-010-precizie-sau-transparenta-ansamblurile-si-retelele\|AIM-010]] |
-| 7 | Rețele bayesiene: vs. regresie, Monty Hall, sondaj → comportament, AIDA/Lavidge-Steiner testate, haine pentru copii pe vârste | [[AIM-011-retelele-bayesiene-pornesc-de-la-ideea-ca-atunci-cand\|AIM-011]], [[ADV-008-testata-cu-date-ierarhia-efectelor-a-iesit-intr-o-alta\|ADV-008]], [[INS-084-importanta-unui-atribut-se-schimba-cu-etapa-de-viata\|INS-084]] |
-| 8 | Ce metodă pentru ce sarcină; rețele neuronale; cât control cedezi mașinii | [[AIM-008-alegi-metoda-de-analiza-dupa-intrebarea-de-marketing-nu\|AIM-008]], [[AIM-010-precizie-sau-transparenta-ansamblurile-si-retelele\|AIM-010]] |
+| Preface, 1 | Who should read this book and why? (the definition of AI, forecast vs. projection, data vs. information, four families of methods, implicit views of people) | [[AIM-001-methods-for-predicting-choices-fall-into-four-classes-each\|AIM-001]], [[AIM-005-historical-data-predict-repetition-not-novelty-they-do-not\|AIM-005]], [[AIM-014-share-of-preference-is-not-market-share-the-forecast-has-to\|AIM-014]], [[INS-079-literary-digest-1936-the-volume-of-data-does-not-save-a\|INS-079]] |
+| 2 | Getting the project going: the sampling frame (Literary Digest), what each method can deliver (JC Penney, the "diapers and beer" legend), share of preference, significance, power, small samples and focus groups, correlation, evaluation criteria, validation | [[INS-079-literary-digest-1936-the-volume-of-data-does-not-save-a\|INS-079]], [[INS-080-statistical-significance-does-not-mean-importance-with-lots\|INS-080]], [[INS-077-the-focus-group-is-good-for-language-and-for-detecting\|INS-077]], [[AIM-007-validation-on-a-hold-out-sample-separates-real-patterns\|AIM-007]], [[AIM-005-historical-data-predict-repetition-not-novelty-they-do-not\|AIM-005]], [[AIM-014-share-of-preference-is-not-market-share-the-forecast-has-to\|AIM-014]], [[AIM-008-you-choose-the-analysis-method-by-the-marketing-question\|AIM-008]] |
+| 3 | Conjoint, discrete choice and other trade-offs: let's do an experiment: the failure of importance ratings (the essential 3 am banker), trade-off methods, experimental design, HB | [[INS-078-asked-directly-what-matters-people-say-everything\|INS-078]], [[AIM-012-trade-off-methods-discrete-choice-conjoint-maxdiff-q-sort\|AIM-012]] |
+| 4 | Creating the best, newest thing: discrete choice modelling: the brand as a container, good practice, price and elasticity, the S-curve, simulators (mobile phone towers), allocation | [[AIM-015-a-market-simulation-shows-when-a-price-cut-raises-share-but\|AIM-015]], [[AIM-013-a-good-choice-study-is-built-before-the-questionnaire-a-ten\|AIM-013]], [[BRD-060-in-choice-models-the-brand-is-a-container-for-features-and\|BRD-060]] |
+| 5 | Conjoint analysis and its uses: low-share products (pens), message optimization (direct mail, print, web vs. A/B, HIPPO), service optimization (NewInnova), brand × price interactions (Sony) | [[ADV-080-the-elements-of-an-ad-can-be-tested-as-an-experiment\|ADV-080]], [[EXP-029-conjoint-service-optimization-shows-where-you-overdeliver\|EXP-029]], [[BRD-060-in-choice-models-the-brand-is-a-container-for-features-and\|BRD-060]] |
+| 6 | Predictive models: via classifications that grow on trees (CHAID): SoggyOs, cruises, rules, gains chart, random forests, boosting | [[AIM-009-classification-trees-turn-a-database-into-a-few-if-then\|AIM-009]], [[AIM-010-accuracy-or-transparency-ensembles-and-neural-networks\|AIM-010]] |
+| 7 | Remarkable predictive models with Bayes Nets: vs. regression, Monty Hall, survey → behavior, AIDA/Lavidge-Steiner tested, children's apparel by age | [[AIM-011-bayesian-networks-start-from-the-idea-that-when-you-change\|AIM-011]], [[ADV-008-tested-with-data-the-hierarchy-of-effects-came-out-in-a\|ADV-008]], [[INS-084-the-importance-of-an-attribute-changes-with-life-stage-a\|INS-084]] |
+| 8 | Putting it together: what to use when: which method for which task; neural networks; how much control you hand to the machine | [[AIM-008-you-choose-the-analysis-method-by-the-marketing-question\|AIM-008]], [[AIM-010-accuracy-or-transparency-ensembles-and-neural-networks\|AIM-010]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[AIM-001-metodele-de-predictie-a-alegerilor-formeaza-patru-familii|AIM-001]] — patru familii de metode, fiecare cu propria imagine despre om; AI „ascuns la vedere".
-- [[AIM-005-datele-istorice-prezic-repetarea-nu-noutatea-nu-raspund-la|AIM-005]] — datele istorice prezic repetarea, nu noutatea; mitul „scutece și bere".
-- [[AIM-014-cota-de-preferinta-nu-e-cota-de-piata-prognoza-trebuie|AIM-014]] — cota de preferință ≠ cota de piață; ajustarea pentru notorietate și distribuție.
-- [[AIM-007-validarea-pe-un-esantion-de-control-separa-tiparele-reale|AIM-007]] — validarea pe eșantion de control și supra-ajustarea.
-- [[INS-079-literary-digest-1936-volumul-de-date-nu-salveaza-un-cadru|INS-079]] — Literary Digest: volumul nu salvează un cadru de eșantionare greșit.
-- [[INS-080-semnificatia-statistica-nu-inseamna-importanta-cu-date|INS-080]] — semnificația statistică nu e importanță.
-- [[INS-077-focus-grupul-e-bun-pentru-limbaj-si-pentru-detectarea|INS-077]] — focus grupul e pentru limbaj, nu pentru decizii.
-- [[INS-078-intrebati-direct-ce-conteaza-oamenii-spun-totul-ratingurile|INS-078]] — ratingurile de importanță spun că „totul contează".
-- [[AIM-012-metodele-de-trade-off-alegere-discreta-conjoint-maxdiff-q|AIM-012]] — tipologia metodelor de trade-off și analiza bayesiană ierarhică.
-- [[AIM-015-simularea-de-piata-arata-cand-o-reducere-de-pret-creste|AIM-015]] — simulatorul de piață și pericolul războiului prețurilor.
-- [[AIM-013-un-studiu-de-alegere-bun-se-construieste-inainte-de|AIM-013]] — checklist pentru un studiu de alegere.
-- [[BRD-060-in-modelele-de-alegere-brandul-e-un-container-de-atribute|BRD-060]] — brandul ca container; valoarea reziduală măsurată prin alegere.
-- [[ADV-080-elementele-unei-reclame-se-pot-testa-ca-un-experiment|ADV-080]] — testarea conjoint a mesajelor vs. A/B.
-- [[EXP-029-optimizarea-conjoint-a-serviciilor-arata-unde-supra-livrezi|EXP-029]] — optimizarea serviciilor: supra- și sub-livrare.
-- [[AIM-009-arborii-de-clasificare-transforma-o-baza-de-date-in-cateva|AIM-009]] — arborii de clasificare pentru țintire.
-- [[AIM-010-precizie-sau-transparenta-ansamblurile-si-retelele|AIM-010]] — dezbaterea precizie vs. transparență.
-- [[AIM-011-retelele-bayesiene-pornesc-de-la-ideea-ca-atunci-cand|AIM-011]] — rețelele bayesiene.
-- [[ADV-008-testata-cu-date-ierarhia-efectelor-a-iesit-intr-o-alta|ADV-008]] — ierarhia efectelor testată cu date.
-- [[INS-084-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-084]] — driverii se schimbă cu etapa de viață.
-- [[AIM-008-alegi-metoda-de-analiza-dupa-intrebarea-de-marketing-nu|AIM-008]] — ce metodă pentru ce întrebare.
+- [[AIM-001-methods-for-predicting-choices-fall-into-four-classes-each|AIM-001]]: four families of methods, each with its own view of people; AI "hiding in plain sight".
+- [[AIM-005-historical-data-predict-repetition-not-novelty-they-do-not|AIM-005]]: historical data predict repetition, not novelty; the "diapers and beer" myth.
+- [[AIM-014-share-of-preference-is-not-market-share-the-forecast-has-to|AIM-014]]: share of preference ≠ market share; adjusting for awareness and distribution.
+- [[AIM-007-validation-on-a-hold-out-sample-separates-real-patterns|AIM-007]]: validation on a holdout sample, and overfitting.
+- [[INS-079-literary-digest-1936-the-volume-of-data-does-not-save-a|INS-079]]: Literary Digest: volume does not save a wrong sampling frame.
+- [[INS-080-statistical-significance-does-not-mean-importance-with-lots|INS-080]]: statistical significance is not importance.
+- [[INS-077-the-focus-group-is-good-for-language-and-for-detecting|INS-077]]: the focus group is for language, not for decisions.
+- [[INS-078-asked-directly-what-matters-people-say-everything|INS-078]]: importance ratings say that "everything is important".
+- [[AIM-012-trade-off-methods-discrete-choice-conjoint-maxdiff-q-sort|AIM-012]]: the typology of trade-off methods and hierarchical Bayesian analysis.
+- [[AIM-015-a-market-simulation-shows-when-a-price-cut-raises-share-but|AIM-015]]: the market simulator and the danger of a price war.
+- [[AIM-013-a-good-choice-study-is-built-before-the-questionnaire-a-ten|AIM-013]]: a checklist for a choice study.
+- [[BRD-060-in-choice-models-the-brand-is-a-container-for-features-and|BRD-060]]: the brand as a container; residual value measured through choice.
+- [[ADV-080-the-elements-of-an-ad-can-be-tested-as-an-experiment|ADV-080]]: conjoint testing of messages vs. A/B.
+- [[EXP-029-conjoint-service-optimization-shows-where-you-overdeliver|EXP-029]]: service optimization: over-delivery and under-delivery.
+- [[AIM-009-classification-trees-turn-a-database-into-a-few-if-then|AIM-009]]: classification trees for targeting.
+- [[AIM-010-accuracy-or-transparency-ensembles-and-neural-networks|AIM-010]]: the debate between accuracy and transparency.
+- [[AIM-011-bayesian-networks-start-from-the-idea-that-when-you-change|AIM-011]]: Bayes Nets.
+- [[ADV-008-tested-with-data-the-hierarchy-of-effects-came-out-in-a|ADV-008]]: the hierarchy of effects tested with data.
+- [[INS-084-the-importance-of-an-attribute-changes-with-life-stage-a|INS-084]]: drivers change with the life stage.
+- [[AIM-008-you-choose-the-analysis-method-by-the-marketing-question|AIM-008]]: which method for which question.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Datată în raport cu AI generativ (2017):** nu discută modelele de limbaj, generarea de conținut sau agenții conversaționali. Concluzia despre rețelele neuronale (prezic slab, se supra-ajustează) se bazează pe un singur test mic (1.800 de cazuri) și nu mai descrie starea tehnologiei de azi.
-- **Perspectivă de consultant în cercetare cantitativă:** autorul are un interes profesional evident în metodele pe care le promovează (alegere discretă, rețele bayesiene). Comparațiile spectaculoase (84% vs. 11%) vin din proiectele lui, nu din studii independente.
-- Cazurile sunt **deghizate** (nume fictive, cifre modificate), deci nu pot fi verificate.
-- Capitolele bonus (MaxDiff/Q-Sort detaliat, rețele neuronale) și simulatoarele sunt doar online; textul din bibliotecă nu le conține.
-- Aproape nimic despre creativitate, idee sau efectele pe termen lung ale publicității. Conjoint-ul de mesaj optimizează execuția, nu conceptul.
-- Exemplele sunt preponderent americane și B2B/farma; transferul spre piețe mici, cu date puține, cere adaptare.
+- **Dated with respect to generative AI (2017):** it does not discuss language models, content generation or conversational agents. Its conclusion about neural networks (they predict poorly and overfit) rests on a single small test (1,800 cases) and no longer describes the state of the technology today.
+- **The perspective of a quantitative research consultant:** the author has an obvious professional interest in the methods he promotes (discrete choice, Bayes Nets). The striking comparisons (84% vs. 11%) come from his own projects, not from independent studies.
+- The cases are **disguised** (fictitious names, altered figures), so they cannot be checked.
+- The bonus chapters (MaxDiff/Q-Sort in detail, neural networks) and the simulators are online only; the text in the library does not contain them.
+- Almost nothing about creativity, the idea or the long-term effects of advertising. Message conjoint optimizes the execution, not the concept.
+- The examples are mostly American and from B2B/pharma; transferring them to small markets with little data requires adaptation.
 
-## Citat
+## Quote
 
-> „All models are wrong but some are useful" — George E. Box, citat de Struhl (cap. 2).
+> "All models are wrong but some are useful" (George E. Box, quoted by Struhl, ch. 2)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-008-testata-cu-date-ierarhia-efectelor-a-iesit-intr-o-alta|ADV-008]] — Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu"
-- [[ADV-080-elementele-unei-reclame-se-pot-testa-ca-un-experiment|ADV-080]] — Elementele unei reclame se pot testa ca un experiment — conjoint-ul de mesaj bate testul A/B
-- [[AIM-001-metodele-de-predictie-a-alegerilor-formeaza-patru-familii|AIM-001]] — Metodele de predicție a alegerilor formează patru familii, fiecare cu o imagine implicită despre om
-- [[AIM-005-datele-istorice-prezic-repetarea-nu-noutatea-nu-raspund-la|AIM-005]] — Datele istorice prezic repetarea, nu noutatea — nu răspund la „ce-ar fi dacă" și nu arată percepțiile
-- [[AIM-007-validarea-pe-un-esantion-de-control-separa-tiparele-reale|AIM-007]] — Validarea pe un eșantion de control separă tiparele reale de supra-ajustare
-- [[AIM-008-alegi-metoda-de-analiza-dupa-intrebarea-de-marketing-nu|AIM-008]] — Alegi metoda de analiză după întrebarea de marketing, nu după moda tehnologică
-- [[AIM-009-arborii-de-clasificare-transforma-o-baza-de-date-in-cateva|AIM-009]] — Arborii de clasificare transformă o bază de date în câteva reguli „dacă–atunci" pentru țintire
-- [[AIM-010-precizie-sau-transparenta-ansamblurile-si-retelele|AIM-010]] — Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
-- [[AIM-011-retelele-bayesiene-pornesc-de-la-ideea-ca-atunci-cand|AIM-011]] — Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
-- [[AIM-012-metodele-de-trade-off-alegere-discreta-conjoint-maxdiff-q|AIM-012]] — Metodele de trade-off — alegere discretă, conjoint, MaxDiff, Q-Sort — răspund la întrebări diferite
-- [[AIM-013-un-studiu-de-alegere-bun-se-construieste-inainte-de|AIM-013]] — Un studiu de alegere bun se construiește înainte de chestionar — checklist în zece puncte
-- [[AIM-014-cota-de-preferinta-nu-e-cota-de-piata-prognoza-trebuie|AIM-014]] — Cota de preferință nu e cotă de piață — prognoza trebuie ajustată pentru notorietate, înțelegere și distribuție
-- [[AIM-015-simularea-de-piata-arata-cand-o-reducere-de-pret-creste|AIM-015]] — Simularea de piață arată când o reducere de preț crește cota, dar scade veniturile
-- [[AIM-027-un-model-de-limbaj-rezuma-bine-text-dar-nu-dovedeste-cauze|AIM-027]] — Un model de limbaj rezumă bine text, dar nu dovedește cauze — „de ce a crescut conversia?" nu e o întrebare pentru chatbot
-- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
-- [[AIM-032-biasul-in-marketingul-cu-ai-are-doua-surse-datele-din-care|AIM-032]] — Biasul în marketingul cu AI are două surse — datele din care învață modelul și încrederea oarbă a omului în recomandare
-- [[BRD-004-capitalul-de-brand-se-masoara-prin-patru-componente|BRD-004]] — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
-- [[BRD-060-in-modelele-de-alegere-brandul-e-un-container-de-atribute|BRD-060]] — În modelele de alegere, brandul e un „container" de atribute, iar valoarea lui se vede în ce rămâne după atribute
-- [[EXP-029-optimizarea-conjoint-a-serviciilor-arata-unde-supra-livrezi|EXP-029]] — Optimizarea conjoint a serviciilor arată unde supra-livrezi și unde sub-livrezi
-- [[INS-077-focus-grupul-e-bun-pentru-limbaj-si-pentru-detectarea|INS-077]] — Focus grupul e bun pentru limbaj și pentru detectarea dezastrelor, nu pentru decizia finală
-- [[INS-078-intrebati-direct-ce-conteaza-oamenii-spun-totul-ratingurile|INS-078]] — Întrebați direct ce contează, oamenii spun „totul" — ratingurile de importanță nu prezic comportamentul
-- [[INS-079-literary-digest-1936-volumul-de-date-nu-salveaza-un-cadru|INS-079]] — Literary Digest, 1936 — volumul de date nu salvează un cadru de eșantionare greșit
-- [[INS-080-semnificatia-statistica-nu-inseamna-importanta-cu-date|INS-080]] — Semnificația statistică nu înseamnă importanță — cu date multe, aproape orice diferență devine „semnificativă"
-- [[INS-084-importanta-unui-atribut-se-schimba-cu-etapa-de-viata|INS-084]] — Importanța unui atribut se schimbă cu etapa de viață — „brandul de încredere" contează enorm la 4–8 ani și aproape deloc la preadolescenți
-- [[SRC-037-ai-driven-marketing|SRC-037]] — AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
-- [[SRC-042-the-future-of-marketing|SRC-042]] — The Future of Marketing: Harnessing Artificial Intelligence for Success
+- [[ADV-008-tested-with-data-the-hierarchy-of-effects-came-out-in-a|ADV-008]]: Tested with data, the hierarchy of effects came out in a different order from the theory: from "what they do" to "what I do"
+- [[ADV-080-the-elements-of-an-ad-can-be-tested-as-an-experiment|ADV-080]]: The elements of an ad can be tested as an experiment: message conjoint beats the A/B test
+- [[AIM-001-methods-for-predicting-choices-fall-into-four-classes-each|AIM-001]]: Methods for predicting choices fall into four classes, each with an implicit view of people
+- [[AIM-005-historical-data-predict-repetition-not-novelty-they-do-not|AIM-005]]: Historical data predict repetition, not novelty: they do not answer "what if" and do not show perceptions
+- [[AIM-007-validation-on-a-hold-out-sample-separates-real-patterns|AIM-007]]: Validation on a hold-out sample separates real patterns from overfitting
+- [[AIM-008-you-choose-the-analysis-method-by-the-marketing-question|AIM-008]]: You choose the analysis method by the marketing question, not by technological fashion
+- [[AIM-009-classification-trees-turn-a-database-into-a-few-if-then|AIM-009]]: Classification trees turn a database into a few "if-then" rules for targeting
+- [[AIM-010-accuracy-or-transparency-ensembles-and-neural-networks|AIM-010]]: Accuracy or transparency: ensembles and neural networks predict but do not explain
+- [[AIM-011-bayesian-networks-start-from-the-idea-that-when-you-change|AIM-011]]: Bayesian networks start from the idea that when you change one variable, they all change
+- [[AIM-012-trade-off-methods-discrete-choice-conjoint-maxdiff-q-sort|AIM-012]]: Trade-off methods (discrete choice, conjoint, MaxDiff, Q-Sort) answer different questions
+- [[AIM-013-a-good-choice-study-is-built-before-the-questionnaire-a-ten|AIM-013]]: A good choice study is built before the questionnaire: a ten-point checklist
+- [[AIM-014-share-of-preference-is-not-market-share-the-forecast-has-to|AIM-014]]: Share of preference is not market share: the forecast has to be adjusted for awareness, understanding and distribution
+- [[AIM-015-a-market-simulation-shows-when-a-price-cut-raises-share-but|AIM-015]]: A market simulation shows when a price cut raises share but lowers revenue
+- [[AIM-027-a-language-model-summarizes-text-well-but-does-not-prove|AIM-027]]: A language model summarizes text well but does not prove causes: "why did conversion go up?" is not a question for a chatbot
+- [[AIM-029-can-ai-create-a-brand-s-identity-the-promise-of-ai|AIM-029]]: Can AI create a brand's identity? The promise of “AI-generated brand assets” vs. the brand as meaning and relationship
+- [[AIM-032-bias-in-ai-marketing-has-two-sources-the-data-the-model|AIM-032]]: Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+- [[BRD-004-brand-equity-is-measured-by-four-components-awareness|BRD-004]]: Brand equity is measured by four components: awareness, perceived value, associations and loyalty
+- [[BRD-060-in-choice-models-the-brand-is-a-container-for-features-and|BRD-060]]: In choice models the brand is a container for features, and its value shows in what remains after the features
+- [[EXP-029-conjoint-service-optimization-shows-where-you-overdeliver|EXP-029]]: Conjoint service optimization shows where you overdeliver and where you underdeliver
+- [[INS-077-the-focus-group-is-good-for-language-and-for-detecting|INS-077]]: The focus group is good for language and for detecting disasters, not for the final decision
+- [[INS-078-asked-directly-what-matters-people-say-everything|INS-078]]: Asked directly what matters, people say "everything": importance ratings do not predict behavior
+- [[INS-079-literary-digest-1936-the-volume-of-data-does-not-save-a|INS-079]]: Literary Digest, 1936: the volume of data does not save a wrong sample frame
+- [[INS-080-statistical-significance-does-not-mean-importance-with-lots|INS-080]]: Statistical significance does not mean importance: with lots of data, almost any difference becomes "significant"
+- [[INS-084-the-importance-of-an-attribute-changes-with-life-stage-a|INS-084]]: The importance of an attribute changes with life stage: "a brand I trust" matters hugely at ages 4–8 and hardly at all for pre-teens
+- [[SRC-037-ai-driven-marketing|SRC-037]]: AI-Driven Marketing: Harnessing Artificial Intelligence to Personalize Customer Experiences
+- [[SRC-042-the-future-of-marketing|SRC-042]]: The Future of Marketing: Harnessing Artificial Intelligence for Success
 <!-- backlinks:end -->

@@ -14,152 +14,152 @@ level: 1
 
 # Marketing (Eighth Edition)
 
-**Dhruv Grewal (Babson College), Michael Levy (Babson College), 2022 (copyright; ediția a 8-a, tipărită în 2021).** McGraw Hill LLC, New York. ISBN 978-1-26059759-2. 731 de pagini PDF, circa 376.000 de cuvinte.
+**Dhruv Grewal (Babson College), Michael Levy (Babson College), 2022 (copyright; eighth edition, printed in 2021).** McGraw Hill LLC, New York. ISBN 978-1-26059759-2. 731 PDF pages, about 376,000 words.
 
-> Notă de citare: paginile din notele derivate sunt paginile tipărite ale cărții. În fișierul text, pagina PDF = pagina tipărită + 45 (de exemplu, cap. 1 începe la p. 2 tipărită, PDF p. 47).
+> Citation note: the pages in the derived notes are the book's printed pages. In the text file, PDF page = printed page + 45 (for example, ch. 1 starts on printed p. 2, PDF p. 47).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual introductiv american complet, în 20 de capitole și 7 secțiuni: evaluarea pieței (strategie, digital, conscious marketing, mediu), înțelegerea pieței (consumator, B2B, global), targetare (STP, cercetare), crearea valorii (produs, brand, produse noi, servicii), captarea valorii (preț), livrarea valorii (canale, retail) și comunicarea valorii (IMC, publicitate, PR, promoții, vânzare personală). Fiecare capitol are o deschidere-caz, casete recurente (Adding Value, Marketing Analytics, Social & Mobile Marketing, Ethical & Societal Dilemma), un rezumat pe obiective și un studiu de caz.
-- **Teza centrală:** marketingul este procesul de creare, captare, comunicare și livrare a valorii (definiția AMA, cu „capturing" adăugat de autori), iar firmele câștigă când dau mai multă valoare decât concurenții și se sprijină pe date, social/mobil și decizii etice.
-- **Pentru cine și când:** primul semestru, modulul MKT. Este manualul de referință pentru vocabularul comun al școlii (4P, STP, SWOT, PLC, AIDA, IMC, CLV). Capitolele 3, 6, 9, 11, 18 și 19 merită citite integral de orice viitor strateg sau creativ.
-- **Relevanță pentru ADC:** ★★★★☆ — canonic, clar, actualizat (exemple din 2018-2020: Hydro Flask, Impossible Foods, Old Spice, TikTok, influenceri, Spotify), cu modele proprii utile (cercurile propunerii de valoare, 4E, roata implicării, 4R pentru influenceri). Limite: perspectivă americană (legi, cohorte, retail), stil de manual cu definiții și liste, puțină teorie despre cum funcționează creativ publicitatea.
+- **What it is about:** a complete American introductory textbook in 20 chapters and 7 sections: assessing the marketplace (strategy, digital, conscious marketing, environment), understanding the marketplace (consumer, B2B, global), targeting the marketplace (STP, research), value creation (product, brand, new products, services), value capture (pricing), value delivery (channels, retailing) and value communication (IMC, advertising, PR, sales promotions, personal selling). Each chapter has an opening case, recurring boxes (Adding Value, Marketing Analytics, Social & Mobile Marketing, Ethical & Societal Dilemma), a summary by learning objective and a case study.
+- **Central thesis:** marketing is the process of creating, capturing, communicating and delivering value (the AMA definition, with "capturing" added by the authors), and firms win when they give more value than their competitors and rely on data, social and mobile, and ethical decisions.
+- **For whom and when:** first semester, the MKT module. It is the reference textbook for the school's shared vocabulary (4Ps, STP, SWOT, PLC, AIDA, IMC, CLV). Chapters 3, 6, 9, 11, 18 and 19 are worth reading in full for any future strategist or creative.
+- **Relevance for ADC:** ★★★★☆: canonical, clear, up to date (examples from 2018-2020: Hydro Flask, Impossible Foods, Old Spice, TikTok, influencers, Spotify), with useful models of its own (the value proposition circles, the 4E framework, the wheel of social media engagement, the 4Rs for influencers). Limits: an American perspective (laws, cohorts, retail), a textbook style of definitions and lists, little theory about how advertising works creatively.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Ce e marketingul; schimb; 4P; ere; valoare; CRM | [[MKT-001-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare\|MKT-001]], [[MKT-002-valoarea-este-ce-primesti-raportat-la-ce-dai-nu-pretul-mic\|MKT-002]], [[MKT-003-conceptul-de-vanzare-impinge-ce-face-fabrica-conceptul-de\|MKT-003]], [[MKT-020-mixul-de-marketing-4p-produsul-creeaza-pretul-capteaza\|MKT-020]], [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea\|MKT-004]] |
-| 2 + anexa 2A | Strategie, avantaj competitiv, plan de marketing, SWOT, STP, BCG, creștere; studiu de mobil | [[MKT-011-strategia-de-marketing-piata-tinta-mix-un-avantaj\|MKT-011]], [[MKT-012-planul-de-marketing-are-cinci-pasi-grupati-in-trei-faze\|MKT-012]], [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe\|MKT-007]], [[MKT-013-exista-patru-cai-de-crestere-piata-actuala-sau-noua-produs\|MKT-013]], [[DIG-047-pe-mobil-o-reclama-are-mai-putin-de-o-secunda-ca-sa-fie\|DIG-047]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
-| 3 | Digital: 4E, 7C, roata implicării, aplicații, ascultă-analizează-acționează, influenceri 4R | [[DIG-004-cadrul-4e-marketingul-digital-trebuie-sa-entuziasmeze-sa\|DIG-004]], [[DIG-032-roata-implicarii-pe-social-media-are-cinci-efecte-care-o\|DIG-032]], [[DIG-071-implicarea-digitala-urmeaza-trei-etape-asculta-analizeaza\|DIG-071]], [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de\|SOC-027]] |
-| 4 | Conscious marketing, CSR, etică | [[MKT-063-conscious-marketing-pune-scopul-superior-in-centrul\|MKT-063]] |
-| 5 | Mediul imediat și macromediul CDSTEP | [[MKT-005-mediul-de-marketing-are-doua-cercuri-mediul-imediat-si\|MKT-005]] |
-| 6 | Comportamentul consumatorului | [[INS-043-decizia-de-cumparare-are-cinci-etape-si-nu-se-incheie-la\|INS-043]], [[INS-044-orice-produs-satisface-nevoi-functionale-si-psihologice-in\|INS-044]], [[INS-052-cinci-tipuri-de-risc-perceput-franeaza-cumpararea-cu-cat-e\|INS-052]], [[INS-056-consumatorul-alege-dintr-un-set-evocat-mic-dupa-atributul\|INS-056]], [[INS-057-arhitectura-alegerii-influenteaza-decizia-fara-s-o\|INS-057]], [[INS-019-atitudinea-are-trei-componente-ce-crezi-ce-simti-ce-faci\|INS-019]], [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in\|INS-029]], [[INS-045-decizia-de-cumparare-e-modelata-de-patru-familii-de-factori\|INS-045]] |
-| 7 | B2B, centrul de cumpărare | — (citit superficial) |
-| 8 | Marketing global (intrare, standardizare vs. adaptare) | — (citit parțial; menționat în surse) |
-| 9 | STP, propunerea de valoare, harta perceptuală | [[MKT-014-stp-se-face-in-cinci-pasi-strategie-segmentare\|MKT-014]], [[MKT-015-demografia-si-geografia-te-ajuta-sa-gasesti-tinta\|MKT-015]], [[MKT-017-un-segment-merita-urmarit-daca-trece-cinci-criterii-apoi\|MKT-017]], [[MKT-018-pozitionarea-se-construieste-pe-valoare-atribute-simboluri\|MKT-018]], [[MKT-019-propunerea-de-valoare-sta-unde-nevoile-clientului-se\|MKT-019]] |
-| 10 + anexa 10A | Cercetare de marketing, big data, CLV | [[MKT-009-cercetarea-de-marketing-are-cinci-pasi-de-la-obiectiv-la\|MKT-009]], [[MKT-010-datele-secundare-sunt-ieftine-dar-generale-cele-primare\|MKT-010]], [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea\|MKT-004]] |
-| 11 | Produs, branding, ambalaj | [[MKT-021-produsul-are-trei-straturi-valoarea-de-baza-produsul\|MKT-021]], [[BRD-002-brandul-ajuta-clientul-sa-aleaga-repede-si-protejeaza-firma\|BRD-002]], [[BRD-004-capitalul-de-brand-se-masoara-prin-patru-componente\|BRD-004]], [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of\|BRD-044]], [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta\|BRD-045]], [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in\|BRD-054]] |
-| 12 | Produse noi, difuzia inovației, PLC | [[MKT-022-ciclul-de-viata-al-produsului-are-patru-etape-dar-folosit\|MKT-022]], [[MKT-023-o-inovatie-se-raspandeste-prin-cinci-grupuri-de-adoptatori\|MKT-023]] |
-| 13 | Servicii, modelul decalajelor | [[MKT-027-serviciile-se-deosebesc-de-bunuri-prin-patru-trasaturi\|MKT-027]], [[MKT-028-calitatea-serviciului-se-pierde-in-patru-decalaje-iar\|MKT-028]] |
-| 14-15 | Preț: 5C, elasticitate, strategii | [[MKT-024-pretul-este-sacrificiul-total-al-clientului-si-se-fixeaza\|MKT-024]], [[MKT-025-doua-alegeri-clasice-de-strategie-de-pret-edlp-sau-high-low\|MKT-025]] |
-| 16-17 | Lanț de aprovizionare, retail, omnicanal | [[MKT-026-distributia-alege-intre-canal-direct-si-indirect-si-intre\|MKT-026]] |
-| 18 | IMC, AIDA, buget, metrici | [[ADV-069-comunicarea-integrata-de-marketing-imc-trateaza-toate\|ADV-069]], [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza\|ADV-005]], [[ADV-076-bugetul-de-comunicare-se-construieste-din-obiective-si\|ADV-076]] |
-| 19 | Publicitate, PR, promoții | [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la\|ADV-010]], [[ADV-002-orice-reclama-informeaza-convinge-sau-reaminteste\|ADV-002]], [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta\|ADV-024]], [[ADV-055-planificarea-media-alege-mixul-mass-sau-nisa-fiecare-medium\|ADV-055]], [[ADV-030-exagerarea-subiectiva-puffery-e-legala-dar-orice-afirmatie\|ADV-030]], [[ADV-064-relatiile-publice-castiga-credibilitate-tocmai-pentru-ca\|ADV-064]], [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu\|ADV-070]] |
-| 20 | Vânzare personală | — (necitit în detaliu) |
+| 1 | Overview of Marketing: what marketing is; exchange; the 4Ps; eras; value; CRM | [[MKT-001-marketing-creates-captures-communicates-and-delivers-value\|MKT-001]], [[MKT-002-value-is-what-you-get-for-what-you-give-not-a-low-price\|MKT-002]], [[MKT-003-the-selling-concept-pushes-what-the-factory-makes-the\|MKT-003]], [[MKT-020-the-4p-marketing-mix-product-creates-price-captures-place\|MKT-020]], [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction\|MKT-004]] |
+| 2 + appendix 2A | Developing Marketing Strategies and a Marketing Plan (with Writing a Marketing Plan): strategy, competitive advantage, marketing plan, SWOT, STP, BCG, growth; mobile study | [[MKT-011-marketing-strategy-target-market-mix-a-sustainable\|MKT-011]], [[MKT-012-the-marketing-plan-has-five-steps-grouped-in-three-phases\|MKT-012]], [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths\|MKT-007]], [[MKT-013-there-are-four-paths-to-growth-current-or-new-market\|MKT-013]], [[DIG-047-on-mobile-an-ad-has-less-than-a-second-to-be-seen-faces\|DIG-047]], [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only\|BRD-054]] |
+| 3 | Digital Marketing: Online, Social, and Mobile (4E, 7C, the wheel of social media engagement, apps, listen-analyze-do, influencers and the 4Rs) | [[DIG-004-the-4e-framework-digital-marketing-has-to-excite-educate\|DIG-004]], [[DIG-032-the-wheel-of-social-media-engagement-has-five-effects-that\|DIG-032]], [[DIG-071-digital-engagement-follows-three-stages-listen-analyze-do\|DIG-071]], [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two\|SOC-027]] |
+| 4 | Conscious Marketing, Corporate Social Responsibility, and Ethics | [[MKT-063-conscious-marketing-puts-the-higher-purpose-at-the-core-of\|MKT-063]] |
+| 5 | Analyzing the Marketing Environment: the immediate environment and the CDSTEP macroenvironment | [[MKT-005-the-marketing-environment-has-two-circles-the-immediate\|MKT-005]] |
+| 6 | Consumer Behavior | [[INS-043-the-purchase-decision-has-five-stages-and-does-not-end-at\|INS-043]], [[INS-044-every-product-satisfies-functional-and-psychological-needs\|INS-044]], [[INS-052-five-types-of-perceived-risk-hold-back-a-purchase-the\|INS-052]], [[INS-056-consumers-choose-from-a-small-evoked-set-by-the-determinant\|INS-056]], [[INS-057-choice-architecture-influences-the-decision-without\|INS-057]], [[INS-019-attitude-has-three-components-what-you-believe-feel-and-do\|INS-019]], [[INS-029-persuasion-follows-the-central-or-the-peripheral-route\|INS-029]], [[INS-045-the-purchase-decision-is-shaped-by-four-families-of-factors\|INS-045]] |
+| 7 | Business-to-Business Marketing: the buying center | none (skimmed) |
+| 8 | Global Marketing (entry, standardization vs. adaptation) | none (read in part; cited in the sources) |
+| 9 | Segmentation, Targeting, and Positioning: STP, the value proposition, the perceptual map | [[MKT-014-stp-is-done-in-five-steps-strategy-segmentation\|MKT-014]], [[MKT-015-demographics-and-geography-help-you-find-the-target\|MKT-015]], [[MKT-017-a-segment-is-worth-pursuing-if-it-passes-five-criteria-then\|MKT-017]], [[MKT-018-positioning-is-built-on-value-attributes-symbols-or-the\|MKT-018]], [[MKT-019-the-value-proposition-sits-where-the-customer-s-needs-meet\|MKT-019]] |
+| 10 + appendix 10A | Marketing Research and Analytics (with Using Secondary Data to Assess Customer Lifetime Value): research, big data, CLV | [[MKT-009-marketing-research-has-five-steps-from-objectives-to-an\|MKT-009]], [[MKT-010-secondary-data-are-cheap-but-general-primary-data-are\|MKT-010]], [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction\|MKT-004]] |
+| 11 | Product, Branding, and Packaging Decisions | [[MKT-021-the-product-has-three-layers-core-customer-value-the-actual\|MKT-021]], [[BRD-002-a-brand-helps-customers-choose-quickly-and-protects-the\|BRD-002]], [[BRD-004-brand-equity-is-measured-by-four-components-awareness\|BRD-004]], [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of\|BRD-044]], [[BRD-045-a-brand-extension-succeeds-only-if-the-brand-helps-the-new\|BRD-045]], [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only\|BRD-054]] |
+| 12 | Developing New Products: diffusion of innovation, PLC | [[MKT-022-the-product-life-cycle-has-four-stages-but-used\|MKT-022]], [[MKT-023-an-innovation-spreads-through-five-groups-of-adopters-and\|MKT-023]] |
+| 13 | Services: The Intangible Product (the gaps model) | [[MKT-027-services-differ-from-goods-in-four-ways-intangible\|MKT-027]], [[MKT-028-service-quality-is-lost-in-four-gaps-and-the-last-one-the\|MKT-028]] |
+| 14-15 | Pricing Concepts for Capturing Value; Strategic Pricing Methods and Tactics: the 5Cs, elasticity, strategies | [[MKT-024-price-is-the-customer-s-overall-sacrifice-and-is-set\|MKT-024]], [[MKT-025-two-classic-pricing-strategy-choices-edlp-or-high-low-and\|MKT-025]] |
+| 16-17 | Supply Chain and Channel Management; Retailing and Omnichannel Marketing | [[MKT-026-distribution-chooses-between-a-direct-and-an-indirect\|MKT-026]] |
+| 18 | Integrated Marketing Communications: AIDA, budget, metrics | [[ADV-069-integrated-marketing-communications-imc-treats-all-channels\|ADV-069]], [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar\|ADV-005]], [[ADV-076-the-communication-budget-is-built-from-objectives-and-tasks\|ADV-076]] |
+| 19 | Advertising, Public Relations, and Sales Promotions | [[ADV-010-strategic-communication-planning-has-five-steps-from\|ADV-010]], [[ADV-002-every-ad-informs-persuades-or-reminds-the-objective-is\|ADV-002]], [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition\|ADV-024]], [[ADV-055-media-planning-chooses-the-mix-mass-or-niche-each-medium\|ADV-055]], [[ADV-030-subjective-exaggeration-puffery-is-legal-but-any\|ADV-030]], [[ADV-064-public-relations-gains-credibility-precisely-because-the\|ADV-064]], [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with\|ADV-070]] |
+| 20 | Personal Selling and Sales Management | none (not read in detail) |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-001-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-001]] — definiția AMA cu cinci aspecte de bază, inclusiv schimbul de date.
-- [[MKT-002-valoarea-este-ce-primesti-raportat-la-ce-dai-nu-pretul-mic|MKT-002]] — valoarea ca raport, nu ca preț mic (Hermès), plus co-crearea.
-- [[MKT-003-conceptul-de-vanzare-impinge-ce-face-fabrica-conceptul-de|MKT-003]] — patru ere: producție, vânzări, piață, valoare.
-- [[MKT-020-mixul-de-marketing-4p-produsul-creeaza-pretul-capteaza|MKT-020]] — 4P legate de verbele valorii; prețul ca singurul P care aduce venit.
-- [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea|MKT-004]] — perspectiva relației și formula CLV (cazul curățătoriei Very Clean).
-- [[MKT-063-conscious-marketing-pune-scopul-superior-in-centrul|MKT-063]] — conscious marketing vs. CSR (Exhibit 4.2), greenwashing.
-- [[MKT-011-strategia-de-marketing-piata-tinta-mix-un-avantaj|MKT-011]] — avantajul competitiv durabil ca zid; patru macro-strategii.
-- [[MKT-012-planul-de-marketing-are-cinci-pasi-grupati-in-trei-faze|MKT-012]] — planul în cinci pași; critica BCG (profeția care se autoîmplinește).
-- [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe|MKT-007]] — SWOT PepsiCo vs. Coca-Cola.
-- [[MKT-005-mediul-de-marketing-are-doua-cercuri-mediul-imediat-si|MKT-005]] — CDSTEP ca variantă de PESTEL, mediul imediat.
-- [[MKT-013-exista-patru-cai-de-crestere-piata-actuala-sau-noua-produs|MKT-013]] — matricea de creștere pe exemplul Marvel.
-- [[MKT-014-stp-se-face-in-cinci-pasi-strategie-segmentare|MKT-014]] – [[MKT-019-propunerea-de-valoare-sta-unde-nevoile-clientului-se|MKT-019]] — STP complet: pașii, bazele, criteriile, strategiile de targetare, poziționarea, harta perceptuală, cercurile și formula propunerii de valoare.
-- [[MKT-021-produsul-are-trei-straturi-valoarea-de-baza-produsul|MKT-021]] – [[MKT-023-o-inovatie-se-raspandeste-prin-cinci-grupuri-de-adoptatori|MKT-023]] — straturile produsului, ciclul de viață (și capcana lui), difuzia inovației.
-- [[MKT-024-pretul-este-sacrificiul-total-al-clientului-si-se-fixeaza|MKT-024]], [[MKT-025-doua-alegeri-clasice-de-strategie-de-pret-edlp-sau-high-low|MKT-025]] — prețul ca sacrificiu total, 5C, elasticitate, prestigiu, EDLP vs. high/low, skimming vs. penetrare.
-- [[MKT-026-distributia-alege-intre-canal-direct-si-indirect-si-intre|MKT-026]] — canale directe și indirecte, intensitatea distribuției.
-- [[MKT-027-serviciile-se-deosebesc-de-bunuri-prin-patru-trasaturi|MKT-027]], [[MKT-028-calitatea-serviciului-se-pierde-in-patru-decalaje-iar|MKT-028]] — IHIP și modelul decalajelor (decalajul de comunicare).
-- [[MKT-009-cercetarea-de-marketing-are-cinci-pasi-de-la-obiectiv-la|MKT-009]], [[MKT-010-datele-secundare-sunt-ieftine-dar-generale-cele-primare|MKT-010]] — procesul de cercetare, datele, greșelile din chestionar, big data 5V.
-- [[INS-043-decizia-de-cumparare-are-cinci-etape-si-nu-se-incheie-la|INS-043]] – [[INS-045-decizia-de-cumparare-e-modelata-de-patru-familii-de-factori|INS-045]] — procesul decizional, nevoi, risc, set evocat, arhitectura alegerii, atitudini, ELM, factori.
-- [[BRD-002-brandul-ajuta-clientul-sa-aleaga-repede-si-protejeaza-firma|BRD-002]] – [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — elemente de brand, capital de brand, strategii de proprietate și denumire, extensii, repoziționare (Old Spice).
-- [[ADV-069-comunicarea-integrata-de-marketing-imc-trateaza-toate|ADV-069]] – [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu|ADV-070]] — IMC, AIDA, buget și metrici (GRP, CTR, ROMI), cei șapte pași ai campaniei, obiective, USP și apeluri, media, puffery, PR, promoții.
-- [[DIG-004-cadrul-4e-marketingul-digital-trebuie-sa-entuziasmeze-sa|DIG-004]] – [[DIG-047-pe-mobil-o-reclama-are-mai-putin-de-o-secunda-ca-sa-fie|DIG-047]], [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de|SOC-027]] — 4E și 7C, roata implicării, ascultă-analizează-acționează, regula de sub o secundă pe mobil, 4R pentru influenceri.
+- [[MKT-001-marketing-creates-captures-communicates-and-delivers-value|MKT-001]]: the AMA definition with five core aspects, including the exchange of data.
+- [[MKT-002-value-is-what-you-get-for-what-you-give-not-a-low-price|MKT-002]]: value as a ratio, not as a low price (Hermès), plus co-creation.
+- [[MKT-003-the-selling-concept-pushes-what-the-factory-makes-the|MKT-003]]: four eras: production, sales, market, value-based marketing.
+- [[MKT-020-the-4p-marketing-mix-product-creates-price-captures-place|MKT-020]]: the 4Ps tied to the value verbs; price as the only P that brings in revenue.
+- [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction|MKT-004]]: the relational orientation and the CLV formula (the Very Clean Cleaners case).
+- [[MKT-063-conscious-marketing-puts-the-higher-purpose-at-the-core-of|MKT-063]]: conscious marketing vs. CSR (Exhibit 4.2), greenwashing.
+- [[MKT-011-marketing-strategy-target-market-mix-a-sustainable|MKT-011]]: the sustainable competitive advantage as a wall; four macro strategies.
+- [[MKT-012-the-marketing-plan-has-five-steps-grouped-in-three-phases|MKT-012]]: the plan in five steps; the critique of the BCG matrix (the self-fulfilling prophecy).
+- [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths|MKT-007]]: SWOT for PepsiCo vs. Coca-Cola.
+- [[MKT-005-the-marketing-environment-has-two-circles-the-immediate|MKT-005]]: CDSTEP as a variant of PESTEL, the immediate environment.
+- [[MKT-013-there-are-four-paths-to-growth-current-or-new-market|MKT-013]]: the growth matrix, with Marvel as the example.
+- [[MKT-014-stp-is-done-in-five-steps-strategy-segmentation|MKT-014]] to [[MKT-019-the-value-proposition-sits-where-the-customer-s-needs-meet|MKT-019]]: STP in full: the steps, the bases, the criteria, the targeting strategies, positioning, the perceptual map, the circles and the formula of the value proposition.
+- [[MKT-021-the-product-has-three-layers-core-customer-value-the-actual|MKT-021]] to [[MKT-023-an-innovation-spreads-through-five-groups-of-adopters-and|MKT-023]]: the layers of the product, the product life cycle (and its trap), the diffusion of innovation.
+- [[MKT-024-price-is-the-customer-s-overall-sacrifice-and-is-set|MKT-024]], [[MKT-025-two-classic-pricing-strategy-choices-edlp-or-high-low-and|MKT-025]]: price as the total sacrifice, the 5Cs, elasticity, prestige, EDLP vs. high/low, skimming vs. penetration.
+- [[MKT-026-distribution-chooses-between-a-direct-and-an-indirect|MKT-026]]: direct and indirect channels, distribution intensity.
+- [[MKT-027-services-differ-from-goods-in-four-ways-intangible|MKT-027]], [[MKT-028-service-quality-is-lost-in-four-gaps-and-the-last-one-the|MKT-028]]: IHIP and the gaps model (the communication gap).
+- [[MKT-009-marketing-research-has-five-steps-from-objectives-to-an|MKT-009]], [[MKT-010-secondary-data-are-cheap-but-general-primary-data-are|MKT-010]]: the research process, data, questionnaire mistakes, the 5 Vs of big data.
+- [[INS-043-the-purchase-decision-has-five-stages-and-does-not-end-at|INS-043]] to [[INS-045-the-purchase-decision-is-shaped-by-four-families-of-factors|INS-045]]: the decision process, needs, risk, the evoked set, choice architecture, attitudes, ELM, factors.
+- [[BRD-002-a-brand-helps-customers-choose-quickly-and-protects-the|BRD-002]] to [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only|BRD-054]]: brand elements, brand equity, ownership and naming strategies, extensions, repositioning (Old Spice).
+- [[ADV-069-integrated-marketing-communications-imc-treats-all-channels|ADV-069]] to [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with|ADV-070]]: IMC, AIDA, budget and metrics (GRP, CTR, ROMI), the seven steps of a campaign, objectives, the USP and appeals, media, puffery, PR, sales promotions.
+- [[DIG-004-the-4e-framework-digital-marketing-has-to-excite-educate|DIG-004]] to [[DIG-047-on-mobile-an-ad-has-less-than-a-second-to-be-seen-faces|DIG-047]], [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two|SOC-027]]: the 4E and 7C frameworks, the wheel of social media engagement, listen-analyze-do, the under-one-second rule on mobile, the 4Rs for influencers.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Americano-centric:** legislația (FTC, Sherman, Clayton), cohortele, datele demografice și exemplele de retail sunt din SUA. Pentru UE și România trebuie verificate separat (de exemplu GDPR și practicile comerciale incorecte).
-- **Modelele sunt prezentate ca fapte, nu ca teorii discutabile:** AIDA, Maslow și curba lui Rogers apar fără criticile lor empirice. Studenții trebuie să le confrunte cu alte surse din bază (de exemplu psihologia publicității).
-- **Unele formule proprii, neverificate empiric:** roata implicării pe social media și cadrul 4E sunt instrumente didactice ale autorilor, nu rezultate de cercetare.
-- **Definiții uneori confuze:** „glocalizarea" este folosită în cap. 8 pentru două strategii diferite (același produs; produs standard cu promovare locală).
-- **Statistici care se perimează repede** (urmăritori Instagram, prețuri pe postare, cote de piață 2018-2020); studiul despre atenția pe mobil e sponsorizat de industrie.
-- **Partea creativă e subțire:** cap. 19 explică pașii unei campanii și anatomia unei reclame print, dar nu și cum se naște o idee. Pentru asta, vezi skill-urile IDE, CPY și ART.
-- **Necitite în detaliu:** cap. 7 (B2B), cap. 20 (vânzare personală), cele mai multe studii de caz de final de capitol.
+- **US-centric:** the laws (FTC, Sherman, Clayton), the cohorts, the demographic data and the retail examples are American. For the EU and Romania they have to be checked separately (for example GDPR and unfair commercial practices).
+- **Models are presented as facts, not as contested theories:** AIDA, Maslow and Rogers's curve appear without their empirical critiques. Students should test them against other sources in the base (for example the psychology of advertising).
+- **Some of the authors' own frameworks are not empirically tested:** the wheel of social media engagement and the 4E framework are teaching tools, not research findings.
+- **Definitions are sometimes confusing:** "glocalization" is used in ch. 8 for two different strategies (the same product; a standard product with local promotion).
+- **Statistics that date quickly** (Instagram followers, prices per post, market shares from 2018-2020); the study on attention on mobile is sponsored by the industry.
+- **The creative side is thin:** ch. 19 explains the steps of a campaign and the anatomy of a print ad, but not how an idea is born. For that, see the IDE, CPY and ART skills.
+- **Not read in detail:** ch. 7 (B2B), ch. 20 (personal selling), most of the end-of-chapter case studies.
 
-## Citat
+## Quote
 
-> „Marketing is about satisfying customer needs and wants." (cap. 1, p. 5, Exhibit 1.1)
+> "Marketing Is about Satisfying Customer Needs and Wants" (ch. 1, p. 5, Exhibit 1.1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-001-publicitatea-intoarce-omul-spre-brand-pe-termen-lung|ADV-001]] — Publicitatea „întoarce" omul spre brand pe termen lung, promoția „mișcă înainte" vânzarea acum, și nu are nevoie de un stimulent
-- [[ADV-002-orice-reclama-informeaza-convinge-sau-reaminteste|ADV-002]] — Orice reclamă informează, convinge sau reamintește — obiectivul se alege după etapa produsului și după focus (produs, instituție, cauză)
-- [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza|ADV-005]] — Ierarhiile de efecte (AIDA, Lavidge-Steiner, DAGMAR) ordonează obiectivele „gândește–simte–acționează", dar ordinea lor fixă nu are suport empiric
-- [[ADV-010-planificarea-strategica-a-comunicarii-are-cinci-pasi-de-la|ADV-010]] — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte
-- [[ADV-024-usp-ul-lui-reeves-are-trei-conditii-o-propunere-concreta|ADV-024]] — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele — și nu e un slogan
-- [[ADV-030-exagerarea-subiectiva-puffery-e-legala-dar-orice-afirmatie|ADV-030]] — Exagerarea subiectivă (puffery) e legală, dar orice afirmație cuantificabilă trebuie dovedită
-- [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia|ADV-034]] — Grila Rossiter-Percy combină implicarea (risc) cu motivația (negativă sau pozitivă) în patru strategii de atitudine, fiecare cu tactici creative proprii
-- [[ADV-055-planificarea-media-alege-mixul-mass-sau-nisa-fiecare-medium|ADV-055]] — Planificarea media alege mixul (mass sau nișă, fiecare medium cu punctele lui tari) și ritmul — continuu, în valuri sau în pulsuri
-- [[ADV-064-relatiile-publice-castiga-credibilitate-tocmai-pentru-ca|ADV-064]] — Relațiile publice câștigă credibilitate tocmai pentru că spațiul nu e cumpărat, dar pierd controlul mesajului și legătura cu brandul
-- [[ADV-069-comunicarea-integrata-de-marketing-imc-trateaza-toate|ADV-069]] — Comunicarea integrată de marketing (IMC) tratează toate canalele ca pe un întreg — pentru claritate, consecvență și impact maxim
-- [[ADV-070-promotia-singura-doar-muta-vanzarile-in-timp-impreuna-cu|ADV-070]] — Promoția singură doar mută vânzările în timp; împreună cu publicitatea produce un „efect de clichet", iar ponderea lor se alege după ciclul de viață, diferențiere și loialitate
-- [[ADV-076-bugetul-de-comunicare-se-construieste-din-obiective-si|ADV-076]] — Bugetul de comunicare se construiește din obiective și sarcini — de la ținta de vânzări înapoi la expuneri și cost —, iar metodele euristice dau doar plafonul
-- [[BRD-002-brandul-ajuta-clientul-sa-aleaga-repede-si-protejeaza-firma|BRD-002]] — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
-- [[BRD-004-capitalul-de-brand-se-masoara-prin-patru-componente|BRD-004]] — Capitalul de brand se măsoară prin patru componente — notorietate, valoare percepută, asocieri și loialitate
-- [[BRD-005-brandul-e-un-activ-pe-termen-lung-condus-de-oameni-judecati|BRD-005]] — Brandul e un activ pe termen lung condus de oameni judecați pe trimestru — cele trei C ale branding-ului și bucla fatală a promoțiilor
-- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- [[BRD-014-harta-de-pozitionare-se-face-in-patru-pasi-iar-pozitionarea|BRD-014]] — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
-- [[BRD-044-arhitectura-de-brand-merge-de-la-branded-house-la-house-of|BRD-044]] — Arhitectura de brand merge de la branded house la house of brands — cu cât produsele diferă mai mult, cu atât au nevoie de nume separate
-- [[BRD-045-o-extensie-de-brand-reuseste-doar-daca-brandul-ajuta|BRD-045]] — O extensie de brand reușește doar dacă brandul ajută produsul nou, produsul ajută brandul și ideea are sens de business — altfel diluează brandul
-- [[BRD-050-brandul-de-servicii-se-castiga-sau-se-pierde-in-momentul|BRD-050]] — Brandul de servicii se câștigă sau se pierde în momentul interacțiunii
-- [[BRD-054-repozitionarea-e-scumpa-si-riscanta-se-justifica-doar-in|BRD-054]] — Repoziționarea e scumpă și riscantă — se justifică doar în câteva situații clare și reușește mai des vorbind unui public nou
-- [[CLI-001-clientul-b2b-decide-ca-un-centru-de-cumparare-sase-roluri|CLI-001]] — Clientul B2B decide ca un centru de cumpărare — șase roluri, patru culturi de decizie și trei situații de cumpărare
-- [[CLI-006-stage-selling-fiecare-etapa-a-vanzarii-vinde-doar-etapa|CLI-006]] — Stage selling — fiecare etapă a vânzării vinde doar etapa următoare
-- [[CLI-007-vanzarea-personala-are-cinci-pasi-iar-prezentarea-incepe|CLI-007]] — Vânzarea personală are cinci pași, iar prezentarea începe prin a afla în ce etapă de cumpărare e clientul
-- [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy|CPY-001]] — Anatomia reclamei tipărite — vizual, titlu, subtitlu, body copy și semnătură, fiecare cu o sarcină proprie
-- [[DIG-004-cadrul-4e-marketingul-digital-trebuie-sa-entuziasmeze-sa|DIG-004]] — Cadrul 4E — marketingul digital trebuie să entuziasmeze, să educe, să ofere experiența produsului și să implice
-- [[DIG-032-roata-implicarii-pe-social-media-are-cinci-efecte-care-o|DIG-032]] — Roata implicării pe social media are cinci efecte care o pun în mișcare — informație, conexiune, rețea, dinamică, promptitudine
-- [[DIG-047-pe-mobil-o-reclama-are-mai-putin-de-o-secunda-ca-sa-fie|DIG-047]] — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
-- [[DIG-071-implicarea-digitala-urmeaza-trei-etape-asculta-analizeaza|DIG-071]] — Implicarea digitală urmează trei etape — ascultă, analizează, acționează — iar campania pe social media are cinci pași
-- [[IDE-010-brainstormingul-lui-osborn-are-patru-reguli-cantitate|IDE-010]] — Brainstormingul lui Osborn are patru reguli — cantitate, judecată amânată, idei sălbatice, combinare — și cere ca generarea să fie separată de evaluare
-- [[INS-019-atitudinea-are-trei-componente-ce-crezi-ce-simti-ce-faci|INS-019]] — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
-- [[INS-043-decizia-de-cumparare-are-cinci-etape-si-nu-se-incheie-la|INS-043]] — Decizia de cumpărare are cinci etape și nu se încheie la casă — satisfacția, disonanța și loialitatea vin după
-- [[INS-044-orice-produs-satisface-nevoi-functionale-si-psihologice-in|INS-044]] — Orice produs satisface nevoi funcționale și psihologice, în proporții diferite — iar dorința nu se mulțumește cu orice soluție
-- [[INS-045-decizia-de-cumparare-e-modelata-de-patru-familii-de-factori|INS-045]] — Decizia de cumpărare e modelată de patru familii de factori — psihologici, sociali, situaționali și mixul de marketing
-- [[INS-052-cinci-tipuri-de-risc-perceput-franeaza-cumpararea-cu-cat-e|INS-052]] — Cinci tipuri de risc perceput frânează cumpărarea — cu cât e mai mare riscul, cu atât consumatorul caută mai mult
-- [[INS-053-implicarea-si-diferentele-percepute-intre-branduri-dau|INS-053]] — Implicarea și diferențele percepute între branduri dau tipul de decizie — extinsă, limitată, din obișnuință sau în căutare de varietate
-- [[INS-056-consumatorul-alege-dintr-un-set-evocat-mic-dupa-atributul|INS-056]] — Consumatorul alege dintr-un set evocat mic, după atributul determinant — cel important și diferit între branduri
-- [[INS-057-arhitectura-alegerii-influenteaza-decizia-fara-s-o|INS-057]] — Arhitectura alegerii influențează decizia fără s-o interzică — prin „ghionturi" (nudges) și opțiuni implicite
-- [[MKT-001-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-001]] — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
-- [[MKT-002-valoarea-este-ce-primesti-raportat-la-ce-dai-nu-pretul-mic|MKT-002]] — Valoarea este ce primești raportat la ce dai, nu prețul mic
-- [[MKT-003-conceptul-de-vanzare-impinge-ce-face-fabrica-conceptul-de|MKT-003]] — Conceptul de vânzare împinge ce face fabrica, conceptul de marketing pornește de la ce vrea piața — o evoluție descrisă ca ere (Grewal-Levy) sau ca filozofii (Kotler)
-- [[MKT-004-clientul-valoreaza-cat-relatia-nu-cat-tranzactia-valoarea|MKT-004]] — Clientul valorează cât relația, nu cât tranzacția — valoarea pe durata vieții (CLV)
-- [[MKT-005-mediul-de-marketing-are-doua-cercuri-mediul-imediat-si|MKT-005]] — Mediul de marketing are două cercuri — mediul imediat și macromediul CDSTEP (varianta Grewal-Levy a PESTEL)
-- [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe|MKT-007]] — Analiza SWOT separă ce ține de firmă (puncte tari și slabe) de ce ține de piață (oportunități și amenințări) — aceeași dublă privire pe care von Scheel o numește inside-out și outside-in
-- [[MKT-009-cercetarea-de-marketing-are-cinci-pasi-de-la-obiectiv-la|MKT-009]] — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
-- [[MKT-010-datele-secundare-sunt-ieftine-dar-generale-cele-primare|MKT-010]] — Datele secundare sunt ieftine dar generale, cele primare sunt țintite dar scumpe; cercetarea calitativă deschide, cea cantitativă confirmă
-- [[MKT-011-strategia-de-marketing-piata-tinta-mix-un-avantaj|MKT-011]] — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
-- [[MKT-012-planul-de-marketing-are-cinci-pasi-grupati-in-trei-faze|MKT-012]] — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
-- [[MKT-013-exista-patru-cai-de-crestere-piata-actuala-sau-noua-produs|MKT-013]] — Există patru căi de creștere — piață actuală sau nouă × produs actual sau nou (matricea Ansoff)
-- [[MKT-014-stp-se-face-in-cinci-pasi-strategie-segmentare|MKT-014]] — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
-- [[MKT-015-demografia-si-geografia-te-ajuta-sa-gasesti-tinta|MKT-015]] — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
-- [[MKT-017-un-segment-merita-urmarit-daca-trece-cinci-criterii-apoi|MKT-017]] — Un segment merită urmărit dacă trece cinci criterii; apoi alegi una dintre patru strategii de targetare
-- [[MKT-018-pozitionarea-se-construieste-pe-valoare-atribute-simboluri|MKT-018]] — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
-- [[MKT-019-propunerea-de-valoare-sta-unde-nevoile-clientului-se|MKT-019]] — Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente
-- [[MKT-020-mixul-de-marketing-4p-produsul-creeaza-pretul-capteaza|MKT-020]] — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
-- [[MKT-021-produsul-are-trei-straturi-valoarea-de-baza-produsul|MKT-021]] — Produsul are trei straturi — valoarea de bază, produsul efectiv și serviciile asociate (produsul augmentat)
-- [[MKT-022-ciclul-de-viata-al-produsului-are-patru-etape-dar-folosit|MKT-022]] — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
-- [[MKT-023-o-inovatie-se-raspandeste-prin-cinci-grupuri-de-adoptatori|MKT-023]] — O inovație se răspândește prin cinci grupuri de adoptatori, iar viteza depinde de cinci caracteristici ale produsului
-- [[MKT-024-pretul-este-sacrificiul-total-al-clientului-si-se-fixeaza|MKT-024]] — Prețul este sacrificiul total al clientului și se fixează prin cele 5C — obiective, clienți, costuri, concurență, canal
-- [[MKT-025-doua-alegeri-clasice-de-strategie-de-pret-edlp-sau-high-low|MKT-025]] — Două alegeri clasice de strategie de preț — EDLP sau high/low și, la lansare, skimming sau penetrare
-- [[MKT-026-distributia-alege-intre-canal-direct-si-indirect-si-intre|MKT-026]] — Distribuția alege între canal direct și indirect și între trei niveluri de intensitate — intensivă, selectivă, exclusivă
-- [[MKT-027-serviciile-se-deosebesc-de-bunuri-prin-patru-trasaturi|MKT-027]] — Serviciile se deosebesc de bunuri prin patru trăsături — intangibile, inseparabile, eterogene, perisabile
-- [[MKT-028-calitatea-serviciului-se-pierde-in-patru-decalaje-iar|MKT-028]] — Calitatea serviciului se pierde în patru decalaje, iar ultimul — cel de comunicare — îl creează publicitatea care promite prea mult
-- [[MKT-029-pentru-servicii-mixul-devine-7p-se-adauga-oamenii-procesele|MKT-029]] — Pentru servicii, mixul devine 7P — se adaugă oamenii, procesele și dovezile fizice
-- [[MKT-031-strategia-globala-de-marketing-decide-p-cu-p-cat|MKT-031]] — Strategia globală de marketing decide, P cu P, cât standardizezi și cât adaptezi — de la același produs la unul creat pentru o singură țară
-- [[MKT-062-marketingul-social-vinde-comportamente-nu-produse-si-nu-e|MKT-062]] — Marketingul social vinde comportamente, nu produse — și nu e același lucru cu marketingul pe social media
-- [[MKT-063-conscious-marketing-pune-scopul-superior-in-centrul|MKT-063]] — Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
-- [[SOC-024-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-024]] — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega — engagement-ul relativ scade când publicul crește
-- [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de|SOC-027]] — Influența se evaluează pe patru R, nu pe numărul de urmăritori — două modele care se completează, Onalytica și Grewal-Levy
-- [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice|SOC-029]] — Audiența unui influencer se verifică înainte de orice contract — semnale de fraudă, autenticitatea angajamentului și potrivirea publicului, manual sau cu AI
-- [[SOC-032-colaborarea-platita-se-declara-clar-la-inceput-si-in|SOC-032]] — Colaborarea plătită se declară clar, la început și în fiecare format — acolo unde publicul vede recomandarea, nu după un click
-- [[SRC-002-principles-of-marketing-policarpio|SRC-002]] — Principles of Marketing
+- [[ADV-001-advertising-turns-people-toward-the-brand-over-the-long|ADV-001]]: Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive
+- [[ADV-002-every-ad-informs-persuades-or-reminds-the-objective-is|ADV-002]]: Every ad informs, persuades or reminds: the objective is chosen by the product's stage and by its focus (product, institution, cause)
+- [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar|ADV-005]]: Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support
+- [[ADV-010-strategic-communication-planning-has-five-steps-from|ADV-010]]: Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before
+- [[ADV-024-reeves-s-usp-has-three-conditions-a-concrete-proposition|ADV-024]]: Reeves's USP has three conditions (a concrete proposition, unique, strong enough to move the mass millions) and is not a slogan
+- [[ADV-030-subjective-exaggeration-puffery-is-legal-but-any|ADV-030]]: Subjective exaggeration (puffery) is legal, but any quantifiable claim must be backed up
+- [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with|ADV-034]]: The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+- [[ADV-055-media-planning-chooses-the-mix-mass-or-niche-each-medium|ADV-055]]: Media planning chooses the mix (mass or niche, each medium with its own strengths) and the schedule: continuous, flighting or pulsing
+- [[ADV-064-public-relations-gains-credibility-precisely-because-the|ADV-064]]: Public relations gains credibility precisely because the space is not bought, but it loses control of the message and the link with the brand
+- [[ADV-069-integrated-marketing-communications-imc-treats-all-channels|ADV-069]]: Integrated marketing communications (IMC) treats all channels as one whole: for clarity, consistency and maximum impact
+- [[ADV-070-promotion-alone-only-shifts-sales-in-time-together-with|ADV-070]]: Promotion alone only shifts sales in time; together with advertising it produces a ratchet effect, and their weighting is chosen by life cycle, differentiation and loyalty
+- [[ADV-076-the-communication-budget-is-built-from-objectives-and-tasks|ADV-076]]: The communication budget is built from objectives and tasks (from the sales goal back to exposures and cost), and rule-of-thumb methods only give the ceiling
+- [[BRD-002-a-brand-helps-customers-choose-quickly-and-protects-the|BRD-002]]: A brand helps customers choose quickly and protects the firm from price competition, through elements that are easy to recognize
+- [[BRD-004-brand-equity-is-measured-by-four-components-awareness|BRD-004]]: Brand equity is measured by four components: awareness, perceived value, associations and loyalty
+- [[BRD-005-a-brand-is-a-long-term-asset-run-by-people-judged-quarter|BRD-005]]: A brand is a long-term asset run by people judged quarter by quarter: the Three Cs of branding and the branding doom loop
+- [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of|BRD-006]]: The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- [[BRD-014-the-positioning-map-is-made-in-four-steps-and-the-chosen|BRD-014]]: The positioning map is made in four steps, and the chosen positioning passes six tests: clear, pertinent, distinctive, coherent, attractive, durable
+- [[BRD-044-brand-architecture-runs-from-branded-house-to-house-of|BRD-044]]: Brand architecture runs from branded house to house of brands: the more the products differ, the more they need separate names
+- [[BRD-045-a-brand-extension-succeeds-only-if-the-brand-helps-the-new|BRD-045]]: A brand extension succeeds only if the brand helps the new product, the product helps the brand and the idea makes business sense: otherwise it dilutes the brand
+- [[BRD-050-a-service-brand-is-won-or-lost-in-the-moment-of-interaction|BRD-050]]: A service brand is won or lost in the moment of interaction
+- [[BRD-054-repositioning-is-expensive-and-risky-it-is-justified-only|BRD-054]]: Repositioning is expensive and risky: it is justified only in a few clear situations and succeeds more often by speaking to a new audience
+- [[CLI-001-the-b2b-client-decides-as-a-buying-center-six-roles-four|CLI-001]]: The B2B client decides as a buying center: six roles, four decision cultures and three buying situations
+- [[CLI-006-stage-selling-each-stage-of-the-sale-sells-only-the-next|CLI-006]]: Stage selling: each stage of the sale sells only the next step
+- [[CLI-007-personal-selling-has-five-steps-and-the-presentation-starts|CLI-007]]: Personal selling has five steps, and the presentation starts by finding out where the customer is in the buying process
+- [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy|CPY-001]]: The anatomy of a print ad: visual, headline, subhead, body copy and signature, each with its own job
+- [[DIG-004-the-4e-framework-digital-marketing-has-to-excite-educate|DIG-004]]: The 4E framework: digital marketing has to excite, educate, let customers experience the product and engage them
+- [[DIG-032-the-wheel-of-social-media-engagement-has-five-effects-that|DIG-032]]: The Wheel of Social Media Engagement has five effects that drive it: information, connected, network, dynamic, timeliness
+- [[DIG-047-on-mobile-an-ad-has-less-than-a-second-to-be-seen-faces|DIG-047]]: On mobile, an ad has less than a second to be seen: faces, contrast and instant emotion
+- [[DIG-071-digital-engagement-follows-three-stages-listen-analyze-do|DIG-071]]: Digital engagement follows three stages (listen, analyze, do), and a social media campaign has five steps
+- [[IDE-010-osborn-s-brainstorming-has-four-rules-quantity-deferred|IDE-010]]: Osborn's brainstorming has four rules (quantity, deferred judgment, wild ideas, combination) and keeps generating separate from evaluating
+- [[INS-019-attitude-has-three-components-what-you-believe-feel-and-do|INS-019]]: Attitude has three components (what you believe, feel and do), and communication can change the first two
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- [[INS-043-the-purchase-decision-has-five-stages-and-does-not-end-at|INS-043]]: The purchase decision has five stages and does not end at the checkout: satisfaction, dissonance and loyalty come after
+- [[INS-044-every-product-satisfies-functional-and-psychological-needs|INS-044]]: Every product satisfies functional and psychological needs, in different proportions, and a want is not satisfied by just any solution
+- [[INS-045-the-purchase-decision-is-shaped-by-four-families-of-factors|INS-045]]: The purchase decision is shaped by four families of factors: psychological, social, situational and the marketing mix
+- [[INS-052-five-types-of-perceived-risk-hold-back-a-purchase-the|INS-052]]: Five types of perceived risk hold back a purchase: the higher the risk, the more the consumer searches
+- [[INS-053-involvement-and-perceived-brand-differences-set-the-type-of|INS-053]]: Involvement and perceived brand differences set the type of decision: extended, limited, habitual or variety-seeking
+- [[INS-056-consumers-choose-from-a-small-evoked-set-by-the-determinant|INS-056]]: Consumers choose from a small evoked set, by the determinant attribute: the one that is important and differs between brands
+- [[INS-057-choice-architecture-influences-the-decision-without|INS-057]]: Choice architecture influences the decision without forbidding any option: through nudges and defaults
+- [[MKT-001-marketing-creates-captures-communicates-and-delivers-value|MKT-001]]: Marketing creates, captures, communicates and delivers value (the AMA definition)
+- [[MKT-002-value-is-what-you-get-for-what-you-give-not-a-low-price|MKT-002]]: Value is what you get for what you give, not a low price
+- [[MKT-003-the-selling-concept-pushes-what-the-factory-makes-the|MKT-003]]: The selling concept pushes what the factory makes, the marketing concept starts from what the market wants: an evolution described as eras (Grewal-Levy) or as philosophies (Kotler)
+- [[MKT-004-a-customer-is-worth-the-relationship-not-the-transaction|MKT-004]]: A customer is worth the relationship, not the transaction: customer lifetime value (CLV)
+- [[MKT-005-the-marketing-environment-has-two-circles-the-immediate|MKT-005]]: The marketing environment has two circles: the immediate environment and the CDSTEP macroenvironment (the Grewal-Levy version of PESTEL)
+- [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths|MKT-007]]: SWOT analysis separates what belongs to the firm (strengths and weaknesses) from what belongs to the market (opportunities and threats): the same double view that von Scheel calls inside-out and outside-in
+- [[MKT-009-marketing-research-has-five-steps-from-objectives-to-an|MKT-009]]: Marketing research has five steps, from objectives to an action plan, and turns data into information
+- [[MKT-010-secondary-data-are-cheap-but-general-primary-data-are|MKT-010]]: Secondary data are cheap but general, primary data are targeted but expensive; qualitative research opens, quantitative research confirms
+- [[MKT-011-marketing-strategy-target-market-mix-a-sustainable|MKT-011]]: Marketing strategy = target market + mix + a sustainable competitive advantage, built like a wall
+- [[MKT-012-the-marketing-plan-has-five-steps-grouped-in-three-phases|MKT-012]]: The marketing plan has five steps grouped in three phases: planning, implementation, control
+- [[MKT-013-there-are-four-paths-to-growth-current-or-new-market|MKT-013]]: There are four paths to growth: current or new market × current or new product (the Ansoff matrix)
+- [[MKT-014-stp-is-done-in-five-steps-strategy-segmentation|MKT-014]]: STP is done in five steps: strategy, segmentation, attractiveness, choice of target, positioning
+- [[MKT-015-demographics-and-geography-help-you-find-the-target|MKT-015]]: Demographics and geography help you find the target, benefits and lifestyle help you persuade it
+- [[MKT-017-a-segment-is-worth-pursuing-if-it-passes-five-criteria-then|MKT-017]]: A segment is worth pursuing if it passes five criteria; then you choose one of four targeting strategies
+- [[MKT-018-positioning-is-built-on-value-attributes-symbols-or-the|MKT-018]]: Positioning is built on value, attributes, symbols or the competition, and is checked on the perceptual map
+- [[MKT-019-the-value-proposition-sits-where-the-customer-s-needs-meet|MKT-019]]: The value proposition sits where the customer's needs meet your offering but not the competitor's, and it is written in four elements
+- [[MKT-020-the-4p-marketing-mix-product-creates-price-captures-place|MKT-020]]: The 4P marketing mix: product creates, price captures, place delivers, promotion communicates value
+- [[MKT-021-the-product-has-three-layers-core-customer-value-the-actual|MKT-021]]: The product has three layers: core customer value, the actual product and associated services (the augmented product)
+- [[MKT-022-the-product-life-cycle-has-four-stages-but-used|MKT-022]]: The product life cycle has four stages, but used mechanically it becomes a self-fulfilling prophecy
+- [[MKT-023-an-innovation-spreads-through-five-groups-of-adopters-and|MKT-023]]: An innovation spreads through five groups of adopters, and the speed depends on five characteristics of the product
+- [[MKT-024-price-is-the-customer-s-overall-sacrifice-and-is-set|MKT-024]]: Price is the customer's overall sacrifice and is set through the five Cs: company objectives, customers, costs, competition, channel members
+- [[MKT-025-two-classic-pricing-strategy-choices-edlp-or-high-low-and|MKT-025]]: Two classic pricing strategy choices: EDLP or high/low and, at launch, skimming or penetration
+- [[MKT-026-distribution-chooses-between-a-direct-and-an-indirect|MKT-026]]: Distribution chooses between a direct and an indirect channel and between three levels of intensity: intensive, selective, exclusive
+- [[MKT-027-services-differ-from-goods-in-four-ways-intangible|MKT-027]]: Services differ from goods in four ways: intangible, inseparable, heterogeneous, perishable
+- [[MKT-028-service-quality-is-lost-in-four-gaps-and-the-last-one-the|MKT-028]]: Service quality is lost in four gaps, and the last one, the communication gap, is created by advertising that promises too much
+- [[MKT-029-for-services-the-mix-becomes-the-7ps-people-process-and|MKT-029]]: For services, the mix becomes the 7Ps: people, process and physical evidence are added
+- [[MKT-031-a-global-marketing-strategy-decides-p-by-p-how-much-to|MKT-031]]: A global marketing strategy decides, P by P, how much to standardize and how much to adapt: from the same product to one created for a single country
+- [[MKT-062-social-marketing-sells-behaviors-not-products-and-it-is-not|MKT-062]]: Social marketing sells behaviors, not products, and it is not the same thing as social media marketing
+- [[MKT-063-conscious-marketing-puts-the-higher-purpose-at-the-core-of|MKT-063]]: Conscious marketing puts the higher purpose at the core of the business, CSR only adds it at the edge
+- [[SOC-024-influencer-tiers-by-reach-nano-micro-mid-tier-macro-mega|SOC-024]]: Influencer tiers by reach (nano, micro, mid-tier, macro, mega): relative engagement falls as the audience grows
+- [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two|SOC-027]]: Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+- [[SOC-029-an-influencer-s-audience-is-checked-before-any-contract|SOC-029]]: An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+- [[SOC-032-a-paid-collaboration-is-disclosed-clearly-up-front-and-in|SOC-032]]: A paid collaboration is disclosed clearly, up front and in every format: where the audience sees the recommendation, not after a click
+- [[SRC-002-principles-of-marketing-policarpio|SRC-002]]: Principles of Marketing
 <!-- backlinks:end -->

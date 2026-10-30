@@ -14,183 +14,183 @@ level: 2
 
 # The Psychology of Advertising (3rd edition)
 
-**Bob M. Fennis & Wolfgang Stroebe, 2021.** Routledge (Taylor & Francis), Abingdon / New York, ediția a 3-a (ed. 1: 2010; ed. 2: 2015). Fennis este profesor de comportamentul consumatorului la Universitatea din Groningen; Stroebe, profesor emerit la Utrecht, unul dintre cei mai cunoscuți psihologi sociali europeni ai atitudinilor. 8 capitole, glosar, ~400 de pagini de text.
+**Bob M. Fennis & Wolfgang Stroebe, 2021.** Routledge (Taylor & Francis), Abingdon / New York, 3rd edition (1st ed.: 2010; 2nd ed.: 2015). Fennis is a professor of consumer behavior at the University of Groningen; Stroebe, professor emeritus at Utrecht, is one of the best-known European social psychologists of attitudes. 8 chapters, a glossary, about 400 pages of text.
 
-> Notă despre pagini: notele folosesc **paginația tipărită** (cap. 1 începe la p. 1). În fișierul text, `=== [page N] ===` = pagina tipărită + 13 (ex. p. 187 = `[page 200]`). Prefața are numerotare romană (p. ix–xii).
+> Note on pages: the notes use the **printed pagination** (ch. 1 starts on p. 1). In the text file, `=== [page N] ===` = printed page + 13 (e.g. p. 187 = `[page 200]`). The preface has Roman numbering (pp. ix–xii).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual academic care explică, capitol cu capitol, „obstacolele psihologice" pe care le întâlnește o reclamă: atenția și procesarea informației, memoria, formarea atitudinilor, persuasiunea și rezistența, legătura atitudine–comportament (inclusiv obiceiuri și influențe inconștiente), tehnicile de conformare (Cialdini) și publicitatea online. Fiecare idee e prezentată cu teoria, ipotezele, designul experimental și rezultatele.
-- **Teza centrală:** publicitatea funcționează mai ales prin procese cu efort mic și adesea inconștiente (expunere incidentală, fluență, condiționare, euristici, scopuri activate de mediu), nu prin parcurgerea conștientă a unor trepte de tip AIDA; de aceea, practicile de măsurare bazate pe recall și pe sondaje „înainte-după" subestimează sau interpretează greșit efectele.
-- **Pentru cine și când:** cursurile de psihologia consumatorului și insight (nivel 2–3), strategie de publicitate, copywriting (lecțiile despre umor, sex, mesaje bilaterale, inferențe înșelătoare) și cercetare/eficiență. Excelent pentru studenții de strategie și planning.
-- **Relevanță pentru ADC:** ★★★★★ (5) — cea mai riguroasă sursă a bazei despre „cum funcționează publicitatea în mintea omului": meta-analize, cifre, studii clasice și dezbateri (ELM vs. unimodel, apelurile la frică, priming-ul și criza replicării, publicitatea subliminală). Limite: lipsa deliberată a studiilor de caz, exemple aproape exclusiv din laborator (studenți, branduri fictive, produse ieftine), puțin despre meșteșugul creativ.
+- **What it is about:** an academic textbook that explains, chapter by chapter, the "psychological hurdles" an ad meets: attention and information processing, memory, attitude formation, persuasion and resistance, the link between attitude and behavior (including habits and unconscious influences), compliance techniques (Cialdini) and online advertising. Each idea is presented with its theory, hypotheses, experimental design and results.
+- **Central thesis:** advertising works mostly through low-effort and often unconscious processes (incidental exposure, fluency, conditioning, heuristics, goals activated by the environment), not through a conscious climb up AIDA-type steps; this is why measurement practices based on recall and on "before-after" surveys underestimate or misread its effects.
+- **For whom and when:** courses in consumer psychology and insight (level 2–3), advertising strategy, copywriting (the lessons on humor, sex, two-sided messages, misleading inferences) and research/effectiveness. Excellent for strategy and planning students.
+- **Relevance for ADC:** ★★★★★ (5). The most rigorous source in the base on "how advertising works in the human mind": meta-analyses, figures, classic studies and debates (ELM vs. the unimodel, fear appeals, priming and the replication crisis, subliminal advertising). Limits: the deliberate absence of case studies, examples almost entirely from the lab (students, fictitious brands, cheap products), little on creative craft.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Prefață, 1 | Contextul: funcțiile publicității, răspunsurile consumatorului, sursă și mesaj, IMC, modele de eficiență (răspunsul vânzărilor, ierarhii, grile, dual process), criza replicării | [[INS-039-poti-convinge-crescand-atractia-ofertei-strategii-alfa-sau\|INS-039]], [[INS-041-mcdonald-s-si-zvonul-cu-viermi-dezmintirea-intareste\|INS-041]], [[INS-081-efectul-unei-reclame-se-dovedeste-prin-experiment-nu-prin\|INS-081]], [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si\|INS-075]], [[INS-083-criza-replicarii-obliga-la-prudenta-dar-teoriile-se-judeca\|INS-083]], [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza\|ADV-005]], [[ADV-039-grila-fcb-vaughn-ordoneaza-gandeste-simte-actioneaza-dupa\|ADV-039]], [[ADV-077-raspunsul-vanzarilor-la-buget-urmeaza-o-curba-concava-sau\|ADV-077]], [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un\|CPY-016]], [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie\|CPY-030]] |
-| 2 | Achiziția informației: preatenție, atenție focală (saliență, vividness, noutate, categorizare), înțelegere, raționament elaborativ | [[INS-002-procesarea-unei-reclame-trece-prin-patru-etape-de-la\|INS-002]], [[INS-006-expunerea-incidentala-la-reclame-influenteaza-preferinta\|INS-006]], [[INS-007-fluenta-procesarii-se-simte-ca-placere-si-e-atribuita\|INS-007]], [[INS-005-salienta-vividness-ul-si-noutatea-capteaza-atentia\|INS-005]], [[INS-065-promisiunea-exagerata-vinde-o-data-si-dezamageste-dupa\|INS-065]], [[INS-013-pionierul-unei-categorii-castiga-pentru-ca-stabileste\|INS-013]], [[INS-014-asimilarea-si-contrastul-decid-daca-un-produs-nou-ridica\|INS-014]], [[INS-034-efectul-de-adevar-mai-intai-credem-abia-apoi-poate-corectam\|INS-034]], [[INS-031-un-mesaj-incadrat-pe-masura-imaginii-de-sine-a-cititorului\|INS-031]], [[INS-033-cere-i-clientului-zece-motive-si-il-convingi-mai-putin\|INS-033]], [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin\|CPY-035]] |
-| 3 | Memoria: modele, explicit/implicit, priming, recall vs. atitudine, accesibilitate și set de considerație, clutter, repetiție, distorsionarea memoriei | [[INS-008-memoria-retine-ce-procesam-in-profunzime-nu-ce-vedem-des\|INS-008]], [[INS-082-recall-ul-si-recunoasterea-sunt-masuri-slabe-ale-eficientei\|INS-082]], [[INS-011-accesibilitatea-in-memorie-decide-ce-branduri-intra-in\|INS-011]], [[INS-012-priming-ul-un-concept-activat-incidental-coloreaza-judecati\|INS-012]], [[INS-015-publicitatea-poate-rescrie-amintirea-experientei-cu\|INS-015]], [[ADV-061-clutter-ul-produce-interferenta-competitiva-iar-antidotul-e\|ADV-061]], [[ADV-059-repetitia-spatiata-bate-repetitia-masiva-iar-primul-spot\|ADV-059]] |
-| 4 | Atitudinile: implicit/explicit, puterea atitudinii, experiență directă, euristici, căi afective, expectanță-valoare, Aad, funcții și scopuri | [[INS-025-atitudinile-implicite-prezic-alegerea-cand-omul-e-grabit\|INS-025]], [[INS-024-atitudinile-puternice-rezista-si-ghideaza-comportamentul\|INS-024]], [[INS-026-atitudinile-formate-prin-experienta-directa-prezic\|INS-026]], [[INS-027-brandul-tara-de-origine-si-pretul-functioneaza-ca-euristici\|INS-027]], [[INS-022-atitudinile-se-pot-forma-fara-argumente-pe-trei-cai\|INS-022]], [[INS-023-asocierea-brandului-cu-o-vedeta-transfera-nu-doar-placere\|INS-023]], [[INS-021-atitudinea-fata-de-brand-este-suma-catorva-convingeri\|INS-021]], [[INS-047-produsele-servesc-patru-scopuri-utilitar-de-autoexprimare\|INS-047]], [[INS-058-a-ti-placea-un-produs-nu-inseamna-a-l-vrea-de-la-atitudine\|INS-058]], [[ADV-044-placerea-fata-de-reclama-se-transfera-asupra-brandului-pe\|ADV-044]] |
-| 5 | Persuasiunea: Yale, McGuire, răspunsuri cognitive, ELM/HSM, unimodel, auto-validare; atenție (umor, sex); rezistență (reactanță, bilateral, plasare, nativ, sponsorizare) | [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in\|INS-029]], [[INS-030-unimodelul-indiciile-si-argumentele-nu-sunt-doua-rute-ci\|INS-030]], [[INS-036-vedeta-din-reclama-e-indiciu-periferic-la-implicare-mica-si\|INS-036]], [[INS-042-apelurile-la-frica-functioneaza-mai-bine-cu-cat-amenintarea\|INS-042]], [[INS-040-cand-publicul-vede-intentia-de-a-l-convinge-poate-face\|INS-040]], [[ADV-060-repetitia-creste-atitudinea-pana-la-un-varf-apoi-o-uzeaza\|ADV-060]], [[ADV-066-plasarea-de-produs-si-publicitatea-nativa-ocolesc\|ADV-066]], [[ADV-065-sponsorizarea-congruenta-e-tinuta-minte-mai-bine-dar-poate\|ADV-065]], [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria\|CPY-031]], [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea\|CPY-033]] |
-| 6 | Comportamentul: corespondență, TPB, urmărirea scopurilor, intenții de implementare, atitudini/norme/scopuri automate, obiceiuri, mentalități, impuls, subliminal | [[INS-059-inainte-de-a-convinge-afla-daca-frana-e-atitudinea-norma\|INS-059]], [[INS-060-planul-daca-situatia-x-atunci-fac-y-transforma-intentia-in\|INS-060]], [[INS-061-in-contexte-stabile-si-repetate-obiceiul-bate-intentia-de\|INS-061]], [[INS-062-mediul-de-cumparare-activeaza-scopuri-norme-si-mentalitati\|INS-062]], [[INS-017-publicitatea-subliminala-functioneaza-daca-functioneaza\|INS-017]] |
-| 7 | Conformarea fără schimbarea atitudinii: lipsa de atenție, cele șase principii Cialdini, confuzia (DTR), resursele de autocontrol | [[INS-063-conformarea-fara-schimbarea-atitudinii-se-obtine-prin-sapte\|INS-063]], [[INS-064-la-cereri-mici-orice-pentru-ca-functioneaza-la-cereri-mari\|INS-064]], [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea\|CPY-017]] |
-| 8 | Online: targetare, big data și confidențialitate, încredere, bannere, euristici online, sisteme de recomandare, efectul Google, viralitate | [[ADV-068-targetarea-online-ajuta-dar-reclama-potrivita-si-intruziva\|ADV-068]], [[INS-070-online-designul-profesional-construieste-increderea-celor\|INS-070]], [[INS-071-online-consumatorul-proceseaza-euristic-si-isi-muta-memoria\|INS-071]], [[INS-072-continutul-se-distribuie-cand-produce-emotii-cu-activare\|INS-072]], [[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la\|ART-005]] |
+| Preface, 1 | Setting the stage: the functions of advertising, consumer responses, source and message, IMC, effectiveness models (sales response, hierarchies, grids, dual process), the replication crisis | [[INS-039-you-can-persuade-by-increasing-the-attractiveness-of-the\|INS-039]], [[INS-041-mcdonald-s-and-the-worm-rumor-denial-strengthens-the\|INS-041]], [[INS-081-the-effect-of-an-ad-is-proved-by-experiment-not-by-the\|INS-081]], [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate\|INS-075]], [[INS-083-the-replication-crisis-calls-for-caution-but-theories-are\|INS-083]], [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar\|ADV-005]], [[ADV-039-the-fcb-grid-vaughn-orders-think-feel-do-by-involvement-and\|ADV-039]], [[ADV-077-the-response-of-sales-to-the-budget-follows-a-concave-or-an\|ADV-077]], [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor\|CPY-016]], [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy\|CPY-030]] |
+| 2 | How consumers acquire and process information from advertising: preattentive analysis, focal attention (salience, vividness, novelty, categorization), comprehension, elaborative reasoning | [[INS-002-processing-an-ad-goes-through-four-stages-from-preattentive\|INS-002]], [[INS-006-incidental-exposure-to-ads-influences-preference-even\|INS-006]], [[INS-007-processing-fluency-feels-like-liking-and-is-misattributed\|INS-007]], [[INS-005-salience-vividness-and-novelty-capture-attention\|INS-005]], [[INS-065-an-exaggerated-promise-sells-once-and-disappoints\|INS-065]], [[INS-013-a-category-pioneer-wins-because-it-sets-the-attributes-on\|INS-013]], [[INS-014-assimilation-and-contrast-decide-whether-a-new-product\|INS-014]], [[INS-034-the-truth-effect-we-believe-first-and-only-then-maybe\|INS-034]], [[INS-031-a-message-framed-to-fit-the-reader-s-self-image-is\|INS-031]], [[INS-033-ask-customers-for-ten-reasons-and-you-persuade-them-less\|INS-033]], [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences\|CPY-035]] |
+| 3 | How advertising affects consumer memory: models, explicit/implicit, priming, recall vs. attitude, accessibility and the consideration set, clutter, repetition, memory distortion | [[INS-008-memory-keeps-what-we-process-deeply-not-what-we-see-often\|INS-008]], [[INS-082-recall-and-recognition-are-weak-measures-of-an-ad-s\|INS-082]], [[INS-011-accessibility-in-memory-decides-which-brands-enter-the\|INS-011]], [[INS-012-priming-an-incidentally-activated-concept-colors-later\|INS-012]], [[INS-015-advertising-can-rewrite-the-memory-of-the-product\|INS-015]], [[ADV-061-clutter-produces-competitive-interference-and-the-antidote\|ADV-061]], [[ADV-059-spaced-repetition-beats-massed-repetition-and-the-first\|ADV-059]] |
+| 4 | How consumers form attitudes towards products: implicit/explicit, attitude strength, direct experience, heuristics, affective routes, expectancy-value, Aad, functions and goals | [[INS-025-implicit-attitudes-predict-choice-when-people-are-rushed-or\|INS-025]], [[INS-024-strong-attitudes-resist-and-guide-behavior-weak-ones-are\|INS-024]], [[INS-026-attitudes-formed-through-direct-experience-predict-behavior\|INS-026]], [[INS-027-brand-country-of-origin-and-price-work-as-heuristics-that\|INS-027]], [[INS-022-attitudes-can-form-without-arguments-through-three\|INS-022]], [[INS-023-associating-the-brand-with-a-celebrity-transfers-meaning-as\|INS-023]], [[INS-021-brand-attitude-is-the-sum-of-a-few-salient-beliefs\|INS-021]], [[INS-047-products-serve-four-goals-utilitarian-self-expression\|INS-047]], [[INS-058-liking-a-product-is-not-wanting-it-from-attitude-to-goal\|INS-058]], [[ADV-044-liking-for-the-ad-transfers-to-the-brand-along-two-paths\|ADV-044]] |
+| 5 | How consumers yield to advertising: Principles of persuasion and attitude change: Yale, McGuire, cognitive responses, ELM/HSM, the unimodel, self-validation; attention (humor, sex); resistance (reactance, two-sided messages, placement, native advertising, sponsorship) | [[INS-029-persuasion-follows-the-central-or-the-peripheral-route\|INS-029]], [[INS-030-the-unimodel-cues-and-arguments-are-not-two-routes-but-two\|INS-030]], [[INS-036-the-celebrity-in-an-ad-is-a-peripheral-cue-at-low\|INS-036]], [[INS-042-fear-appeals-work-better-the-more-severe-the-threat-the\|INS-042]], [[INS-040-when-the-audience-sees-the-intent-to-persuade-it-may-do\|INS-040]], [[ADV-060-repetition-improves-attitude-up-to-a-peak-then-wears-it-out\|ADV-060]], [[ADV-066-product-placement-and-native-advertising-bypass-resistance\|ADV-066]], [[ADV-065-congruent-sponsorship-is-remembered-better-but-it-can-be\|ADV-065]], [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory\|CPY-031]], [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the\|CPY-033]] |
+| 6 | How advertising influences buying behaviour: correspondence, TPB, goal pursuit, implementation intentions, automatic attitudes/norms/goals, habits, mindsets, impulse, subliminal | [[INS-059-before-persuading-find-out-whether-the-brake-is-the\|INS-059]], [[INS-060-the-plan-if-situation-x-then-i-do-y-turns-intention-into\|INS-060]], [[INS-061-in-stable-repeated-contexts-habit-beats-intention-which-is\|INS-061]], [[INS-062-the-shopping-environment-activates-goals-norms-and-mindsets\|INS-062]], [[INS-017-subliminal-advertising-works-if-it-works-at-all-only-under\|INS-017]] |
+| 7 | Beyond persuasion: Achieving consumer compliance without changing attitudes: mindlessness, Cialdini's six principles, confusion (DTR), self-control resources | [[INS-063-compliance-without-attitude-change-is-achieved-through\|INS-063]], [[INS-064-for-small-requests-any-because-works-for-large-requests\|INS-064]], [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is\|CPY-017]] |
+| 8 | Advertising in the new millennium: How the Internet affects consumer judgement and choice: targeting, big data and privacy, trust, banners, online heuristics, recommender systems, the Google effect, virality | [[ADV-068-online-targeting-helps-but-an-ad-that-is-both-matched-and\|ADV-068]], [[INS-070-online-professional-design-builds-the-trust-of-those-who\|INS-070]], [[INS-071-online-consumers-process-heuristically-and-move-their\|INS-071]], [[INS-072-content-gets-shared-when-it-produces-high-arousal-emotions\|INS-072]], [[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to\|ART-005]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[INS-002-procesarea-unei-reclame-trece-prin-patru-etape-de-la|INS-002]] — procesarea unei reclame are patru etape, iar implicarea decide până unde ajunge.
-- [[INS-006-expunerea-incidentala-la-reclame-influenteaza-preferinta|INS-006]] — expunerea incidentală influențează alegerea fără atenție; plasarea contează.
-- [[INS-007-fluenta-procesarii-se-simte-ca-placere-si-e-atribuita|INS-007]] — fluența procesării se simte ca plăcere și e atribuită brandului.
-- [[INS-005-salienta-vividness-ul-si-noutatea-capteaza-atentia|INS-005]] — saliența, vividness-ul și noutatea atrag atenția; saliența moare când toți copiază (Centraal Beheer).
-- [[INS-065-promisiunea-exagerata-vinde-o-data-si-dezamageste-dupa|INS-065]] — promisiunea exagerată duce la dezamăgire (modelul confirmării așteptărilor).
-- [[INS-013-pionierul-unei-categorii-castiga-pentru-ca-stabileste|INS-013]] — pionierul fixează agenda atributelor categoriei.
-- [[INS-014-asimilarea-si-contrastul-decid-daca-un-produs-nou-ridica|INS-014]] — asimilarea și contrastul decid soarta extensiilor (VW Phaeton).
-- [[INS-034-efectul-de-adevar-mai-intai-credem-abia-apoi-poate-corectam|INS-034]] — efectul de adevăr: întâi credem, apoi corectăm, dacă avem resurse.
-- [[INS-031-un-mesaj-incadrat-pe-masura-imaginii-de-sine-a-cititorului|INS-031]] — rama potrivită cu schema de sine crește atenția față de argumente.
-- [[INS-033-cere-i-clientului-zece-motive-si-il-convingi-mai-putin|INS-033]] — ușurința reamintirii: „zece motive" convinge mai puțin decât unul; auto-validarea.
-- [[INS-008-memoria-retine-ce-procesam-in-profunzime-nu-ce-vedem-des|INS-008]] — memoria reține ce e procesat în profunzime.
-- [[INS-082-recall-ul-si-recunoasterea-sunt-masuri-slabe-ale-eficientei|INS-082]] — recall-ul e o măsură slabă a eficienței.
-- [[INS-011-accesibilitatea-in-memorie-decide-ce-branduri-intra-in|INS-011]] — accesibilitatea decide setul de considerație, nu neapărat alegerea.
-- [[INS-012-priming-ul-un-concept-activat-incidental-coloreaza-judecati|INS-012]] — priming-ul: accesibilitate plus atribuire greșită.
-- [[INS-083-criza-replicarii-obliga-la-prudenta-dar-teoriile-se-judeca|INS-083]] — dezbaterea despre criza replicării.
-- [[INS-015-publicitatea-poate-rescrie-amintirea-experientei-cu|INS-015]] — publicitatea poate rescrie amintirea experienței ambigue.
-- [[INS-039-poti-convinge-crescand-atractia-ofertei-strategii-alfa-sau|INS-039]] — strategii alfa și omega (Knowles & Linn).
-- [[INS-041-mcdonald-s-si-zvonul-cu-viermi-dezmintirea-intareste|INS-041]] — cazul McDonald's și zvonul cu viermi.
-- [[INS-081-efectul-unei-reclame-se-dovedeste-prin-experiment-nu-prin|INS-081]] — cauzalitatea se dovedește experimental, nu prin sondaj „înainte-după" (critica Effie).
-- [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si|INS-075]] — dezbaterea despre publicitate și materialism la copii.
-- [[INS-025-atitudinile-implicite-prezic-alegerea-cand-omul-e-grabit|INS-025]] — atitudini implicite vs. explicite și când prezice fiecare alegerea.
-- [[INS-024-atitudinile-puternice-rezista-si-ghideaza-comportamentul|INS-024]] — puterea atitudinii și auto-percepția.
-- [[INS-026-atitudinile-formate-prin-experienta-directa-prezic|INS-026]] — experiența directă bate reclama, dacă se potrivește contextul.
-- [[INS-027-brandul-tara-de-origine-si-pretul-functioneaza-ca-euristici|INS-027]] — euristicile brand, țară, preț schimbă experiența (vinul de 45 $).
-- [[INS-022-atitudinile-se-pot-forma-fara-argumente-pe-trei-cai|INS-022]] — trei căi afective spre atitudine.
-- [[INS-023-asocierea-brandului-cu-o-vedeta-transfera-nu-doar-placere|INS-023]] — condiționarea evaluativă transferă afect și sens (Clooney, Gap).
-- [[INS-021-atitudinea-fata-de-brand-este-suma-catorva-convingeri|INS-021]] — modelul expectanță-valoare (Fishbein) ca instrument de mesaj.
-- [[INS-047-produsele-servesc-patru-scopuri-utilitar-de-autoexprimare|INS-047]] — patru scopuri ale produselor; potrivirea argumentelor cu funcția.
-- [[INS-058-a-ti-placea-un-produs-nu-inseamna-a-l-vrea-de-la-atitudine|INS-058]] — a-ți plăcea nu înseamnă a vrea.
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — ELM și HSM: rutele centrală și periferică.
-- [[INS-030-unimodelul-indiciile-si-argumentele-nu-sunt-doua-rute-ci|INS-030]] — dezbaterea unimodelului.
-- [[INS-036-vedeta-din-reclama-e-indiciu-periferic-la-implicare-mica-si|INS-036]] — congruența sursei: vedeta e argument doar când e relevantă.
-- [[INS-042-apelurile-la-frica-functioneaza-mai-bine-cu-cat-amenintarea|INS-042]] — dezbaterea despre apelurile la frică (Listerine).
-- [[INS-040-cand-publicul-vede-intentia-de-a-l-convinge-poate-face|INS-040]] — cunoașterea persuasiunii și reactanța.
-- [[INS-059-inainte-de-a-convinge-afla-daca-frana-e-atitudinea-norma|INS-059]] — teoria comportamentului planificat ca diagnostic al frânei.
-- [[INS-060-planul-daca-situatia-x-atunci-fac-y-transforma-intentia-in|INS-060]] — intențiile de implementare „dacă-atunci".
-- [[INS-061-in-contexte-stabile-si-repetate-obiceiul-bate-intentia-de|INS-061]] — obiceiul bate intenția în contexte stabile.
-- [[INS-062-mediul-de-cumparare-activeaza-scopuri-norme-si-mentalitati|INS-062]] — mediul activează scopuri, norme și mentalități.
-- [[INS-017-publicitatea-subliminala-functioneaza-daca-functioneaza|INS-017]] — dezbaterea despre publicitatea subliminală (Vicary, Lipton Ice).
-- [[INS-063-conformarea-fara-schimbarea-atitudinii-se-obtine-prin-sapte|INS-063]] — cele șapte principii de influență.
-- [[INS-064-la-cereri-mici-orice-pentru-ca-functioneaza-la-cereri-mari|INS-064]] — lipsa de atenție: orice „pentru că" la cereri mici.
-- [[INS-070-online-designul-profesional-construieste-increderea-celor|INS-070]] — încrederea online și focusul reglator.
-- [[INS-071-online-consumatorul-proceseaza-euristic-si-isi-muta-memoria|INS-071]] — euristicile online și efectul Google.
-- [[INS-072-continutul-se-distribuie-cand-produce-emotii-cu-activare|INS-072]] — viralitatea depinde de emoțiile cu activare mare.
-- [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza|ADV-005]] — ierarhiile de efecte, utile dar nevalidate.
-- [[ADV-039-grila-fcb-vaughn-ordoneaza-gandeste-simte-actioneaza-dupa|ADV-039]] — grilele FCB și Rossiter-Percy și critica lor.
-- [[ADV-077-raspunsul-vanzarilor-la-buget-urmeaza-o-curba-concava-sau|ADV-077]] — modelele de răspuns al vânzărilor (concav, în S).
-- [[ADV-061-clutter-ul-produce-interferenta-competitiva-iar-antidotul-e|ADV-061]] — clutter-ul și interferența; indicii de reamintire la raft.
-- [[ADV-059-repetitia-spatiata-bate-repetitia-masiva-iar-primul-spot|ADV-059]] — repetiția spațiată și poziția în calup.
-- [[ADV-044-placerea-fata-de-reclama-se-transfera-asupra-brandului-pe|ADV-044]] — ipoteza dublei medieri (Aad).
-- [[ADV-060-repetitia-creste-atitudinea-pana-la-un-varf-apoi-o-uzeaza|ADV-060]] — uzura și variația substanțială.
-- [[ADV-066-plasarea-de-produs-si-publicitatea-nativa-ocolesc|ADV-066]] — plasarea de produs și publicitatea nativă.
-- [[ADV-065-sponsorizarea-congruenta-e-tinuta-minte-mai-bine-dar-poate|ADV-065]] — sponsorizarea congruentă și ambuscada.
-- [[ADV-068-targetarea-online-ajuta-dar-reclama-potrivita-si-intruziva|ADV-068]] — targetarea online și paradoxul confidențialității.
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] — checklist al formulărilor care induc în eroare.
-- [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un|CPY-016]] — mesajul bilateral (Avis).
-- [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie|CPY-030]] — apel rațional vs. emoțional ca potrivire cu persoana.
-- [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria|CPY-031]] — umorul: atenție, distragere, transfer de afect.
-- [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea|CPY-033]] — sexul nu vinde.
-- [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea|CPY-017]] — tehnica „perturbă, apoi reîncadrează".
-- [[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la|ART-005]] — direcția privirii și plasarea în banner.
+- [[INS-002-processing-an-ad-goes-through-four-stages-from-preattentive|INS-002]]: processing an ad has four stages, and involvement decides how far it gets.
+- [[INS-006-incidental-exposure-to-ads-influences-preference-even|INS-006]]: incidental exposure influences choice without attention; placement matters.
+- [[INS-007-processing-fluency-feels-like-liking-and-is-misattributed|INS-007]]: processing fluency feels like pleasure and is attributed to the brand.
+- [[INS-005-salience-vividness-and-novelty-capture-attention|INS-005]]: salience, vividness and novelty attract attention; salience dies when everyone copies (Centraal Beheer).
+- [[INS-065-an-exaggerated-promise-sells-once-and-disappoints|INS-065]]: an exaggerated promise leads to disappointment (the expectancy disconfirmation model).
+- [[INS-013-a-category-pioneer-wins-because-it-sets-the-attributes-on|INS-013]]: the pioneer sets the agenda of the category's attributes.
+- [[INS-014-assimilation-and-contrast-decide-whether-a-new-product|INS-014]]: assimilation and contrast decide the fate of extensions (VW Phaeton).
+- [[INS-034-the-truth-effect-we-believe-first-and-only-then-maybe|INS-034]]: the truth effect: first we believe, then we correct, if we have the resources.
+- [[INS-031-a-message-framed-to-fit-the-reader-s-self-image-is|INS-031]]: a frame that matches the self-schema increases attention to the arguments.
+- [[INS-033-ask-customers-for-ten-reasons-and-you-persuade-them-less|INS-033]]: ease of retrieval: "ten reasons" persuades less than one; self-validation.
+- [[INS-008-memory-keeps-what-we-process-deeply-not-what-we-see-often|INS-008]]: memory retains what is processed in depth.
+- [[INS-082-recall-and-recognition-are-weak-measures-of-an-ad-s|INS-082]]: recall is a weak measure of effectiveness.
+- [[INS-011-accessibility-in-memory-decides-which-brands-enter-the|INS-011]]: accessibility decides the consideration set, not necessarily the choice.
+- [[INS-012-priming-an-incidentally-activated-concept-colors-later|INS-012]]: priming: accessibility plus misattribution.
+- [[INS-083-the-replication-crisis-calls-for-caution-but-theories-are|INS-083]]: the debate about the replication crisis.
+- [[INS-015-advertising-can-rewrite-the-memory-of-the-product|INS-015]]: advertising can rewrite the memory of an ambiguous experience.
+- [[INS-039-you-can-persuade-by-increasing-the-attractiveness-of-the|INS-039]]: alpha and omega strategies (Knowles & Linn).
+- [[INS-041-mcdonald-s-and-the-worm-rumor-denial-strengthens-the|INS-041]]: the McDonald's case and the worm rumor.
+- [[INS-081-the-effect-of-an-ad-is-proved-by-experiment-not-by-the|INS-081]]: causality is proven by experiment, not by a "before-after" survey (the critique of the Effies).
+- [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate|INS-075]]: the debate about advertising and materialism in children.
+- [[INS-025-implicit-attitudes-predict-choice-when-people-are-rushed-or|INS-025]]: implicit vs. explicit attitudes, and when each one predicts choice.
+- [[INS-024-strong-attitudes-resist-and-guide-behavior-weak-ones-are|INS-024]]: attitude strength and self-perception.
+- [[INS-026-attitudes-formed-through-direct-experience-predict-behavior|INS-026]]: direct experience beats advertising, if the context matches.
+- [[INS-027-brand-country-of-origin-and-price-work-as-heuristics-that|INS-027]]: the brand, country and price heuristics change the experience (the $45 wine).
+- [[INS-022-attitudes-can-form-without-arguments-through-three|INS-022]]: three affective routes to an attitude.
+- [[INS-023-associating-the-brand-with-a-celebrity-transfers-meaning-as|INS-023]]: evaluative conditioning transfers affect and meaning (Clooney, Gap).
+- [[INS-021-brand-attitude-is-the-sum-of-a-few-salient-beliefs|INS-021]]: the expectancy-value model (Fishbein) as a message tool.
+- [[INS-047-products-serve-four-goals-utilitarian-self-expression|INS-047]]: four goals of products; matching the arguments to the function.
+- [[INS-058-liking-a-product-is-not-wanting-it-from-attitude-to-goal|INS-058]]: liking is not wanting.
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: ELM and HSM: the central and peripheral routes.
+- [[INS-030-the-unimodel-cues-and-arguments-are-not-two-routes-but-two|INS-030]]: the unimodel debate.
+- [[INS-036-the-celebrity-in-an-ad-is-a-peripheral-cue-at-low|INS-036]]: source congruence: the celebrity is an argument only when relevant.
+- [[INS-042-fear-appeals-work-better-the-more-severe-the-threat-the|INS-042]]: the debate about fear appeals (Listerine).
+- [[INS-040-when-the-audience-sees-the-intent-to-persuade-it-may-do|INS-040]]: persuasion knowledge and reactance.
+- [[INS-059-before-persuading-find-out-whether-the-brake-is-the|INS-059]]: the theory of planned behavior as a diagnosis of the barrier.
+- [[INS-060-the-plan-if-situation-x-then-i-do-y-turns-intention-into|INS-060]]: "if-then" implementation intentions.
+- [[INS-061-in-stable-repeated-contexts-habit-beats-intention-which-is|INS-061]]: habit beats intention in stable contexts.
+- [[INS-062-the-shopping-environment-activates-goals-norms-and-mindsets|INS-062]]: the environment activates goals, norms and mindsets.
+- [[INS-017-subliminal-advertising-works-if-it-works-at-all-only-under|INS-017]]: the debate about subliminal advertising (Vicary, Lipton Ice).
+- [[INS-063-compliance-without-attitude-change-is-achieved-through|INS-063]]: the seven principles of influence.
+- [[INS-064-for-small-requests-any-because-works-for-large-requests|INS-064]]: mindlessness: any "because" works for small requests.
+- [[INS-070-online-professional-design-builds-the-trust-of-those-who|INS-070]]: online trust and regulatory focus.
+- [[INS-071-online-consumers-process-heuristically-and-move-their|INS-071]]: online heuristics and the Google effect.
+- [[INS-072-content-gets-shared-when-it-produces-high-arousal-emotions|INS-072]]: virality depends on high-arousal emotions.
+- [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar|ADV-005]]: the hierarchies of effects, useful but not validated.
+- [[ADV-039-the-fcb-grid-vaughn-orders-think-feel-do-by-involvement-and|ADV-039]]: the FCB and Rossiter-Percy grids and their critique.
+- [[ADV-077-the-response-of-sales-to-the-budget-follows-a-concave-or-an|ADV-077]]: the sales-response models (concave, S-shaped).
+- [[ADV-061-clutter-produces-competitive-interference-and-the-antidote|ADV-061]]: clutter and interference; retrieval cues at the shelf.
+- [[ADV-059-spaced-repetition-beats-massed-repetition-and-the-first|ADV-059]]: spaced repetition and position in the commercial break.
+- [[ADV-044-liking-for-the-ad-transfers-to-the-brand-along-two-paths|ADV-044]]: the dual mediation hypothesis (Aad).
+- [[ADV-060-repetition-improves-attitude-up-to-a-peak-then-wears-it-out|ADV-060]]: wear-out and substantive variation.
+- [[ADV-066-product-placement-and-native-advertising-bypass-resistance|ADV-066]]: product placement and native advertising.
+- [[ADV-065-congruent-sponsorship-is-remembered-better-but-it-can-be|ADV-065]]: congruent sponsorship and ambush marketing.
+- [[ADV-068-online-targeting-helps-but-an-ad-that-is-both-matched-and|ADV-068]]: online targeting and the privacy paradox.
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]]: a checklist of misleading wordings.
+- [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor|CPY-016]]: the two-sided message (Avis).
+- [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy|CPY-030]]: rational vs. emotional appeal as a match with the person.
+- [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory|CPY-031]]: humor: attention, distraction, affect transfer.
+- [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the|CPY-033]]: sex does not sell.
+- [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is|CPY-017]]: the disrupt-then-reframe technique.
+- [[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to|ART-005]]: gaze direction and placement in a banner.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Fără studii de caz, intenționat.** Autorii consideră cazurile „one-shot" înșelătoare și critică premiile de eficiență de tip Effie. E o poziție utilă metodologic, dar practicienii ar obiecta că metode precum econometria și bazele de date de eficiență (de ex., IPA) nu sunt simple sondaje înainte-după. Creativii vor găsi puține exemple de campanii reale.
-- **Validitate externă limitată.** Majoritatea studiilor folosesc studenți, branduri fictive, produse ieftine și expuneri de laborator; autorii o recunosc repetat (umor, plasare de produs, condiționare).
-- **Rezultate fragile.** Priming-ul comportamental, epuizarea eului, unele efecte de lateralizare emisferică (activarea complementară) și efectul logoului Apple asupra creativității sunt contestate; autorii discută criza replicării, dar poziția lor (Stroebe e parte în dezbatere) e mai optimistă decât a altor critici.
-- **Date parțial datate.** Secțiunea despre IMC și promoții se sprijină pe surse din 2001-2006; capitolul online (2020) nu acoperă TikTok, AI generativ sau era post-cookie.
-- **Tensiune cu alte școli.** Critica notorietății ca precondiție (cap. 1, 3) contrastează cu abordările centrate pe disponibilitatea mentală și pe distinctivitate (de ex., Ehrenberg-Bass); merită pusă în dialog cu notele altor grupuri.
-- **Accent cognitiv.** Emoția apare mai ales ca afect, dispoziție sau frică; lipsesc teoriile narative și semiotice ale publicității.
+- **No case studies, on purpose.** The authors consider "one-shot" cases misleading and criticize Effie-type effectiveness awards. The position is useful methodologically, but practitioners would object that methods such as econometrics and effectiveness databases (e.g. the IPA's) are not simple before-after surveys. Creatives will find few examples of real campaigns.
+- **Limited external validity.** Most studies use students, fictitious brands, cheap products and lab exposures; the authors acknowledge this repeatedly (humor, product placement, conditioning).
+- **Fragile results.** Behavioral priming, ego depletion, some effects of hemispheric lateralization (matching activation) and the effect of the Apple logo on creativity are disputed; the authors discuss the replication crisis, but their position (Stroebe is a party to the debate) is more optimistic than that of other critics.
+- **Partly dated data.** The section on IMC and promotions relies on sources from 2001-2006; the online chapter (2020) does not cover TikTok, generative AI or the post-cookie era.
+- **Tension with other schools.** The critique of awareness as a precondition (ch. 1, 3) contrasts with approaches centered on mental availability and distinctiveness (e.g. Ehrenberg-Bass); it is worth putting it in dialogue with the notes of other groups.
+- **Cognitive emphasis.** Emotion appears mostly as affect, mood or fear; narrative and semiotic theories of advertising are missing.
 
-## Citat
+## Quote
 
-> „the total absence of case studies" (Prefață, p. x) — autorii despre principala abatere a cărții de la manualele de publicitate.
+> "the total absence of case studies" (Preface, p. x): the authors on the book's main departure from advertising textbooks.
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-005-ierarhiile-de-efecte-aida-lavidge-steiner-dagmar-ordoneaza|ADV-005]] — Ierarhiile de efecte (AIDA, Lavidge-Steiner, DAGMAR) ordonează obiectivele „gândește–simte–acționează", dar ordinea lor fixă nu are suport empiric
-- [[ADV-039-grila-fcb-vaughn-ordoneaza-gandeste-simte-actioneaza-dupa|ADV-039]] — Grila FCB (Vaughn) ordonează „gândește–simte–acționează" după implicare și tipul de decizie, dar leagă implicarea de categoria de produs
-- [[ADV-044-placerea-fata-de-reclama-se-transfera-asupra-brandului-pe|ADV-044]] — Plăcerea față de reclamă se transferă asupra brandului pe două căi (ipoteza dublei medieri)
-- [[ADV-059-repetitia-spatiata-bate-repetitia-masiva-iar-primul-spot|ADV-059]] — Repetiția spațiată bate repetiția masivă, iar primul spot din calup e cel mai bine reținut
-- [[ADV-060-repetitia-creste-atitudinea-pana-la-un-varf-apoi-o-uzeaza|ADV-060]] — Repetiția crește atitudinea până la un vârf, apoi o uzează — iar variația substanțială amână uzura mai bine decât cea cosmetică
-- [[ADV-061-clutter-ul-produce-interferenta-competitiva-iar-antidotul-e|ADV-061]] — Clutter-ul produce interferență competitivă, iar antidotul e un indiciu de reamintire distinctiv la punctul de cumpărare
-- [[ADV-063-ambalajul-este-un-mediu-de-comunicare-la-raft-declanseaza|ADV-063]] — Ambalajul este un mediu de comunicare — la raft declanșează notorietatea prin recunoaștere și trebuie să poarte beneficiul din publicitate
-- [[ADV-065-sponsorizarea-congruenta-e-tinuta-minte-mai-bine-dar-poate|ADV-065]] — Sponsorizarea congruentă e ținută minte mai bine, dar poate fi atribuită greșit liderului categoriei, iar efectul asupra vânzărilor rămâne slab dovedit
-- [[ADV-066-plasarea-de-produs-si-publicitatea-nativa-ocolesc|ADV-066]] — Plasarea de produs și publicitatea nativă ocolesc rezistența, dar efectul lor e disputat și se întoarce împotriva brandului când sunt prea vizibile sau asociate cu ceva negativ
-- [[ADV-068-targetarea-online-ajuta-dar-reclama-potrivita-si-intruziva|ADV-068]] — Targetarea online ajută, dar reclama potrivită și intruzivă în același timp scade intenția de cumpărare
-- [[ADV-077-raspunsul-vanzarilor-la-buget-urmeaza-o-curba-concava-sau|ADV-077]] — Răspunsul vânzărilor la buget urmează o curbă concavă sau în S, cu prag de intrare și punct de uzură
-- [[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la|ART-005]] — Privirea modelului îndreptată spre produs duce atenția la produs; privirea spre cititor o oprește pe chip
-- [[BRD-009-pozitionarea-centrala-e-rezervata-liderului-care-defineste|BRD-009]] — Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze
-- [[BRD-011-beneficiul-de-pozitionare-se-alege-cu-modelul-expectanta|BRD-011]] — Beneficiul de poziționare se alege cu modelul expectanță-valoare, care arată ce beneficii contează, cine le livrează și unde poți muta importanța
-- [[BRD-016-momentul-intrarii-pe-piata-pionier-urmaritor-rapid-sau|BRD-016]] — Momentul intrării pe piață: pionier, urmăritor rapid sau intrat târziu
-- [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile|BRD-026]] — Personalitatea de brand are cinci dimensiuni măsurabile (Aaker) și contează prin potrivirea cu imaginea de sine a clientului
-- [[BRD-056-cazul-mexic-a-contrazice-o-poveste-negativa-te-aduce-doar|BRD-056]] — Cazul Mexic: a contrazice o poveste negativă te aduce doar la neutru
-- [[CPY-005-un-singur-motiv-bun-bate-o-lista-de-37-maximum-trei|CPY-005]] — Un singur motiv bun bate o listă de 37 — maximum trei argumente de suport, pentru că cel mai slab devine ținta contraargumentelor
-- [[CPY-016-mesajul-bilateral-castiga-credibilitate-daca-recunoaste-un|CPY-016]] — Mesajul bilateral câștigă credibilitate dacă recunoaște un defect minor, plauzibil și legat de beneficiul principal
-- [[CPY-017-perturba-apoi-reincadreaza-o-ciudatenie-mica-in-formularea|CPY-017]] — „Perturbă, apoi reîncadrează" — o ciudățenie mică în formularea prețului, urmată de o concluzie persuasivă, crește vânzarea
-- [[CPY-030-apelul-rational-sau-emotional-nu-e-o-filozofie-de-agentie|CPY-030]] — Apelul rațional sau emoțional nu e o filozofie de agenție, ci o potrivire cu produsul și cu persoana
-- [[CPY-031-umorul-atrage-atentia-si-simpatia-dar-fura-memoria|CPY-031]] — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
-- [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa|CPY-032]] — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
-- [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea|CPY-033]] — Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei
-- [[CPY-034-teama-sociala-vinde-dar-exista-si-calea-pozitiva|CPY-034]] — Teama socială vinde — dar există și calea pozitivă
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
-- [[CPY-038-consecventa-bate-noutatea-nu-schimba-o-reclama-care-inca|CPY-038]] — Consecvența bate noutatea — nu schimba o reclamă care încă funcționează
-- [[HIS-026-publicitatea-subliminala-este-un-mit-care-rezista-dovezilor|HIS-026]] — Publicitatea subliminală este un mit care rezistă dovezilor
-- [[INS-002-procesarea-unei-reclame-trece-prin-patru-etape-de-la|INS-002]] — Procesarea unei reclame trece prin patru etape, de la scanarea preatentivă la raționamentul elaborativ
-- [[INS-005-salienta-vividness-ul-si-noutatea-capteaza-atentia|INS-005]] — Saliența, vividness-ul și noutatea captează atenția involuntar, dar saliența dispare când toți copiază
-- [[INS-006-expunerea-incidentala-la-reclame-influenteaza-preferinta|INS-006]] — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
-- [[INS-007-fluenta-procesarii-se-simte-ca-placere-si-e-atribuita|INS-007]] — Fluența procesării se simte ca plăcere și e atribuită greșit brandului
-- [[INS-008-memoria-retine-ce-procesam-in-profunzime-nu-ce-vedem-des|INS-008]] — Memoria reține ce procesăm în profunzime, nu ce vedem des
-- [[INS-011-accesibilitatea-in-memorie-decide-ce-branduri-intra-in|INS-011]] — Accesibilitatea în memorie decide ce branduri intră în setul de considerație, nu neapărat ce se cumpără
-- [[INS-012-priming-ul-un-concept-activat-incidental-coloreaza-judecati|INS-012]] — Priming-ul — un concept activat incidental colorează judecăți ulterioare, dacă nu îi recunoaștem sursa
-- [[INS-013-pionierul-unei-categorii-castiga-pentru-ca-stabileste|INS-013]] — Pionierul unei categorii câștigă pentru că stabilește atributele după care sunt judecați toți ceilalți
-- [[INS-014-asimilarea-si-contrastul-decid-daca-un-produs-nou-ridica|INS-014]] — Asimilarea și contrastul decid dacă un produs nou ridică sau coboară brandul-mamă
-- [[INS-015-publicitatea-poate-rescrie-amintirea-experientei-cu|INS-015]] — Publicitatea poate rescrie amintirea experienței cu produsul, mai ales când experiența e ambiguă
-- [[INS-017-publicitatea-subliminala-functioneaza-daca-functioneaza|INS-017]] — Publicitatea subliminală funcționează, dacă funcționează, doar în condiții foarte înguste
-- [[INS-021-atitudinea-fata-de-brand-este-suma-catorva-convingeri|INS-021]] — Atitudinea față de brand este suma câtorva convingeri salente înmulțite cu valoarea lor (modelul expectanță-valoare)
-- [[INS-022-atitudinile-se-pot-forma-fara-argumente-pe-trei-cai|INS-022]] — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
-- [[INS-023-asocierea-brandului-cu-o-vedeta-transfera-nu-doar-placere|INS-023]] — Asocierea brandului cu o vedetă transferă nu doar plăcere, ci și sens — inclusiv sensuri nedorite
-- [[INS-024-atitudinile-puternice-rezista-si-ghideaza-comportamentul|INS-024]] — Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
-- [[INS-025-atitudinile-implicite-prezic-alegerea-cand-omul-e-grabit|INS-025]] — Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
-- [[INS-026-atitudinile-formate-prin-experienta-directa-prezic|INS-026]] — Atitudinile formate prin experiență directă prezic comportamentul mai bine decât cele formate din reclame
-- [[INS-027-brandul-tara-de-origine-si-pretul-functioneaza-ca-euristici|INS-027]] — Brandul, țara de origine și prețul funcționează ca euristici care schimbă chiar experiența de consum
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
-- [[INS-030-unimodelul-indiciile-si-argumentele-nu-sunt-doua-rute-ci|INS-030]] — Unimodelul — indiciile și argumentele nu sunt două rute, ci două tipuri de dovezi judecate după aceeași regulă
-- [[INS-031-un-mesaj-incadrat-pe-masura-imaginii-de-sine-a-cititorului|INS-031]] — Un mesaj încadrat pe măsura imaginii de sine a cititorului e procesat mai atent
-- [[INS-033-cere-i-clientului-zece-motive-si-il-convingi-mai-putin|INS-033]] — Cere-i clientului zece motive și îl convingi mai puțin decât cu unul (ușurința reamintirii)
-- [[INS-034-efectul-de-adevar-mai-intai-credem-abia-apoi-poate-corectam|INS-034]] — Efectul de adevăr — mai întâi credem, abia apoi (poate) corectăm
-- [[INS-036-vedeta-din-reclama-e-indiciu-periferic-la-implicare-mica-si|INS-036]] — Vedeta din reclamă e indiciu periferic la implicare mică și devine argument doar când e relevantă pentru produs
-- [[INS-039-poti-convinge-crescand-atractia-ofertei-strategii-alfa-sau|INS-039]] — Poți convinge crescând atracția ofertei (strategii alfa) sau reducând rezistența la ea (strategii omega)
-- [[INS-040-cand-publicul-vede-intentia-de-a-l-convinge-poate-face|INS-040]] — Când publicul vede intenția de a-l convinge, poate face exact opusul (cunoașterea persuasiunii și reactanța)
-- [[INS-041-mcdonald-s-si-zvonul-cu-viermi-dezmintirea-intareste|INS-041]] — McDonald's și zvonul cu viermi — dezmințirea întărește asocierea, iar soluția e diluarea ei cu alte asocieri
-- [[INS-042-apelurile-la-frica-functioneaza-mai-bine-cu-cat-amenintarea|INS-042]] — Apelurile la frică funcționează mai bine cu cât amenințarea e mai gravă — ideea că frica mare „blochează" mesajul nu s-a confirmat
-- [[INS-047-produsele-servesc-patru-scopuri-utilitar-de-autoexprimare|INS-047]] — Produsele servesc patru scopuri — utilitar, de autoexprimare, de construire a identității și hedonic — iar mesajul trebuie să lovească scopul potrivit
-- [[INS-058-a-ti-placea-un-produs-nu-inseamna-a-l-vrea-de-la-atitudine|INS-058]] — A-ți plăcea un produs nu înseamnă a-l vrea — de la atitudine la scop e nevoie de atingibilitate, discrepanță și un declanșator
-- [[INS-059-inainte-de-a-convinge-afla-daca-frana-e-atitudinea-norma|INS-059]] — Înainte de a convinge, află dacă frâna e atitudinea, norma socială sau controlul perceput (teoria comportamentului planificat)
-- [[INS-060-planul-daca-situatia-x-atunci-fac-y-transforma-intentia-in|INS-060]] — Planul „dacă situația X, atunci fac Y" transformă intenția în acțiune (intențiile de implementare)
-- [[INS-061-in-contexte-stabile-si-repetate-obiceiul-bate-intentia-de|INS-061]] — În contexte stabile și repetate, obiceiul bate intenția — de aceea consumatorii habituali aproape că nu pot fi „furați"
-- [[INS-062-mediul-de-cumparare-activeaza-scopuri-norme-si-mentalitati|INS-062]] — Mediul de cumpărare activează scopuri, norme și „mentalități" care ghidează alegerea fără ca omul să-și dea seama
-- [[INS-063-conformarea-fara-schimbarea-atitudinii-se-obtine-prin-sapte|INS-063]] — Conformarea fără schimbarea atitudinii se obține prin șapte principii de influență (Cialdini plus confuzia)
-- [[INS-064-la-cereri-mici-orice-pentru-ca-functioneaza-la-cereri-mari|INS-064]] — La cereri mici, orice „pentru că" funcționează; la cereri mari, doar motivele reale (lipsa de atenție în conformare)
-- [[INS-065-promisiunea-exagerata-vinde-o-data-si-dezamageste-dupa|INS-065]] — Promisiunea exagerată vinde o dată și dezamăgește după (modelul confirmării așteptărilor)
-- [[INS-070-online-designul-profesional-construieste-increderea-celor|INS-070]] — Online, designul profesional construiește încrederea celor care caută câștiguri, iar semnalele de siguranță doar a celor care evită pierderi
-- [[INS-071-online-consumatorul-proceseaza-euristic-si-isi-muta-memoria|INS-071]] — Online, consumatorul procesează euristic și își mută memoria pe Google — lupta se mută din setul de considerație la locul căutării
-- [[INS-072-continutul-se-distribuie-cand-produce-emotii-cu-activare|INS-072]] — Conținutul se distribuie când produce emoții cu activare mare — uimire, furie, anxietate —, nu doar emoții pozitive
-- [[INS-074-consumatorii-declara-valori-etice-dar-cumpara-din|INS-074]] — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
-- [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si|INS-075]] — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
-- [[INS-081-efectul-unei-reclame-se-dovedeste-prin-experiment-nu-prin|INS-081]] — Efectul unei reclame se dovedește prin experiment, nu prin sondajul „înainte și după"
-- [[INS-082-recall-ul-si-recunoasterea-sunt-masuri-slabe-ale-eficientei|INS-082]] — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
-- [[INS-083-criza-replicarii-obliga-la-prudenta-dar-teoriile-se-judeca|INS-083]] — Criza replicării obligă la prudență, dar teoriile se judecă pe programe de cercetare, nu pe studii izolate
-- [[PIT-003-intentia-unei-prezentari-raspunde-la-patru-intrebari-know|PIT-003]] — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
-- [[PIT-025-q-a-se-pregateste-in-cinci-pasi-iar-raspunsul-se-da-cu|PIT-025]] — Q&A se pregătește în cinci pași, iar răspunsul se dă cu formula P + + – P
+- [[ADV-005-hierarchy-of-effects-models-aida-lavidge-steiner-dagmar|ADV-005]]: Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support
+- [[ADV-039-the-fcb-grid-vaughn-orders-think-feel-do-by-involvement-and|ADV-039]]: The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category
+- [[ADV-044-liking-for-the-ad-transfers-to-the-brand-along-two-paths|ADV-044]]: Liking for the ad transfers to the brand along two paths (the dual mediation hypothesis)
+- [[ADV-059-spaced-repetition-beats-massed-repetition-and-the-first|ADV-059]]: Spaced repetition beats massed repetition, and the first commercial in a block is remembered best
+- [[ADV-060-repetition-improves-attitude-up-to-a-peak-then-wears-it-out|ADV-060]]: Repetition improves attitude up to a peak, then wears it out: substantive variation delays wearout better than cosmetic variation
+- [[ADV-061-clutter-produces-competitive-interference-and-the-antidote|ADV-061]]: Clutter produces competitive interference, and the antidote is a distinctive retrieval cue at the point of purchase
+- [[ADV-063-packaging-is-a-communication-medium-at-the-shelf-it|ADV-063]]: Packaging is a communication medium: at the shelf it triggers recognition awareness and must carry the benefit from the advertising
+- [[ADV-065-congruent-sponsorship-is-remembered-better-but-it-can-be|ADV-065]]: Congruent sponsorship is remembered better, but it can be misattributed to the category leader, and its effect on sales remains poorly proven
+- [[ADV-066-product-placement-and-native-advertising-bypass-resistance|ADV-066]]: Product placement and native advertising bypass resistance, but their effect is disputed, and they backfire on the brand when they are too visible or linked to something negative
+- [[ADV-068-online-targeting-helps-but-an-ad-that-is-both-matched-and|ADV-068]]: Online targeting helps, but an ad that is both matched and obtrusive lowers purchase intention
+- [[ADV-077-the-response-of-sales-to-the-budget-follows-a-concave-or-an|ADV-077]]: The response of sales to the budget follows a concave or an S-shaped curve, with a wear-in threshold and a wear-out point
+- [[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to|ART-005]]: A model's gaze directed at the product takes attention to the product; a gaze at the reader stops it on the face
+- [[BRD-009-central-positioning-is-reserved-for-the-leader-that-defines|BRD-009]]: Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate
+- [[BRD-011-the-positioning-benefit-is-chosen-with-the-expectancy-value|BRD-011]]: The positioning benefit is chosen with the expectancy-value model, which shows which benefits matter, who delivers them and where you can shift importance
+- [[BRD-016-timing-of-entry-pioneer-fast-follower-or-late-mover|BRD-016]]: Timing of entry: pioneer, fast follower or late mover
+- [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and|BRD-026]]: Brand personality has five measurable dimensions (Aaker) and matters through its fit with the customer's self-image
+- [[BRD-056-the-mexico-case-countering-a-negative-story-only-brings-you|BRD-056]]: The Mexico case: countering a negative story only brings you back to neutral ground
+- [[CPY-005-one-good-reason-beats-a-list-of-37-at-most-three-support|CPY-005]]: One good reason beats a list of 37: at most three support points, because the weakest becomes the target of counterarguments
+- [[CPY-016-a-two-sided-message-gains-credibility-if-it-admits-a-minor|CPY-016]]: A two-sided message gains credibility if it admits a minor, plausible flaw linked to the main benefit
+- [[CPY-017-disrupt-then-reframe-a-small-oddity-in-how-the-price-is|CPY-017]]: Disrupt, then reframe: a small oddity in how the price is stated, followed by a persuasive conclusion, increases sales
+- [[CPY-030-a-rational-or-emotional-appeal-is-not-an-agency-philosophy|CPY-030]]: A rational or emotional appeal is not an agency philosophy but a match with the product and the person
+- [[CPY-031-humor-attracts-attention-and-liking-but-steals-brand-memory|CPY-031]]: Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought
+- [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the|CPY-032]]: Humor in advertising: from forbidden "cleverness" to the reward that buys attention
+- [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the|CPY-033]]: Sex catches the eye but does not sell: it even lowers the attitude toward the brand, among men and women alike
+- [[CPY-034-social-fear-sells-but-there-is-also-a-positive-route|CPY-034]]: Social fear sells, but there is also a positive route
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]]: Literally true slogans can mislead through the inferences they leave to the audience
+- [[CPY-038-consistency-beats-novelty-do-not-change-an-ad-that-still|CPY-038]]: Consistency beats novelty: do not change an ad that still works
+- [[HIS-026-subliminal-advertising-is-a-myth-that-survives-the-evidence|HIS-026]]: Subliminal advertising is a myth that survives the evidence
+- [[INS-002-processing-an-ad-goes-through-four-stages-from-preattentive|INS-002]]: Processing an ad goes through four stages, from preattentive analysis to elaborative reasoning
+- [[INS-005-salience-vividness-and-novelty-capture-attention|INS-005]]: Salience, vividness and novelty capture attention involuntarily, but salience disappears when everyone copies
+- [[INS-006-incidental-exposure-to-ads-influences-preference-even|INS-006]]: Incidental exposure to ads influences preference even without conscious attention
+- [[INS-007-processing-fluency-feels-like-liking-and-is-misattributed|INS-007]]: Processing fluency feels like liking and is misattributed to the brand
+- [[INS-008-memory-keeps-what-we-process-deeply-not-what-we-see-often|INS-008]]: Memory keeps what we process deeply, not what we see often
+- [[INS-011-accessibility-in-memory-decides-which-brands-enter-the|INS-011]]: Accessibility in memory decides which brands enter the consideration set, not necessarily what is bought
+- [[INS-012-priming-an-incidentally-activated-concept-colors-later|INS-012]]: Priming: an incidentally activated concept colors later judgments, if we do not recognize its source
+- [[INS-013-a-category-pioneer-wins-because-it-sets-the-attributes-on|INS-013]]: A category pioneer wins because it sets the attributes on which all the others are judged
+- [[INS-014-assimilation-and-contrast-decide-whether-a-new-product|INS-014]]: Assimilation and contrast decide whether a new product lifts or lowers the parent brand
+- [[INS-015-advertising-can-rewrite-the-memory-of-the-product|INS-015]]: Advertising can rewrite the memory of the product experience, especially when the experience is ambiguous
+- [[INS-017-subliminal-advertising-works-if-it-works-at-all-only-under|INS-017]]: Subliminal advertising works, if it works at all, only under very narrow conditions
+- [[INS-021-brand-attitude-is-the-sum-of-a-few-salient-beliefs|INS-021]]: Brand attitude is the sum of a few salient beliefs multiplied by their value (the expectancy-value model)
+- [[INS-022-attitudes-can-form-without-arguments-through-three|INS-022]]: Attitudes can form without arguments, through three affective routes: mere exposure, conditioning and affect as information
+- [[INS-023-associating-the-brand-with-a-celebrity-transfers-meaning-as|INS-023]]: Associating the brand with a celebrity transfers meaning as well as liking, including unwanted meanings
+- [[INS-024-strong-attitudes-resist-and-guide-behavior-weak-ones-are|INS-024]]: Strong attitudes resist and guide behavior; weak ones are built from context and from one's own behavior
+- [[INS-025-implicit-attitudes-predict-choice-when-people-are-rushed-or|INS-025]]: Implicit attitudes predict choice when people are rushed or tired, explicit ones when they have time to control themselves
+- [[INS-026-attitudes-formed-through-direct-experience-predict-behavior|INS-026]]: Attitudes formed through direct experience predict behavior better than those formed from ads
+- [[INS-027-brand-country-of-origin-and-price-work-as-heuristics-that|INS-027]]: Brand, country of origin and price work as heuristics that change the consumption experience itself
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- [[INS-030-the-unimodel-cues-and-arguments-are-not-two-routes-but-two|INS-030]]: The unimodel: cues and arguments are not two routes but two kinds of evidence judged by the same rule
+- [[INS-031-a-message-framed-to-fit-the-reader-s-self-image-is|INS-031]]: A message framed to fit the reader's self-image is processed more carefully
+- [[INS-033-ask-customers-for-ten-reasons-and-you-persuade-them-less|INS-033]]: Ask customers for ten reasons and you persuade them less than with one (ease of retrieval)
+- [[INS-034-the-truth-effect-we-believe-first-and-only-then-maybe|INS-034]]: The truth effect: we believe first, and only then (maybe) correct
+- [[INS-036-the-celebrity-in-an-ad-is-a-peripheral-cue-at-low|INS-036]]: The celebrity in an ad is a peripheral cue at low involvement and becomes an argument only when relevant to the product
+- [[INS-039-you-can-persuade-by-increasing-the-attractiveness-of-the|INS-039]]: You can persuade by increasing the attractiveness of the offer (alpha strategies) or by reducing resistance to it (omega strategies)
+- [[INS-040-when-the-audience-sees-the-intent-to-persuade-it-may-do|INS-040]]: When the audience sees the intent to persuade, it may do exactly the opposite (persuasion knowledge and reactance)
+- [[INS-041-mcdonald-s-and-the-worm-rumor-denial-strengthens-the|INS-041]]: McDonald's and the worm rumor: denial strengthens the association, and the solution is to dilute it with other associations
+- [[INS-042-fear-appeals-work-better-the-more-severe-the-threat-the|INS-042]]: Fear appeals work better the more severe the threat: the idea that strong fear blocks the message has not been confirmed
+- [[INS-047-products-serve-four-goals-utilitarian-self-expression|INS-047]]: Products serve four goals (utilitarian, self-expression, identity-building and hedonic), and the message has to hit the right one
+- [[INS-058-liking-a-product-is-not-wanting-it-from-attitude-to-goal|INS-058]]: Liking a product is not wanting it: from attitude to goal you need attainability, discrepancy and a cue to action
+- [[INS-059-before-persuading-find-out-whether-the-brake-is-the|INS-059]]: Before persuading, find out whether the brake is the attitude, the subjective norm or perceived control (theory of planned behavior)
+- [[INS-060-the-plan-if-situation-x-then-i-do-y-turns-intention-into|INS-060]]: The plan "if situation X, then I do Y" turns intention into action (implementation intentions)
+- [[INS-061-in-stable-repeated-contexts-habit-beats-intention-which-is|INS-061]]: In stable, repeated contexts habit beats intention, which is why habitual consumers can hardly be "stolen"
+- [[INS-062-the-shopping-environment-activates-goals-norms-and-mindsets|INS-062]]: The shopping environment activates goals, norms and "mindsets" that guide choice without people realizing it
+- [[INS-063-compliance-without-attitude-change-is-achieved-through|INS-063]]: Compliance without attitude change is achieved through seven principles of influence (Cialdini plus confusion)
+- [[INS-064-for-small-requests-any-because-works-for-large-requests|INS-064]]: For small requests any "because" works; for large requests only real reasons do (mindlessness in compliance)
+- [[INS-065-an-exaggerated-promise-sells-once-and-disappoints|INS-065]]: An exaggerated promise sells once and disappoints afterwards (the expectancy disconfirmation model)
+- [[INS-070-online-professional-design-builds-the-trust-of-those-who|INS-070]]: Online, professional design builds the trust of those who seek gains, while safety cues build only the trust of those who avoid losses
+- [[INS-071-online-consumers-process-heuristically-and-move-their|INS-071]]: Online, consumers process heuristically and move their memory to Google: the battle shifts from the consideration set to the place of search
+- [[INS-072-content-gets-shared-when-it-produces-high-arousal-emotions|INS-072]]: Content gets shared when it produces high-arousal emotions (awe, anger, anxiety), not only positive ones
+- [[INS-074-consumers-declare-ethical-values-but-buy-out-of-habit|INS-074]]: Consumers declare ethical values but buy out of habit, convenience and social pressure (the attitude-behavior gap)
+- [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate|INS-075]]: Advertising does not create needs, but it can cultivate desires and materialism, especially in children
+- [[INS-081-the-effect-of-an-ad-is-proved-by-experiment-not-by-the|INS-081]]: The effect of an ad is proved by experiment, not by the "before and after" survey
+- [[INS-082-recall-and-recognition-are-weak-measures-of-an-ad-s|INS-082]]: Recall and recognition are weak measures of an ad's effectiveness
+- [[INS-083-the-replication-crisis-calls-for-caution-but-theories-are|INS-083]]: The replication crisis calls for caution, but theories are judged on research programs, not on isolated studies
+- [[PIT-003-a-presentation-s-intention-answers-four-questions-know-feel|PIT-003]]: A presentation's intention answers four questions: Know, Feel, Do and Why now
+- [[PIT-025-you-prepare-for-q-a-in-five-steps-and-answer-with-the-p-p|PIT-025]]: You prepare for Q&A in five steps and answer with the P + + – P formula
 <!-- backlinks:end -->

@@ -14,74 +14,74 @@ level: 3
 
 # Contemporary Issues in Marketing and Consumer Behaviour (2nd edition)
 
-**Elizabeth Parsons, Pauline Maclaran & Andreas Chatzidakis, 2018** (copyright 2017). Routledge, Abingdon / New York, ediția a 2-a (ed. 1: Elsevier, 2009). Parsons este profesor de marketing la Universitatea din Liverpool; Maclaran și Chatzidakis predau la Royal Holloway, University of London. Nu e un volum colectiv cu editori, ci o carte scrisă de trei autori, din tradiția *critical marketing* și *Consumer Culture Theory*. 10 capitole, ~180 de pagini, fiecare cu studiu de caz, exerciții de seminar și lecturi-cheie.
+**Elizabeth Parsons, Pauline Maclaran & Andreas Chatzidakis, 2018** (copyright 2017). Routledge, Abingdon / New York, 2nd edition (1st edition: Elsevier, 2009). Parsons is a professor of marketing at the University of Liverpool; Maclaran and Chatzidakis teach at Royal Holloway, University of London. It is not an edited collection but a book written by three authors, from the tradition of *critical marketing* and *Consumer Culture Theory*. 10 chapters, about 180 pages, each with a case study, seminar exercises and key readings.
 
-> Notă despre pagini: notele folosesc **paginația tipărită** (cap. 1 începe la p. 1). În fișierul text, `=== [page N] ===` = pagina tipărită + 7 (ex. p. 60 = `[page 67]`).
+> Note on pages: the notes use the **printed page numbers** (ch. 1 starts on p. 1). In the text file, `=== [page N] ===` = printed page + 7 (e.g. p. 60 = `[page 67]`).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual de „probleme contemporane" care privește marketingul și consumul ca fenomene culturale, etice și politice: postmodernism, culturi de brand și comunități, gen și feminism, psihanaliză, etica marketingului, consumul etic și „peisajul moralizat" al brandurilor, politizarea consumului (boicot, decreștere, fetișismul mărfii), spațiu și loc, globalizare (grobalizare vs. glocalizare).
-- **Teza centrală:** marketingul nu e doar un set de tehnici de schimb, ci o forță care structurează identități, relații de gen, spații și chiar politica; ca să-l înțelegi, trebuie să privești critic atât puterea companiilor, cât și creativitatea (și limitele) consumatorului.
-- **Pentru cine și când:** seminarii avansate de psihologia consumatorului și insight, strategie de brand, etica publicității; masterat. Util ca antidot critic la manualele „de rețete".
-- **Relevanță pentru ADC:** ★★★☆☆ (3) — idei valoroase pentru strategi și creativi (mituri culturale de brand, comunități, femvertising, greenwashing, ritualuri de retail, tehnici proiective), cazuri bune (Mini, Always #LikeAGirl, Dans le Noir?, Powerscourt). Limite: abordare interpretativă și critică, fără date cuantitative sau instrumente de lucru pas cu pas; multe exemple britanice; unele capitole (politică, decreștere) sunt departe de practica de agenție.
+- **What it is about:** a textbook of "contemporary issues" that looks at marketing and consumption as cultural, ethical and political phenomena: postmodernism, brand cultures and communities, gender and feminism, psychoanalysis, marketing ethics, ethical consumption and the "moralised brandscape", the politicization of consumption (boycott, degrowth, commodity fetishism), space and place, globalization (grobalisation vs. glocalisation).
+- **Central thesis:** marketing is not only a set of exchange techniques but a force that structures identities, gender relations, spaces and even politics; to understand it, you have to look critically at both the power of companies and the creativity (and the limits) of the consumer.
+- **For whom and when:** advanced seminars in consumer psychology and insight, brand strategy, advertising ethics; master's level. Useful as a critical antidote to "recipe" textbooks.
+- **Relevance for ADC:** ★★★☆☆ (3): valuable ideas for strategists and creatives (cultural brand myths, communities, femvertising, greenwashing, retail rituals, projective techniques), good cases (Mini, Always #LikeAGirl, Dans le Noir?, Powerscourt). Limits: an interpretive and critical approach, with no quantitative data or step-by-step working tools; many British examples; some chapters (politics, degrowth) are far from agency practice.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Cum s-a schimbat marketingul: piața ca practică, logica dominantă a serviciului, co-crearea vs. munca consumatorului, macromarketing | [[MKT-047-co-crearea-valorii-imputernicirea-consumatorului-sau-munca\|MKT-047]] |
-| 2 | Marketingul postmodern: cele șapte trăsături (Brown), critica postmodernă, consumul experiențial, post-postmodernismul; caz Powerscourt | [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si\|INS-073]] |
-| 3 | Culturi de brand: angajații, consumatorii, comunitățile de brand, brandurile iconice (Holt), contaminarea brandului; caz Mini | [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva\|BRD-038]], [[SOC-015-comunitatea-de-brand-se-recunoaste-dupa-trei-marcaje-si-are\|SOC-015]] |
-| 4 | Gen, feminism și consum: patru valuri, stereotipuri în reclame, maternitate și paternitate; caz femvertising (#LikeAGirl) | [[ADV-087-femvertising-ul-vinde-imputernicirea-castiga-premii-si\|ADV-087]], [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si\|INS-075]] |
-| 5 | Psihanaliza în marketing: Freud, Klein, Lacan, Bernays, Dichter, tehnici proiective; caz vinovăția inconștientă | [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul\|INS-091]] |
-| 6 | Dezbateri etice: deontologie vs. teleologie, teoria generală Hunt-Vitell, cele 7 perspective Laczniak & Murphy, critici (date, cercetare, publicitate, produse); caz cosmetice | [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin\|CPY-035]], [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si\|INS-075]] |
-| 7 | Consumatorii etici și peisajul de branduri moralizat: decalajul atitudine-comportament, branduri etice, Fairtrade, greenwashing, marketing legat de cauze, ecofeminism, compromisuri; caz parcul din Exarcheia | [[INS-074-consumatorii-declara-valori-etice-dar-cumpara-din\|INS-074]], [[BRD-041-brandurile-care-adopta-cauze-morale-castiga-un-halo-dar\|BRD-041]] |
-| 8 | Politizarea consumului: consumerism politic, decreștere, fetișismul mărfii, co-optare, consumatorul neoliberal | [[INS-074-consumatorii-declara-valori-etice-dar-cumpara-din\|INS-074]], [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva\|BRD-038]] |
-| 9 | Spații și locuri: atașament, place branding, retail spectaculos, al treilea loc, tipologia spațiilor; caz Dans le Noir? | [[EXP-023-o-experienta-de-retail-memorabila-se-poate-construi-ca-un\|EXP-023]] |
-| 10 | Piața globalizată: branduri globale, grobalizare (McDonaldizare, „non-locuri"), glocalizare, alternative; caz Westmorland Services | — (vezi „Ce lipsește") |
+| 1 | Introduction: how has marketing changed? The market as practice, service-dominant logic, co-creation vs. consumer labor, macromarketing | [[MKT-047-value-co-creation-consumer-empowerment-or-unpaid-work-for\|MKT-047]] |
+| 2 | Postmodern marketing and beyond: the seven characteristics (Brown), the postmodern critique, experiential consumption, beyond postmodernism; case: Powerscourt | [[INS-073-the-postmodern-consumer-is-fragmented-and-paradoxical-and\|INS-073]] |
+| 3 | Building brand cultures: employees, consumers, brand communities, iconic brands (Holt), when the brand eludes control; case: Mini | [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a\|BRD-038]], [[SOC-015-a-brand-community-is-recognized-by-three-markers-and-has\|SOC-015]] |
+| 4 | Gender, feminism and consumer behaviour: four waves, stereotypes in advertising, motherhood and fatherhood; case: femvertising (#LikeAGirl) | [[ADV-087-femvertising-sells-empowerment-it-wins-awards-and-shares\|ADV-087]], [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate\|INS-075]] |
+| 5 | Psychoanalysis in marketing theory and practice: Freud, Klein, Lacan, Bernays, Dichter, projective techniques; case: unconscious guilt | [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden\|INS-091]] |
+| 6 | Ethical debates in marketing management: deontology vs. teleology, the Hunt-Vitell general theory, the seven basic perspectives of Laczniak & Murphy, criticisms (data, research, advertising, products); case: cosmetics | [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences\|CPY-035]], [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate\|INS-075]] |
+| 7 | Ethical consumers and the moralised brandscape: the attitude-behaviour gap, ethical brands, Fairtrade, greenwashing, cause-related marketing, ecofeminism, trade-offs; case: the park in Exarcheia | [[INS-074-consumers-declare-ethical-values-but-buy-out-of-habit\|INS-074]], [[BRD-041-brands-that-adopt-moral-causes-gain-a-halo-but-become\|BRD-041]] |
+| 8 | Politicising consumption: consumerising politics (political consumerism, degrowth, commodity fetishism, co-optation, the neoliberal consumer) | [[INS-074-consumers-declare-ethical-values-but-buy-out-of-habit\|INS-074]], [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a\|BRD-038]] |
+| 9 | Marketing spaces and places: attachment, place branding, spectacular retail, the third place, a typology of spaces; case: Dans le Noir? | [[EXP-023-a-memorable-retail-experience-can-be-built-as-a-rite-of\|EXP-023]] |
+| 10 | The globalised marketplace: global brands, grobalisation (McDonaldization, "non-places"), glocalisation, alternatives; case: Westmorland Services | none (see "What is missing") |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si|INS-073]] — cele șapte trăsături ale consumului postmodern și „valoarea de legătură".
-- [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva|BRD-038]] — brandurile iconice rezolvă tensiuni culturale prin mituri identitare; co-optarea și contaminarea.
-- [[SOC-015-comunitatea-de-brand-se-recunoaste-dupa-trei-marcaje-si-are|SOC-015]] — trei marcaje ale comunității de brand, patru tipuri de membri, strategiile narative ale bloggerilor.
-- [[MKT-047-co-crearea-valorii-imputernicirea-consumatorului-sau-munca|MKT-047]] — dezbaterea co-crearea vs. munca neplătită a consumatorului.
-- [[ADV-087-femvertising-ul-vinde-imputernicirea-castiga-premii-si|ADV-087]] — dezbaterea femvertising: Always #LikeAGirl, Dove, anxietățile materne.
-- [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul|INS-091]] — psihanaliza ca sursă de tehnici proiective și concepte de insight (dezbatere).
-- [[INS-074-consumatorii-declara-valori-etice-dar-cumpara-din|INS-074]] — decalajul atitudine-comportament în consumul etic (convergență cu SRC-012).
-- [[BRD-041-brandurile-care-adopta-cauze-morale-castiga-un-halo-dar|BRD-041]] — peisajul de branduri moralizat, marketingul legat de cauze, trei forme de greenwashing.
-- [[EXP-023-o-experienta-de-retail-memorabila-se-poate-construi-ca-un|EXP-023]] — retailul ca ritual de trecere și „al treilea loc".
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]], [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si|INS-075]] — note din SRC-012 îmbogățite cu exemplele etice din cap. 4 și 6.
+- [[INS-073-the-postmodern-consumer-is-fragmented-and-paradoxical-and|INS-073]]: the seven characteristics of postmodern consumption and "linking value".
+- [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a|BRD-038]]: iconic brands resolve cultural tensions through identity myths; co-optation and the brand that eludes control.
+- [[SOC-015-a-brand-community-is-recognized-by-three-markers-and-has|SOC-015]]: three markers of a brand community, four types of members, the narrative strategies of bloggers.
+- [[MKT-047-value-co-creation-consumer-empowerment-or-unpaid-work-for|MKT-047]]: the debate between co-creation and the consumer's unpaid labor.
+- [[ADV-087-femvertising-sells-empowerment-it-wins-awards-and-shares|ADV-087]]: the femvertising debate: Always #LikeAGirl, Dove, maternal anxieties.
+- [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden|INS-091]]: psychoanalysis as a source of projective techniques and insight concepts (debate).
+- [[INS-074-consumers-declare-ethical-values-but-buy-out-of-habit|INS-074]]: the attitude-behaviour gap in ethical consumption (converges with SRC-012).
+- [[BRD-041-brands-that-adopt-moral-causes-gain-a-halo-but-become|BRD-041]]: the moralised brandscape, cause-related marketing, three forms of greenwashing.
+- [[EXP-023-a-memorable-retail-experience-can-be-built-as-a-rite-of|EXP-023]]: retail as a rite of passage and the "third place".
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]], [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate|INS-075]]: notes from SRC-012, enriched with the ethical examples from ch. 4 and 6.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Orientare critică asumată.** Cartea pune accentul pe putere, exploatare și ideologie; e utilă pentru gândire critică, dar oferă puține instrumente operaționale. Unele generalizări (de ex., despre „consumatorul neoliberal") nu sunt susținute empiric.
-- **Fără date cantitative proprii.** Majoritatea argumentelor vin din studii interpretative, etnografii și cazuri; nu se discută dimensiunea efectelor sau replicabilitatea.
-- **Psihanaliza** e prezentată echilibrat, dar intrinsec nefalsificabilă; trebuie citită împreună cu SRC-012 (cap. 6 despre subliminal).
-- **Nedezvoltate în note:** teoria generală a eticii în marketing (Hunt-Vitell) și cele 7 perspective Laczniak & Murphy (cap. 6); place branding-ul (Relph, Belfast, modelul participativ Kavaratzis & Hatch — cap. 9); grobalizarea vs. glocalizarea (Ritzer, McDonald's Golani Junction, Starbucks ca „brandscape hegemonic" — cap. 10). Merită note în faza următoare dacă nu sunt acoperite de alte surse.
-- **Exemple datate sau locale:** multe cazuri britanice din anii 2000-2016; social media e descrisă înainte de TikTok.
+- **An openly critical orientation.** The book stresses power, exploitation and ideology; it is useful for critical thinking but offers few operational tools. Some generalizations (e.g. about the "neoliberal consumer") are not supported empirically.
+- **No quantitative data of its own.** Most arguments come from interpretive studies, ethnographies and cases; effect sizes and replicability are not discussed.
+- **Psychoanalysis** is presented in a balanced way but is inherently unfalsifiable; read it together with SRC-012 (ch. 6 on the subliminal).
+- **Not developed in the notes:** the general theory of marketing ethics (Hunt-Vitell) and the seven basic perspectives of Laczniak & Murphy (ch. 6); place branding (Relph, Belfast, the participatory model of Kavaratzis & Hatch, ch. 9); grobalisation vs. glocalisation (Ritzer, the Golani Junction McDonald's, Starbucks as a "hegemonic brandscape", ch. 10). They deserve notes in the next phase if other sources do not cover them.
+- **Dated or local examples:** many British cases from 2000-2016; social media is described before TikTok.
 
-## Citat
+## Quote
 
-> „good ideas to think with" (cap. 5, p. 79) — formula lui Stuart Hall, invocată pentru valoarea conceptelor psihanalitice.
+> "good ideas to think with" (ch. 5, p. 79): Stuart Hall's phrase, invoked for the value of psychoanalytic concepts.
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-087-femvertising-ul-vinde-imputernicirea-castiga-premii-si|ADV-087]] — Femvertising-ul vinde împuternicirea — câștigă premii și distribuiri, dar rămâne suspect de a revinde aceleași idealuri
-- [[BRD-035-comunitatea-de-brand-ideala-este-distincta-exclusiva-si-de|BRD-035]] — Comunitatea de brand ideală este distinctă, exclusivă și de mărime medie
-- [[BRD-037-cultura-de-brand-e-un-univers-de-mituri-ritualuri-si-valori|BRD-037]] — Cultura de brand e un univers de mituri, ritualuri și valori în care clientul intră, nu un flux de conținut despre brand (Emphasis)
-- [[BRD-038-brandurile-iconice-holt-ofera-un-mit-identitar-care-rezolva|BRD-038]] — Brandurile iconice (Holt) oferă un mit identitar care rezolvă o tensiune culturală a momentului — și își pierd puterea când tensiunea dispare
-- [[BRD-041-brandurile-care-adopta-cauze-morale-castiga-un-halo-dar|BRD-041]] — Brandurile care adoptă cauze morale câștigă un halo, dar devin ținte pentru acuzația de greenwashing
-- [[BRD-063-brandul-traieste-in-mintea-fiecarui-client-sau-in-cultura|BRD-063]] — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-- [[CPY-035-sloganurile-literal-adevarate-pot-induce-in-eroare-prin|CPY-035]] — Sloganurile literal adevărate pot induce în eroare prin inferențele pe care le lasă publicului
-- [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc|EXP-022]] — Spațiul fizic supraviețuiește ca „al treilea loc" — un loc social, cu o poveste coerentă și senzația de acasă, nu un punct de tranzacție
-- [[EXP-023-o-experienta-de-retail-memorabila-se-poate-construi-ca-un|EXP-023]] — O experiență de retail memorabilă se poate construi ca un rit de trecere — pregătire, separare, prag, reintegrare
-- [[INS-073-consumatorul-postmodern-este-fragmentat-si-paradoxal-si|INS-073]] — Consumatorul postmodern este fragmentat și paradoxal și cumpără sensuri culturale, nu produse
-- [[INS-074-consumatorii-declara-valori-etice-dar-cumpara-din|INS-074]] — Consumatorii declară valori etice, dar cumpără din obișnuință, comoditate și presiune socială (decalajul atitudine-comportament)
-- [[INS-075-publicitatea-nu-creeaza-nevoi-dar-poate-cultiva-dorinte-si|INS-075]] — Publicitatea nu creează nevoi, dar poate cultiva dorințe și materialism, mai ales la copii
-- [[INS-089-tehnicile-proiective-scot-la-suprafata-ce-consumatorii-nu|INS-089]] — Tehnicile proiective scot la suprafață ce consumatorii nu spun direct, pentru că îi pun să vorbească despre alții
-- [[INS-091-cercetarea-motivationala-si-psihanaliza-cauta-de-ce-ul|INS-091]] — Cercetarea motivațională și psihanaliza caută „de ce"-ul ascuns al cumpărării — bune pentru ipoteze de insight, nedovedite ca știință
-- [[MKT-047-co-crearea-valorii-imputernicirea-consumatorului-sau-munca|MKT-047]] — Co-crearea valorii — împuternicirea consumatorului sau muncă neplătită pentru brand?
-- [[SOC-015-comunitatea-de-brand-se-recunoaste-dupa-trei-marcaje-si-are|SOC-015]] — Comunitatea de brand se recunoaște după trei marcaje și are patru tipuri de membri, cu roluri diferite pentru marketeri
+- [[ADV-087-femvertising-sells-empowerment-it-wins-awards-and-shares|ADV-087]]: Femvertising sells empowerment: it wins awards and shares, but is suspected of selling the same old ideals back to women
+- [[BRD-035-the-ideal-brand-community-is-distinct-exclusive-and|BRD-035]]: The ideal brand community is distinct, exclusive and intermediate in size
+- [[BRD-037-brand-culture-is-a-universe-of-myths-rituals-and-values|BRD-037]]: Brand culture is a universe of myths, rituals and values that the customer enters, not a stream of content about the brand (Emphasis)
+- [[BRD-038-iconic-brands-holt-offer-an-identity-myth-that-resolves-a|BRD-038]]: Iconic brands (Holt) offer an identity myth that resolves a cultural tension of the moment, and lose their power when the tension fades
+- [[BRD-041-brands-that-adopt-moral-causes-gain-a-halo-but-become|BRD-041]]: Brands that adopt moral causes gain a halo, but become targets for the accusation of greenwashing
+- [[BRD-063-does-the-brand-live-in-each-customer-s-mind-or-in-the|BRD-063]]: Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+- [[CPY-035-literally-true-slogans-can-mislead-through-the-inferences|CPY-035]]: Literally true slogans can mislead through the inferences they leave to the audience
+- [[EXP-022-physical-space-survives-as-a-third-place-a-social-place|EXP-022]]: Physical space survives as a "third place": a social place with a coherent story and a sense of homeyness, not a point of transaction
+- [[EXP-023-a-memorable-retail-experience-can-be-built-as-a-rite-of|EXP-023]]: A memorable retail experience can be built as a rite of passage: preparation, separation, liminoid phase, reassimilation
+- [[INS-073-the-postmodern-consumer-is-fragmented-and-paradoxical-and|INS-073]]: The postmodern consumer is fragmented and paradoxical and buys cultural meanings, not products
+- [[INS-074-consumers-declare-ethical-values-but-buy-out-of-habit|INS-074]]: Consumers declare ethical values but buy out of habit, convenience and social pressure (the attitude-behavior gap)
+- [[INS-075-advertising-does-not-create-needs-but-it-can-cultivate|INS-075]]: Advertising does not create needs, but it can cultivate desires and materialism, especially in children
+- [[INS-089-projective-techniques-bring-to-the-surface-what-consumers|INS-089]]: Projective techniques bring to the surface what consumers do not say directly, because they make them talk about others
+- [[INS-091-motivation-research-and-psychoanalysis-look-for-the-hidden|INS-091]]: Motivation research and psychoanalysis look for the hidden "why" of buying: good for insight hypotheses, unproven as science
+- [[MKT-047-value-co-creation-consumer-empowerment-or-unpaid-work-for|MKT-047]]: Value co-creation: consumer empowerment or unpaid work for the brand?
+- [[SOC-015-a-brand-community-is-recognized-by-three-markers-and-has|SOC-015]]: A brand community is recognized by three markers and has four types of members, with different roles for marketers
 <!-- backlinks:end -->

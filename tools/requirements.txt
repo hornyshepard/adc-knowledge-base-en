@@ -3,5 +3,5 @@ beautifulsoup4
 lxml
 mobi
 python-docx
-# opțional, pentru audiobook (Apple Silicon):
+# optional, for the audiobook (Apple Silicon):
 # mlx-whisper

@@ -1,40 +1,40 @@
-# CLAUDE.md — cum lucrează un agent AI cu această bază de cunoștințe
+# CLAUDE.md: how an AI agent works with this knowledge base
 
-Aceasta este baza de cunoștințe a școlii ADC: un Zettelkasten în română, organizat pe 17 skill-uri, construit din 49 de surse (cărți de marketing, publicitate, brand, creație, digital, AI, pitch, portofoliu). Regulile complete sunt în `_meta/conventions.md`.
+This is the knowledge base of the ADC school: a Zettelkasten in English (the English edition of a Romanian original), organized into 17 skills, built from 49 sources (books on marketing, advertising, brand, creative, digital, AI, pitching, portfolios). The full rules are in `_meta/conventions.md`.
 
-## Navigare
+## Navigation
 
-1. Intrarea: `INDEX.md` → domenii → skill-uri.
-2. Fiecare skill: `20-skills/<slug>/SKILL.md` — competențe, traseu de învățare, playbook-uri pentru agenți.
-3. Notele permanente: `20-skills/<slug>/notes/<ID>-<slug>.md`. Un link `[[BRD-007]]` sau `[[BRD-007-…|BRD-007]]` = fișierul care începe cu `BRD-007-`. Găsește-l cu `ls 20-skills/*/notes/BRD-007-*`.
-4. Fișele cărților: `10-sources/SRC-0XX-*.md`. Textul integral (copie extrasă) e în `90-library/text/` — folosește-l pentru a verifica o afirmație sau a merge mai adânc (caută cu `grep -n`).
-5. Hărți transversale (fluxuri de lucru, comparații de modele, curriculum): `30-maps/`.
-6. Metadate generate: `_meta/catalog.csv` (toate notele), `_meta/graph.json` (legături), `_meta/coverage.md`.
+1. The entry point: `INDEX.md` → domains → skills.
+2. Each skill: `20-skills/<slug>/SKILL.md`: competencies, learning path, playbooks for agents.
+3. Permanent notes: `20-skills/<slug>/notes/<ID>-<slug>.md`. A link `[[BRD-007]]` or `[[BRD-007-…|BRD-007]]` = the file that starts with `BRD-007-`. Find it with `ls 20-skills/*/notes/BRD-007-*`.
+4. Book sheets: `10-sources/SRC-0XX-*.md`. The full text (an extracted copy) is in `90-library/text/`: use it to check a claim or to go deeper (search with `grep -n`).
+5. Cross-cutting maps (workflows, model comparisons, curriculum): `30-maps/`.
+6. Generated metadata: `_meta/catalog.csv` (all notes), `_meta/graph.json` (links), `_meta/coverage.md`.
 
-## Când răspunzi la o întrebare sau faci un task (strategie, brief, idei, pitch…)
+## When you answer a question or do a task (strategy, brief, ideas, pitch…)
 
-- Pornește de la `SKILL.md` relevant și urmează playbook-ul din secțiunea „Cum folosește un agent AI acest skill".
-- Fundamentează-te pe note, nu pe memorie generală. **Citează ID-urile** notelor folosite (ex. „conform [[BRD-007]] și [[INS-012]]"), ca răspunsul să fie verificabil.
-- Urmează legăturile tipizate: `fundament` = ce trebuie înțeles înainte; `contrazice` = unde autorii nu sunt de acord (menționează tensiunea).
-- Dacă baza nu acoperă subiectul, spune asta explicit și propune o notă nouă în `00-inbox/`.
+- Start from the relevant `SKILL.md` and follow the playbook in its "How an AI agent uses this skill" section.
+- Ground your answer in the notes, not in general memory. **Cite the IDs** of the notes you use (e.g. "according to [[BRD-007]] and [[INS-012]]"), so the answer can be checked.
+- Follow the typed links: `foundation` = what has to be understood first; `contradicts` = where the authors disagree (mention the tension).
+- If the base does not cover the subject, say so explicitly and propose a new note in `00-inbox/`.
 
-## Când adaugi cunoștințe (fluxul CEQRC)
+## When you add knowledge (the CEQRC flow)
 
-1. **Capture** — notă rapidă în `00-inbox/` (șablon `_meta/templates/fleeting.md`).
-2. **Explain** — `python3 tools/kb.py new <COD> "Titlu-afirmație"` creează nota permanentă cu ID-ul următor; scrie-o cu cuvintele tale, după șablon.
-3. **Question** — secțiunea „Întrebări": unde nu se aplică, cine contrazice.
-4. **Refine** — titlu precis, o singură idee, sursă cu pagină, `status: growing`.
-5. **Connect** — 2–6 legături tipizate; adaug-o în harta din `SKILL.md`; rulează:
+1. **Capture**: a quick note in `00-inbox/` (template `_meta/templates/fleeting.md`).
+2. **Explain**: `python3 tools/kb.py new <CODE> "Claim-title"` creates the permanent note with the next ID; write it in your own words, following the template.
+3. **Question**: the "Questions" section: where it does not apply, who contradicts it.
+4. **Refine**: a precise title, a single idea, a source with a page, `status: growing`.
+5. **Connect**: 2–6 typed links; add the note to the map in `SKILL.md`; run:
 
 ```bash
-python3 tools/kb.py suggest --skill <slug>   # legături candidate
-python3 tools/kb.py build                    # backlink-uri, indexuri, catalog, graf
-python3 tools/kb.py check                    # sănătate → _meta/health.md
+python3 tools/kb.py suggest --skill <slug>   # candidate links
+python3 tools/kb.py build                    # backlinks, indexes, catalog, graph
+python3 tools/kb.py check                    # health → _meta/health.md
 ```
 
-## Reguli
+## Rules
 
-- ID-urile sunt permanente: nu renumerota după lansare; comasează cu `kb.py merge KEEP DROP`.
-- Nu edita de mână secțiunile dintre markerii `<!-- backlinks:… -->` și `<!-- auto:… -->`.
-- Nu copia pasaje din cărți: parafrazează; cel mult un citat scurt (< 15 cuvinte) per notă.
-- Româna cu diacritice corecte (ș, ț cu virgulă).
+- IDs are permanent: do not renumber after the launch; merge with `kb.py merge KEEP DROP`.
+- Do not edit by hand the sections between the `<!-- backlinks:… -->` and `<!-- auto:… -->` markers.
+- Do not copy passages from the books: paraphrase; at most one short verbatim quote (under 15 words) per note.
+- English with American spelling, using the books' own terms, model names and examples; no em dashes in our own prose.

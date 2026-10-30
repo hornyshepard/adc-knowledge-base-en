@@ -1,82 +1,84 @@
-# Baza de cunoștințe ADC
+# ADC knowledge base
 
-O bază de cunoștințe pentru școala ADC (publicitate, brand, creație, digital), construită din 49 de surse: cărți de marketing, publicitate, psihologia consumatorului, branding, brief și idei creative, istoria publicității, marketing digital, social media, marketing experiențial, AI, pitch, portofoliu și vânzări B2B.
+A knowledge base for the ADC school (advertising, brand, creative, digital), built from 49 sources: books on marketing, advertising, consumer psychology, branding, briefs and creative ideas, advertising history, digital marketing, social media, experiential marketing, AI, pitching, portfolios and B2B sales.
 
-**În cifre:** 49 de surse · 778 de note permanente · 17 skill-uri în 6 domenii · 6 hărți transversale · ~7.700 de legături · 52 de note-dezbatere (unde autorii nu sunt de acord).
+This is the English edition of [hornyshepard/adc-knowledge-base](https://github.com/hornyshepard/adc-knowledge-base) (the Romanian original).
 
-## Metoda: Zettelkasten + skill-uri + AI
+**In numbers:** 49 sources · 778 permanent notes · 17 skills in 6 domains · 6 cross-cutting maps · ~7,700 links · 52 debate notes (where the authors disagree).
 
-| Idee | Cum e aplicată aici |
+## The method: Zettelkasten + skills + AI
+
+| Idea | How it is applied here |
 |---|---|
-| **Note atomice, legate** (Zettelkasten) | O idee per notă, scrisă în română cu cuvintele noastre, cu ID permanent (`BRD-007`) și legături tipizate care au motiv (`fundament`, `extinde`, `contrazice`…). |
-| **Organizare pe skill-uri** | 17 skill-uri în 6 domenii. Fiecare skill are un hub `SKILL.md` (meta-fișier): competențe, traseu de învățare, surse, playbook-uri pentru agenți. |
-| **Legare automată** | `tools/kb.py suggest` propune legături între note similare (TF-IDF), pe care un om sau un agent le confirmă. |
-| **Fluxul CEQRC** | Capture → Explain → Question → Refine → Connect, descris în `_meta/conventions.md` și `CLAUDE.md`. |
-| **Execuție agentică** | Claude Code citește folderul: `CLAUDE.md` îi spune cum să navigheze, iar fiecare `SKILL.md` e compatibil cu formatul de skill Claude. |
+| **Atomic, linked notes** (Zettelkasten) | One idea per note, written in English in our own words with the books' own terms, with a permanent ID (`BRD-007`) and typed links that give a reason (`foundation`, `extends`, `contradicts`…). |
+| **Organized by skills** | 17 skills in 6 domains. Each skill has a hub `SKILL.md` (meta-file): competencies, learning path, sources, playbooks for agents. |
+| **Automatic linking** | `tools/kb.py suggest` proposes links between similar notes (TF-IDF), which a person or an agent confirms. |
+| **The CEQRC flow** | Capture → Explain → Question → Refine → Connect, described in `_meta/conventions.md` and `CLAUDE.md`. |
+| **Agentic execution** | Claude Code reads the folder: `CLAUDE.md` tells it how to navigate, and every `SKILL.md` is compatible with the Claude skill format. |
 
-## Structura
+## Structure
 
 ```
 ADC-Knowledge-Base/
-├── INDEX.md                 # punctul de intrare: domenii → skill-uri
-├── CLAUDE.md                # instrucțiuni pentru agenți AI
-├── 00-inbox/                # note rapide, neprocesate (Capture)
-├── 10-sources/              # o fișă de lectură per carte (SRC-001 … SRC-049)
+├── INDEX.md                 # the entry point: domains → skills
+├── CLAUDE.md                # instructions for AI agents
+├── 00-inbox/                # quick, unprocessed notes (Capture)
+├── 10-sources/              # one reading sheet per book (SRC-001 … SRC-049)
 ├── 20-skills/
 │   └── <skill>/
-│       ├── SKILL.md         # hub-ul skill-ului (meta-fișier + skill Claude)
-│       └── notes/           # note permanente atomice (BRD-001-….md)
-├── 30-maps/                 # 6 hărți transversale (vezi mai jos)
-├── 90-library/              # textele integrale extrase (doar local, nu în git)
-├── .claude/skills/          # legături spre cele 17 skill-uri, pentru Claude Code
+│       ├── SKILL.md         # the skill hub (meta-file + Claude skill)
+│       └── notes/           # atomic permanent notes (BRD-001-….md)
+├── 30-maps/                 # 6 cross-cutting maps (see below)
+├── 90-library/              # the extracted full texts (local only, not in git)
+├── .claude/skills/          # links to the 17 skills, for Claude Code
 ├── _meta/
-│   ├── conventions.md       # regulile bazei
-│   ├── reports/             # rapoartele agenților care au citit cărțile
-│   ├── skills.json          # taxonomia: domenii, skill-uri, tipuri, relații
-│   ├── sources.json         # registrul surselor
-│   ├── templates/           # șabloane: zettel, source, skill, map, fleeting
-│   ├── catalog.json/.csv    # generat: toate notele
-│   ├── graph.json           # generat: noduri + legături tipizate
-│   ├── coverage.md          # generat: acoperire skill × sursă
-│   └── health.md            # generat: legături rupte, orfani, câmpuri lipsă
+│   ├── conventions.md       # the rules of the base
+│   ├── reports/             # reports of the agents that read the books
+│   ├── skills.json          # the taxonomy: domains, skills, kinds, relations
+│   ├── sources.json         # the source register
+│   ├── templates/           # templates: zettel, source, skill, map, fleeting
+│   ├── catalog.json/.csv    # generated: all notes
+│   ├── graph.json           # generated: nodes + typed links
+│   ├── coverage.md          # generated: skill × source coverage
+│   └── health.md            # generated: broken links, orphans, missing fields
 └── tools/
     ├── kb.py                # check, build, suggest, merge, redirect, renumber, new, stats
     ├── extract_texts.py     # PDF/EPUB/AZW3/DOCX → text
     └── transcribe_audiobook.py
 ```
 
-## Skill-urile
+## The skills
 
-| Domeniu | Skill-uri |
+| Domain | Skills |
 |---|---|
-| D1 Gândire strategică | MKT Fundamente de marketing · INS Psihologia consumatorului și insight · BRD Strategie de brand · ADV Strategie de publicitate · BRF Brief-ul creativ |
-| D2 Creație | IDE Ideație · CPY Copywriting · ART Direcție artistică și identitate vizuală · STO Storytelling și conținut |
-| D3 Canale | DIG Marketing digital · SOC Social media și influenceri · EXP Marketing experiențial |
-| D4 AI | AIM AI în marketing și publicitate |
-| D5 Profesie | PIT Pitch și prezentare · PRT Portofoliu · CLI Client, vânzări și business |
-| D6 Cultură | HIS Istoria publicității |
+| D1 Strategic thinking | MKT Marketing fundamentals and strategy · INS Consumer psychology and insight · BRD Brand strategy · ADV Advertising and communication strategy · BRF The creative brief |
+| D2 Creative | IDE Ideation and creative thinking · CPY Copywriting and message · ART Art direction and visual identity · STO Storytelling and content |
+| D3 Channels and execution | DIG Digital and performance marketing · SOC Social media and influencer marketing · EXP Experiential marketing |
+| D4 AI and the future of marketing | AIM AI in marketing and advertising |
+| D5 Profession and career | PIT Pitch and presentation · PRT Portfolio and personal branding · CLI Client, sales and business |
+| D6 Advertising culture | HIS Advertising history and culture |
 
-## Hărțile transversale
+## The cross-cutting maps
 
-| Hartă | La ce folosește |
+| Map | What it is for |
 |---|---|
-| MAP-001 Fluxul agenției | drumul unui proiect, de la problema de business la pitch și măsurare — coloana vertebrală a cursului |
-| MAP-002 Modele de efect și customer journey | AIDA, FCB, Rossiter-Percy, 5A, journey digital, 7A… comparate, cu limitele lor |
-| MAP-003 Etică și reglementare | adevăr și dovadă, limitele persuasiunii, publicitate nativă, date și AI, reprezentare, drepturi |
-| MAP-004 Dezbateri | toate notele în care autorii se contrazic — material de seminar |
-| MAP-005 Ghidul bibliotecii | cele 49 de surse ordonate după relevanță (★1–5), cu ce să citești integral și ce să eviți |
-| MAP-006 Traseul de curs ADC | patru module + skill-urile profesionale în paralel, cu punctul de start în fiecare skill |
+| MAP-001 The agency workflow | the path of a project, from the business problem to the pitch and measurement: the backbone of the course |
+| MAP-002 Effect models and customer journey models | AIDA, FCB, Rossiter-Percy, 5A, the digital journey, 7A… compared, with their limits |
+| MAP-003 Ethics and regulation | truth and proof, the limits of persuasion, native advertising, data and AI, representation, rights |
+| MAP-004 Debates | all the notes where the authors contradict each other: seminar material |
+| MAP-005 Library guide | the 49 sources ranked by relevance (★1–5), with what to read in full and what to avoid |
+| MAP-006 The ADC course path | four modules + the professional skills in parallel, with the starting point in each skill |
 
-## Cum o folosești
+## How to use it
 
-**Ca om (Obsidian sau orice editor Markdown):** deschide folderul ca vault în Obsidian și pornește de la `INDEX.md`. Graful din Obsidian arată legăturile dintre note.
+**As a person (Obsidian or any Markdown editor):** open the folder as a vault in Obsidian and start from `INDEX.md`. The Obsidian graph shows the links between notes.
 
-**Cu Claude Code:** deschide o sesiune în acest folder. Claude citește `CLAUDE.md`, iar cele 17 skill-uri sunt expuse în `.claude/skills/`, deci se activează singure când cererea se potrivește cu descrierea lor. Claude pornește de la `SKILL.md`-ul potrivit și citează ID-urile notelor folosite. Exemple de cereri:
-- „Scrie un brief creativ pentru … folosind skill-ul creative-brief."
-- „Compară modelele de customer journey din bază și spune unde nu sunt de acord autorii."
-- „Pregătește structura unui pitch de 10 minute pentru …"
+**With Claude Code:** open a session in this folder. Claude reads `CLAUDE.md`, and the 17 skills are exposed in `.claude/skills/`, so they activate on their own when a request matches their description. Claude starts from the right `SKILL.md` and cites the IDs of the notes it uses. Example requests:
+- "Write a creative brief for … using the creative-brief skill."
+- "Compare the customer journey models in the base and say where the authors disagree."
+- "Prepare the structure of a 10-minute pitch for …"
 
-**Întreținere:**
+**Maintenance:**
 
 ```bash
 python3 tools/kb.py check
@@ -90,6 +92,6 @@ python3 tools/kb.py build
 python3 tools/kb.py suggest --skill brand-strategy
 ```
 
-## Drepturi de autor
+## Copyright
 
-Notele sunt rezumate și sinteze proprii, cu trimiteri la capitol și pagină. Repository-ul nu conține cărțile și nici textul lor integral. Textele se regenerează local din copiile proprii ale cărților (vezi `90-library/README.md`).
+The notes are our own summaries and syntheses, with references to chapter and page. The repository does not contain the books or their full text. The texts are regenerated locally from your own copies of the books (see `90-library/README.md`).

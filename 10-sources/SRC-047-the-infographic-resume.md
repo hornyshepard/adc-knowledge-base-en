@@ -14,65 +14,65 @@ level: 1
 
 # The Infographic Resume
 
-**Hannah Morgan, 2014.** McGraw-Hill Education, New York. Autoarea este strateg de carieră și de social media (blogul Career Sherpa). Ediție EPUB fără numere de pagină — trimiterile sunt pe capitole (1–12); figurile (exemplele de CV-uri) lipsesc din textul extras.
+**Hannah Morgan, 2014.** McGraw-Hill Education, New York. The author is a career and social media strategist (the Career Sherpa blog). An EPUB edition with no page numbers: references are to chapters (1–12); the figures (the sample resumes) are missing from the extracted text.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid de *personal branding* pentru căutarea unui job în era recrutării online: de ce CV-ul de hârtie nu mai ajunge (sisteme ATS, „gaura neagră”, recomandări, gig economy, LinkedIn), cum îți construiești un portofoliu online pe domeniul propriu, cum îți inventariezi activele și îți scrii povestea, cum faci CV-uri vizuale, infografice, sociale și de tip prezentare, cum transformi LinkedIn în portofoliu, cum îți distribui materialele și cum măsori dacă funcționează.
-- **Teza centrală:** candidatul trebuie să se trateze ca pe o afacere și să-și facă marketing — cu dovezi vizuale ale realizărilor, adaptate angajatorului, distribuite activ și măsurate după numărul de oameni care îl contactează.
-- **Pentru cine și când:** studenți din primul și al doilea an, la începutul construirii prezenței profesionale online; utilă ca sursă de idei pentru CV-ul vizual al creativilor.
-- **Relevanță pentru ADC:** ★★★☆☆ — ideile de fond (cariera ca brand, inventarul realizărilor, propunerea de valoare, distribuția proactivă, reputația online) rămân valabile, iar autoarea notează explicit că publicitatea, marketingul și PR-ul primesc cel mai bine CV-urile neconvenționale. Limite serioase: carte din 2014, cu multe instrumente dispărute (Google+, Klout, Re.vu, Flavors.me, Kinzaa), statistici de marketing citate fără verificare și sfaturi de design contrazise de surse mai noi.
+- **What it is about:** a *personal branding* guide to job hunting in the age of online recruiting: why the paper resume is no longer enough (ATS systems, the "black hole", referrals, the gig economy, LinkedIn), how to build an online portfolio on your own domain, how to take stock of your assets and write your story, how to make visual, infographic, social and presentation-style resumes, how to turn LinkedIn into a portfolio, how to distribute your materials and how to measure whether it works.
+- **Central thesis:** candidates have to treat themselves as a business and market themselves, with visual evidence of their accomplishments, adapted to the employer, actively distributed and measured by the number of people who contact them.
+- **For whom and when:** first- and second-year students, at the start of building their professional presence online; useful as a source of ideas for creatives' visual resumes.
+- **Relevance for ADC:** ★★★☆☆. The underlying ideas (the career as a brand, the inventory of accomplishments, the value proposition, proactive distribution, online reputation) remain valid, and the author notes explicitly that advertising, marketing and PR are the fields most welcoming to out-of-the-ordinary resumes. Serious limits: a book from 2014, with many tools that have disappeared (Google+, Klout, Re.vu, Flavors.me, Kinzaa), marketing statistics quoted without checking and design advice contradicted by newer sources.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 How We Got Where We Are Today | zece schimbări în recrutare; „pălăriile” candidatului | [[PRT-024-candidatul-isi-trateaza-cariera-ca-pe-o-afacere-un-brand\|PRT-024]] |
-| 2 Your Online Portfolio | ce include portofoliul; domeniul propriu; paginile site-ului; Behance, Dribbble etc. | [[PRT-024-candidatul-isi-trateaza-cariera-ca-pe-o-afacere-un-brand\|PRT-024]], [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun\|PRT-009]] |
-| 3 Telling the Story of You | inventarul activelor; cadrul de documentare a realizărilor; explicarea (Lee LeFever); pitch-ul Pixar; bio, rezumat, propunere de valoare; consecvența | [[PRT-019-povestea-profesionala-se-construieste-dintr-un-inventar-al\|PRT-019]], [[PRT-020-raspunsul-la-spune-mi-despre-tine-se-construieste-cu\|PRT-020]] |
-| 4 Resumes with Visual Flair | trecerea primului filtru; cele trei întrebări; ce nu funcționează | [[PRT-022-cv-ul-vizual-functioneaza-doar-daca-arata-rezultate-se\|PRT-022]] |
-| 5–7 Infographic Resumes | exemple, designeri specializați, crearea propriului CV infografic | [[PRT-022-cv-ul-vizual-functioneaza-doar-daca-arata-rezultate-se\|PRT-022]], [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le\|PRT-023]] |
-| 8 Don't Overlook LinkedIn | profilul ca portofoliu; checklist | [[PRT-025-reputatia-online-este-cv-ul-in-timp-real-si-se-construieste\|PRT-025]] |
-| 9 Social Resumes | pagina-hub a prezenței online | [[PRT-025-reputatia-online-este-cv-ul-in-timp-real-si-se-construieste\|PRT-025]] |
-| 10 Interactive Resumes and Slide Shows | CV-ul-prezentare; Nancy Duarte; storyboard; campanii adresate unei companii | [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei\|PRT-026]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului\|PRT-004]] |
-| 11 Choose What You Share Online Carefully | ce postezi și ce eviți; targetare proactivă; „the two-step”; distribuția CV-ului infografic | [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei\|PRT-026]], [[PRT-025-reputatia-online-este-cv-ul-in-timp-real-si-se-construieste\|PRT-025]] |
-| 12 Numbers Speak | măsurarea vizualizărilor și a contactărilor | [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei\|PRT-026]] |
+| 1 How We Got Where We Are Today | ten changes in hiring; the candidate's "many hats" | [[PRT-024-the-candidate-treats-their-career-as-a-business-a-personal\|PRT-024]] |
+| 2 Your Online Portfolio | what the portfolio includes; your own domain; the pages of the site; Behance, Dribbble, etc. | [[PRT-024-the-candidate-treats-their-career-as-a-business-a-personal\|PRT-024]], [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and\|PRT-009]] |
+| 3 Telling the Story of You | the inventory of assets; the framework for documenting accomplishments; explaining (Lee LeFever); the Pixar pitch; bio, summary, value proposition; consistency | [[PRT-019-the-professional-story-is-built-from-an-inventory-of\|PRT-019]], [[PRT-020-the-answer-to-tell-me-about-yourself-is-built-with-the\|PRT-020]] |
+| 4 Resumes with Visual Flair | getting past the first filter; the three questions; what does not work | [[PRT-022-a-visual-resume-works-only-if-it-shows-results-fits-the\|PRT-022]] |
+| 5–7 Infographic Resumes; Professionally Crafted Infographic Resumes; Creating Your Own Infographic Resume | examples, specialized designers, creating your own infographic resume | [[PRT-022-a-visual-resume-works-only-if-it-shows-results-fits-the\|PRT-022]], [[PRT-023-skill-charts-and-design-contests-morgan-recommends-them\|PRT-023]] |
+| 8 Don't Overlook LinkedIn | the profile as a portfolio; checklist | [[PRT-025-your-online-reputation-is-your-real-time-resume-and-you\|PRT-025]] |
+| 9 Social Resumes | the hub page of your online presence | [[PRT-025-your-online-reputation-is-your-real-time-resume-and-you\|PRT-025]] |
+| 10 Interactive Resumes and Slide Shows | the presentation resume; Nancy Duarte; storyboard; campaigns aimed at one company | [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive\|PRT-026]], [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio\|PRT-004]] |
+| 11 Choose What You Share Online Carefully | what to post and what to avoid; proactive targeting; "the Two-Step"; distributing the infographic resume | [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive\|PRT-026]], [[PRT-025-your-online-reputation-is-your-real-time-resume-and-you\|PRT-025]] |
+| 12 Numbers Speak | measuring views and contacts | [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive\|PRT-026]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[PRT-024-candidatul-isi-trateaza-cariera-ca-pe-o-afacere-un-brand|PRT-024]] — cariera ca afacere: brand personal pe o platformă pe care o deții.
-- [[PRT-019-povestea-profesionala-se-construieste-dintr-un-inventar-al|PRT-019]] — inventarul activelor și propunerea de valoare personală în trei întrebări.
-- [[PRT-020-raspunsul-la-spune-mi-despre-tine-se-construieste-cu|PRT-020]] — povestea de sine: principiile explicării (LeFever) și pitch-ul Pixar.
-- [[PRT-022-cv-ul-vizual-functioneaza-doar-daca-arata-rezultate-se|PRT-022]] — CV-ul vizual funcționează doar dacă arată rezultate și are o versiune text.
-- [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le|PRT-023]] — dezbatere: graficele de competențe și concursurile de design (Morgan vs. Fenn).
-- [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei|PRT-026]] — portofoliul nu se găsește singur: targetare proactivă și „pașii doi”.
-- [[PRT-025-reputatia-online-este-cv-ul-in-timp-real-si-se-construieste|PRT-025]] — reputația online este CV-ul în timp real.
-- Îmbogățiri: [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]], [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]], [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]], [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]].
+- [[PRT-024-the-candidate-treats-their-career-as-a-business-a-personal|PRT-024]]: the career as a business: a personal brand on a platform you own.
+- [[PRT-019-the-professional-story-is-built-from-an-inventory-of|PRT-019]]: the inventory of assets and the personal value proposition in three questions.
+- [[PRT-020-the-answer-to-tell-me-about-yourself-is-built-with-the|PRT-020]]: the story of you: the principles of explaining (LeFever) and the Pixar pitch.
+- [[PRT-022-a-visual-resume-works-only-if-it-shows-results-fits-the|PRT-022]]: the visual resume works only if it shows results and has a text version.
+- [[PRT-023-skill-charts-and-design-contests-morgan-recommends-them|PRT-023]]: debate: skill charts and design contests (Morgan vs. Fenn).
+- [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive|PRT-026]]: the portfolio is not found on its own: proactive targeting and "the Two-Step".
+- [[PRT-025-your-online-reputation-is-your-real-time-resume-and-you|PRT-025]]: online reputation is the resume in real time.
+- Enrichments: [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who|PRT-001]], [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]], [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and|PRT-009]], [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]], [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio|PRT-004]].
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Datată: majoritatea platformelor recomandate nu mai există sau și-au pierdut relevanța; sfaturile despre hashtag-uri și „postează peste tot” reflectă social media din 2013.
-- Statistici de efect fără sursă solidă: „65% din oameni învață vizual”, „imaginile sunt procesate de 60.000 de ori mai repede” (autoarea însăși o numește legendă urbană), „atenția a scăzut de la 12 la 5 minute”.
-- Recomandă grafice-bară și „gogoși” pentru niveluri de competență și concursuri pe 99designs — ambele respinse explicit de Fenn (SRC-048).
-- Puțin despre calitatea muncii arătate și despre studiul de caz; accentul cade pe ambalare și distribuție.
+- Dated: most of the recommended platforms no longer exist or have lost their relevance; the advice on hashtags and "post everywhere" reflects social media in 2013.
+- Effect statistics with no solid source: "65 percent of the population are visual learners", "visuals are processed 60,000 times faster" (the author herself calls it an urban legend), "the attention span has decreased from 12 minutes to 5 minutes".
+- It recommends bar and "doughnut" charts for skill levels and contests on 99designs, both explicitly rejected by Fenn (SRC-048).
+- Little on the quality of the work shown and on the case study; the emphasis falls on packaging and distribution.
 
-## Citat
+## Quote
 
-> „A company hires me over other professionals because…” (Reid Hoffman, citat în cap. 3)
+> "A company hires me over other professionals because …" (Reid Hoffman, quoted in ch. 3)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]] — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
-- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
-- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
-- [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]] — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
-- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
-- [[PRT-019-povestea-profesionala-se-construieste-dintr-un-inventar-al|PRT-019]] — Povestea profesională se construiește dintr-un inventar al realizărilor cuantificate și dintr-o propunere de valoare în trei întrebări
-- [[PRT-020-raspunsul-la-spune-mi-despre-tine-se-construieste-cu|PRT-020]] — Răspunsul la „Spune-mi despre tine” se construiește cu principiile explicării și cu structura pitch-ului Pixar
-- [[PRT-022-cv-ul-vizual-functioneaza-doar-daca-arata-rezultate-se|PRT-022]] — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
-- [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le|PRT-023]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
-- [[PRT-024-candidatul-isi-trateaza-cariera-ca-pe-o-afacere-un-brand|PRT-024]] — Candidatul își tratează cariera ca pe o afacere — un brand personal găzduit pe o platformă pe care o deține
-- [[PRT-025-reputatia-online-este-cv-ul-in-timp-real-si-se-construieste|PRT-025]] — Reputația online este CV-ul în timp real — și se construiește deliberat
-- [[PRT-026-portofoliul-nu-se-gaseste-singur-targetare-proactiva-cei|PRT-026]] — Portofoliul nu se găsește singur — targetare proactivă, „cei doi pași” și măsurarea răspunsului
+- [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who|PRT-001]]: The portfolio is a product, and its user is the person who hires, not the author
+- [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]]: The portfolio is designed for 30 seconds: a fast track and a slow track
+- [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio|PRT-004]]: The portfolio sent in advance and the portfolio presentation are two different documents
+- [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and|PRT-009]]: A junior without experience needs one good case study and evidence of the qualities sought, not volume
+- [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]]: Non-disclosure agreements are not worked around by breaking them, a password or anonymizing, but negotiated in advance
+- [[PRT-019-the-professional-story-is-built-from-an-inventory-of|PRT-019]]: The professional story is built from an inventory of quantified accomplishments and a value proposition in three questions
+- [[PRT-020-the-answer-to-tell-me-about-yourself-is-built-with-the|PRT-020]]: The answer to "Tell me about yourself" is built with the principles of explaining and the structure of the Pixar pitch
+- [[PRT-022-a-visual-resume-works-only-if-it-shows-results-fits-the|PRT-022]]: A visual resume works only if it shows results, fits the reader and always has a text version
+- [[PRT-023-skill-charts-and-design-contests-morgan-recommends-them|PRT-023]]: Skill charts and design contests: Morgan recommends them, Fenn and Kubišová reject them
+- [[PRT-024-the-candidate-treats-their-career-as-a-business-a-personal|PRT-024]]: The candidate treats their career as a business: a personal brand hosted on a platform they own
+- [[PRT-025-your-online-reputation-is-your-real-time-resume-and-you|PRT-025]]: Your online reputation is your real-time resume, and you build it on purpose
+- [[PRT-026-a-portfolio-does-not-get-found-on-its-own-proactive|PRT-026]]: A portfolio does not get found on its own: proactive targeting, the two-step and measuring the response
 <!-- backlinks:end -->

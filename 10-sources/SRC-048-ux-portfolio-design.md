@@ -14,74 +14,74 @@ level: 2
 
 # UX Portfolio Design
 
-**Ian Fenn, 2024.** Chopstix Media Limited, Londra (site: uxportfolio.design). Ediție EPUB fără numere de pagină — trimiterile sunt pe capitole (1–10) și anexe.
+**Ian Fenn, 2024.** Chopstix Media Limited, London (site: uxportfolio.design). EPUB edition with no page numbers: references are to the chapters (1–10) and appendices.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid scurt și foarte practic pentru construirea unui portofoliu de UX, scris de un consultant cu 26 de ani de experiență care, din 2010, a intervievat sute de hiring manageri și recrutori și a revizuit mii de portofolii. Acoperă colectarea poveștilor în timpul lucrului (jurnalul cu index), înțelegerea „utilizatorilor” portofoliului (analiza anunțurilor), design pentru cititori grăbiți, platformă (PDF vs. web), curatorie, introducere și titluri, structura studiului de caz, completările, constrângerile (lipsa experienței, NDA) și critica de portofoliu.
-- **Teza centrală:** portofoliul este un produs al cărui utilizator este recrutorul; se proiectează cu aceleași metode cu care proiectezi orice produs — cercetare a nevoilor, prioritizare, poveste — și trebuie să arate, prin studii de caz scurte, că poți face jobul și că merită să lucreze cu tine.
-- **Pentru cine și când:** toți studenții ADC din anii terminali, înainte de primul internship; profesorii de portofoliu; creativii care trec spre UX/digital.
-- **Relevanță pentru ADC:** ★★★★☆ — deși scrisă pentru UX, aproape totul se transferă la portofoliul de copywriter, art director sau strateg: utilizatorul portofoliului, curatoria, titlurile ca realizări, studiul de caz Brief–Ce am făcut–Rezultate, NDA, critica. Limită: portofoliile creative de publicitate sunt mai vizuale și mai orientate pe idee decât pe proces, iar sfatul de a evita Behance trebuie nuanțat pentru art directori.
+- **What it is about:** a short and very practical guide to building a UX portfolio, written by a consultant with 26 years of experience who, since 2010, has interviewed hundreds of hiring managers and recruiters and reviewed thousands of portfolios. It covers collecting stories while you work (the indexed journal), understanding the portfolio's "users" (analyzing job ads), designing for busy readers, the platform (PDF vs. web), curation, the introduction and titles, the structure of the case study, the additional material, constraints (lack of experience, NDAs) and portfolio critique.
+- **Central thesis:** the portfolio is a product whose user is the recruiter; you design it with the same methods you use to design any product (research into needs, prioritization, story), and through short case studies it has to show that you can do the job and that you are worth working with.
+- **For whom and when:** all ADC students in their final years, before their first internship; portfolio teachers; creatives moving into UX/digital.
+- **Relevance for ADC:** ★★★★☆. Although written for UX, almost everything transfers to the portfolio of a copywriter, art director or strategist: the portfolio's user, curation, titles as achievements, the Brief / What I did / Results case study, NDAs, critique. Limit: creative advertising portfolios are more visual and more focused on the idea than on the process, and the advice to avoid Behance needs nuance for art directors.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 The UX Portfolio | portofoliu ≠ prezentarea portofoliului; colecție de povești; două scopuri | [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel\|PRT-001]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului\|PRT-004]] |
-| 2 Capturing your stories | jurnalul cu index, fotografii, screengrab-uri, Stockwell Spreadsheet, interviul de final cu clientul | [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor\|PRT-006]] |
-| 3 Understanding your users | corporații/startup-uri/agenții; analiza anunțurilor; rolul celui care evaluează (Lynn Teo); recrutori | [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel\|PRT-001]], [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]] |
-| 4 Designing for busy people | 30 de secunde; fast track / slow track; lungime; design și scriere | [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast\|PRT-003]] |
-| 5 Planning your UX Portfolio | PDF vs. web vs. comunități; structura; „sandvișul”; curatoria (Ken Musgrave) | [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi\|PRT-014]], [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz\|PRT-011]], [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate\|PRT-002]], [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]] |
-| 6 First impressions | numele, introducerea fără hiperbolă, titlurile, formula X-Y-Z, About me | [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta\|PRT-015]] |
-| 7 Storytelling with case studies | lungime, framework-uri (PAR, STAR, SOAR…), Brief – What I did – Results – Tools, highlights | [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut\|PRT-016]] |
-| 8 Completing the picture | proiecte adiționale, training, premii, conferințe, voluntariat, interese, testimoniale, ce nu incluzi | [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz\|PRT-011]] |
-| 9 Common constraints | experiență limitată, proiecte inventate, concursuri de design, NDA | [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun\|PRT-009]], [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin\|PRT-010]] |
-| 10 Evaluating | ortografie, ton, editarea cu markerul, checklist, critică vs. feedback | [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback\|PRT-027]] |
-| Anexe | Portfolio Planner, Case Study Canvas, checklist | [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de\|PRT-007]], [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului\|PRT-004]] |
+| 1 The UX Portfolio: Much-maligned & misunderstood | portfolio ≠ portfolio presentation; a collection of stories; two purposes | [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who\|PRT-001]], [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio\|PRT-004]] |
+| 2 Capturing your stories | the indexed journal, photographs, screengrabs, The Stockwell Spreadsheet, the final interview with the client | [[PRT-006-portfolio-stories-are-collected-during-projects-with-an\|PRT-006]] |
+| 3 Understanding your users | corporations/startups/agencies; analyzing job ads; the role of the evaluator (Lynn Teo); recruiters | [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who\|PRT-001]], [[PRT-007-portfolio-curation-starts-from-analyzing-the-job-ad-with-a\|PRT-007]] |
+| 4 Designing for busy people | 30 seconds; the fast track / the slow track; length; design and writing | [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a\|PRT-003]] |
+| 5 Planning your UX Portfolio | PDF vs. web vs. communities; structure; the "case study sandwich"; curation (Ken Musgrave) | [[PRT-014-start-with-a-customizable-pdf-portfolio-and-then-add-a\|PRT-014]], [[PRT-011-the-portfolio-is-a-sandwich-introduction-case-studies\|PRT-011]], [[PRT-002-two-or-three-fantastic-projects-beat-five-projects\|PRT-002]], [[PRT-007-portfolio-curation-starts-from-analyzing-the-job-ad-with-a\|PRT-007]] |
+| 6 First impressions | the name, an introduction without hyperbole, titles, the X-Y-Z formula, About me | [[PRT-015-the-introduction-and-the-case-study-titles-sell-relevance\|PRT-015]] |
+| 7 Storytelling with case studies | length, frameworks (PAR, STAR, SOAR…), Brief / What I did / Results / Tools, Highlights | [[PRT-016-the-case-study-is-written-in-four-parts-the-brief-what-i\|PRT-016]] |
+| 8 Completing the picture | additional projects, training, awards, conferences, volunteering, interests, testimonials, what not to include | [[PRT-011-the-portfolio-is-a-sandwich-introduction-case-studies\|PRT-011]] |
+| 9 Dealing with common constraints | limited experience, invented projects, design competitions, NDAs | [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and\|PRT-009]], [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking\|PRT-010]] |
+| 10 Evaluating your UX Portfolio | spelling, tone, editing with a highlighter, checklist, critique vs. feedback | [[PRT-027-for-your-portfolio-ask-for-structured-critique-not-general\|PRT-027]] |
+| Appendices | Portfolio Planner, The Case Study Canvas, UX Portfolio Checklist | [[PRT-007-portfolio-curation-starts-from-analyzing-the-job-ad-with-a\|PRT-007]], [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio\|PRT-004]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]] — portofoliul e un produs al cărui utilizator e recrutorul; două scopuri.
-- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — portofoliul trimis dinainte și prezentarea lui sunt documente diferite.
-- [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor|PRT-006]] — poveștile se colectează în timpul proiectelor, cu un jurnal indexat.
-- [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de|PRT-007]] — curatoria pornește din analiza anunțului de angajare.
-- [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate|PRT-002]] — două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate.
-- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — portofoliul se proiectează pentru 30 de secunde: fast track și slow track.
-- [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi|PRT-014]] — PDF personalizabil întâi, apoi site; comunitățile de portofoliu sunt riscante.
-- [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta|PRT-015]] — introducerea și titlurile vând relevanța, nu adjective (formula X-Y-Z).
-- [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut|PRT-016]] — studiul de caz: Brief – Ce am făcut – Rezultate – Instrumente, plus highlights.
-- [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz|PRT-011]] — „sandvișul” portofoliului și ce nu trebuie inclus.
-- [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]] — juniorul fără experiență: un studiu bun și dovezi ale calităților cerute.
-- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — NDA: ce nu funcționează și ce funcționează.
-- [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback|PRT-027]] — cere critică, nu feedback.
+- [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who|PRT-001]]: the portfolio is a product whose user is the recruiter; two purposes.
+- [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio|PRT-004]]: the portfolio sent in advance and its presentation are different documents.
+- [[PRT-006-portfolio-stories-are-collected-during-projects-with-an|PRT-006]]: stories are collected during projects, with an indexed journal.
+- [[PRT-007-portfolio-curation-starts-from-analyzing-the-job-ad-with-a|PRT-007]]: curation starts from analyzing the job ad.
+- [[PRT-002-two-or-three-fantastic-projects-beat-five-projects|PRT-002]]: two or three excellent projects beat five projects surrounded by mediocrity.
+- [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]]: the portfolio is designed for 30 seconds: a fast track and a slow track.
+- [[PRT-014-start-with-a-customizable-pdf-portfolio-and-then-add-a|PRT-014]]: a customizable PDF first, then a website; portfolio communities are risky.
+- [[PRT-015-the-introduction-and-the-case-study-titles-sell-relevance|PRT-015]]: the introduction and the titles sell relevance, not adjectives (the X-Y-Z formula).
+- [[PRT-016-the-case-study-is-written-in-four-parts-the-brief-what-i|PRT-016]]: the case study: Brief / What I did / Results / Tools, plus Highlights.
+- [[PRT-011-the-portfolio-is-a-sandwich-introduction-case-studies|PRT-011]]: the portfolio "sandwich" and what should not be included.
+- [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and|PRT-009]]: the junior without experience: one good case study and evidence of the qualities required.
+- [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]]: NDAs: what does not work and what works.
+- [[PRT-027-for-your-portfolio-ask-for-structured-critique-not-general|PRT-027]]: ask for critique, not feedback.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Autorul își descrie metoda drept „bazată pe dovezi”, dar cercetarea lui (interviuri cu hiring manageri) nu e publicată sau detaliată metodologic; multe reguli sunt totuși opinii de practician.
-- Unele cifre sunt preluate fără context critic: cele „6 secunde” de lectură a unui CV (TheLadders, 2012) sau studiul EEG Nielsen Neuro/Sharethrough despre titluri de 21–28 de cuvinte (studiu de marketing al unei companii de publicitate nativă).
-- Orientat pe UX/produs: portofoliile de publicitate pun mai mult accent pe idee, craft și premii, iar formatul video (case-film) e standard în festivaluri, deși Fenn îl descurajează ca portofoliu complet.
-- Multe exemple vizuale din carte (imagini) lipsesc din textul extras.
+- The author describes his method as "evidence-based", but his research (interviews with hiring managers) is not published or described methodologically; many of the rules are still a practitioner's opinions.
+- Some figures are taken over without critical context: the "6 seconds" spent reading a CV (TheLadders, 2012) or the Nielsen Neuro/Sharethrough EEG study on headlines of 21–28 words (a marketing study by a native advertising company).
+- Oriented toward UX/product: advertising portfolios put more emphasis on the idea, craft and awards, and the video format (the case film) is standard at festivals, although Fenn discourages it as a complete portfolio.
+- Many of the book's visual examples (images) are missing from the extracted text.
 
-## Citat
+## Quote
 
-> „You are not the primary user of your portfolio.” (cap. 1)
+> "You are not the primary user of your portfolio." (ch. 1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[PRT-001-portofoliul-este-un-produs-iar-utilizatorul-lui-este-cel|PRT-001]] — Portofoliul este un produs, iar utilizatorul lui este cel care angajează, nu autorul
-- [[PRT-002-doua-trei-proiecte-excelente-bat-cinci-proiecte-inconjurate|PRT-002]] — Două-trei proiecte excelente bat cinci proiecte înconjurate de mediocritate
-- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
-- [[PRT-004-portofoliul-trimis-dinainte-si-prezentarea-portofoliului|PRT-004]] — Portofoliul trimis dinainte și prezentarea portofoliului sunt două documente diferite
-- [[PRT-005-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-005]] — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
-- [[PRT-006-povestile-de-portofoliu-se-colecteaza-in-timpul-proiectelor|PRT-006]] — Poveștile de portofoliu se colectează în timpul proiectelor, cu un jurnal de lucru indexat
-- [[PRT-007-curatoria-portofoliului-porneste-din-analiza-anuntului-de|PRT-007]] — Curatoria portofoliului pornește din analiza anunțului de angajare, cu markerul
-- [[PRT-009-juniorul-fara-experienta-are-nevoie-de-un-studiu-de-caz-bun|PRT-009]] — Juniorul fără experiență are nevoie de un studiu de caz bun și de dovezi ale calităților cerute, nu de volum
-- [[PRT-010-acordurile-de-confidentialitate-nu-se-ocolesc-prin|PRT-010]] — Acordurile de confidențialitate nu se ocolesc prin încălcare, parolă sau anonimizare, ci se negociază din timp
-- [[PRT-011-portofoliul-este-un-sandvis-introducere-studii-de-caz|PRT-011]] — Portofoliul este un „sandviș” — introducere, studii de caz, completări — și are lucruri care nu se pun deloc
-- [[PRT-014-porneste-cu-un-portofoliu-pdf-personalizabil-si-adauga-apoi|PRT-014]] — Pornește cu un portofoliu PDF personalizabil și adaugă apoi un site; comunitățile de portofoliu sunt riscante
-- [[PRT-015-introducerea-si-titlurile-studiilor-de-caz-vand-relevanta|PRT-015]] — Introducerea și titlurile studiilor de caz vând relevanța pentru cititor, nu adjective
-- [[PRT-016-studiul-de-caz-se-scrie-in-patru-parti-brief-ce-am-facut|PRT-016]] — Studiul de caz se scrie în patru părți — Brief, Ce am făcut, Rezultate, Instrumente — plus highlights
-- [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le|PRT-023]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
-- [[PRT-027-pentru-portofoliu-cere-critica-structurata-nu-feedback|PRT-027]] — Pentru portofoliu cere critică structurată, nu „feedback” general, și verifică tonul înainte de a-l trimite
+- [[PRT-001-the-portfolio-is-a-product-and-its-user-is-the-person-who|PRT-001]]: The portfolio is a product, and its user is the person who hires, not the author
+- [[PRT-002-two-or-three-fantastic-projects-beat-five-projects|PRT-002]]: Two or three fantastic projects beat five projects surrounded by mediocrity
+- [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]]: The portfolio is designed for 30 seconds: a fast track and a slow track
+- [[PRT-004-the-portfolio-sent-in-advance-and-the-portfolio|PRT-004]]: The portfolio sent in advance and the portfolio presentation are two different documents
+- [[PRT-005-passion-projects-bring-into-the-portfolio-the-work-you-want|PRT-005]]: Passion projects bring into the portfolio the work you want to be given
+- [[PRT-006-portfolio-stories-are-collected-during-projects-with-an|PRT-006]]: Portfolio stories are collected during projects, with an indexed work logbook
+- [[PRT-007-portfolio-curation-starts-from-analyzing-the-job-ad-with-a|PRT-007]]: Portfolio curation starts from analyzing the job ad, with a highlighter
+- [[PRT-009-a-junior-without-experience-needs-one-good-case-study-and|PRT-009]]: A junior without experience needs one good case study and evidence of the qualities sought, not volume
+- [[PRT-010-non-disclosure-agreements-are-not-worked-around-by-breaking|PRT-010]]: Non-disclosure agreements are not worked around by breaking them, a password or anonymizing, but negotiated in advance
+- [[PRT-011-the-portfolio-is-a-sandwich-introduction-case-studies|PRT-011]]: The portfolio is a sandwich (introduction, case studies, additional information) and some things never go in it
+- [[PRT-014-start-with-a-customizable-pdf-portfolio-and-then-add-a|PRT-014]]: Start with a customizable PDF portfolio and then add a website; portfolio communities are risky
+- [[PRT-015-the-introduction-and-the-case-study-titles-sell-relevance|PRT-015]]: The introduction and the case study titles sell relevance to the reader, not adjectives
+- [[PRT-016-the-case-study-is-written-in-four-parts-the-brief-what-i|PRT-016]]: The case study is written in four parts (The brief, What I did, Results, Tools and methods) plus highlights
+- [[PRT-023-skill-charts-and-design-contests-morgan-recommends-them|PRT-023]]: Skill charts and design contests: Morgan recommends them, Fenn and Kubišová reject them
+- [[PRT-027-for-your-portfolio-ask-for-structured-critique-not-general|PRT-027]]: For your portfolio, ask for structured critique, not general "feedback", and check the tone before you send it
 <!-- backlinks:end -->

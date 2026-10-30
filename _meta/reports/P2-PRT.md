@@ -1,55 +1,55 @@
-# Raport P2-PRT — Faza 2: portfolio
+# Report P2-PRT: Phase 2, portfolio
 
-Agent: P2-PIT-PRT-CLI · skill: `portfolio` (PRT) · data: 2026-10-01
+Agent: P2-PIT-PRT-CLI · skill: `portfolio` (PRT) · date: 2026-10-01
 
-## 1. Note înainte / după
+## 1. Notes before / after
 
-| | Număr |
+| | Count |
 |---|---|
-| Note înainte | 27 (26 din G14 — Fenn, Kubišová, Morgan; PRT-0501 din G05 — Peters) |
-| Comasări (DROP) | 0 |
-| Note noi | 0 |
-| Note după | **27** |
-| `status: growing` | 22; lăsate `seed` după verificare (erau deja bine legate): PRT-1401, PRT-1406, PRT-1417, PRT-1418, PRT-1423 |
+| Notes before | 27 (26 from G14 (Fenn, Kubišová, Morgan); PRT-0501 from G05 (Peters)) |
+| Merges (DROP) | 0 |
+| New notes | 0 |
+| Notes after | **27** |
+| `status: growing` | 22; left as `seed` after checking (they were already well linked): PRT-1401, PRT-1406, PRT-1417, PRT-1418, PRT-1423 |
 
-`merges-PRT.txt` e gol. Perechile cele mai apropiate sunt principiu + metodă și au rămas separate, legate între ele:
+`merges-PRT.txt` is empty. The closest pairs are principle + method, and they stayed separate, linked to each other:
 
-- PRT-1405 (calitatea bate volumul) / PRT-1422 (metoda DA–NU–POATE);
-- PRT-1402 (două documente) / PRT-1423 (trei tipuri de portofoliu);
-- PRT-1409 (structura studiului de caz) / PRT-1424 (textul pe pagină);
-- PRT-1417 (CV-ul vizual, Morgan) / PRT-1426 (CV-ul funcțional, Kubišová) — două filozofii, cu tensiunea notată în PRT-1418.
+- PRT-1405 (quality beats volume) / PRT-1422 (the YES-NO-MAYBE method);
+- PRT-1402 (two documents) / PRT-1423 (three types of portfolio);
+- PRT-1409 (the structure of the case study) / PRT-1424 (the text on the page);
+- PRT-1417 (the visual CV, Morgan) / PRT-1426 (the functional CV, Kubišová): two philosophies, with the tension noted in PRT-1418.
 
-## 2. Ce am făcut
+## 2. What I did
 
-- **Legături:** am adăugat 24 de legături tipizate în 22 de note (23 din 27 de note au acum cel puțin o legătură spre alt skill sau alt grup de cărți). Fiecare notă are acum 3–6 legături; skill-urile țintă sunt PIT, CLI, ART, CPY, STO, BRD, MKT, IDE, SOC, HIS și BRF.
-- **Convergență scrisă în text:** PRT-0501 — Peters (proiectele personale) și Fenn (arată doar munca pe care vrei s-o faci) spun același lucru. Am adăugat SRC-048 în `sources`.
-- **SKILL.md** scris complet: 7 competențe, traseu în 6 secțiuni (Fundamente → Materia primă și selecția → Structură, ritm, format → Scrisul și designul paginii → Pachetul de aplicare → Distribuție, brand personal, critică), 5 surse cu rating, 6 skill-uri vecine, 6 playbook-uri. Ordinea de renumerotare e verificată cu `renumber --dry-run` (PRT-1401 → PRT-001 … PRT-1413 → PRT-027).
+- **Links:** I added 24 typed links in 22 notes (23 of the 27 notes now have at least one link to another skill or another book group). Each note now has 3–6 links; the target skills are PIT, CLI, ART, CPY, STO, BRD, MKT, IDE, SOC, HIS and BRF.
+- **Convergence written in the text:** PRT-0501: Peters (personal projects) and Fenn (show only the work you want to do) say the same thing. I added SRC-048 to `sources`.
+- **SKILL.md** written in full: 7 competencies, a path in 6 sections (Foundations → Raw material and selection → Structure, rhythm, format → Writing and page design → The application package → Distribution, personal brand, critique), 5 sources with ratings, 6 neighboring skills, 6 playbooks. The renumbering order is checked with `renumber --dry-run` (PRT-1401 → PRT-001 … PRT-1413 → PRT-027).
 
-## 3. Note noi
+## 3. New notes
 
-Niciuna. Skill-ul acoperă bine construcția portofoliului. Golurile reale (mai jos) nu au acoperire în bibliotecă.
+None. The skill covers portfolio building well. The real gaps (below) have no coverage in the library.
 
-## 4. Duplicate și suprapuneri cu alte skill-uri (neatinse, doar legate)
+## 4. Duplicates and overlaps with other skills (not touched, only linked)
 
-| Nota mea | Nota din alt skill | Natura suprapunerii |
+| My note | Note in another skill | Nature of the overlap |
 |---|---|---|
-| PRT-1419 | CLI-1402 | Lista „Dream 10" de agenții e Dream 100 aplicat carierei. Legate. |
-| PRT-1403 | IDE-0712 | Jurnalul de lucru și banca de inspirație: aceeași disciplină a colecționării. |
-| PRT-1402 | PIT-1418 (principiul 6) | Deck-ul de prezentare ≠ documentul lăsat. Aceeași regulă, la Fenn și la Colenso. |
-| PRT-1409 | PIT-1416 | Brief–Ce am făcut–Rezultate față de SOLVE: structuri alternative pentru un caz. `alternativa` în ambele sensuri. |
-| PRT-0501 | IDE-0501 | Proiectele personale de inspirație ale lui Peters. Înrudite, nu duplicate. |
-| PRT-1414 | BRD-0503 | Fraza lui Hoffman e o declarație de poziționare. Nu există altă notă de branding personal în BRD. |
+| PRT-1419 | CLI-1402 | The "Dream 10" list of agencies is Dream 100 applied to a career. Linked. |
+| PRT-1403 | IDE-0712 | The work journal and the inspiration bank: the same discipline of collecting. |
+| PRT-1402 | PIT-1418 (principle 6) | The presentation deck ≠ the document left behind. The same rule, in Fenn and in Colenso. |
+| PRT-1409 | PIT-1416 | Brief/What I did/Results versus SOLVE: alternative structures for a case. `alternative` in both directions. |
+| PRT-0501 | IDE-0501 | Peters's personal inspiration projects. Related, not duplicates. |
+| PRT-1414 | BRD-0503 | Hoffman's sentence is a positioning statement. There is no other personal branding note in BRD. |
 
-## 5. Goluri rămase
+## 5. Remaining gaps
 
-- **Nicio sursă specifică publicității** pentru portofoliu: book-ul de copywriter sau art director, case film-ul de festival, portofoliul de strateg. Notele transferă din UX și arhitectură, iar întrebările din note semnalează explicit transferul (PRT-1407, PRT-1409).
-- **Interviul propriu-zis** (întrebări tipice, negocierea salariului, proba practică) nu e acoperit.
-- **Producția fizică a portofoliului tipărit** (SRC-046, pașii 5–7) nu a fost transformată în note. E tehnică și ține mai degrabă de ART.
-- Morgan (SRC-047, 2014) are date și platforme învechite (Google+, Klout). Notele le semnalează, iar dezbaterea PRT-1418 le pune în context.
+- **No advertising-specific source** for the portfolio: the copywriter's or art director's book, the festival case film, the strategist's portfolio. The notes transfer from UX and architecture, and the questions in the notes flag the transfer explicitly (PRT-1407, PRT-1409).
+- **The interview itself** (typical questions, salary negotiation, the practical test) is not covered.
+- **The physical production of the printed portfolio** (SRC-046, steps 5–7) was not turned into notes. It is technical and belongs rather to ART.
+- Morgan (SRC-047, 2014) has outdated data and platforms (Google+, Klout). The notes flag them, and the PRT-1418 debate puts them in context.
 
-## 6. Pentru orchestrator
+## 6. For the orchestrator
 
-- `kb.py check`: 0 probleme în `20-skills/portfolio/`.
-- Câteva note au 450–520 de cuvinte după numărătoarea `kb.py` (PRT-1407, PRT-1411, PRT-1412, PRT-1418, PRT-1426): peste ținta de 400, sub pragul de 650. Le-am lăsat întregi, pentru că fiecare rămâne atomică.
-- Fișierul gol `PRT-0501.md` din rădăcina KB (0 octeți) nu e nota reală, care se află în `20-skills/portfolio/notes/`. Ar trebui șters.
-- Sugestie de taxonomie, preluată de la G14: scopul PRT din `skills.json` ar putea menționa explicit „carieră și angajabilitate" (CV, LinkedIn, rețea), pentru că PRT-1414, PRT-1419, PRT-1420 și PRT-1426 țin de asta.
+- `kb.py check`: 0 problems in `20-skills/portfolio/`.
+- A few notes have 450–520 words by the `kb.py` count (PRT-1407, PRT-1411, PRT-1412, PRT-1418, PRT-1426): above the target of 400, below the threshold of 650. I left them whole, because each remains atomic.
+- The empty file `PRT-0501.md` at the KB root (0 bytes) is not the real note, which is in `20-skills/portfolio/notes/`. It should be deleted.
+- Taxonomy suggestion, taken from G14: the PRT scope in `skills.json` could explicitly mention "career and employability" (CV, LinkedIn, network), because PRT-1414, PRT-1419, PRT-1420 and PRT-1426 belong to it.

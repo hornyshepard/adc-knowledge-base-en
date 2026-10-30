@@ -1,80 +1,80 @@
-# Raport P2-BRD — integrarea skill-ului brand-strategy (BRD)
+# Report P2-BRD: integration of the brand-strategy skill (BRD)
 
-Agent P2-BRD, Faza 2. Skill: `20-skills/brand-strategy/`.
+Agent P2-BRD, Phase 2. Skill: `20-skills/brand-strategy/`.
 
-## 1. Cifre
+## 1. Numbers
 
-| | Înainte | După |
+| | Before | After |
 |---|---|---|
-| Note permanente | 67 | 63 (67 − 5 comasate + 1 nouă) |
-| Note cu `status: growing` | 0 | 63 |
-| Legături tipizate per notă | 3–5 | 4–6 |
-| Note fără nicio legătură tipizată în afara propriului grup Faza 1 | 12 | 0 |
-| Lungime corp (`kb.py`) | 292–558 cuvinte | 292–500 cuvinte |
+| Permanent notes | 67 | 63 (67 − 5 merged + 1 new) |
+| Notes with `status: growing` | 0 | 63 |
+| Typed links per note | 3–5 | 4–6 |
+| Notes with no typed link outside their own Phase 1 group | 12 | 0 |
+| Body length (`kb.py`) | 292–558 words | 292–500 words |
 
-`kb.py check` (ultima rulare): nicio problemă în fișierele `brand-strategy`. Legăturile rupte din alte fișiere spre BRD-0103/0104/0105/0205/0401 sunt cele așteptate până la pasul de redirect.
+`kb.py check` (last run): no problems in the `brand-strategy` files. The broken links from other files to BRD-0103/0104/0105/0205/0401 are the expected ones until the redirect step.
 
-## 2. Comasări (în `merges-BRD.txt`)
+## 2. Merges (in `merges-BRD.txt`)
 
-| DROP | KEEP | Ce s-a integrat |
+| DROP | KEEP | What was integrated |
 |---|---|---|
-| BRD-0105 (repoziționarea, Grewal & Levy) | BRD-0508 (repoziționarea, Tybout + Hennessy) | Definiția Grewal & Levy, testul *fad vs. trend*, costurile tangibile/intangibile, CoverGirl, WW, logo-ul Frederick, lecția promoțiilor care anulează campania. Paragraf „unde converg sursele": ambele cărți folosesc Old Spice, iar Hennessy generalizează observația Grewal & Levy (vorbești unui public nou). Retitlată. |
-| BRD-0104 (extensia, 4 reguli Grewal & Levy) | BRD-0512 (extensia, 3 întrebări Calkins) | Distincția extensie de brand / de linie, avantajele, diluarea, co-brandingul și licențierea; tabel comparativ Calkins vs. Grewal & Levy (ambii pun potrivirea pe primul loc; Calkins adaugă sensul invers și testul de business, G&L adaugă distanțarea). Policarpio rămâne doar vocabular. Retitlată. |
-| BRD-0103 (marca producătorului/retailerului, family vs. individual) | BRD-0511 (arhitectura de brand, Calkins) | Axa family brand / branduri individuale ca echivalent al branded house / house of brands, regula „cu cât produsele diferă mai mult, cu atât nume separate" (GM vs. Hyundai), decizia de proprietate (private label), Marriott/Ritz-Carlton. Retitlată. |
-| BRD-0401 (Holt via Parsons et al.) | BRD-0606 (Holt via Fernández Gómez) | Mecanismul în trei pași, Mini și criza Suezului, limitele (Burberry „chav", co-optarea, *rebel sell*). Definiția culturii de brand (Schroeder, co-creare) a fost mutată în **BRD-1201**. |
-| BRD-0205 (branduri culturale, Kotler 3.0) | BRD-0606 | Paradoxurile globalizării, „continuitate, conexiune, direcție", „majoritatea tăcută"; Coca-Cola „Hilltop" apare în ambele surse. BRD-0606 sintetizează acum patru cărți (SRC-018, -013, -003, -036) și distincția Fernández Gómez: mitul lui Holt ≠ arhetipul jungian. |
+| BRD-0105 (repositioning, Grewal & Levy) | BRD-0508 (repositioning, Tybout + Hennessy) | The Grewal & Levy definition, the *fad vs. trend* test, tangible/intangible costs, CoverGirl, WW, the Frederick logo, the lesson of promotions that cancel out the campaign. A "where the sources converge" paragraph: both books use Old Spice, and Hennessy generalizes the Grewal & Levy observation (you speak to a new audience). Retitled. |
+| BRD-0104 (extension, 4 rules, Grewal & Levy) | BRD-0512 (extension, 3 questions, Calkins) | The distinction between brand extension and line extension, the advantages, dilution, co-branding and licensing; a comparison table Calkins vs. Grewal & Levy (both put fit first; Calkins adds the reverse direction and the business test, G&L add distancing). Policarpio stays only as vocabulary. Retitled. |
+| BRD-0103 (manufacturer/retailer brand, family vs. individual) | BRD-0511 (brand architecture, Calkins) | The family brand / individual brands axis as the equivalent of branded house / house of brands, the rule "the more the products differ, the more separate names" (GM vs. Hyundai), the ownership decision (private label), Marriott/Ritz-Carlton. Retitled. |
+| BRD-0401 (Holt via Parsons et al.) | BRD-0606 (Holt via Fernández Gómez) | The three-step mechanism, Mini and the Suez crisis, the limits (Burberry "chav", co-optation, the *rebel sell*). The definition of brand culture (Schroeder, co-creation) was moved into **BRD-1201**. |
+| BRD-0205 (cultural brands, Kotler 3.0) | BRD-0606 | The paradoxes of globalization, "continuity, connection, direction", the "silent majority"; Coca-Cola "Hilltop" appears in both sources. BRD-0606 now synthesizes four books (SRC-018, -013, -003, -036) and Fernández Gómez's distinction: Holt's myth ≠ the Jungian archetype. |
 
-**Note refocalizate (nu comasate):**
-- **BRD-1202** — păstrată doar ca metodă: „Strategia culturală (Holt & Cameron) în șase pași"; partea teoretică a trecut în BRD-0606.
-- **BRD-1201** — retitlată „Cultura de brand e un univers de mituri, ritualuri și valori…"; a primit definiția Parsons et al. (SRC-013).
-- **BRD-0529 / BRD-0202** — suprapunerea de definiții rezolvată: 0529 ține definițiile (acum pe Kotler, SRC-003, cu metaforele gogoașă–busolă–roată și divergența Kotler vs. Damgaard despre misiune: trecut vs. prezent); 0202 ține doar matricea VBM.
-- **BRD-0528** (Aaker) — sprijinită acum în principal pe SRC-012 (Fennis & Stroebe: scala Aaker, stereotipul utilizatorului, congruența cu imaginea de sine, experimentele Hugo Boss și Apple/IBM); SRC-015 (★1) rămâne secundară.
-- **BRD-1505** — scurtată (fără paragraful de crowdsourcing), cu convergența ART-0511 / colecția Watkins.
-- **BRD-0502** retitlată ca afirmație; **BRD-0701** a primit secțiunea „Exemplu" (Dove, verificat în SRC-025).
+**Refocused notes (not merged):**
+- **BRD-1202**: kept only as a method: "Cultural strategy (Holt & Cameron) in six steps"; the theoretical part moved into BRD-0606.
+- **BRD-1201**: retitled "Brand culture is a universe of myths, rituals and values…"; it received the Parsons et al. definition (SRC-013).
+- **BRD-0529 / BRD-0202**: the overlap of definitions resolved: 0529 holds the definitions (now based on Kotler, SRC-003, with the doughnut-compass-wheel metaphors and the Kotler vs. Damgaard divergence on mission: past vs. present); 0202 holds only the VBM matrix.
+- **BRD-0528** (Aaker): now based mainly on SRC-012 (Fennis & Stroebe: the Aaker scale, the user stereotype, congruence with the self-image, the Hugo Boss and Apple/IBM experiments); SRC-015 (★1) stays secondary.
+- **BRD-1505**: shortened (without the crowdsourcing paragraph), with the convergence ART-0511 / the Watkins collection.
+- **BRD-0502** retitled as a claim; **BRD-0701** received the "Example" section (Dove, checked in SRC-025).
 
-## 3. Note noi
+## 3. New notes
 
-- **BRD-9901** — *Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv* (debate, nivel 3). Golul: tensiunea dintre definiția Kellogg (brand = asociații) și teoria lui Holt (puterea e colectivă) apărea doar ca întrebare în note separate. Surse verificate în `90-library/text/`: SRC-014 Introducere; SRC-013 cap. 3, p. 32 (forța culturii de brand stă în percepția colectivă); SRC-036 cap. 7, Theory Box 7.1 (citatul Holt 2004: 3); SRC-018 §8.3–8.4; SRC-049 cap. 2 (axa individual–cultural).
+- **BRD-9901**: *Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth* (debate, level 3). The gap: the tension between the Kellogg definition (brand = associations) and Holt's theory (the power is collective) appeared only as a question in separate notes. Sources checked in `90-library/text/`: SRC-014 Introduction; SRC-013 ch. 3, p. 32 (the strength of brand culture lies in collective perception); SRC-036 ch. 7, Theory Box 7.1 (the Holt 2004: 3 quote); SRC-018 §8.3–8.4; SRC-049 ch. 2 (the individual-cultural axis).
 
-## 4. Convergențe și dezacorduri scrise explicit
+## 4. Convergences and disagreements written explicitly
 
-- **Declarația de poziționare**: Tybout (BRD-0503) ≈ McTigue & Rucker (BRF-0705) ≈ Percy (BRF-1502, trei variabile, fără RTB) ≈ Grewal & Levy (MKT-0116).
-- **Liderul vs. urmăritorii**: Tybout (BRD-0505) ≈ Percy (BRD-1501) ≈ Fennis & Stroebe, prototipul (INS-0406).
-- **Cadrul de referință**: Tybout (BRD-0504) ≈ Ollé & Riu (BRD-0605, `alternativa`) ≈ „ce este?" la Percy (ADV-1509).
-- **Promoțiile erodează brandul**: Calkins (BRD-0502) ≈ Grewal & Levy (Old Spice) ≈ Percy (promoția trebuie să poarte beneficiul).
-- **Dezmințirea**: cazul Mexic (BRD-0526) e explicat de studiul Tybout, Calder & Sternthal (1981) din INS-0418.
-- **Purpose**: Stengel (BRD-0509) `contrazice` Lagnado & Mitchell (BRD-0510); BRD-0510 primește ecourile din *Shareworthy* (STO-0707) și Percy (ADV-1519).
-- **Personalitate / arhetip / brand-persoană**: Aaker (0528), Kotler (0206), Séguéla (0602), zeițele (0530), cele 14 arhetipuri (0701), blueprint (0532) — legate ca `alternativa`.
-- **Minte vs. cultură**: BRD-9901 `contrazice` BRD-0501 și BRD-0606.
+- **The positioning statement**: Tybout (BRD-0503) ≈ McTigue & Rucker (BRF-0705) ≈ Percy (BRF-1502, three variables, no RTB) ≈ Grewal & Levy (MKT-0116).
+- **The leader vs. the followers**: Tybout (BRD-0505) ≈ Percy (BRD-1501) ≈ Fennis & Stroebe, the prototype (INS-0406).
+- **The frame of reference**: Tybout (BRD-0504) ≈ Ollé & Riu (BRD-0605, `alternative`) ≈ "what is it?" in Percy (ADV-1509).
+- **Promotions erode the brand**: Calkins (BRD-0502) ≈ Grewal & Levy (Old Spice) ≈ Percy (the promotion must carry the benefit).
+- **Denial**: the Mexico case (BRD-0526) is explained by the Tybout, Calder & Sternthal (1981) study in INS-0418.
+- **Purpose**: Stengel (BRD-0509) `contradicts` Lagnado & Mitchell (BRD-0510); BRD-0510 receives the echoes from *Shareworthy* (STO-0707) and Percy (ADV-1519).
+- **Personality / archetype / brand as a person**: Aaker (0528), Kotler (0206), Séguéla (0602), the goddesses (0530), the 14 archetypes (0701), blueprint (0532): linked as `alternative`.
+- **Mind vs. culture**: BRD-9901 `contradicts` BRD-0501 and BRD-0606.
 
-## 5. Duplicate între skill-uri (legate, nu comasate)
+## 5. Duplicates across skills (linked, not merged)
 
-| BRD | Alt skill | Natura suprapunerii |
+| BRD | Other skill | Nature of the overlap |
 |---|---|---|
-| BRD-0503 | BRF-0705, BRF-1502, MKT-0116, DIG-1004 | aceeași declarație de poziționare / propunere de valoare; BRF-0705 e practic dublura din brief |
-| BRD-0514 | INS-0406 | avantajul pionierului, aceeași cercetare Carpenter & Nakamoto |
-| BRD-1503 | INS-0427 | modelul expectanță-valoare (Percy îl aplică, Fennis & Stroebe îl explică) |
-| BRD-0607 | MKT-0115 | harta perceptuală |
-| BRD-0520 | MKT-0123 | trăsăturile serviciilor |
-| BRD-0519 | SOC-0401 | comunitatea de brand |
+| BRD-0503 | BRF-0705, BRF-1502, MKT-0116, DIG-1004 | the same positioning statement / value proposition; BRF-0705 is practically the duplicate in the brief |
+| BRD-0514 | INS-0406 | the pioneer advantage, the same Carpenter & Nakamoto research |
+| BRD-1503 | INS-0427 | the expectancy-value model (Percy applies it, Fennis & Stroebe explain it) |
+| BRD-0607 | MKT-0115 | the perceptual map |
+| BRD-0520 | MKT-0123 | the characteristics of services |
+| BRD-0519 | SOC-0401 | the brand community |
 | BRD-0402 | MKT-0323, STO-0707 | greenwashing / purpose-washing |
-| BRD-0507 | BRF-0706, ADV-0624 | laddering / scara beneficiilor |
-| BRD-1505 | ART-0511, CPY-0817 | consecvența activelor de brand |
-| BRD-0606 | ADV-0601 (parțial) | brandurile iconice ca mecanism al paradigmei consumer branding |
+| BRD-0507 | BRF-0706, ADV-0624 | laddering / the benefit ladder |
+| BRD-1505 | ART-0511, CPY-0817 | the consistency of brand assets |
+| BRD-0606 | ADV-0601 (partly) | iconic brands as a mechanism of the consumer branding paradigm |
 
-## 6. Goluri rămase
+## 6. Remaining gaps
 
-- **Branding personal** (în scope-ul BRD): biblioteca îl acoperă slab; locul firesc e PRT (PRT-1414, PRT-1420). Hub-ul trimite acolo.
-- **Piramida CBBE (Keller)** și **prisma identității (Kapferer)**: citate doar în treacăt în SRC-018; nu există pasaj suficient pentru o notă.
-- **Cele 12 arhetipuri clasice (Mark & Pearson)**: doar lista de 14 din *Shareworthy* (BRD-0701); cartea originală nu e în bibliotecă.
-- Nenotate din *Kellogg on Branding*: cap. 14 (neuroștiință), cap. 22 (comunicarea brandului în digital).
-- Un **audit de brand** unificat există doar ca playbook în SKILL.md (BRD-0102 + 0522 + 0521 + 0502), nu ca notă proprie.
+- **Personal branding** (in BRD's scope): the library covers it poorly; its natural place is PRT (PRT-1414, PRT-1420). The hub points there.
+- **Keller's CBBE pyramid** and **Kapferer's identity prism**: cited only in passing in SRC-018; there is no passage substantial enough for a note.
+- **The 12 classic archetypes (Mark & Pearson)**: only the list of 14 from *Shareworthy* (BRD-0701); the original book is not in the library.
+- Not noted from *Kellogg on Branding*: ch. 14 (neuroscience), ch. 22 (brand communication in digital).
+- A unified **brand audit** exists only as a playbook in SKILL.md (BRD-0102 + 0522 + 0521 + 0502), not as a note of its own.
 
-## 7. Pentru orchestrator
+## 7. For the orchestrator
 
-- Ordinea de renumerotare = ordinea din „Harta notelor" din SKILL.md (63 de note, 6 secțiuni).
-- Am redirecționat deja, în notele mele, legăturile spre ID-uri comasate de alți agenți: INS-0501→INS-0702, ADV-0110→ADV-1533, ADV-0612→ADV-1506, DIG-0305→DIG-1021. Redirect-ul global rămâne necesar (fișierele-sursă SRC-001/002/003/013 și note din MKT, INS, ADV, ART, SOC, STO trimit spre ID-urile BRD comasate).
-- Numele fișierelor KEEP nu au fost schimbate după retitlare (slug-ul vechi); renumerotarea le poate regenera.
-- Blocurile de backlinks din notele rescrise sunt cele vechi (stale) — se regenerează la `build`.
-- Taxonomie: scope-ul BRD din `skills.json` ar putea menționa explicit naming, implementare/guvernanță, măsurarea brandului și branding cultural (Holt), care sunt acum secțiuni ale hub-ului.
-- Câteva note au 450–500 de cuvinte (tabele + paragrafe de convergență); toate sub limita de 650 a verificatorului.
+- Renumbering order = the order of the "Note map" in SKILL.md (63 notes, 6 sections).
+- In my notes I already redirected the links to IDs merged by other agents: INS-0501→INS-0702, ADV-0110→ADV-1533, ADV-0612→ADV-1506, DIG-0305→DIG-1021. The global redirect is still needed (the source files SRC-001/002/003/013 and notes in MKT, INS, ADV, ART, SOC, STO point to the merged BRD IDs).
+- The KEEP file names were not changed after retitling (old slug); renumbering can regenerate them.
+- The backlinks blocks in the rewritten notes are the old ones (stale); they are regenerated at `build`.
+- Taxonomy: the BRD scope in `skills.json` could explicitly mention naming, implementation/governance, brand measurement and cultural branding (Holt), which are now sections of the hub.
+- A few notes have 450–500 words (tables + convergence paragraphs); all are under the checker's limit of 650.

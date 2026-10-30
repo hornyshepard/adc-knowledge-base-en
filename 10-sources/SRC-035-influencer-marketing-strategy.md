@@ -14,103 +14,103 @@ level: 2
 
 # Influencer Marketing Strategy: How influencers can help grow your business
 
-**Gordon Glenister, ediția a 2-a, 2024** (prima ediție 2021). Kogan Page, London / New York. Autorul conduce divizia de influencer marketing a Branded Content Marketing Association (BCMA Influence), are o agenție proprie (GGA) și predă part-time la Nottingham Trent University.
+**Gordon Glenister, 2nd edition, 2024** (first edition 2021). Kogan Page, London / New York. The author heads the influencer marketing division of the Branded Content Marketing Association (BCMA Influence), has his own agency (GGA) and teaches part-time at Nottingham Trent University.
 
-> Paginile citate în notele derivate urmează numerotarea PDF (markerii `=== [page N] ===` din text); decalajul față de numerotarea tipărită este de +17 (p. tipărită 28 = p. PDF 45).
+> The pages cited in the derived notes follow the PDF numbering (the `=== [page N] ===` markers in the text); the offset from the printed numbering is +17 (printed p. 28 = PDF p. 45).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid practic, orientat spre branduri și agenții, despre tot ciclul influencer marketingului: definiții și sectoare, platforme, cadrul strategic (cercetare, obiective, buget, tactici, brief), cadrul legal (contract, disclosure, fraudă, criză), lucrul cu creatorii (tipologii, negociere, motivații), găsirea lor (outreach, platforme, agenții), programe de ambasadori, piețe internaționale, viitorul industriei, măsurare și un capitol amplu de studii de caz (Britvic/Tango/Robinsons, Brave Bison, SAP, Mercedes-Benz Vans, Fyre Festival) plus un interviu cu creatoarea Amber Doig-Thorne.
-- **Teza centrală:** influencer marketingul a devenit un pilon al strategiei de brand, dar funcționează doar ca relație de parteneriat pe termen lung cu oameni creativi — selectați pentru potrivirea de valori, briefați flexibil, plătiți corect, declarați transparent și evaluați pe obiective de business, nu pe metrici de vanitate.
-- **Pentru cine și când:** modulul de social media și influencer marketing (anul 2–3); util la cursurile de brief, de strategie de comunicare și la proiectele cu clienți reali.
-- **Relevanță pentru ADC:** ★★★★☆ (4/5) — cea mai completă sursă practică din bibliotecă pentru SOC: checklisturi de brief, de negociere, de disclosure, de detectare a fraudei, formule de măsurare și cazuri recente. Limite: stil de compilație (multe citate de practicieni, multe statistici din surse comerciale, liste de top influenceri care se perimează), puțină teorie, perspectivă predominant britanică.
+- **What it is about:** a practical guide, aimed at brands and agencies, to the whole cycle of influencer marketing: definitions and sectors, platforms, the strategic framework (research, objectives, budget, tactics, brief), the legal framework (contract, disclosure, fraud, crisis), working with creators (types, negotiation, motivations), finding them (outreach, platforms, agencies), ambassador programmes, international markets, the future of the industry, measurement and a long chapter of case studies (Britvic/Tango/Robinsons, Brave Bison, SAP, Mercedes-Benz Vans, Fyre Festival), plus an interview with the creator Amber Doig-Thorne.
+- **Central thesis:** influencer marketing has become a pillar of brand strategy, but it works only as a long-term partnership with creative people: selected for the fit of values, briefed flexibly, paid fairly, disclosed transparently and evaluated on business objectives, not on vanity metrics.
+- **For whom and when:** the social media and influencer marketing module (years 2–3); useful in the courses on the brief and on communication strategy and in projects with real clients.
+- **Relevance for ADC:** ★★★★☆ (4/5). The most complete practical source in the library for SOC: checklists for the brief, negotiation, disclosure and fraud detection, measurement formulas and recent cases. Limits: a compilation style (many quotes from practitioners, many statistics from commercial sources, lists of top influencers that go out of date), little theory, a mainly British perspective.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Introducere | Încrederea în „oameni ca noi", angajații ca influenceri, diversitate, AI | [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders\|SOC-036]], [[SOC-034-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale\|SOC-034]] |
-| 1 | Definiții, ce nu e influencer marketing, sectoare, avantaje, Mission–Cast–Create, ciclul de lansare, branded content, greșeli | [[SOC-023-influencer-marketingul-nu-este-endorsement-de-celebritate\|SOC-023]], [[SOC-026-mission-cast-create-misiunea-inaintea-castingului-de\|SOC-026]], [[SOC-033-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al\|SOC-033]], [[SOC-037-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi\|SOC-037]], [[SOC-047-creatorii-devin-branduri-de-la-endorsement-la-creator\|SOC-047]] |
-| 2 | Platformele și rolul lor, modelul PESO | [[SOC-007-platforma-sociala-se-alege-dupa-persona-obiectiv-mesaj-si\|SOC-007]], [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute\|ADV-062]], [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders\|SOC-036]] |
-| 3 | Cadrul strategic: cercetare, obiective SMART, buget, tactici, seeding, promo codes, brief, internal buy-in | [[SOC-025-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste\|SOC-025]], [[BRF-022-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc\|BRF-022]], [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu\|SOC-031]] |
-| 4 | Contract, disclosure (FTC, ASA, CMA), fraudă, criză | [[SOC-032-colaborarea-platita-se-declara-clar-la-inceput-si-in\|SOC-032]], [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar\|SOC-030]], [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice\|SOC-029]], [[SOC-046-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia\|SOC-046]] |
-| 5 | Caracteristicile creatorilor, cei 4R, negociere, tipologii (reach, activitate, virtuali), motivații | [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de\|SOC-027]], [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar\|SOC-030]], [[SOC-024-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier\|SOC-024]], [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu\|SOC-031]] |
-| 6 | Outreach, platforme, agenții, talent manageri | [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia\|SOC-038]], [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice\|SOC-029]] |
-| 7 | Programul de ambasadori | [[SOC-035-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari\|SOC-035]], [[SOC-034-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale\|SOC-034]] |
-| 8 | Piețe internaționale (Asia, Australia, Africa, India, SUA, EAU, Brazilia) | [[SOC-047-creatorii-devin-branduri-de-la-endorsement-la-creator\|SOC-047]] |
-| 9 | Viitorul: profesionalizare, AI, „de la influenceri la influență" | [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia\|SOC-038]], [[SOC-047-creatorii-devin-branduri-de-la-endorsement-la-creator\|SOC-047]] |
-| 10 | Măsurare: benchmarkuri, ER, CPE, CPM, sentiment, social listening, campanii virale | [[SOC-042-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei\|SOC-042]], [[STO-036-ingredientele-unei-campanii-virale-mesaj-simplu-emotie\|STO-036]], [[SOC-040-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa\|SOC-040]] |
-| 11 | Studii de caz și interviul cu un creator | [[SOC-044-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate\|SOC-044]], [[SOC-045-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza\|SOC-045]], [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders\|SOC-036]], [[SOC-046-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia\|SOC-046]], [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu\|SOC-031]] |
+| Introduction | Trust in "people like us", employees as influencers, diversity, AI | [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders\|SOC-036]], [[SOC-034-long-partnerships-with-creators-beat-one-off-campaigns\|SOC-034]] |
+| 1 | What is influencer marketing? Definitions, what influencer marketing isn't, sectors, advantages, Mission, Cast, Create, the launch cycle, branded content, mistakes | [[SOC-023-influencer-marketing-is-not-celebrity-endorsement-affiliate\|SOC-023]], [[SOC-026-mission-cast-create-the-mission-comes-before-casting-the\|SOC-026]], [[SOC-033-influencers-can-be-used-across-the-whole-product-launch\|SOC-033]], [[SOC-037-creator-content-is-amplified-with-paid-media-after-it\|SOC-037]], [[SOC-047-creators-become-brands-from-endorsement-to-the-creator\|SOC-047]] |
+| 2 | The major platforms for influencer marketing: the platforms and their roles, the PESO model | [[SOC-007-a-social-platform-is-chosen-by-persona-objective-message\|SOC-007]], [[ADV-062-a-brand-s-touchpoints-are-paid-owned-earned-or-shared-poe\|ADV-062]], [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders\|SOC-036]] |
+| 3 | Creating your strategic framework: research, SMART objectives, budget, tactics, seeding, promo codes, brief, internal buy-in | [[SOC-025-the-strategic-framework-of-an-influencer-campaign-starts\|SOC-025]], [[BRF-022-the-influencer-brief-gives-direction-but-leaves-room-for\|BRF-022]], [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no\|SOC-031]] |
+| 4 | The legal impacts of influencer marketing: contract, disclosure (FTC, ASA, CMA), fraud, crisis | [[SOC-032-a-paid-collaboration-is-disclosed-clearly-up-front-and-in\|SOC-032]], [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and\|SOC-030]], [[SOC-029-an-influencer-s-audience-is-checked-before-any-contract\|SOC-029]], [[SOC-046-fyre-festival-and-other-failures-what-happens-when-the\|SOC-046]] |
+| 5 | Working with influencers: creators' characteristics, the 4 Rs, negotiation, types (reach, activity, virtual), motivations | [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two\|SOC-027]], [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and\|SOC-030]], [[SOC-024-influencer-tiers-by-reach-nano-micro-mid-tier-macro-mega\|SOC-024]], [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no\|SOC-031]] |
+| 6 | Finding influencers: outreach, platforms, agencies, talent managers | [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist\|SOC-038]], [[SOC-029-an-influencer-s-audience-is-checked-before-any-contract\|SOC-029]] |
+| 7 | Creating an ambassador programme | [[SOC-035-an-ambassador-program-is-run-like-a-sales-team-with-a\|SOC-035]], [[SOC-034-long-partnerships-with-creators-beat-one-off-campaigns\|SOC-034]] |
+| 8 | Influencer marketing around the world (Asia, Australia, Africa, India, the US, the UAE, Brazil) | [[SOC-047-creators-become-brands-from-endorsement-to-the-creator\|SOC-047]] |
+| 9 | The future of influencer marketing: professionalization, AI, "from influencers to influence" | [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist\|SOC-038]], [[SOC-047-creators-become-brands-from-endorsement-to-the-creator\|SOC-047]] |
+| 10 | Understanding analytics and measurement: benchmarks, ER, CPE, CPM, sentiment, social listening, viral campaigns | [[SOC-042-engagement-rate-cpe-and-cpm-the-basic-arithmetic-of-an\|SOC-042]], [[STO-036-the-ingredients-of-a-viral-campaign-a-simple-message\|STO-036]], [[SOC-040-likes-are-not-success-you-evaluate-the-journey-not-the-stage\|SOC-040]] |
+| 11 | Case studies, and the interview with a creator | [[SOC-044-tango-and-robinsons-creator-led-tiktok-campaigns-measured\|SOC-044]], [[SOC-045-brave-bison-the-mishap-reveal-mechanic-for-a-sensitive-cause\|SOC-045]], [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders\|SOC-036]], [[SOC-046-fyre-festival-and-other-failures-what-happens-when-the\|SOC-046]], [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no\|SOC-031]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[SOC-023-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-023]] — Influencer marketingul diferă de endorsementul de celebritate, de afiliere, de referral și de direct marketing.
-- [[SOC-024-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-024]] — Nivelurile după reach (nano → mega) și după activitate; mixul recomandat de creatori.
-- [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de|SOC-027]] — Cei 4R ai influenței (Onalytica): relevance, resonance, reference, reach.
-- [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice|SOC-029]] — Semnalele de fraudă (urmăritori cumpărați, pods, follow/unfollow) și verificarea lor.
-- [[SOC-026-mission-cast-create-misiunea-inaintea-castingului-de|SOC-026]] — Mission, Cast, Create (D. Robson) și testul „ar merge conținutul cu alt partener?".
-- [[BRF-022-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-022]] — Elementele brief-ului pentru influenceri și „compromisul creativ".
-- [[SOC-032-colaborarea-platita-se-declara-clar-la-inceput-si-in|SOC-032]] — Regulile de disclosure: #ad clar, la început, pe fiecare story.
-- [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-030]] — Variabilele negocierii și clauzele contractului (drepturi, exclusivitate, plată).
-- [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-031]] — Creatorul ca „one-stop shop" de producție; gifting vs. plată; product seeding.
-- [[SOC-033-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-033]] — Influencerii pe tot ciclul de lansare (test → aspirație → expertiză → egali).
-- [[SOC-034-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-034]] — Parteneriatele lungi (Renault #BehindCarDoors, Fruit Shoot Squad) bat campaniile punctuale.
-- [[SOC-035-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-035]] — Cum se construiește un program de ambasadori.
-- [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-036]] — Influența în B2B: angajați (IBM, Siemens) și thought leaders (SAP).
-- [[SOC-042-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-042]] — Formulele și benchmarkurile de măsurare (ER, CPE, CPM, CPV).
-- [[SOC-007-platforma-sociala-se-alege-dupa-persona-obiectiv-mesaj-si|SOC-007]] — Rolurile platformelor în influencer marketing.
-- [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute|ADV-062]] — Modelul PESO (G. Dietrich).
-- [[SOC-037-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-037]] — Amplificarea plătită a conținutului care performează.
-- [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia|SOC-038]] — Dezbaterea: cine deține influencer marketingul și dacă e „doar PR".
-- [[SOC-046-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-046]] — Eșecuri: Fyre Festival, Bootea, Diclegis, concursuri trucate; pașii de criză.
-- [[SOC-044-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-044]] — Cazurile Tango și Robinsons (Whalar, TikTok).
-- [[SOC-045-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-045]] — Cazul Brave Bison „Something's Not Right".
-- [[SOC-047-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-047]] — Creatorii devin branduri; creator economy.
-- [[SOC-025-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-025]] — Cadrul strategic al unei campanii (Beswick, obiective SMART, buget, tactici).
-- [[STO-036-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-036]] — Ingredientele unei campanii virale (Old Spice, Dove Sketches, Ice Bucket).
-- Îmbogățește și: [[SOC-028-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-028]] (potrivirea de valori), [[SOC-040-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-040]] (metricile de vanitate).
+- [[SOC-023-influencer-marketing-is-not-celebrity-endorsement-affiliate|SOC-023]]: influencer marketing differs from celebrity endorsement, affiliate marketing, referral and direct marketing.
+- [[SOC-024-influencer-tiers-by-reach-nano-micro-mid-tier-macro-mega|SOC-024]]: the tiers by reach (nano → mega) and by activity; the recommended mix of creators.
+- [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two|SOC-027]]: the 4 Rs of influence (Onalytica): relevance, resonance, reference, reach.
+- [[SOC-029-an-influencer-s-audience-is-checked-before-any-contract|SOC-029]]: the signals of fraud (bought followers, pods, follow/unfollow) and how to check them.
+- [[SOC-026-mission-cast-create-the-mission-comes-before-casting-the|SOC-026]]: Mission, Cast, Create (D. Robson) and the test "would the content work with another partner?".
+- [[BRF-022-the-influencer-brief-gives-direction-but-leaves-room-for|BRF-022]]: the elements of the influencer brief and the "creative compromise".
+- [[SOC-032-a-paid-collaboration-is-disclosed-clearly-up-front-and-in|SOC-032]]: the disclosure rules: a clear #ad, at the start, on every story.
+- [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and|SOC-030]]: the variables of negotiation and the clauses of the contract (rights, exclusivity, payment).
+- [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no|SOC-031]]: the creator as a "one-stop shop" for production; gifting vs. payment; product seeding.
+- [[SOC-033-influencers-can-be-used-across-the-whole-product-launch|SOC-033]]: influencers across the whole launch cycle (test → aspiration → expertise → peers).
+- [[SOC-034-long-partnerships-with-creators-beat-one-off-campaigns|SOC-034]]: long partnerships (Renault #BehindCarDoors, Fruit Shoot Squad) beat one-off campaigns.
+- [[SOC-035-an-ambassador-program-is-run-like-a-sales-team-with-a|SOC-035]]: how to build an ambassador programme.
+- [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders|SOC-036]]: influence in B2B: employees (IBM, Siemens) and thought leaders (SAP).
+- [[SOC-042-engagement-rate-cpe-and-cpm-the-basic-arithmetic-of-an|SOC-042]]: the measurement formulas and benchmarks (ER, CPE, CPM, CPV).
+- [[SOC-007-a-social-platform-is-chosen-by-persona-objective-message|SOC-007]]: the roles of the platforms in influencer marketing.
+- [[ADV-062-a-brand-s-touchpoints-are-paid-owned-earned-or-shared-poe|ADV-062]]: the PESO model (G. Dietrich).
+- [[SOC-037-creator-content-is-amplified-with-paid-media-after-it|SOC-037]]: paid amplification of the content that performs.
+- [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist|SOC-038]]: the debate: who owns influencer marketing, and whether it is "just PR".
+- [[SOC-046-fyre-festival-and-other-failures-what-happens-when-the|SOC-046]]: failures: Fyre Festival, Bootea, Diclegis, rigged contests; the crisis steps.
+- [[SOC-044-tango-and-robinsons-creator-led-tiktok-campaigns-measured|SOC-044]]: the Tango and Robinsons cases (Whalar, TikTok).
+- [[SOC-045-brave-bison-the-mishap-reveal-mechanic-for-a-sensitive-cause|SOC-045]]: the Brave Bison case, "Something's Not Right".
+- [[SOC-047-creators-become-brands-from-endorsement-to-the-creator|SOC-047]]: creators become brands; the creator economy.
+- [[SOC-025-the-strategic-framework-of-an-influencer-campaign-starts|SOC-025]]: the strategic framework of a campaign (Beswick, SMART objectives, budget, tactics).
+- [[STO-036-the-ingredients-of-a-viral-campaign-a-simple-message|STO-036]]: the ingredients of a viral campaign (Old Spice, Dove Sketches, Ice Bucket).
+- Also enriches: [[SOC-028-shared-values-matter-more-than-reach-in-choosing-a-creator|SOC-028]] (the fit of values), [[SOC-040-likes-are-not-success-you-evaluate-the-journey-not-the-stage|SOC-040]] (vanity metrics).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Multe cifre provin din rapoarte ale platformelor comerciale (HypeAuditor, Traackr, IZEA, Launchmetrics) care vând exact soluțiile pentru problemele pe care le măsoară; trebuie tratate ca indicii, nu ca adevăruri.
-- Unele afirmații sunt preluate necritic („creierul procesează imaginile de 60.000 de ori mai repede", „millennials au o atenție de 8 secunde", ROI „de 11 ori mai mare" decât alte media).
-- Structură de compilație: zeci de citate de practicieni, uneori contradictorii, fără sinteză teoretică; listele de top influenceri și tarifele se învechesc repede.
-- Perspectivă britanică (ASA, CMA, CAP); pentru România trebuie verificate regulile locale și ale UE.
-- Puțină reflecție critică despre efectele sociale (copii influenceri, presiune psihică, „compulsion marketing" prezentat aprobator).
+- Many figures come from reports by commercial platforms (HypeAuditor, Traackr, IZEA, Launchmetrics) that sell exactly the solutions to the problems they measure; treat them as clues, not as truths.
+- Some claims are taken over uncritically ("the brain processes images 60,000 times faster", "millennials have an attention span of eight seconds", an ROI "11 times higher" than other media).
+- A compilation structure: dozens of quotes from practitioners, sometimes contradictory, with no theoretical synthesis; the lists of top influencers and the fees go out of date quickly.
+- A British perspective (ASA, CMA, CAP); for Romania the local and EU rules have to be checked.
+- Little critical reflection on the social effects (child influencers, psychological pressure, "compulsion marketing" presented approvingly).
 
-## Citat
+## Quote
 
-> „Free dresses don't pay the mortgage" — despre plata creatorilor (p. 194).
+> "But free dresses don't pay the mortgage" (on paying creators, p. 194).
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-062-punctele-de-contact-ale-brandului-sunt-platite-detinute|ADV-062]] — Punctele de contact ale brandului sunt plătite, deținute, câștigate sau distribuite (POE și PESO) și trebuie combinate
-- [[BRF-022-brief-ul-pentru-influenceri-da-directie-dar-lasa-loc|BRF-022]] — Brief-ul pentru influenceri dă direcție, dar lasă loc interpretării creatorului
-- [[SOC-007-platforma-sociala-se-alege-dupa-persona-obiectiv-mesaj-si|SOC-007]] — Platforma socială se alege după persona, obiectiv, mesaj și rolul ei pe drumul spre cumpărare — nu după modă sau după numărul total de utilizatori
-- [[SOC-023-influencer-marketingul-nu-este-endorsement-de-celebritate|SOC-023]] — Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
-- [[SOC-024-nivelurile-de-influenceri-dupa-reach-nano-micro-mid-tier|SOC-024]] — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega — engagement-ul relativ scade când publicul crește
-- [[SOC-025-cadrul-strategic-al-unei-campanii-cu-influenceri-porneste|SOC-025]] — Cadrul strategic al unei campanii cu influenceri pornește de la cercetare și obiective SMART
-- [[SOC-026-mission-cast-create-misiunea-inaintea-castingului-de|SOC-026]] — Mission, Cast, Create: misiunea înaintea castingului de creatori
-- [[SOC-027-influenta-se-evalueaza-pe-patru-r-nu-pe-numarul-de|SOC-027]] — Influența se evaluează pe patru R, nu pe numărul de urmăritori — două modele care se completează, Onalytica și Grewal-Levy
-- [[SOC-028-valorile-comune-conteaza-inaintea-reach-ului-in-alegerea|SOC-028]] — Valorile comune contează înaintea reach-ului în alegerea creatorului
-- [[SOC-029-audienta-unui-influencer-se-verifica-inainte-de-orice|SOC-029]] — Audiența unui influencer se verifică înainte de orice contract — semnale de fraudă, autenticitatea angajamentului și potrivirea publicului, manual sau cu AI
-- [[SOC-030-negocierea-cu-un-creator-are-variabile-multiple-iar|SOC-030]] — Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
-- [[SOC-031-creatorul-este-o-casa-de-productie-intr-un-om-gifting-ul-nu|SOC-031]] — Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
-- [[SOC-032-colaborarea-platita-se-declara-clar-la-inceput-si-in|SOC-032]] — Colaborarea plătită se declară clar, la început și în fiecare format — acolo unde publicul vede recomandarea, nu după un click
-- [[SOC-033-influencerii-pot-fi-folositi-pe-tot-ciclul-de-lansare-al|SOC-033]] — Influencerii pot fi folosiți pe tot ciclul de lansare al unui produs
-- [[SOC-034-parteneriatele-lungi-cu-creatori-bat-campaniile-punctuale|SOC-034]] — Parteneriatele lungi cu creatori bat campaniile punctuale
-- [[SOC-035-programul-de-ambasadori-se-conduce-ca-o-echipa-de-vanzari|SOC-035]] — Programul de ambasadori se conduce ca o echipă de vânzări cu manager dedicat
-- [[SOC-036-in-b2b-influenta-vine-din-angajati-si-thought-leaders|SOC-036]] — În B2B influența vine din angajați și thought leaders
-- [[SOC-037-continutul-creatorilor-se-amplifica-platit-dupa-ce-isi|SOC-037]] — Conținutul creatorilor se amplifică plătit după ce își dovedește performanța
-- [[SOC-038-cine-detine-influencer-marketingul-pr-media-agentia|SOC-038]] — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
-- [[SOC-040-like-urile-nu-sunt-succes-evaluezi-calatoria-nu-etapa|SOC-040]] — Like-urile nu sunt succes: evaluezi călătoria, nu etapa
-- [[SOC-042-engagement-rate-cpe-si-cpm-aritmetica-de-baza-a-unei|SOC-042]] — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
-- [[SOC-044-tango-si-robinsons-campanii-creator-led-pe-tiktok-masurate|SOC-044]] — Tango și Robinsons: campanii creator-led pe TikTok măsurate prin brand lift
-- [[SOC-045-brave-bison-mecanica-greseala-dezvaluire-pentru-o-cauza|SOC-045]] — Brave Bison: mecanica greșeală-dezvăluire pentru o cauză sensibilă
-- [[SOC-046-fyre-festival-si-alte-esecuri-ce-se-intampla-cand-executia|SOC-046]] — Fyre Festival și alte eșecuri: ce se întâmplă când execuția trădează promisiunea
-- [[SOC-047-creatorii-devin-branduri-de-la-endorsement-la-creator|SOC-047]] — Creatorii devin branduri: de la endorsement la creator economy
-- [[STO-034-ugc-este-continut-castigat-cel-mai-credibil-pentru-brand|STO-034]] — UGC este conținut câștigat — cel mai credibil pentru brand tocmai pentru că brandul nu îl poate controla
-- [[STO-036-ingredientele-unei-campanii-virale-mesaj-simplu-emotie|STO-036]] — Ingredientele unei campanii virale: mesaj simplu, emoție, participare, urgență
-- [[SRC-034-social-media-storytelling|SRC-034]] — Social Media Storytelling
+- [[ADV-062-a-brand-s-touchpoints-are-paid-owned-earned-or-shared-poe|ADV-062]]: A brand's touchpoints are paid, owned, earned or shared (POE and PESO), and they must be combined
+- [[BRF-022-the-influencer-brief-gives-direction-but-leaves-room-for|BRF-022]]: The influencer brief gives direction but leaves room for the creator's interpretation
+- [[SOC-007-a-social-platform-is-chosen-by-persona-objective-message|SOC-007]]: A social platform is chosen by persona, objective, message and its role on the path to purchase: not by fashion or total user numbers
+- [[SOC-023-influencer-marketing-is-not-celebrity-endorsement-affiliate|SOC-023]]: Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+- [[SOC-024-influencer-tiers-by-reach-nano-micro-mid-tier-macro-mega|SOC-024]]: Influencer tiers by reach (nano, micro, mid-tier, macro, mega): relative engagement falls as the audience grows
+- [[SOC-025-the-strategic-framework-of-an-influencer-campaign-starts|SOC-025]]: The strategic framework of an influencer campaign starts from research and SMART objectives
+- [[SOC-026-mission-cast-create-the-mission-comes-before-casting-the|SOC-026]]: Mission, Cast, Create: the mission comes before casting the creators
+- [[SOC-027-influence-is-assessed-on-four-rs-not-on-follower-count-two|SOC-027]]: Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+- [[SOC-028-shared-values-matter-more-than-reach-in-choosing-a-creator|SOC-028]]: Shared values matter more than reach in choosing a creator
+- [[SOC-029-an-influencer-s-audience-is-checked-before-any-contract|SOC-029]]: An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+- [[SOC-030-negotiating-with-a-creator-involves-multiple-variables-and|SOC-030]]: Negotiating with a creator involves multiple variables, and the contract sets the rights
+- [[SOC-031-the-creator-is-a-one-person-production-house-gifting-is-no|SOC-031]]: The creator is a one-person production house: gifting is no substitute for payment
+- [[SOC-032-a-paid-collaboration-is-disclosed-clearly-up-front-and-in|SOC-032]]: A paid collaboration is disclosed clearly, up front and in every format: where the audience sees the recommendation, not after a click
+- [[SOC-033-influencers-can-be-used-across-the-whole-product-launch|SOC-033]]: Influencers can be used across the whole product launch cycle
+- [[SOC-034-long-partnerships-with-creators-beat-one-off-campaigns|SOC-034]]: Long partnerships with creators beat one-off campaigns
+- [[SOC-035-an-ambassador-program-is-run-like-a-sales-team-with-a|SOC-035]]: An ambassador program is run like a sales team with a dedicated manager
+- [[SOC-036-in-b2b-influence-comes-from-employees-and-thought-leaders|SOC-036]]: In B2B, influence comes from employees and thought leaders
+- [[SOC-037-creator-content-is-amplified-with-paid-media-after-it|SOC-037]]: Creator content is amplified with paid media after it proves its performance
+- [[SOC-038-who-owns-influencer-marketing-pr-media-the-specialist|SOC-038]]: Who owns influencer marketing: PR, media, the specialist agency or the brand
+- [[SOC-040-likes-are-not-success-you-evaluate-the-journey-not-the-stage|SOC-040]]: Likes are not success: you evaluate the journey, not the stage
+- [[SOC-042-engagement-rate-cpe-and-cpm-the-basic-arithmetic-of-an|SOC-042]]: Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign
+- [[SOC-044-tango-and-robinsons-creator-led-tiktok-campaigns-measured|SOC-044]]: Tango and Robinsons: creator-led TikTok campaigns measured by brand lift
+- [[SOC-045-brave-bison-the-mishap-reveal-mechanic-for-a-sensitive-cause|SOC-045]]: Brave Bison: the mishap-reveal mechanic for a sensitive cause
+- [[SOC-046-fyre-festival-and-other-failures-what-happens-when-the|SOC-046]]: Fyre Festival and other failures: what happens when the execution betrays the promise
+- [[SOC-047-creators-become-brands-from-endorsement-to-the-creator|SOC-047]]: Creators become brands: from endorsement to the creator economy
+- [[STO-034-ugc-is-earned-content-the-most-credible-content-for-a-brand|STO-034]]: UGC is earned content: the most credible content for a brand precisely because the brand cannot control it
+- [[STO-036-the-ingredients-of-a-viral-campaign-a-simple-message|STO-036]]: The ingredients of a viral campaign: a simple message, emotion, participation, urgency
+- [[SRC-034-social-media-storytelling|SRC-034]]: Social Media Storytelling
 <!-- backlinks:end -->

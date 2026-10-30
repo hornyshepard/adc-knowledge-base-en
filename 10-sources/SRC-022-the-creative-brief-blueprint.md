@@ -14,94 +14,94 @@ level: 2
 
 # The Creative Brief Blueprint
 
-**Kevin McTigue și Derek D. Rucker, 2021.** Publicată de autori (ISBN 978-1-09838-075-5); editura nu este numită în text. Ambii autori predau la Kellogg School of Management (Northwestern): McTigue are 20 de ani de brand management și agenție (JWT, BBDO, SapientRazorfish), Rucker este psiholog social, specialist în persuasiune.
+**Kevin McTigue and Derek D. Rucker, 2021.** Published by the authors (ISBN 978-1-09838-075-5); no publisher is named in the text. Both authors teach at the Kellogg School of Management (Northwestern): McTigue has 20 years of brand management and agency work (JWT, BBDO, SapientRazorfish), and Rucker is a social psychologist who specializes in persuasion.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual scurt (~36.000 de cuvinte) despre cum scrie clientul un brief creativ. Fiecare capitol tratează o componentă a brief-ului în aceeași structură: valoarea pentru client și agenție, de ce eșuează brandurile, revizuirea unui brief-exemplu (firma fictivă Stark Cloud Solutions) și „mituri și întrebări".
-- **Teza centrală:** tacticile se schimbă mereu, strategia e constanta; cea mai eficientă formă de a captura strategia este un brief de o pagină cu șase componente: obiectiv, țintă, insight, poziționare, execuție, măsurare.
-- **Pentru cine și când:** studenți la strategie/account planning și oricine va scrie sau va primi brief-uri; de citit la începutul modulului BRF, apoi recitit înainte de primul feedback dat unei echipe creative.
-- **Relevanță pentru ADC:** ★★★★★ (5) — foarte practic, clar, cu exemple concrete (Tesla, Old Spice, Snickers, Orbit, Blackberry) și instrumente numite (Own–Attract–Accept, scara beneficiilor, ADPLAN). Limită: perspectiva este a clientului; creativul vede doar ce primește.
+- **What it is about:** a short handbook (about 36,000 words) on how the client writes a creative brief. Each chapter covers one component of the brief in the same structure: the value for the client and the agency, why brands fail, a revision of a sample brief (the fictional company Stark Cloud Solutions) and "myths, misconceptions, and other questions".
+- **Central thesis:** tactics keep changing, strategy is the constant; the most effective way to capture strategy is a one-page brief with six components: objective, target, insight, positioning, execution, measurement.
+- **For whom and when:** strategy and account planning students and anyone who will write or receive briefs; read it at the start of the BRF module, then reread it before giving feedback to a creative team for the first time.
+- **Relevance for ADC:** ★★★★★ (5): very practical and clear, with concrete examples (Tesla, Old Spice, Snickers, Orbit, Blackberry) and named tools (Own-Attract-Accept, the benefit ladder, ADPLAN). Limit: the perspective is the client's; the creative sees only what they receive.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Why — ce este și la ce folosește brief-ul | [[BRF-001-brief-ul-creativ-este-planul-de-arhitect-al-executiei-harta\|BRF-001]], [[BRF-005-brief-ul-mctigue-rucker-are-sase-componente-si-incape-pe-o\|BRF-005]], [[BRF-002-brief-ul-ingradeste-curtea-constrangerea-strategica-le-da\|BRF-002]], [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput\|CLI-003]] |
-| 2 | Objectives — obiectiv de business vs. de comunicare | [[BRF-007-obiectivul-din-brief-este-unul-de-comunicare-specific\|BRF-007]] |
-| 3 | Target — segmentare, targetare, trei erori | [[BRF-008-targetarea-inseamna-prioritizare-trei-erori-tipice-si-tinta\|BRF-008]] |
-| 4 | Insights — adevărul uman semnificativ | [[INS-092-insight-ul-este-un-adevar-uman-semnificativ-trebuie-sa\|INS-092]], [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator\|INS-093]] |
-| 5 | Positioning — declarația de poziționare, scara beneficiilor | [[BRF-009-declaratia-de-pozitionare-din-brief-tinta-cadru-de\|BRF-009]], [[BRF-011-scara-beneficiilor-urca-de-la-atribute-la-beneficii\|BRF-011]], [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata\|BRF-012]], [[BRF-027-dezbatere-beneficiul-emotional-nu-e-automat-superior-celui\|BRF-027]] |
-| 6 | Execution — personalitate, mandatories, timing/buget, media | [[BRF-013-sectiunea-de-executie-a-brief-ului-are-patru-piloni\|BRF-013]], [[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand\|ART-019]] |
-| 7 | Measurement — ce măsori și când testezi | [[BRF-014-masurarea-se-scrie-in-brief-inainte-de-campanie-iar\|BRF-014]] |
-| 8 | Agency Relationships and Creative Feedback | [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii\|BRF-025]], [[BRF-026-adplan-sase-intrebari-pentru-o-executie-care-e-on-brief-dar\|BRF-026]], [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput\|CLI-003]] |
-| toate | Cazul Stark Cloud Solutions, revizuit capitol cu capitol | [[BRF-015-cazul-stark-cloud-solutions-cum-devine-un-brief-bun-unul\|BRF-015]] |
+| 1 | Why: what the brief is and what it is for | [[BRF-001-the-creative-brief-is-the-blueprint-for-the-execution-a\|BRF-001]], [[BRF-005-the-mctigue-and-rucker-brief-has-six-components-and-fits-on\|BRF-005]], [[BRF-002-the-brief-fences-in-the-yard-strategic-constraint-gives\|BRF-002]], [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start\|CLI-003]] |
+| 2 | Objectives: business objective vs. communication objective | [[BRF-007-the-objective-in-the-brief-is-a-communication-objective\|BRF-007]] |
+| 3 | Target: segmentation, targeting, three errors | [[BRF-008-targeting-means-prioritization-three-typical-errors-and-the\|BRF-008]] |
+| 4 | Insights: the meaningful human truth | [[INS-092-an-insight-is-a-meaningful-human-truth-and-has-to-pass\|INS-092]], [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising\|INS-093]] |
+| 5 | Positioning: the positioning statement, the benefit ladder | [[BRF-009-the-positioning-statement-in-the-brief-target-frame-of\|BRF-009]], [[BRF-011-the-benefit-ladder-climbs-from-features-to-emotional\|BRF-011]], [[BRF-012-one-benefit-not-five-an-overpacked-position-blocks-the\|BRF-012]], [[BRF-027-debate-the-emotional-benefit-is-not-automatically-better\|BRF-027]] |
+| 6 | Execution: personality, mandatories, timing/budget, media | [[BRF-013-the-execution-section-of-the-brief-has-four-pillars\|BRF-013]], [[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear\|ART-019]] |
+| 7 | Measurement: what you measure and when you test | [[BRF-014-measurement-is-written-into-the-brief-before-the-campaign\|BRF-014]] |
+| 8 | Agency Relationships and Creative Feedback | [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i\|BRF-025]], [[BRF-026-adplan-six-questions-for-an-execution-that-is-on-brief-but\|BRF-026]], [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start\|CLI-003]] |
+| all | The Stark Cloud Solutions case, revised chapter by chapter | [[BRF-015-the-stark-cloud-solutions-case-how-a-good-brief-becomes-a\|BRF-015]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[BRF-001-brief-ul-creativ-este-planul-de-arhitect-al-executiei-harta|BRF-001]] — brief-ul ca plan de arhitect: hartă pentru creație și criteriu de evaluare.
-- [[BRF-005-brief-ul-mctigue-rucker-are-sase-componente-si-incape-pe-o|BRF-005]] — cele șase componente, pe o singură pagină.
-- [[BRF-007-obiectivul-din-brief-este-unul-de-comunicare-specific|BRF-007]] — obiectivul de comunicare: specific, falsificabil, legat de bariera principală.
-- [[BRF-008-targetarea-inseamna-prioritizare-trei-erori-tipice-si-tinta|BRF-008]] — targetarea ca prioritizare: trei erori și ținta Own–Attract–Accept.
-- [[INS-092-insight-ul-este-un-adevar-uman-semnificativ-trebuie-sa|INS-092]] și [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — insight-ul ca adevăr uman semnificativ și drumul de la „ce" la „de ce".
-- [[BRF-009-declaratia-de-pozitionare-din-brief-tinta-cadru-de|BRF-009]], [[BRF-011-scara-beneficiilor-urca-de-la-atribute-la-beneficii|BRF-011]], [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata|BRF-012]] — declarația de poziționare, scara beneficiilor, un singur beneficiu.
-- [[BRF-027-dezbatere-beneficiul-emotional-nu-e-automat-superior-celui|BRF-027]] — dezbaterea emoțional vs. funcțional (cu Braun & Landa).
-- [[BRF-013-sectiunea-de-executie-a-brief-ului-are-patru-piloni|BRF-013]] și [[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand|ART-019]] — secțiunea de execuție; elementele de brand și testul „unui singur perete".
-- [[BRF-014-masurarea-se-scrie-in-brief-inainte-de-campanie-iar|BRF-014]] — măsurarea scrisă înainte de campanie; când merită testat.
-- [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii|BRF-025]], [[BRF-026-adplan-sase-intrebari-pentru-o-executie-care-e-on-brief-dar|BRF-026]] — feedback în patru categorii; grila ADPLAN.
-- [[BRF-002-brief-ul-ingradeste-curtea-constrangerea-strategica-le-da|BRF-002]] — brief-ul „îngrădește curtea".
-- [[BRF-015-cazul-stark-cloud-solutions-cum-devine-un-brief-bun-unul|BRF-015]] — cazul Stark, de la brief „bun" la brief excelent.
-- [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput|CLI-003]] — clientul bun primește munca bună.
+- [[BRF-001-the-creative-brief-is-the-blueprint-for-the-execution-a|BRF-001]]: the brief as an architect's blueprint: a map for the creative work and a criterion for evaluating it.
+- [[BRF-005-the-mctigue-and-rucker-brief-has-six-components-and-fits-on|BRF-005]]: the six components, on a single page.
+- [[BRF-007-the-objective-in-the-brief-is-a-communication-objective|BRF-007]]: the communication objective: specific, falsifiable, tied to the main barrier.
+- [[BRF-008-targeting-means-prioritization-three-typical-errors-and-the|BRF-008]]: targeting as prioritization: three errors and the Own-Attract-Accept target.
+- [[INS-092-an-insight-is-a-meaningful-human-truth-and-has-to-pass|INS-092]] and [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising|INS-093]]: the insight as a meaningful human truth, and the path from "what" to "why".
+- [[BRF-009-the-positioning-statement-in-the-brief-target-frame-of|BRF-009]], [[BRF-011-the-benefit-ladder-climbs-from-features-to-emotional|BRF-011]], [[BRF-012-one-benefit-not-five-an-overpacked-position-blocks-the|BRF-012]]: the positioning statement, the benefit ladder, a single benefit.
+- [[BRF-027-debate-the-emotional-benefit-is-not-automatically-better|BRF-027]]: the debate between emotional and functional (with Braun & Landa).
+- [[BRF-013-the-execution-section-of-the-brief-has-four-pillars|BRF-013]] and [[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear|ART-019]]: the execution section; brand elements and the "one wall test".
+- [[BRF-014-measurement-is-written-into-the-brief-before-the-campaign|BRF-014]]: measurement written before the campaign; when testing is worth it.
+- [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i|BRF-025]], [[BRF-026-adplan-six-questions-for-an-execution-that-is-on-brief-but|BRF-026]]: feedback in four categories; the ADPLAN grid.
+- [[BRF-002-the-brief-fences-in-the-yard-strategic-constraint-gives|BRF-002]]: the brief "fences in the yard".
+- [[BRF-015-the-stark-cloud-solutions-case-how-a-good-brief-becomes-a|BRF-015]]: the Stark case, from a "good" brief to an excellent one.
+- [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start|CLI-003]]: the good client gets good work.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Brief-urile Stark (versiunile inițiale și revizuite) apar în carte ca imagini; în copia text lipsesc, iar conținutul lor se deduce doar din comentariile autorilor.
-- Majoritatea exemplelor sunt americane și din bunuri de larg consum; puține din digital/social nativ, deși autorii insistă că brief-ul contează mai mult în era digitală.
-- Afirmațiile se sprijină pe experiența autorilor și pe anecdote din consultanță, rareori pe studii citate (excepții: von Restorff, Binet & Field 60/40).
-- Perspectiva e a clientului; brief-ul intern de agenție (planner → creație) e tratat doar tangențial.
-- Nu discută brief-uri pentru idei care nu sunt „reclame" (activări, produse, parteneriate) — acolo vezi Braun & Landa ([[SRC-025-shareworthy|SRC-025]]).
+- The Stark briefs (the initial and revised versions) appear in the book as images; they are missing from the text copy, and their content can only be inferred from the authors' comments.
+- Most examples are American and from consumer packaged goods; few come from digital or native social, although the authors insist that the brief matters more in the digital era.
+- The claims rest on the authors' experience and on consulting anecdotes, rarely on cited studies (exceptions: von Restorff, Binet & Field 60/40).
+- The perspective is the client's; the internal agency brief (planner → creative) is covered only in passing.
+- It does not discuss briefs for ideas that are not "ads" (activations, products, partnerships): for those, see Braun & Landa ([[SRC-025-shareworthy|SRC-025]]).
 
-## Citat
+## Quote
 
-> „I want the client to fence in the yard." — un copywriter citat de autori, cap. 1 „Why"
+> "I want the client to fence in the yard." (a copywriter quoted by the authors, ch. 1, "Why")
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-001-publicitatea-intoarce-omul-spre-brand-pe-termen-lung|ADV-001]] — Publicitatea „întoarce" omul spre brand pe termen lung, promoția „mișcă înainte" vânzarea acum, și nu are nevoie de un stimulent
-- [[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand|ART-019]] — Testul „unui singur perete" — toate materialele unui brand trebuie să pară din aceeași sursă
-- [[BRD-006-declaratia-de-pozitionare-are-patru-elemente-tinta-cadru|BRD-006]] — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- [[BRD-014-harta-de-pozitionare-se-face-in-patru-pasi-iar-pozitionarea|BRD-014]] — Harta de poziționare se face în patru pași, iar poziționarea aleasă trece șase teste — clară, pertinentă, distinctivă, coerentă, atractivă, durabilă
-- [[BRF-001-brief-ul-creativ-este-planul-de-arhitect-al-executiei-harta|BRF-001]] — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
-- [[BRF-002-brief-ul-ingradeste-curtea-constrangerea-strategica-le-da|BRF-002]] — Brief-ul „îngrădește curtea" — constrângerea strategică le dă creativilor de unde să pornească
-- [[BRF-005-brief-ul-mctigue-rucker-are-sase-componente-si-incape-pe-o|BRF-005]] — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
-- [[BRF-007-obiectivul-din-brief-este-unul-de-comunicare-specific|BRF-007]] — Obiectivul din brief este unul de comunicare — specific, falsificabil și legat de bariera principală
-- [[BRF-008-targetarea-inseamna-prioritizare-trei-erori-tipice-si-tinta|BRF-008]] — Targetarea înseamnă prioritizare — trei erori tipice și ținta Own–Attract–Accept
-- [[BRF-009-declaratia-de-pozitionare-din-brief-tinta-cadru-de|BRF-009]] — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
-- [[BRF-011-scara-beneficiilor-urca-de-la-atribute-la-beneficii|BRF-011]] — Scara beneficiilor urcă de la atribute la beneficii emoționale, iar beneficiul ales trebuie să treacă patru teste
-- [[BRF-012-un-singur-beneficiu-nu-cinci-pozitionarea-supraincarcata|BRF-012]] — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
-- [[BRF-013-sectiunea-de-executie-a-brief-ului-are-patru-piloni|BRF-013]] — Secțiunea de execuție a brief-ului are patru piloni — personalitate, mandatories, timing și buget, media
-- [[BRF-014-masurarea-se-scrie-in-brief-inainte-de-campanie-iar|BRF-014]] — Măsurarea se scrie în brief înainte de campanie, iar testarea se justifică prin incertitudine și miză
-- [[BRF-015-cazul-stark-cloud-solutions-cum-devine-un-brief-bun-unul|BRF-015]] — Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune
-- [[BRF-021-modelele-de-brief-de-agentie-au-acelasi-nucleu-dar-fiecare|BRF-021]] — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
-- [[BRF-023-zece-semnale-de-alarma-intr-un-brief-de-la-obiectivul-care|BRF-023]] — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
-- [[BRF-024-primirea-brief-ului-il-reduci-la-esenta-il-verifici-pe|BRF-024]] — Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
-- [[BRF-025-feedback-ul-la-creatie-se-organizeaza-in-patru-categorii|BRF-025]] — Feedback-ul la creație se organizează în patru categorii — iubesc, îmi place, întrebări, semnale roșii
-- [[BRF-026-adplan-sase-intrebari-pentru-o-executie-care-e-on-brief-dar|BRF-026]] — ADPLAN — șase întrebări pentru o execuție care e „on brief" dar tot poate eșua
-- [[BRF-027-dezbatere-beneficiul-emotional-nu-e-automat-superior-celui|BRF-027]] — Dezbatere — beneficiul emoțional nu e automat superior celui funcțional
-- [[CLI-002-account-managerul-vinde-in-ambele-directii-munca-agentiei|CLI-002]] — Account managerul vinde în ambele direcții — munca agenției către client și problema clientului către echipă
-- [[CLI-003-clientul-bun-primeste-munca-buna-aliniere-de-la-inceput|CLI-003]] — Clientul bun primește munca bună — aliniere de la început, încredere și risc strategic
-- [[CLI-013-competitia-de-agentii-costa-scump-ambele-parti-se-califica|CLI-013]] — Competiția de agenții costă scump ambele părți — se califică, se cadrează contractual și are un singur câștigător
-- [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii|CLI-014]] — Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare
-- [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]] — Clientul își organizează creația în casă, cu o agenție parteneră sau cu un roster de agenții — iar criteriul corect e eficacitatea muncii, nu costul
-- [[CPY-005-un-singur-motiv-bun-bate-o-lista-de-37-maximum-trei|CPY-005]] — Un singur motiv bun bate o listă de 37 — maximum trei argumente de suport, pentru că cel mai slab devine ținta contraargumentelor
-- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
-- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
-- [[IDE-025-dezbatere-socul-este-cea-mai-puternica-arma-de-atentie-sau|IDE-025]] — Dezbatere — șocul este cea mai puternică armă de atenție sau cel mai mare risc de reacție negativă?
-- [[INS-092-insight-ul-este-un-adevar-uman-semnificativ-trebuie-sa|INS-092]] — Insight-ul este un adevăr uman semnificativ — trebuie să treacă testul sensului, al omului și al adevărului
-- [[INS-093-insight-ul-se-gaseste-tragand-de-firul-unui-ce-surprinzator|INS-093]] — Insight-ul se găsește trăgând de firul unui „ce" surprinzător — o fricțiune, o contradicție, un gest ciudat — până la „de ce"
-- [[INS-095-checklist-ul-insight-ului-opt-verificari-inainte-ca-un|INS-095]] — Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief
-- [[PIT-034-prezentarea-muncii-creative-la-client-are-un-ritual|PIT-034]] — Prezentarea muncii creative la client are un ritual — strategia recitită, ideea dezvăluită, întrebări în loc de soluții, pasul următor cerut
-- [[SRC-023-modele-de-brief-de-agentie|SRC-023]] — Modele de brief de agenție (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
-- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] — The A–Z of Visual Ideas: How to Solve Any Creative Brief
+- [[ADV-001-advertising-turns-people-toward-the-brand-over-the-long|ADV-001]]: Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive
+- [[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear|ART-019]]: The "one wall test": all the materials of a brand must appear to come from the same source
+- [[BRD-006-the-positioning-statement-has-four-elements-target-frame-of|BRD-006]]: The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- [[BRD-014-the-positioning-map-is-made-in-four-steps-and-the-chosen|BRD-014]]: The positioning map is made in four steps, and the chosen positioning passes six tests: clear, pertinent, distinctive, coherent, attractive, durable
+- [[BRF-001-the-creative-brief-is-the-blueprint-for-the-execution-a|BRF-001]]: The creative brief is the blueprint for the execution: a road map for the creative work and a criterion for evaluating it
+- [[BRF-002-the-brief-fences-in-the-yard-strategic-constraint-gives|BRF-002]]: The brief "fences in the yard": strategic constraint gives creatives a place to start
+- [[BRF-005-the-mctigue-and-rucker-brief-has-six-components-and-fits-on|BRF-005]]: The McTigue and Rucker brief has six components and fits on a single page
+- [[BRF-007-the-objective-in-the-brief-is-a-communication-objective|BRF-007]]: The objective in the brief is a communication objective: specific, falsifiable and tied to the main barrier
+- [[BRF-008-targeting-means-prioritization-three-typical-errors-and-the|BRF-008]]: Targeting means prioritization: three typical errors and the Own–Attract–Accept bull's-eye
+- [[BRF-009-the-positioning-statement-in-the-brief-target-frame-of|BRF-009]]: The positioning statement in the brief: target, frame of reference, point of difference, reason to believe
+- [[BRF-011-the-benefit-ladder-climbs-from-features-to-emotional|BRF-011]]: The benefit ladder climbs from features to emotional benefits, and the chosen benefit has to pass four tests
+- [[BRF-012-one-benefit-not-five-an-overpacked-position-blocks-the|BRF-012]]: One benefit, not five: an overpacked position blocks the creative idea
+- [[BRF-013-the-execution-section-of-the-brief-has-four-pillars|BRF-013]]: The execution section of the brief has four pillars: personality, mandatories, timing and budget, media
+- [[BRF-014-measurement-is-written-into-the-brief-before-the-campaign|BRF-014]]: Measurement is written into the brief before the campaign, and testing is justified by uncertainty and stakes
+- [[BRF-015-the-stark-cloud-solutions-case-how-a-good-brief-becomes-a|BRF-015]]: The Stark Cloud Solutions case: how a "good" brief becomes a great one, section by section
+- [[BRF-021-agency-brief-models-share-the-same-core-but-each-one|BRF-021]]: Agency brief models share the same core, but each one optimizes something else: inspiration, conciseness, context, process or evidence
+- [[BRF-023-ten-red-flags-in-a-brief-from-an-objective-that-is-not|BRF-023]]: Ten red flags in a brief: from an objective that is not falsifiable to measurement decided after the campaign
+- [[BRF-024-receiving-the-brief-you-reduce-it-to-its-essence-check-it|BRF-024]]: Receiving the brief: you reduce it to its essence, check it component by component, ask the naive questions and agree any change in writing
+- [[BRF-025-creative-feedback-is-organized-in-four-categories-things-i|BRF-025]]: Creative feedback is organized in four categories: things I love, things I like, questions, red flags
+- [[BRF-026-adplan-six-questions-for-an-execution-that-is-on-brief-but|BRF-026]]: ADPLAN: six questions for an execution that is on brief but can still fail
+- [[BRF-027-debate-the-emotional-benefit-is-not-automatically-better|BRF-027]]: Debate: the emotional benefit is not automatically better than the functional one
+- [[CLI-002-the-account-manager-sells-in-both-directions-the-agency-s|CLI-002]]: The account manager sells in both directions: the agency's work to the client and the client's problem to the team
+- [[CLI-003-the-good-client-gets-the-good-work-alignment-from-the-start|CLI-003]]: The good client gets the good work: alignment from the start, trust and strategic risk
+- [[CLI-013-an-agency-competition-is-expensive-for-both-sides-it-is|CLI-013]]: An agency competition is expensive for both sides: it is qualified, framed by contract and has only one winner
+- [[CLI-014-the-agency-sells-its-people-s-time-an-unclear-brief-eats|CLI-014]]: The agency sells its people's time: an unclear brief eats its margin, and modern compensation ties the bonus to communication objectives
+- [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an|CLI-015]]: The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost
+- [[CPY-005-one-good-reason-beats-a-list-of-37-at-most-three-support|CPY-005]]: One good reason beats a list of 37: at most three support points, because the weakest becomes the target of counterarguments
+- [[IDE-009-volume-comes-before-quality-the-good-idea-comes-out-of-a|IDE-009]]: Volume comes before quality: the good idea comes out of a large number of attempts, most of them bad
+- [[IDE-023-idea-evaluation-grids-converge-on-three-questions-does-it|IDE-023]]: Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
+- [[IDE-025-debate-is-shock-the-most-powerful-weapon-for-attention-or|IDE-025]]: Debate: is shock the most powerful weapon for attention or the biggest risk of a negative reaction?
+- [[INS-092-an-insight-is-a-meaningful-human-truth-and-has-to-pass|INS-092]]: An insight is a meaningful human truth and has to pass three tests: meaningful, human, true
+- [[INS-093-an-insight-is-found-by-pulling-the-thread-of-a-surprising|INS-093]]: An insight is found by pulling the thread of a surprising "what" (a friction, a contradiction, an odd gesture) until you reach the "why"
+- [[INS-095-the-insight-checklist-eight-checks-before-a-truth-about-the|INS-095]]: The insight checklist: eight checks before a "truth about the target" goes into the brief
+- [[PIT-034-presenting-creative-work-to-the-client-follows-a-ritual-the|PIT-034]]: Presenting creative work to the client follows a ritual: the strategy reread, the idea revealed, questions instead of solutions, the next step asked for
+- [[SRC-023-agency-brief-models-euro-rscg-get-to-by-naked-red-cell|SRC-023]]: Agency brief models (Euro RSCG, Get/To/By, Naked, Red Cell, Singleton Ogilvy & Mather)
+- [[SRC-024-the-a-z-of-visual-ideas|SRC-024]]: The A–Z of Visual Ideas: How to Solve Any Creative Brief
 <!-- backlinks:end -->

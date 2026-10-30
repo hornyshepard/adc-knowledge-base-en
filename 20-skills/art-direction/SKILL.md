@@ -1,233 +1,233 @@
 ---
 name: art-direction
-description: Direcție artistică și identitate vizuală — cum e privită o reclamă (imagine, culoare, tipografie, privire), tehnici de idee vizuală pentru campanii, designul de brand și procesul de logo, sistemele de identitate, consecvența și redesignul, ambalajul, plus lecțiile vizuale ale reclamelor clasice și persuasiunea implicită a imaginii. Folosește când faci sau critici un layout, un key visual, un banner ori un storyboard, când proiectezi sau auditezi un logo și un sistem de identitate, când alegi o paletă sau un ambalaj, ori când decizi dacă un redesign e evoluție sau revoluție.
+description: Art direction and visual identity. How an ad is looked at (image, color, typography, gaze), visual idea techniques for campaigns, brand design and the logo process, identity systems, consistency and redesign, packaging, plus the visual lessons of classic ads and the implicit persuasion of the image. Use when you make or critique a layout, a key visual, a banner or a storyboard, when you design or audit a logo and an identity system, when you choose a palette or a package, or when you decide whether a redesign is evolution or revolution.
 code: ART
 domain: D2
 type: skill
 ---
 
-# Direcție artistică și identitate vizuală (ART)
+# Art direction and visual identity (ART)
 
-## Ce înseamnă să stăpânești acest skill
+## What mastering this skill means
 
-Competențe observabile („poți să…"):
+Observable competencies ("you can…"):
 
-- **C1** Poți construi un layout în care imaginea e văzută prima, are un singur punct focal și duce privirea spre produs și text.
-- **C2** Poți alege culoarea, tipografia și simbolurile după sarcina lor (poveste, diferență, motivație) și după cultura publicului, nu după gust.
-- **C3** Poți genera idei vizuale de campanie cu tehnici numite (demonstrația vizuală, imaginea dominantă, schimbarea de scară, dezvăluirea, mijloacele minime).
-- **C4** Poți conduce procesul unui logo, de la asocierile-țintă și lista de substantive la 50 de schițe, semne alb-negru și un sistem modular.
-- **C5** Poți audita consecvența unui brand pe toate materialele și poți separa elementele de păstrat de cele care se pot schimba.
-- **C6** Poți decide, cu argumente și cazuri, când un redesign de logo sau de ambalaj trebuie să fie evoluție și când revoluție.
-- **C7** Poți adapta vizualul la formate digitale și la piețe culturale diferite și poți semnala ce sugerează o imagine fără să spună explicit.
+- **C1** You can build a layout in which the image is seen first, has a single focal point and leads the eye to the product and the text.
+- **C2** You can choose color, typography and symbols by their task (story, difference, motivation) and by the audience's culture, not by taste.
+- **C3** You can generate visual campaign ideas with named techniques (the visual demonstration, the dominant image, rescaling, the reveal, minimum means).
+- **C4** You can lead the process of a logo, from the target associations and the noun list to 50 sketches, black-and-white marks and a modular system.
+- **C5** You can audit the consistency of a brand across all its materials and separate the elements to keep from those that can change.
+- **C6** You can decide, with arguments and cases, when a logo or packaging redesign should be evolution and when revolution.
+- **C7** You can adapt the visual to digital formats and to different cultural markets, and point out what an image suggests without saying it explicitly.
 
-## Harta notelor (traseu de învățare)
+## Note map (learning path)
 
-### 1. Cum e privită o reclamă — imagine, culoare, tipografie, privire
-- [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]] — imaginea mare, colorată, concretă, văzută înaintea textului — regulile de bază ale atenției vizuale, din cercetare
-- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — culoarea spune povestea, diferențiază și motivează — cum se alege o paletă
-- [[ART-003-simbolurile-icoanele-si-gesturile-comunica-instant-pentru|ART-003]] — simbolurile, icoanele și gesturile comunică instant — limbajul vizual comun și limitele lui culturale
-- [[ART-004-tipografia-este-distributia-de-actori-a-cuvintelor-iar|ART-004]] — tipografia ca distribuție de actori; tensiunea cuvânt–imagine — relația cu copywriterul
-- [[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la|ART-005]] — privirea modelului duce atenția — un detaliu de compoziție cu efect măsurabil
+### 1. How an ad is looked at: image, color, typography, gaze
+- [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]] the large, colored, concrete image, seen before the text: the basic rules of visual attention, from research
+- [[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]] color tells the story, differentiates and motivates: how a palette is chosen
+- [[ART-003-symbols-icons-and-gestures-communicate-instantly-because|ART-003]] symbols, icons and gestures communicate instantly: the shared visual language and its cultural limits
+- [[ART-004-typography-is-the-casting-of-the-words-and-word-and-image|ART-004]] typography as casting; the word-image tension: the relationship with the copywriter
+- [[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to|ART-005]] the model's gaze directs attention: a detail of composition with a measurable effect
 
-### 2. Ideea vizuală de campanie
-- [[ART-006-strategy-visual-demonstratia-vizuala-a-promisiunii-e|ART-006]] — „strategy visual": demonstrația vizuală a promisiunii — Graalul reclamei, idealul titlului fără cuvinte
-- [[ART-007-o-singura-imagine-dominanta-poate-spune-povestea-daca|ART-007]] — o singură imagine dominantă poate spune povestea — lecția clasicilor, cu obiecția lui Ogilvy
-- [[ART-008-schimbarea-de-scara-si-imaginea-construita-din-multe|ART-008]] — schimbarea de scară și imaginea din elemente mici — prima tehnică din repertoriul Ingledew
-- [[ART-009-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta-si|ART-009]] — dezvăluirea: umbră, radiografie, imagine ruptă, siluetă — privitorul descoperă singur mesajul
-- [[ART-010-garage-genius-mijloace-minime-impact-maxim-lipsa-bugetului|ART-010]] — „garage genius": mijloace minime, impact maxim — ideea mare cu buget mic
+### 2. The visual campaign idea
+- [[ART-006-the-strategy-visual-a-visual-demonstration-of-the-promise|ART-006]] the "strategy visual", the visual demonstration of the promise: advertising's holy grail, the ideal of a headline without words
+- [[ART-007-a-single-dominant-image-can-tell-the-story-if-the-copy|ART-007]] a single dominant image can tell the story: the lesson of the classics, with Ogilvy's objection
+- [[ART-008-rescaling-and-the-image-built-from-many-small-elements|ART-008]] rescaling and the image built from small elements: the first technique in Ingledew's repertoire
+- [[ART-009-the-reveal-shadows-x-rays-torn-images-silhouettes-and|ART-009]] the reveal (shadows, X-rays, torn images, silhouettes): viewers discover the message for themselves
+- [[ART-010-garage-genius-minimum-means-maximum-impact-no-budget-forces|ART-010]] "garage genius", minimum means, maximum impact: the big idea on a small budget
 
-### 3. Identitatea vizuală — de la asociații la semn
-- [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]] — designul de brand lucrează în Sistemul 1, pornind de la 3–4 asociații — brief-ul oricărui proiect de identitate
-- [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] — cele 12 tipuri de indicii ale designului de brand — checklist-ul de audit al identității
-- [[ART-013-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-013]] — logo-ul durează prin zece piloni — ce poate și ce nu poate controla designerul
-- [[ART-014-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-014]] — lista de substantive stabilește subiectul logo-ului — primul pas al procesului
-- [[ART-015-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-015]] — cinci tehnici de a combina două substantive într-un semn — sursa originalității
-- [[ART-016-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-016]] — procesul de brand mark: 50 de schițe înainte de finisare — metoda de lucru și prezentarea alb-negru
+### 3. Visual identity: from associations to the mark
+- [[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target|ART-011]] brand design works in System 1, starting from 3–4 associations: the brief for any identity project
+- [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues|ART-012]] the 12 types of brand design cues: the identity audit checklist
+- [[ART-013-a-logo-lasts-through-ten-pillars-seven-of-which-the|ART-013]] a logo lasts through ten pillars: what the designer can and cannot control
+- [[ART-014-the-brand-noun-list-sets-the-subject-of-the-logo-before-the|ART-014]] the noun list sets the subject of the logo: the first step of the process
+- [[ART-015-five-techniques-for-combining-two-nouns-into-one-original|ART-015]] five techniques for combining two nouns into one mark: the source of originality
+- [[ART-016-the-brand-mark-process-fifty-sketches-before-any-polish|ART-016]] the brand mark process, 50 sketches before polish: the working method and the black-and-white presentation
 
-### 4. Sistemul de identitate în timp — consecvență, redesign, ambalaj
-- [[ART-017-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-017]] — sistemul modular: semn, logo orizontal, vertical, badge — familia de versiuni
-- [[ART-018-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-018]] — ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere — gramatica vizuală a brandului
-- [[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand|ART-019]] — testul „unui singur perete" — auditul consecvenței pe toate materialele
-- [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]] — hardware iconic de păstrat, software dinamic de schimbat — ce rămâne fix și ce variază
-- [[ART-021-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-021]] — redesignul unui logo: evoluție, nu revoluție — auditul „funcționează / nu funcționează"
-- [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]] — cazul Tropicana: redesignul care a șters recunoașterea — cazul-avertisment
-- [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare|ART-023]] — ambalajul se proiectează și pentru după cumpărare — forma ca indiciu și beneficiul repetat la fiecare folosire
+### 4. The identity system over time: consistency, redesign, packaging
+- [[ART-017-a-modular-identity-system-has-a-brand-mark-a-horizontal|ART-017]] the modular system (brand mark, horizontal logo, vertical logo, badge): the family of versions
+- [[ART-018-the-geometric-dna-of-the-brand-mark-extends-into-patterns|ART-018]] the geometric DNA of the mark extends into patterns, icons and letterforms: the brand's visual grammar
+- [[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear|ART-019]] the "one wall test": the consistency audit across all materials
+- [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to|ART-020]] iconic hardware to keep, dynamic software to change: what stays fixed and what varies
+- [[ART-021-a-logo-redesign-should-be-an-evolution-not-a-revolution|ART-021]] a logo redesign, evolution not revolution: the "working / not working" audit
+- [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the|ART-022]] the Tropicana case, the redesign that erased recognition: the cautionary case
+- [[ART-023-packaging-is-also-designed-for-its-life-after-purchase-its|ART-023]] packaging is also designed for after purchase: its shape as a cue and the benefit repeated with every use
 
-### 5. Lecții din istoria direcției artistice
-- [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul|ART-024]] — layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin, „epoca repetiției"
-- [[ART-025-arta-plastica-a-intrat-in-reclama-prin-afis-si-prin-bubbles|ART-025]] — arta plastică intră în reclamă prin afiș și „Bubbles" — începutul reclamei de imagine
-- [[ART-026-marlboro-repozitionarea-unui-brand-feminin-printr-o-singura|ART-026]] — Marlboro: repoziționarea unui brand printr-o imagine — imaginea și layoutul ca strategie
+### 5. Lessons from the history of art direction
+- [[ART-024-the-advertising-layout-was-invented-under-constraints|ART-024]] the advertising layout was invented under constraints: Franklin's white space, the "Age of Repetition"
+- [[ART-025-fine-art-entered-advertising-through-the-poster-and-through|ART-025]] fine art enters advertising through the poster and "Bubbles": the beginning of the image ad
+- [[ART-026-marlboro-repositioning-a-feminine-brand-through-a-single|ART-026]] Marlboro, repositioning a brand through one image: image and layout as strategy
 
-### 6. Canale, culturi și persuasiunea implicită (avansat)
-- [[ART-027-bannerul-eficient-e-scurt-congruent-cu-pagina-emotional-cu|ART-027]] — bannerul eficient: scurt, congruent, emoțional, cu animație dozată — direcția artistică pentru display
-- [[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale|ART-028]] — schemele biologice: perspectivă și refugiu — imaginea pentru campanii între culturi
-- [[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si|ART-029]] — imaginea persuadează pentru că nu are sintaxă (Messaris) — puterea și latura etică a sugestiei vizuale
+### 6. Channels, cultures and implicit persuasion (advanced)
+- [[ART-027-an-effective-banner-is-short-congruent-with-the-page|ART-027]] the effective banner (short, congruent, emotional, with measured animation): art direction for display
+- [[ART-028-when-the-target-audience-does-not-share-the-same-cultural|ART-028]] biological schemas, prospect and refuge: the image for campaigns across cultures
+- [[ART-029-the-image-persuades-through-iconicity-indexicality-and-the|ART-029]] the image persuades because it lacks an explicit syntax (Messaris): the power and the ethical side of visual suggestion
 
-## Surse principale
+## Main sources
 
-| Sursă | Pentru ce | Relevanță |
+| Source | What for | Relevance |
 |---|---|---|
-| [[SRC-017-logos-that-last\|SRC-017]] Peters, *Logos That Last* | procesul de logo, pilonii semnului durabil, sisteme, extensii, redesign, culoare | ★★★★☆ |
-| [[SRC-024-the-a-z-of-visual-ideas\|SRC-024]] Ingledew, *The A–Z of Visual Ideas* | repertoriul de tehnici vizuale și cultura vizuală (Games, Fukuda, Saatchi) | ★★★★☆ |
-| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | tacticile vizuale din cercetare, culoarea, scheme culturale, Messaris, ambalajul | ★★★★★ |
-| [[SRC-014-kellogg-on-branding\|SRC-014]] Tybout & Calkins (ed.), *Kellogg on Branding* | designul de brand în Sistemul 1 (Calder), cele 12 indicii, cazul Tropicana | ★★★★★ |
-| [[SRC-028-the-100-greatest-advertisements-1852-1958\|SRC-028]] Watkins, *The 100 Greatest Advertisements* | imaginea dominantă la clasici, Marlboro, ilustratorii-vedetă | ★★★★☆ |
-| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | istoria layoutului, a afișului și a artei în reclamă | ★★★★☆ |
-| [[SRC-012-the-psychology-of-advertising\|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* | eye-tracking, direcția privirii, plasarea în pagină | ★★★★★ |
-| [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy\|SRC-016]] McCarthy & McAndrew, *Goddess Guide to Branding* | hardware/software de brand (Turner Duckworth), interviul despre culoare | ★★★☆☆ |
-| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | „strategy visual", demonstrația onestă | ★★★★☆ |
-| [[SRC-022-the-creative-brief-blueprint\|SRC-022]] McTigue & Rucker, *The Creative Brief Blueprint* | semnalele de brand și testul peretelui | ★★★★★ |
-| [[SRC-032-digital-advertising-in-post-cookies-era\|SRC-032]] Schwarz-Musch et al., *Digital Advertising in the Post-cookie Era* | regulile bannerului și formatele display | ★★★★☆ |
+| [[SRC-017-logos-that-last\|SRC-017]] Peters, *Logos That Last* | the logo process, the pillars of a lasting mark, systems, extensions, redesign, color | ★★★★☆ |
+| [[SRC-024-the-a-z-of-visual-ideas\|SRC-024]] Ingledew, *The A–Z of Visual Ideas* | the repertoire of visual techniques and visual culture (Games, Fukuda, Saatchi) | ★★★★☆ |
+| [[SRC-049-strategic-advertising-management\|SRC-049]] Percy & Rosenbaum-Elliott, *Strategic Advertising Management* | visual tactics from research, color, cultural schemas, Messaris, packaging | ★★★★★ |
+| [[SRC-014-kellogg-on-branding\|SRC-014]] Tybout & Calkins (eds.), *Kellogg on Branding* | brand design in System 1 (Calder), the 12 cues, the Tropicana case | ★★★★★ |
+| [[SRC-028-the-100-greatest-advertisements-1852-1958\|SRC-028]] Watkins, *The 100 Greatest Advertisements* | the dominant image in the classics, Marlboro, the star illustrators | ★★★★☆ |
+| [[SRC-027-a-history-of-advertising\|SRC-027]] Richards, *A History of Advertising* | the history of the layout, the poster and art in advertising | ★★★★☆ |
+| [[SRC-012-the-psychology-of-advertising\|SRC-012]] Fennis & Stroebe, *The Psychology of Advertising* | eye tracking, gaze direction, placement on the page | ★★★★★ |
+| [[SRC-016-the-goddess-guide-to-branding-jane-mccarthy\|SRC-016]] McCarthy & McAndrew, *Goddess Guide to Branding* | brand hardware/software (Turner Duckworth), the interview about color | ★★★☆☆ |
+| [[SRC-021-overcome-ad-versity\|SRC-021]] Milavsky, *Overcome AD-versity* | the "strategy visual", the honest demonstration | ★★★★☆ |
+| [[SRC-022-the-creative-brief-blueprint\|SRC-022]] McTigue & Rucker, *The Creative Brief Blueprint* | brand signals and the wall test | ★★★★★ |
+| [[SRC-032-digital-advertising-in-post-cookies-era\|SRC-032]] Schwarz-Musch et al., *Digital Advertising in the Post-cookie Era* | the rules of the banner and the display formats | ★★★★☆ |
 
-## Skill-uri vecine
+## Neighboring skills
 
-- [[20-skills/creative-ideation/SKILL|IDE]] — mecanismele ideii vizuale (juxtapunere, metaforă, clișeu întors), jumătatea de idee a acelorași tehnici Ingledew.
-- [[20-skills/copywriting/SKILL|CPY]] — perechea art directorului: titlul care ancorează sau tensionează imaginea.
-- [[20-skills/brand-strategy/SKILL|BRD]] — asocierile, poziționarea și activele distinctive pe care identitatea vizuală le face vizibile.
-- [[20-skills/consumer-insight/SKILL|INS]] — atenția, percepția și memoria care explică de ce funcționează regulile vizuale.
-- [[20-skills/advertising-strategy/SKILL|ADV]] — strategia de notorietate și atitudine care decide rolul imaginii, inclusiv ambalajul la raft.
-- [[20-skills/digital-marketing/SKILL|DIG]] — formatele digitale, mobilul și landing page-ul unde ajunge vizualul.
-- [[20-skills/advertising-history/SKILL|HIS]] — revoluția creativă care a făcut din art director coautor și istoria imaginii publicitare.
-- [[20-skills/pitch-presentation/SKILL|PIT]] — prezentarea și vânzarea unui logo către client.
-- [[20-skills/portfolio/SKILL|PRT]] — portofoliul ca proiect de design.
+- [[20-skills/creative-ideation/SKILL|IDE]]: the mechanisms of the visual idea (juxtaposition, metaphor, the reversed cliché), the idea half of the same Ingledew techniques.
+- [[20-skills/copywriting/SKILL|CPY]]: the art director's partner: the headline that anchors the image or sets up a tension with it.
+- [[20-skills/brand-strategy/SKILL|BRD]]: the associations, the positioning and the distinctive assets that the visual identity makes visible.
+- [[20-skills/consumer-insight/SKILL|INS]]: the attention, perception and memory that explain why the visual rules work.
+- [[20-skills/advertising-strategy/SKILL|ADV]]: the brand awareness and brand attitude strategy that decides the role of the image, including packaging at the shelf.
+- [[20-skills/digital-marketing/SKILL|DIG]]: the digital formats, mobile and the landing page where the visual ends up.
+- [[20-skills/advertising-history/SKILL|HIS]]: the creative revolution that made the art director a co-author, and the history of the advertising image.
+- [[20-skills/pitch-presentation/SKILL|PIT]]: presenting and selling a logo to the client.
+- [[20-skills/portfolio/SKILL|PRT]]: the portfolio as a design project.
 
-## Cum folosește un agent AI acest skill
+## How an AI agent uses this skill
 
-1. **Când ți se cere un layout, un key visual sau un storyboard:** decide punctul focal și ordinea imagine → titlu cu [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]]; caută întâi o demonstrație vizuală a promisiunii ([[ART-006-strategy-visual-demonstratia-vizuala-a-promisiunii-e|ART-006]]) sau o imagine dominantă ([[ART-007-o-singura-imagine-dominanta-poate-spune-povestea-daca|ART-007]]); verifică privirea modelului ([[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la|ART-005]]), culoarea ([[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]]) și relația cu titlul ([[ART-004-tipografia-este-distributia-de-actori-a-cuvintelor-iar|ART-004]], [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]]).
-2. **Când ți se cere o idee vizuală pentru o campanie:** parcurge tehnicile din [[ART-008-schimbarea-de-scara-si-imaginea-construita-din-multe|ART-008]], [[ART-009-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta-si|ART-009]] și [[ART-003-simbolurile-icoanele-si-gesturile-comunica-instant-pentru|ART-003]], apoi mecanismele din [[IDE-015-juxtapunerea-doua-imagini-puse-alaturi-il-obliga-pe|IDE-015]] și [[IDE-016-metafora-vizuala-si-asemanarea-formala-un-lucru-arata-ca|IDE-016]]; la buget mic, pornește de la [[ART-010-garage-genius-mijloace-minime-impact-maxim-lipsa-bugetului|ART-010]]; verifică dacă jocul vizual nu e prea subtil (avertismentul din [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata|ART-001]]).
-3. **Când proiectezi sau critici un logo:** scrie harta de 3–4 asociații ([[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la|ART-011]]); urmează procesul [[ART-014-lista-de-substantive-de-brand-stabileste-subiectul-logo|ART-014]] → [[ART-015-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn|ART-015]] → [[ART-016-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice|ART-016]]; testează semnul pe pilonii din [[ART-013-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-013]]; livrează sistemul din [[ART-017-un-sistem-de-identitate-modular-are-semn-logo-orizontal|ART-017]] și [[ART-018-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri|ART-018]]; pentru prezentarea la client, vezi [[PIT-036-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-036]].
-4. **Când auditezi o identitate sau ți se cere un redesign:** completează șablonul din [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii|ART-012]] și testul peretelui ([[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand|ART-019]]); separă hardware de software ([[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]]); fă tabelul „funcționează / nu funcționează" din [[ART-021-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie|ART-021]]; citează riscul Tropicana ([[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de|ART-022]]); pentru ambalaj, adaugă [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare|ART-023]] și rolul de la raft din [[ADV-063-ambalajul-este-un-mediu-de-comunicare-la-raft-declanseaza|ADV-063]].
-5. **Când adaptezi vizualul la digital sau la altă cultură:** aplică regulile de banner din [[ART-027-bannerul-eficient-e-scurt-congruent-cu-pagina-emotional-cu|ART-027]]; pentru piețe diferite, verifică simbolurile ([[ART-003-simbolurile-icoanele-si-gesturile-comunica-instant-pentru|ART-003]]), culorile ([[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]]) și schemele biologice ([[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale|ART-028]]); semnalează ce sugerează implicit imaginea ([[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si|ART-029]]).
+1. **When you are asked for a layout, a key visual or a storyboard:** decide the focal point and the image → headline order with [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]]; look first for a visual demonstration of the promise ([[ART-006-the-strategy-visual-a-visual-demonstration-of-the-promise|ART-006]]) or a dominant image ([[ART-007-a-single-dominant-image-can-tell-the-story-if-the-copy|ART-007]]); check the model's gaze ([[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to|ART-005]]), the color ([[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]]) and the relationship with the headline ([[ART-004-typography-is-the-casting-of-the-words-and-word-and-image|ART-004]], [[CPY-011-the-picture-hooks-the-headline-anchors-denotation-informs|CPY-011]]).
+2. **When you are asked for a visual idea for a campaign:** go through the techniques in [[ART-008-rescaling-and-the-image-built-from-many-small-elements|ART-008]], [[ART-009-the-reveal-shadows-x-rays-torn-images-silhouettes-and|ART-009]] and [[ART-003-symbols-icons-and-gestures-communicate-instantly-because|ART-003]], then the mechanisms in [[IDE-015-juxtaposition-two-images-placed-side-by-side-make-the|IDE-015]] and [[IDE-016-visual-metaphor-and-formal-resemblance-one-thing-looks-like|IDE-016]]; on a small budget, start from [[ART-010-garage-genius-minimum-means-maximum-impact-no-budget-forces|ART-010]]; check that the visual play is not too subtle (the warning in [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in|ART-001]]).
+3. **When you design or critique a logo:** write the map of 3–4 associations ([[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target|ART-011]]); follow the process [[ART-014-the-brand-noun-list-sets-the-subject-of-the-logo-before-the|ART-014]] → [[ART-015-five-techniques-for-combining-two-nouns-into-one-original|ART-015]] → [[ART-016-the-brand-mark-process-fifty-sketches-before-any-polish|ART-016]]; test the mark against the pillars in [[ART-013-a-logo-lasts-through-ten-pillars-seven-of-which-the|ART-013]]; deliver the system from [[ART-017-a-modular-identity-system-has-a-brand-mark-a-horizontal|ART-017]] and [[ART-018-the-geometric-dna-of-the-brand-mark-extends-into-patterns|ART-018]]; for the presentation to the client, see [[PIT-036-a-strong-logo-is-sold-with-the-designer-leading-not-with|PIT-036]].
+4. **When you audit an identity or are asked for a redesign:** fill in the template from [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues|ART-012]] and the wall test ([[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear|ART-019]]); separate hardware from software ([[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to|ART-020]]); make the "working / not working" table from [[ART-021-a-logo-redesign-should-be-an-evolution-not-a-revolution|ART-021]]; cite the Tropicana risk ([[ART-022-the-tropicana-case-the-packaging-redesign-erased-the|ART-022]]); for packaging, add [[ART-023-packaging-is-also-designed-for-its-life-after-purchase-its|ART-023]] and the role at the shelf from [[ADV-063-packaging-is-a-communication-medium-at-the-shelf-it|ADV-063]].
+5. **When you adapt the visual to digital or to another culture:** apply the banner rules from [[ART-027-an-effective-banner-is-short-congruent-with-the-page|ART-027]]; for different markets, check the symbols ([[ART-003-symbols-icons-and-gestures-communicate-instantly-because|ART-003]]), the colors ([[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]]) and the biological schemas ([[ART-028-when-the-target-audience-does-not-share-the-same-cultural|ART-028]]); point out what the image implicitly suggests ([[ART-029-the-image-persuades-through-iconicity-indexicality-and-the|ART-029]]).
 
-Citează mereu ID-urile notelor folosite, ca răspunsul să fie verificabil, și semnalează legăturile `contrazice` (de exemplu Ogilvy vs. imaginea care vinde singură, sau dezvăluirea subtilă vs. corectarea ei de către privitor). Textele integrale ale surselor sunt în `90-library/text/` (caută cu `grep -n`); *Logos That Last* e în `logos-that-last.txt`, Ingledew în `a-to-z-visual-ideas.txt`, iar Percy & Rosenbaum-Elliott în `audiobook/` (capitolul 13 în fișierul 26, capitolul 15 în fișierul 32).
+Always cite the IDs of the notes you use, so the answer can be checked, and point out the `contradicts` links (for example Ogilvy vs. the image that sells on its own, or the subtle reveal vs. the viewer's correction of it). The full texts of the sources are in `90-library/text/` (search with `grep -n`); *Logos That Last* is in `logos-that-last.txt`, Ingledew in `a-to-z-visual-ideas.txt`, and Percy & Rosenbaum-Elliott in `audiobook/` (chapter 13 in file 26, chapter 15 in file 32).
 
-## Toate notele (generat automat)
+## All notes (generated)
 
 <!-- auto:notes:start -->
-_29 note proprii._
+_29 own notes._
 
-| ID | Titlu | Tip | Nivel | Status |
+| ID | Title | Kind | Level | Status |
 |---|---|---|---|---|
-| [[ART-001-imaginea-atrage-si-retine-atentia-daca-e-mare-colorata\|ART-001]] | Imaginea atrage și reține atenția dacă e mare, colorată, concretă, arată produsul folosit și e văzută înaintea textului | checklist | Fundament | growing |
-| [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si\|ART-002]] | Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța | principle | Fundament | growing |
-| [[ART-003-simbolurile-icoanele-si-gesturile-comunica-instant-pentru\|ART-003]] | Simbolurile, icoanele și gesturile comunică instant pentru că sensul lor e deja instalat în mintea privitorului | concept | Fundament | growing |
-| [[ART-004-tipografia-este-distributia-de-actori-a-cuvintelor-iar\|ART-004]] | Tipografia este distribuția de actori a cuvintelor, iar cuvântul și imaginea trebuie să se tensioneze, nu să se repete | principle | Fundament | growing |
-| [[ART-005-privirea-modelului-indreptata-spre-produs-duce-atentia-la\|ART-005]] | Privirea modelului îndreptată spre produs duce atenția la produs; privirea spre cititor o oprește pe chip | principle | Practică | growing |
-| [[ART-006-strategy-visual-demonstratia-vizuala-a-promisiunii-e\|ART-006]] | „Strategy visual" — demonstrația vizuală a promisiunii e Graalul reclamei, pentru că ce vezi crezi fără să decodezi | principle | Fundament | growing |
-| [[ART-007-o-singura-imagine-dominanta-poate-spune-povestea-daca\|ART-007]] | O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă | principle | Practică | growing |
-| [[ART-008-schimbarea-de-scara-si-imaginea-construita-din-multe\|ART-008]] | Schimbarea de scară și imaginea construită din multe elemente mici răstoarnă ordinea așteptată a lumii | method | Practică | growing |
-| [[ART-009-dezvaluirea-umbra-radiografia-imaginea-rupta-silueta-si\|ART-009]] | Dezvăluirea — umbra, radiografia, imaginea ruptă, silueta și mesajul ascuns îl lasă pe privitor să descopere singur | method | Practică | growing |
-| [[ART-010-garage-genius-mijloace-minime-impact-maxim-lipsa-bugetului\|ART-010]] | „Garage genius" — mijloace minime, impact maxim; lipsa bugetului obligă la idee, iar lucrul făcut de mână comunică intim | principle | Fundament | growing |
-| [[ART-011-designul-de-brand-lucreaza-in-sistemul-1-si-porneste-de-la\|ART-011]] | Designul de brand lucrează în Sistemul 1 și pornește de la 3–4 asociații țintă | method | Practică | growing |
-| [[ART-012-sablonul-de-design-de-brand-douasprezece-tipuri-de-indicii\|ART-012]] | Șablonul de design de brand: douăsprezece tipuri de indicii senzoriale | checklist | Practică | growing |
-| [[ART-013-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul\|ART-013]] | Un logo durează prin zece piloni, dintre care designerul controlează șapte | framework | Fundament | growing |
-| [[ART-014-lista-de-substantive-de-brand-stabileste-subiectul-logo\|ART-014]] | Lista de substantive de brand stabilește subiectul logo-ului înainte de schițe | method | Practică | growing |
-| [[ART-015-cinci-tehnici-de-a-combina-doua-substantive-intr-un-semn\|ART-015]] | Cinci tehnici de a combina două substantive într-un semn original | framework | Practică | growing |
-| [[ART-016-procesul-de-brand-mark-cincizeci-de-schite-inainte-de-orice\|ART-016]] | Procesul de brand mark: cincizeci de schițe înainte de orice finisare | method | Practică | growing |
-| [[ART-017-un-sistem-de-identitate-modular-are-semn-logo-orizontal\|ART-017]] | Un sistem de identitate modular are semn, logo orizontal, vertical și badge | framework | Practică | growing |
-| [[ART-018-adn-ul-geometric-al-semnului-se-extinde-in-pattern-uri\|ART-018]] | ADN-ul geometric al semnului se extinde în pattern-uri, iconuri și litere | principle | Practică | growing |
-| [[ART-019-testul-unui-singur-perete-toate-materialele-unui-brand\|ART-019]] | Testul „unui singur perete" — toate materialele unui brand trebuie să pară din aceeași sursă | method | Practică | growing |
-| [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic\|ART-020]] | Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat | principle | Practică | growing |
-| [[ART-021-redesignul-unui-logo-trebuie-sa-fie-evolutie-nu-revolutie\|ART-021]] | Redesignul unui logo trebuie să fie evoluție, nu revoluție | principle | Practică | growing |
-| [[ART-022-cazul-tropicana-redesignul-ambalajului-a-sters-indiciile-de\|ART-022]] | Cazul Tropicana: redesignul ambalajului a șters indiciile de recunoaștere | case | Fundament | growing |
-| [[ART-023-ambalajul-se-proiecteaza-si-pentru-viata-de-dupa-cumparare\|ART-023]] | Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul | principle | Practică | growing |
-| [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul\|ART-024]] | Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției" | concept | Practică | growing |
-| [[ART-025-arta-plastica-a-intrat-in-reclama-prin-afis-si-prin-bubbles\|ART-025]] | Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine | case | Practică | growing |
-| [[ART-026-marlboro-repozitionarea-unui-brand-feminin-printr-o-singura\|ART-026]] | Marlboro — repoziționarea unui brand feminin printr-o singură imagine masculină | case | Practică | growing |
-| [[ART-027-bannerul-eficient-e-scurt-congruent-cu-pagina-emotional-cu\|ART-027]] | Bannerul eficient e scurt, congruent cu pagina, emoțional, cu un stimulent concret și animație dozată | checklist | Practică | growing |
-| [[ART-028-cand-tinta-nu-impartaseste-aceleasi-scheme-culturale\|ART-028]] | Când ținta nu împărtășește aceleași scheme culturale, imaginea trebuie să atingă scheme biologice universale, ca perspectiva și refugiul | concept | Avansat | growing |
-| [[ART-029-imaginea-persuadeaza-prin-iconicitate-indexicalitate-si\|ART-029]] | Imaginea persuadează prin iconicitate, indexicalitate și lipsa unei sintaxe explicite, care îi permite să sugereze ce nu s-ar putea spune | concept | Avansat | growing |
+| [[ART-001-a-picture-attracts-and-holds-attention-if-it-is-large-in\|ART-001]] | A picture attracts and holds attention if it is large, in color, concrete, shows the product in use and is seen before the words | checklist | Foundation | growing |
+| [[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors\|ART-002]] | Color tells the story, sets the brand apart from competitors and motivates, and saturation matters more than hue | principle | Foundation | growing |
+| [[ART-003-symbols-icons-and-gestures-communicate-instantly-because\|ART-003]] | Symbols, icons and gestures communicate instantly because their meaning is already installed in the viewer's mind | concept | Foundation | growing |
+| [[ART-004-typography-is-the-casting-of-the-words-and-word-and-image\|ART-004]] | Typography is the casting of the words, and word and image have to be in tension, not repeat each other | principle | Foundation | growing |
+| [[ART-005-a-model-s-gaze-directed-at-the-product-takes-attention-to\|ART-005]] | A model's gaze directed at the product takes attention to the product; a gaze at the reader stops it on the face | principle | Practice | growing |
+| [[ART-006-the-strategy-visual-a-visual-demonstration-of-the-promise\|ART-006]] | The strategy visual: a visual demonstration of the promise is advertising's holy grail, because what you see you believe without decoding | principle | Foundation | growing |
+| [[ART-007-a-single-dominant-image-can-tell-the-story-if-the-copy\|ART-007]] | A single dominant image can tell the story, if the copy supports it rather than repeats it | principle | Practice | growing |
+| [[ART-008-rescaling-and-the-image-built-from-many-small-elements\|ART-008]] | Rescaling and the image built from many small elements change the expected order of the world | method | Practice | growing |
+| [[ART-009-the-reveal-shadows-x-rays-torn-images-silhouettes-and\|ART-009]] | The reveal: shadows, X-rays, torn images, silhouettes and hidden messages let viewers discover for themselves | method | Practice | growing |
+| [[ART-010-garage-genius-minimum-means-maximum-impact-no-budget-forces\|ART-010]] | "Garage genius": minimum means, maximum impact; no budget forces an idea, and hand-made work communicates intimately | principle | Foundation | growing |
+| [[ART-011-brand-design-works-in-system-1-and-starts-from-3-4-target\|ART-011]] | Brand design works in System 1 and starts from 3–4 target associations | method | Practice | growing |
+| [[ART-012-the-brand-design-template-twelve-types-of-sensory-cues\|ART-012]] | The brand design template: twelve types of sensory cues | checklist | Practice | growing |
+| [[ART-013-a-logo-lasts-through-ten-pillars-seven-of-which-the\|ART-013]] | A logo lasts through ten pillars, seven of which the designer controls | framework | Foundation | growing |
+| [[ART-014-the-brand-noun-list-sets-the-subject-of-the-logo-before-the\|ART-014]] | The brand noun list sets the subject of the logo before the sketches | method | Practice | growing |
+| [[ART-015-five-techniques-for-combining-two-nouns-into-one-original\|ART-015]] | Five techniques for combining two nouns into one original mark | framework | Practice | growing |
+| [[ART-016-the-brand-mark-process-fifty-sketches-before-any-polish\|ART-016]] | The brand mark process: fifty sketches before any polish | method | Practice | growing |
+| [[ART-017-a-modular-identity-system-has-a-brand-mark-a-horizontal\|ART-017]] | A modular identity system has a brand mark, a horizontal logo, a vertical logo and a badge | framework | Practice | growing |
+| [[ART-018-the-geometric-dna-of-the-brand-mark-extends-into-patterns\|ART-018]] | The geometric DNA of the brand mark extends into patterns, icons and letterforms | principle | Practice | growing |
+| [[ART-019-the-one-wall-test-all-the-materials-of-a-brand-must-appear\|ART-019]] | The "one wall test": all the materials of a brand must appear to come from the same source | method | Practice | growing |
+| [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to\|ART-020]] | A brand has iconic hardware to keep and dynamic software to change | principle | Practice | growing |
+| [[ART-021-a-logo-redesign-should-be-an-evolution-not-a-revolution\|ART-021]] | A logo redesign should be an evolution, not a revolution | principle | Practice | growing |
+| [[ART-022-the-tropicana-case-the-packaging-redesign-erased-the\|ART-022]] | The Tropicana case: the packaging redesign erased the recognition cues | case | Foundation | growing |
+| [[ART-023-packaging-is-also-designed-for-its-life-after-purchase-its\|ART-023]] | Packaging is also designed for its life after purchase: its shape is a brand cue, and every use repeats the benefit | principle | Practice | growing |
+| [[ART-024-the-advertising-layout-was-invented-under-constraints\|ART-024]] | The advertising layout was invented under constraints: Franklin's white space and the Age of Repetition | concept | Practice | growing |
+| [[ART-025-fine-art-entered-advertising-through-the-poster-and-through\|ART-025]] | Fine art entered advertising through the poster and through "Bubbles": the beginning of the image ad | case | Practice | growing |
+| [[ART-026-marlboro-repositioning-a-feminine-brand-through-a-single\|ART-026]] | Marlboro: repositioning a feminine brand through a single masculine image | case | Practice | growing |
+| [[ART-027-an-effective-banner-is-short-congruent-with-the-page\|ART-027]] | An effective banner is short, congruent with the page, emotional, with a concrete incentive and measured animation | checklist | Practice | growing |
+| [[ART-028-when-the-target-audience-does-not-share-the-same-cultural\|ART-028]] | When the target audience does not share the same cultural schemas, the image must tap into universal biological schemas, such as prospect and refuge | concept | Advanced | growing |
+| [[ART-029-the-image-persuades-through-iconicity-indexicality-and-the\|ART-029]] | The image persuades through iconicity, indexicality and the lack of an explicit syntax, which lets it suggest what could not be said | concept | Advanced | growing |
 
-**Note din alte skill-uri, relevante și aici:**
+**Notes from other skills that are also relevant here:**
 
-- [[ADV-032-notorietatea-prin-recunoastere-brand-nevoie-la-raft-si-cea|ADV-032]] — Notorietatea prin recunoaștere (brand → nevoie, la raft) și cea prin reamintire (nevoie → brand, înainte de cumpărare) cer tactici creative și media opuse
-- [[ADV-034-grila-rossiter-percy-combina-implicarea-risc-cu-motivatia|ADV-034]] — Grila Rossiter-Percy combină implicarea (risc) cu motivația (negativă sau pozitivă) în patru strategii de atitudine, fiecare cu tactici creative proprii
-- [[ADV-035-strategia-informationala-cu-implicare-mica-cere-problema|ADV-035]] — Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-- [[ADV-036-strategia-transformationala-cu-implicare-mica-cere|ADV-036]] — Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- [[ADV-038-strategia-transformationala-cu-implicare-mare-cere-ca-tinta|ADV-038]] — Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-- [[ADV-051-reclama-incluziva-se-verifica-pe-trei-axe-ton-limbaj|ADV-051]] — Reclama incluzivă se verifică pe trei axe — ton, limbaj, reprezentare — înainte de publicare
-- [[ADV-061-clutter-ul-produce-interferenta-competitiva-iar-antidotul-e|ADV-061]] — Clutter-ul produce interferență competitivă, iar antidotul e un indiciu de reamintire distinctiv la punctul de cumpărare
-- [[ADV-063-ambalajul-este-un-mediu-de-comunicare-la-raft-declanseaza|ADV-063]] — Ambalajul este un mediu de comunicare — la raft declanșează notorietatea prin recunoaștere și trebuie să poarte beneficiul din publicitate
-- [[AIM-025-promptul-de-marketing-e-un-mini-brief-iar-raspunsul|AIM-025]] — Promptul de marketing e un mini-brief, iar răspunsul modelului e o ciornă, nu un livrabil
-- [[AIM-026-in-campaniile-premiate-cu-ai-ideea-vine-din-insight-ul-uman|AIM-026]] — În campaniile premiate cu AI, ideea vine din insight-ul uman, iar AI-ul îi dă scară — Cadbury, Nike „Never Done Evolving", Jardim Sonoro
-- [[AIM-028-ascultarea-vizuala-gaseste-brandul-in-imagini-acolo-unde-nu|AIM-028]] — Ascultarea vizuală găsește brandul în imagini, acolo unde nu e numit în text
-- [[AIM-029-poate-ai-ul-crea-identitatea-unui-brand-promisiunea-brand|AIM-029]] — Poate AI-ul crea identitatea unui brand? Promisiunea „brand assets generate" vs. brandul ca semnificație și relație
-- [[BRD-002-brandul-ajuta-clientul-sa-aleaga-repede-si-protejeaza-firma|BRD-002]] — Brandul ajută clientul să aleagă repede și protejează firma de concurența pe preț — prin elemente ușor de recunoscut
-- [[BRD-007-cadrul-de-referinta-spune-consumatorului-ce-scop|BRD-007]] — Cadrul de referință spune consumatorului ce scop îndeplinește brandul
-- [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile|BRD-026]] — Personalitatea de brand are cinci dimensiuni măsurabile (Aaker) și contează prin potrivirea cu imaginea de sine a clientului
-- [[BRD-028-star-strategy-seguela-brandul-persoana-are-fizic-caracter|BRD-028]] — Star strategy (Séguéla) — brandul-persoană are fizic, caracter și stil
-- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
-- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
-- [[BRD-042-un-brand-nou-se-construieste-in-patru-pasi-carlig-nume|BRD-042]] — Un brand nou se construiește în patru pași: cârlig, nume, marcă, design
-- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-048-un-look-feel-consecvent-ani-la-rand-ajunge-sa-declanseze|BRD-048]] — Un look & feel consecvent ani la rând ajunge să declanșeze brandul fără nume, iar execuțiile trebuie să varieze în interiorul lui, nu să fie identice
-- [[BRF-013-sectiunea-de-executie-a-brief-ului-are-patru-piloni|BRF-013]] — Secțiunea de execuție a brief-ului are patru piloni — personalitate, mandatories, timing și buget, media
-- [[CPY-001-anatomia-reclamei-tiparite-vizual-titlu-subtitlu-body-copy|CPY-001]] — Anatomia reclamei tipărite — vizual, titlu, subtitlu, body copy și semnătură, fiecare cu o sarcină proprie
-- [[CPY-009-un-mesaj-devine-memorabil-prin-repetitie-rima-ritm-chunking|CPY-009]] — Un mesaj devine memorabil prin repetiție, rimă, ritm, „chunking", răsucirea unei expresii cunoscute și sincronizare audio-video
-- [[CPY-010-jocul-de-cuvinte-vizual-calamburul-expresia-vizualizata|CPY-010]] — Jocul de cuvinte vizual — calamburul, expresia vizualizată, rebusul și întrebarea
-- [[CPY-011-imaginea-agata-titlul-ancoreaza-denotatia-informeaza|CPY-011]] — Imaginea agață, titlul ancorează — denotația informează, conotația adaugă sensuri pe care ținta trebuie să le decodeze
-- [[CPY-012-la-motivatie-negativa-focalizezi-direct-pe-beneficiu-iar-la|CPY-012]] — La motivație negativă, focalizezi direct pe beneficiu, iar la motivație pozitivă, pe consecința lui emoțională
-- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
-- [[CPY-018-text-lung-sau-text-scurt-lungimea-depinde-de-interes-nu-de|CPY-018]] — Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă
-- [[CPY-022-nu-exista-produse-prozaice-doar-copywriteri-care-n-au-gasit|CPY-022]] — Nu există produse prozaice — doar copywriteri care n-au găsit încă omul din produs
-- [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si|CPY-026]] — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
-- [[CPY-033-sexul-atrage-privirea-dar-nu-vinde-scade-chiar-atitudinea|CPY-033]] — Sexul atrage privirea, dar nu vinde — scade chiar atitudinea față de brand, și la bărbați, și la femei
-- [[DIG-023-site-ul-se-construieste-in-sapte-pasi-iar-marketingul|DIG-023]] — Site-ul se construiește în șapte pași, iar marketingul conduce primii — altfel iese tehnologie fără obiectiv
-- [[DIG-024-pagina-web-se-citeste-dupa-conventii-triunghiul-de-aur|DIG-024]] — Pagina web se citește după convenții — triunghiul de aur, above the fold, logo în stânga sus
-- [[DIG-025-experienta-digitala-a-clientului-dcx-se-verifica-cu|DIG-025]] — Experiența digitală a clientului (DCX) se verifică cu fagurele UX al lui Morville — util, utilizabil, dezirabil, găsibil, accesibil, credibil, valoros
-- [[DIG-026-accesibilitatea-digitala-e-o-conditie-a-experientei-bune-si|DIG-026]] — Accesibilitatea digitală e o condiție a experienței bune și un risc legal — text alternativ, subtitrări, informație care nu stă doar în culoare, compatibilitate cu cititoarele de ecran
-- [[DIG-034-e-mailul-promotional-bun-are-o-singura-oferta-un-termen|DIG-034]] — E-mailul promoțional bun are o singură ofertă, un termen-limită și un subiect sub 50 de caractere
-- [[DIG-045-reclama-e-doar-atat-de-buna-cat-pagina-pe-care-aterizeaza|DIG-045]] — Reclama e doar atât de bună cât pagina pe care aterizează — simplitate, continuitate cu anunțul și congruență cu contextul
-- [[DIG-046-reclama-display-a-evoluat-de-la-bannerul-static-la-rich|DIG-046]] — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
-- [[DIG-047-pe-mobil-o-reclama-are-mai-putin-de-o-secunda-ca-sa-fie|DIG-047]] — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
-- [[DIG-049-metricile-video-masoara-timpul-brandul-trebuie-sa-apara|DIG-049]] — Metricile video măsoară timpul — brandul trebuie să apară înainte ca privitorul să plece
-- [[DIG-051-cazul-bucatariilor-date-imobiliare-anonimizate-un-dmp-un|DIG-051]] — Cazul bucătăriilor — date imobiliare anonimizate, un DMP, un DSP și bannere dinamice transformă un pliant pentru toată lumea într-o ofertă pentru fiecare gospodărie
-- [[DIG-063-consimtamantul-valid-se-cere-activ-si-se-poate-retrage-la|DIG-063]] — Consimțământul valid se cere activ și se poate retrage la fel de ușor — butoane egale, căsuțe nebifate, scopuri explicate, dovadă păstrată
-- [[DIG-068-in-continutul-digital-marcile-textele-si-imaginile-altora|DIG-068]] — În conținutul digital, mărcile, textele și imaginile altora se folosesc doar cu un drept clar — licență, domeniu public sau excepția îngustă a „fair use”
-- [[DIG-076-testul-a-b-schimba-o-singura-variabila-porneste-de-la-o|DIG-076]] — Testul A/B schimbă o singură variabilă, pornește de la o ipoteză și așteaptă semnificația statistică
-- [[EXP-009-tematizarea-unifica-decorul-si-transforma-o-oferta|EXP-009]] — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
-- [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru|EXP-010]] — Marketingul senzorial dă brandului câte o semnătură pentru fiecare simț — coerentă cu povestea mărcii și dozată, nu spectaculoasă pe toate cinci
-- [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc|EXP-022]] — Spațiul fizic supraviețuiește ca „al treilea loc" — un loc social, cu o poveste coerentă și senzația de acasă, nu un punct de tranzacție
-- [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate|HIS-002]] — Brandul s-a născut ca garanție de origine și calitate, atunci când producătorul s-a îndepărtat de cumpărător
-- [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost|HIS-003]] — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
-- [[HIS-011-david-ogilvy-cercetare-fapte-fara-adjective-si-o-imagine|HIS-011]] — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
-- [[HIS-012-leo-burnett-drama-inerenta-a-produsului-si-personajele-care|HIS-012]] — Leo Burnett — drama inerentă a produsului și personajele care o poartă
-- [[HIS-013-revolutia-creativa-din-1959-a-pus-copywriterul-si-art|HIS-013]] — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
-- [[HIS-018-personajele-inventate-nu-gresesc-niciodata-celebritatile-da|HIS-018]] — Personajele inventate nu greșesc niciodată; celebritățile da
-- [[HIS-019-razboaiele-mondiale-au-transformat-publicitatea-dintr-un|HIS-019]] — Războaiele mondiale au transformat publicitatea dintr-un instrument de comerț într-o armă de opinie publică
-- [[HIS-024-demonstratia-trebuie-sa-fie-reala-xerox-cu-cimpanzeul-vs|HIS-024]] — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
-- [[HIS-027-shockvertising-atentia-castigata-prin-scandal-are-un-pret|HIS-027]] — Shockvertising — atenția câștigată prin scandal are un preț pe care îl plătește brandul
-- [[IDE-001-brainjack-ideea-buna-captureaza-mintea-privitorului-nu-doar|IDE-001]] — „Brainjack" — ideea bună capturează mintea privitorului, nu doar ochiul
-- [[IDE-002-ideile-noi-sunt-combinatii-bisociatia-lui-koestler-si|IDE-002]] — Ideile noi sunt combinații — bisociația lui Koestler și gândirea combinatorie
-- [[IDE-004-ideea-creativa-trebuie-intai-sa-dramatizeze-beneficiul|IDE-004]] — Ideea creativă trebuie întâi să dramatizeze beneficiul-cheie, apoi să atragă atenția, să accelereze procesarea și să susțină multe execuții
-- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
-- [[IDE-011-cand-ideea-nu-vine-incubatie-distragere-creativa-si|IDE-011]] — Când ideea nu vine — incubație, distragere creativă și declanșatori aleatori
-- [[IDE-012-banca-de-inspiratie-creativul-colectioneaza-permanent-ca-sa|IDE-012]] — Banca de inspirație — creativul colecționează permanent, ca să nu pornească niciodată de la zero
-- [[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-013]] — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
-- [[IDE-015-juxtapunerea-doua-imagini-puse-alaturi-il-obliga-pe|IDE-015]] — Juxtapunerea — două imagini puse alături îl obligă pe privitor să construiască singur legătura
-- [[IDE-016-metafora-vizuala-si-asemanarea-formala-un-lucru-arata-ca|IDE-016]] — Metafora vizuală și asemănarea formală — un lucru arată ca altul și îi împrumută calitățile
-- [[IDE-017-cliseul-conventia-si-formatul-familiar-devin-idei-cand-sunt|IDE-017]] — Clișeul, convenția și formatul familiar devin idei când sunt folosite pe dos
-- [[INS-003-o-reclama-e-procesata-prin-patru-raspunsuri-atentie|INS-003]] — O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
-- [[INS-005-salienta-vividness-ul-si-noutatea-capteaza-atentia|INS-005]] — Saliența, vividness-ul și noutatea captează atenția involuntar, dar saliența dispare când toți copiază
-- [[INS-006-expunerea-incidentala-la-reclame-influenteaza-preferinta|INS-006]] — Expunerea incidentală la reclame influențează preferința chiar fără atenție conștientă
-- [[INS-010-memoria-emotionala-intra-in-memoria-de-lucru-inaintea-celei|INS-010]] — Memoria emoțională intră în memoria de lucru înaintea celei declarative și încadrează procesarea, iar emoția se transmite prin fețe autentice
-- [[INS-022-atitudinile-se-pot-forma-fara-argumente-pe-trei-cai|INS-022]] — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
-- [[INS-029-persuasiunea-urmeaza-ruta-centrala-sau-periferica-in|INS-029]] — Persuasiunea urmează ruta centrală sau periferică, în funcție de motivația și capacitatea de a procesa (ELM și HSM)
-- [[INS-070-online-designul-profesional-construieste-increderea-celor|INS-070]] — Online, designul profesional construiește încrederea celor care caută câștiguri, iar semnalele de siguranță doar a celor care evită pierderi
-- [[INS-090-semiotica-decodeaza-semnele-unei-categorii-ca-sa-gaseasca|INS-090]] — Semiotica decodează semnele unei categorii ca să găsească sensul cultural pe care consumatorii nu îl pot spune
-- [[MKT-072-designul-pentru-circularitate-produsul-si-ambalajul-se|MKT-072]] — Designul pentru circularitate: produsul și ambalajul se gândesc de la sfârșitul vieții lor
-- [[PIT-020-slide-urile-sunt-decor-nu-script-sase-principii-de-design|PIT-020]] — Slide-urile sunt decor, nu script — șase principii de design al deck-ului
-- [[PIT-036-logo-ul-puternic-se-vinde-condus-de-designer-nu-dictat-de|PIT-036]] — Logo-ul puternic se vinde condus de designer, nu dictat de client
-- [[PRT-003-portofoliul-se-proiecteaza-pentru-30-de-secunde-un-fast|PRT-003]] — Portofoliul se proiectează pentru 30 de secunde — un fast track și un slow track
-- [[PRT-005-proiectele-personale-aduc-in-portofoliu-munca-pe-care-vrei|PRT-005]] — Proiectele personale aduc în portofoliu munca pe care vrei s-o primești
-- [[PRT-008-selectia-pentru-portofoliu-se-face-in-trei-gramezi-da-nu|PRT-008]] — Selecția pentru portofoliu se face în trei grămezi — DA, NU, POATE — cu cinci întrebări de control
-- [[PRT-017-pe-pagina-de-proiect-textul-spune-ce-imaginea-nu-poate|PRT-017]] — Pe pagina de proiect, textul spune ce imaginea nu poate arăta — titluri specifice, descrieri scurte, legende informative
-- [[PRT-018-portofoliul-este-el-insusi-un-proiect-de-design-structura|PRT-018]] — Portofoliul este el însuși un proiect de design — structura invizibilă lasă munca să vorbească, decorul o acoperă
-- [[PRT-022-cv-ul-vizual-functioneaza-doar-daca-arata-rezultate-se|PRT-022]] — CV-ul vizual funcționează doar dacă arată rezultate, se potrivește cititorului și are mereu o versiune text
-- [[PRT-023-graficele-de-competente-si-concursurile-de-design-morgan-le|PRT-023]] — Graficele de competențe și concursurile de design — Morgan le recomandă, Fenn și Kubišová le resping
-- [[STO-011-story-dna-o-singura-metafora-centrala-aplicata-pe-toate|STO-011]] — Story DNA: o singură metaforă centrală aplicată pe toate straturile
-- [[STO-018-fiecare-strat-multimedia-trebuie-sa-adauge-sens-nou-nu-sa|STO-018]] — Fiecare strat multimedia trebuie să adauge sens nou, nu să repete
-- [[STO-021-no-edit-edit-autenticul-neslefuit-bate-filmul-de-imagine|STO-021]] — No-edit edit: autenticul neșlefuit bate filmul de imagine lustruit
-- [[STO-035-pe-social-media-continutul-altora-se-preia-prin-functia-de|STO-035]] — Pe social media, conținutul altora se preia prin funcția de distribuire sau cu acord scris, iar oamenii filmați își păstrează dreptul la propria imagine
-- [[STO-040-checklist-ul-de-responsabilitate-pentru-reprezentare|STO-040]] — Checklist-ul de responsabilitate pentru reprezentare — stereotipuri, putere, apropriere, decor și o echipă diversă în fiecare etapă
+- [[ADV-032-recognition-brand-awareness-brand-need-at-the-shelf-and|ADV-032]]: Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics
+- [[ADV-034-the-rossiter-percy-grid-combines-involvement-risk-with|ADV-034]]: The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+- [[ADV-035-the-low-involvement-informational-strategy-calls-for|ADV-035]]: The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+- [[ADV-036-the-low-involvement-transformational-strategy-calls-for|ADV-036]]: The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- [[ADV-038-the-high-involvement-transformational-strategy-requires-the|ADV-038]]: The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- [[ADV-051-inclusive-advertising-is-checked-on-three-axes-tone|ADV-051]]: Inclusive advertising is checked on three axes (tone, language, representation) before it is published
+- [[ADV-061-clutter-produces-competitive-interference-and-the-antidote|ADV-061]]: Clutter produces competitive interference, and the antidote is a distinctive retrieval cue at the point of purchase
+- [[ADV-063-packaging-is-a-communication-medium-at-the-shelf-it|ADV-063]]: Packaging is a communication medium: at the shelf it triggers recognition awareness and must carry the benefit from the advertising
+- [[AIM-025-a-marketing-prompt-is-a-mini-brief-and-the-model-s-answer|AIM-025]]: A marketing prompt is a mini-brief, and the model's answer is a draft, not a deliverable
+- [[AIM-026-in-award-winning-ai-campaigns-the-idea-comes-from-human|AIM-026]]: In award-winning AI campaigns, the idea comes from human insight and the AI gives it scale: Cadbury, Nike "Never Done Evolving", Jardim Sonoro
+- [[AIM-028-visual-listening-finds-the-brand-in-images-where-the-text|AIM-028]]: Visual listening finds the brand in images, where the text does not name it
+- [[AIM-029-can-ai-create-a-brand-s-identity-the-promise-of-ai|AIM-029]]: Can AI create a brand's identity? The promise of “AI-generated brand assets” vs. the brand as meaning and relationship
+- [[BRD-002-a-brand-helps-customers-choose-quickly-and-protects-the|BRD-002]]: A brand helps customers choose quickly and protects the firm from price competition, through elements that are easy to recognize
+- [[BRD-007-the-frame-of-reference-tells-consumers-the-goal-the-brand|BRD-007]]: The frame of reference tells consumers the goal the brand serves
+- [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and|BRD-026]]: Brand personality has five measurable dimensions (Aaker) and matters through its fit with the customer's self-image
+- [[BRD-028-star-strategy-seguela-the-brand-person-has-physique|BRD-028]]: Star strategy (Séguéla): the brand-person has physique, character and style
+- [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to|BRD-030]]: Eight goddess archetypes offer a feminine alternative to the 12 Jungian archetypes
+- [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed|BRD-032]]: Brand blueprint: goddess, heart, gift and style, each passed through a test
+- [[BRD-042-a-new-brand-is-built-in-four-steps-hook-name-trademark|BRD-042]]: A new brand is built in four steps: hook, name, trademark, design
+- [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]: A good brand name is relevant, emotional, easy to say and marketable
+- [[BRD-048-a-look-and-feel-kept-consistent-for-years-ends-up|BRD-048]]: A look and feel kept consistent for years ends up triggering the brand without its name, and executions should vary within it, not be identical
+- [[BRF-013-the-execution-section-of-the-brief-has-four-pillars|BRF-013]]: The execution section of the brief has four pillars: personality, mandatories, timing and budget, media
+- [[CPY-001-the-anatomy-of-a-print-ad-visual-headline-subhead-body-copy|CPY-001]]: The anatomy of a print ad: visual, headline, subhead, body copy and signature, each with its own job
+- [[CPY-009-a-message-becomes-memorable-through-repetition-rhyme-rhythm|CPY-009]]: A message becomes memorable through repetition, rhyme, rhythm, chunking, a twist on a familiar phrase and audiovisual synchronization
+- [[CPY-010-visual-wordplay-the-pun-the-visualized-expression-the-rebus|CPY-010]]: Visual wordplay: the pun, the visualized expression, the rebus and the question
+- [[CPY-011-the-picture-hooks-the-headline-anchors-denotation-informs|CPY-011]]: The picture hooks, the headline anchors: denotation informs, connotation adds meanings the target has to decode
+- [[CPY-012-with-negative-motivation-you-focus-directly-on-the-benefit|CPY-012]]: With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence
+- [[CPY-013-every-advertising-message-ranks-the-six-functions-of|CPY-013]]: Every advertising message ranks the six functions of language (Jakobson), and one of them must dominate
+- [[CPY-018-long-copy-or-short-copy-length-depends-on-interest-not-on-a|CPY-018]]: Long copy or short copy? Length depends on interest, not on a rule
+- [[CPY-022-there-are-no-prosaic-products-only-copywriters-who-have-not|CPY-022]]: There are no prosaic products, only copywriters who have not yet found the person in the product
+- [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading|CPY-026]]: Burma-Shave: serial copy that controls the pace of reading and turns the road into a game
+- [[CPY-033-sex-catches-the-eye-but-does-not-sell-it-even-lowers-the|CPY-033]]: Sex catches the eye but does not sell: it even lowers the attitude toward the brand, among men and women alike
+- [[DIG-023-a-website-is-built-in-seven-steps-and-marketing-leads-the|DIG-023]]: A website is built in seven steps, and marketing leads the first ones: otherwise you get technology without an objective
+- [[DIG-024-a-web-page-is-read-by-convention-the-golden-triangle-above|DIG-024]]: A web page is read by convention: the golden triangle, above the fold, the logo at the top left
+- [[DIG-025-digital-customer-experience-dcx-is-checked-with-morville-s|DIG-025]]: Digital customer experience (DCX) is checked with Morville's user experience honeycomb: useful, usable, desirable, findable, accessible, credible, valuable
+- [[DIG-026-digital-accessibility-is-a-condition-of-a-good-experience|DIG-026]]: Digital accessibility is a condition of a good experience and a legal risk: alt text, captions, information not carried by color alone, compatibility with screen readers
+- [[DIG-034-a-good-promotional-email-has-one-offer-a-time-deadline-and|DIG-034]]: A good promotional email has one offer, a time deadline and a subject line under 50 characters
+- [[DIG-045-an-ad-is-only-as-good-as-its-landing-page-simplicity|DIG-045]]: An ad is only as good as its landing page: simplicity, continuity with the ad and congruence with the context
+- [[DIG-046-display-advertising-has-moved-from-the-static-banner-to|DIG-046]]: Display advertising has moved from the static banner to rich media and video, but the creative idea stays human
+- [[DIG-047-on-mobile-an-ad-has-less-than-a-second-to-be-seen-faces|DIG-047]]: On mobile, an ad has less than a second to be seen: faces, contrast and instant emotion
+- [[DIG-049-video-metrics-measure-time-the-brand-has-to-appear-before|DIG-049]]: Video metrics measure time: the brand has to appear before the viewer leaves
+- [[DIG-051-the-kitchen-case-anonymized-real-estate-data-a-dmp-a-dsp|DIG-051]]: The kitchen case: anonymized real estate data, a DMP, a DSP and dynamic banners turn a flyer for everyone into an offer for each household
+- [[DIG-063-valid-consent-is-asked-for-actively-and-can-be-withdrawn|DIG-063]]: Valid consent is asked for actively and can be withdrawn just as easily: equal buttons, unticked boxes, purposes explained, proof kept
+- [[DIG-068-in-digital-content-other-people-s-trademarks-texts-and|DIG-068]]: In digital content, other people's trademarks, texts and images are used only with a clear right: a license, the public domain or the narrow “fair use” exception
+- [[DIG-076-an-a-b-test-changes-a-single-variable-starts-from-a|DIG-076]]: An A/B test changes a single variable, starts from a hypothesis and waits for statistical significance
+- [[EXP-009-theming-unifies-the-decor-and-turns-an-ordinary-offering|EXP-009]]: Theming unifies the decor and turns an ordinary offering into an experience
+- [[EXP-010-sensory-marketing-gives-the-brand-a-signature-for-each|EXP-010]]: Sensory marketing gives the brand a signature for each sense: coherent with the brand's story and measured, not spectacular on all five
+- [[EXP-022-physical-space-survives-as-a-third-place-a-social-place|EXP-022]]: Physical space survives as a "third place": a social place with a coherent story and a sense of homeyness, not a point of transaction
+- [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality|HIS-002]]: The brand was born as a guarantee of origin and quality, when the maker moved away from the buyer
+- [[HIS-003-as-long-as-people-could-not-read-advertising-was-image|HIS-003]]: As long as people could not read, advertising was image, symbol and voice
+- [[HIS-011-david-ogilvy-research-facts-without-adjectives-and-a|HIS-011]]: David Ogilvy: research, facts without adjectives and a picture that asks a question
+- [[HIS-012-leo-burnett-the-inherent-drama-of-the-product-and-the|HIS-012]]: Leo Burnett: the inherent drama of the product and the characters that carry it
+- [[HIS-013-the-creative-revolution-of-1959-put-the-copywriter-and-the|HIS-013]]: The Creative Revolution of 1959 put the copywriter and the art director in the same room
+- [[HIS-018-invented-characters-never-misbehave-celebrities-do|HIS-018]]: Invented characters never misbehave; celebrities do
+- [[HIS-019-the-world-wars-turned-advertising-from-a-tool-of-commerce|HIS-019]]: The world wars turned advertising from a tool of commerce into a weapon of public opinion
+- [[HIS-024-the-demonstration-must-be-real-xerox-with-the-chimpanzee|HIS-024]]: The demonstration must be real: Xerox with the chimpanzee versus Volvo and the monster truck
+- [[HIS-027-shockvertising-attention-won-through-scandal-has-a-price|HIS-027]]: Shockvertising: attention won through scandal has a price, and the brand pays it
+- [[IDE-001-brainjack-a-good-idea-captures-the-viewer-s-mind-not-just|IDE-001]]: Brainjack: a good idea captures the viewer's mind, not just the eye
+- [[IDE-002-new-ideas-are-combinations-koestler-s-bisociation-and|IDE-002]]: New ideas are combinations: Koestler's bisociation and combinatorial thinking
+- [[IDE-004-the-creative-idea-must-first-dramatize-the-key-benefit|IDE-004]]: The creative idea must first dramatize the key benefit claim, then get attention, speed up processing and support many executions
+- [[IDE-009-volume-comes-before-quality-the-good-idea-comes-out-of-a|IDE-009]]: Volume comes before quality: the good idea comes out of a large number of attempts, most of them bad
+- [[IDE-011-when-the-idea-won-t-come-incubation-creative-distraction|IDE-011]]: When the idea won't come: incubation, creative distraction and random triggers
+- [[IDE-012-the-inspiration-bank-the-creative-collects-all-the-time-so|IDE-012]]: The inspiration bank: the creative collects all the time, so as never to start from zero
+- [[IDE-013-original-visual-inspiration-is-found-outside-the-pinterest|IDE-013]]: Original visual inspiration is found outside the Pinterest and Dribbble bubble
+- [[IDE-015-juxtaposition-two-images-placed-side-by-side-make-the|IDE-015]]: Juxtaposition: two images placed side by side make the viewer build the connection themselves
+- [[IDE-016-visual-metaphor-and-formal-resemblance-one-thing-looks-like|IDE-016]]: Visual metaphor and formal resemblance: one thing looks like another and borrows its qualities
+- [[IDE-017-cliche-convention-and-the-familiar-format-become-ideas-when|IDE-017]]: Cliché, convention and the familiar format become ideas when they are turned on their head
+- [[INS-003-an-ad-is-processed-through-four-responses-attention|INS-003]]: An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second
+- [[INS-005-salience-vividness-and-novelty-capture-attention|INS-005]]: Salience, vividness and novelty capture attention involuntarily, but salience disappears when everyone copies
+- [[INS-006-incidental-exposure-to-ads-influences-preference-even|INS-006]]: Incidental exposure to ads influences preference even without conscious attention
+- [[INS-010-emotional-memory-enters-working-memory-before-declarative|INS-010]]: Emotional memory enters working memory before declarative memory and frames processing, and emotion is passed on through authentic faces
+- [[INS-022-attitudes-can-form-without-arguments-through-three|INS-022]]: Attitudes can form without arguments, through three affective routes: mere exposure, conditioning and affect as information
+- [[INS-029-persuasion-follows-the-central-or-the-peripheral-route|INS-029]]: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- [[INS-070-online-professional-design-builds-the-trust-of-those-who|INS-070]]: Online, professional design builds the trust of those who seek gains, while safety cues build only the trust of those who avoid losses
+- [[INS-090-semiotics-decodes-the-signs-of-a-category-to-find-the|INS-090]]: Semiotics decodes the signs of a category to find the cultural meaning that consumers cannot put into words
+- [[MKT-072-design-for-circularity-the-product-and-its-packaging-are|MKT-072]]: Design for circularity: the product and its packaging are thought through from the end of their life
+- [[PIT-020-slides-are-set-dressing-not-a-script-six-principles-of-deck|PIT-020]]: Slides are set dressing, not a script: six principles of deck design
+- [[PIT-036-a-strong-logo-is-sold-with-the-designer-leading-not-with|PIT-036]]: A strong logo is sold with the designer leading, not with the client dictating
+- [[PRT-003-the-portfolio-is-designed-for-30-seconds-a-fast-track-and-a|PRT-003]]: The portfolio is designed for 30 seconds: a fast track and a slow track
+- [[PRT-005-passion-projects-bring-into-the-portfolio-the-work-you-want|PRT-005]]: Passion projects bring into the portfolio the work you want to be given
+- [[PRT-008-portfolio-selection-is-done-in-three-groups-yes-no-maybe|PRT-008]]: Portfolio selection is done in three groups (YES, NO, MAYBE) with five control questions
+- [[PRT-017-on-the-project-page-the-text-says-what-the-image-cannot|PRT-017]]: On the project page, the text says what the image cannot show: specific titles, short descriptions, informative captions
+- [[PRT-018-the-portfolio-is-itself-a-design-project-the-invisible|PRT-018]]: The portfolio is itself a design project: the invisible structure lets the work speak, decoration covers it
+- [[PRT-022-a-visual-resume-works-only-if-it-shows-results-fits-the|PRT-022]]: A visual resume works only if it shows results, fits the reader and always has a text version
+- [[PRT-023-skill-charts-and-design-contests-morgan-recommends-them|PRT-023]]: Skill charts and design contests: Morgan recommends them, Fenn and Kubišová reject them
+- [[STO-011-story-dna-one-central-metaphor-applied-to-all-layers|STO-011]]: Story DNA: one central metaphor applied to all layers
+- [[STO-018-each-multimedia-layer-must-add-new-meaning-not-repeat|STO-018]]: Each multimedia layer must add new meaning, not repeat
+- [[STO-021-no-edit-edit-unpolished-authenticity-beats-the-polished|STO-021]]: No-edit edit: unpolished authenticity beats the polished image film
+- [[STO-035-on-social-media-other-people-s-content-is-taken-over|STO-035]]: On social media, other people's content is taken over through the share function or with written permission, and the people filmed keep the right to their own image
+- [[STO-040-the-responsibility-checklist-for-representation-stereotypes|STO-040]]: The responsibility checklist for representation: stereotypes, power, appropriation, setting and a diverse team at every stage
 <!-- auto:notes:end -->

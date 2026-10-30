@@ -14,55 +14,55 @@ level: 1
 
 # The Unbeatable Brand Blueprint: The Ultimate Guide for Branding
 
-**Carl J. Damgaard, 2023.** Autopublicare (copyright al autorului, fără editură menționată). Aproximativ 34.000 de cuvinte, 14 capitole (lipsește capitolul 10 din cuprins, deși apare în text ca „Measuring Brand Success").
+**Carl J. Damgaard, 2023.** Self-published (copyright held by the author, no publisher named). About 34,000 words, 14 chapters (chapter 10 is missing from the table of contents, although it appears in the text as "Measuring Brand Success").
 
-> Notă despre trimiteri: ediția EPUB nu are pagini; notele trimit la capitol și la titlul secțiunii.
+> Note on references: the EPUB edition has no pages; the notes refer to the chapter and the section title.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid introductiv de branding pentru antreprenori: importanța brandului, identitate (culori, fonturi, logo), personalitate, misiune–viziune–valori, public-țintă și analiza concurenței, USP și poziționare, imagine vizuală, consecvență și ghiduri de brand, storytelling, experiența clientului, digital, măsurare, evoluție și rebranding, greșeli de evitat, echipa de branding.
-- **Teza centrală:** un brand „imbatabil" nu e noroc, ci rezultatul unei identități clare, al consecvenței la fiecare punct de contact și al unei relații emoționale cu clienții.
-- **Pentru cine și când:** cel mult ca lectură de orientare pentru începători absoluți, înaintea surselor serioase (ex. *Kellogg on Branding*).
-- **Relevanță pentru ADC:** ★☆☆☆☆ (1) — text foarte generic și repetitiv, cu metafore abundente („simfonie", „dans", „supereroi"), fără modele proprii, fără date, fără surse citate (cu excepția modelului Aaker). Mai multe „studii de caz" sunt fictive sau anonimizate („XYZ Company", „DEF Fashion", „a beverage company known for its classic cola"), iar capitolul despre echipă oferă „răspunsuri ideale" cu procente inventate. Stilul sugerează un text generat sau puternic asistat automat. Utile doar câteva sinteze clasice.
+- **What it is about:** an introductory branding guide for entrepreneurs: why the brand matters, identity (colors, fonts, logo), personality, mission, vision and values, target audience and competitor analysis, USP and positioning, visual image, consistency and brand guidelines, storytelling, customer experience, digital, measurement, evolution and rebranding, pitfalls to avoid, the branding team.
+- **Central thesis:** an "unbeatable" brand is not luck but the result of a clear identity, consistency at every touchpoint and an emotional relationship with customers.
+- **For whom and when:** at most as orientation reading for absolute beginners, before the serious sources (e.g. *Kellogg on Branding*).
+- **Relevance for ADC:** ★☆☆☆☆ (1). A very generic and repetitive text, with plenty of metaphors ("symphony", "dance", "superheroes"), no models of its own, no data and no cited sources (except the Aaker model). Several "case studies" are fictional or anonymized ("XYZ Company", "DEF Fashion", "a beverage company known for its classic cola"), and the chapter on the team offers "ideal answers" with invented percentages. The style suggests a text generated or heavily assisted by a machine. Only a few classic summaries are useful.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Intro, 1 | Ce este un brand „imbatabil"; de ce contează branding-ul (claritate, comunitate, sens, conexiune) | — |
-| 2 | Identitate de brand: culori, fonturi, logo; personalitate (Aaker); misiune, viziune, valori | [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile\|BRD-026]], [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa\|BRD-019]] |
-| 3 | Publicul-țintă (empatie, cercetare, segmentare, biasuri), analiza concurenței, trenduri | — (generic) |
-| 4 | USP, poziționare, obiective SMART | — (generic) |
-| 5 | Imaginea de brand: logo (simplitate, relevanță, versatilitate, atemporalitate), culori, fonturi | sursă convergentă pentru notele de logo din [[SRC-017-logos-that-last\|SRC-017]] |
-| 6 | Consecvență: puncte de contact, ghiduri de brand, reputație (Tylenol 1982) | [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu\|BRD-047]] (conținutul ghidului de brand) |
-| 7–9 | Storytelling, content, experiența clientului, digital | — (generic) |
-| 10 | Măsurarea succesului (notorietate, implicare, conversie, loialitate, sentiment, cotă) | — |
-| 11–13 | Evoluție, rebranding, studii de caz superficiale, capcane | — |
-| 14 | Echipa de branding și ambasadorii | — |
+| Introduction, 1 | Creating an Unbeatable Brand: what an "unbeatable" brand is; why branding matters (clarity, community, meaning, connection) | none |
+| 2 | The Foundation of Branding - The Basics of Brand Identity: colors, fonts, logo; personality (Aaker); mission, vision, values | [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and\|BRD-026]], [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it\|BRD-019]] |
+| 3 | Understanding Your Target Audience: empathy, research, segmentation, biases; competitor analysis, trends | none (generic) |
+| 4 | Brand Strategy and Positioning: USP, positioning, SMART goals | none (generic) |
+| 5 | Creating a Memorable Brand Image: logo (simplicity, relevance, versatility, timelessness), colors, fonts | a converging source for the logo notes in [[SRC-017-logos-that-last\|SRC-017]] |
+| 6 | Building Brand Consistency: touchpoints, brand guidelines, reputation (Tylenol 1982) | [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a\|BRD-047]] (the contents of the brand guidelines) |
+| 7–9 | Content Marketing and Storytelling; Customer Experience and Brand Loyalty; Branding in the Digital Age | none (generic) |
+| 10 | Measuring Brand Success (awareness, engagement, conversion, loyalty, sentiment, share) | none |
+| 11–13 | Brand Evolution and Adaptation (rebranding); Case Studies in Unbeatable Branding (superficial); Branding Pitfalls to Avoid | none |
+| 14 | Building a Branding Team: the team and brand ambassadors | none |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile|BRD-026]] — modelul Aaker cu cinci dimensiuni ale personalității de brand, cu exemple.
-- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — distincția misiune / viziune / valori și pașii de formulare.
-- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — completare: ce conține un ghid de brand (identitate vizuală, mesaj și ton, aplicare, stil foto, misiune și valori).
+- [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and|BRD-026]]: Aaker's model of five dimensions of brand personality, with examples.
+- [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it|BRD-019]]: the mission / vision / values distinction and the steps for writing them.
+- [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a|BRD-047]]: a complement: what brand guidelines contain (visual identity, message and tone, application, photo style, mission and values).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Aproape nicio afirmație nu e susținută de date sau surse; exemplele celebre (Nike, Apple, Coca-Cola, Dove) sunt descrise superficial.
-- Studiile de caz anonimizate sau fictive nu pot fi folosite ca dovezi.
-- Lipsesc instrumente concrete (declarație de poziționare, metode de cercetare, modele de măsurare); pentru acestea vezi [[SRC-014-kellogg-on-branding|SRC-014]].
-- Asocierile culoare–emoție sunt prezentate ca reguli universale, fără nuanțe culturale.
-- Misiunea și viziunea Amazon citate sunt identice — un indiciu al lipsei de rigoare editorială.
+- Almost no claim is backed by data or sources; the famous examples (Nike, Apple, Coca-Cola, Dove) are described superficially.
+- The anonymized or fictional case studies cannot be used as evidence.
+- Concrete tools are missing (positioning statement, research methods, measurement models); for these see [[SRC-014-kellogg-on-branding|SRC-014]].
+- Color–emotion associations are presented as universal rules, with no cultural nuance.
+- The Amazon mission and vision it quotes are identical, a sign of a lack of editorial rigor.
 
-## Citat
+## Quote
 
-> „It's more than simply a logo or a phrase." (cap. 1, despre brandul Nike)
+> "It's more than simply a logo or a phrase." (ch. 1, on the Nike brand)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ART-013-un-logo-dureaza-prin-zece-piloni-dintre-care-designerul|ART-013]] — Un logo durează prin zece piloni, dintre care designerul controlează șapte
-- [[BRD-019-misiunea-spune-de-ce-exista-brandul-viziunea-unde-vrea-sa|BRD-019]] — Misiunea spune de ce există brandul, viziunea unde vrea să ajungă, iar valorile cum se poartă pe drum
-- [[BRD-026-personalitatea-de-brand-are-cinci-dimensiuni-masurabile|BRD-026]] — Personalitatea de brand are cinci dimensiuni măsurabile (Aaker) și contează prin potrivirea cu imaginea de sine a clientului
-- [[BRD-047-implementarea-strategiei-de-brand-cere-sase-elemente-nu|BRD-047]] — Implementarea strategiei de brand cere șase elemente, nu doar o poziționare
+- [[ART-013-a-logo-lasts-through-ten-pillars-seven-of-which-the|ART-013]]: A logo lasts through ten pillars, seven of which the designer controls
+- [[BRD-019-the-mission-says-why-the-brand-exists-the-vision-where-it|BRD-019]]: The mission says why the brand exists, the vision where it wants to go, and the values how it behaves on the way
+- [[BRD-026-brand-personality-has-five-measurable-dimensions-aaker-and|BRD-026]]: Brand personality has five measurable dimensions (Aaker) and matters through its fit with the customer's self-image
+- [[BRD-047-implementing-a-brand-strategy-takes-six-elements-not-just-a|BRD-047]]: Implementing a brand strategy takes six elements, not just a positioning
 <!-- backlinks:end -->

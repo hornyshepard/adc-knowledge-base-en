@@ -1,69 +1,69 @@
-# Raport P2-INS — integrarea skill-ului consumer-insight (INS)
+# Report P2-INS: integration of the consumer-insight skill (INS)
 
-Agent P2-INS, Faza 2. Skill: `20-skills/consumer-insight/`.
+Agent P2-INS, Phase 2. Skill: `20-skills/consumer-insight/`.
 
-## 1. Cifre
+## 1. Numbers
 
-| | Înainte | După |
+| | Before | After |
 |---|---|---|
-| Note permanente | 98 | 95 (98 − 4 comasate + 1 nouă) |
-| Note cu `status: growing` | 0 | 95 |
-| Note cu 2–6 legături tipizate și cel puțin una spre alt grup de cărți sau alt skill | 76 | 95 |
-| Note fără nicio legătură în afara propriului grup Faza 1 (ex. INS-04xx doar spre INS-04xx) | 22 | 0 |
-| Lungime corp (`kb.py`) | 282–516 cuvinte | 303–526 cuvinte |
+| Permanent notes | 98 | 95 (98 − 4 merged + 1 new) |
+| Notes with `status: growing` | 0 | 95 |
+| Notes with 2–6 typed links and at least one to another book group or another skill | 76 | 95 |
+| Notes with no link outside their own Phase 1 group (e.g. INS-04xx only to INS-04xx) | 22 | 0 |
+| Body length (`kb.py`) | 282–516 words | 303–526 words |
 
-`kb.py check`: nicio problemă în fișierele `consumer-insight` la ultima rulare.
+`kb.py check`: no problems in the `consumer-insight` files at the last run.
 
-## 2. Comasări (în `merges-INS.txt`)
+## 2. Merges (in `merges-INS.txt`)
 
-| DROP | KEEP | Ce s-a integrat |
+| DROP | KEEP | What was integrated |
 |---|---|---|
-| INS-0107 (ELM, Grewal-Levy) | INS-0430 (ELM/HSM, Fennis-Stroebe) | Versiunea de manual a ELM (Laura/Macy's), lectura lui Percy (risc mic: execuția ajunge; risc mare: argumentul trebuie crezut), plus paragraf „unde converg autorii"; surse SRC-012 + SRC-001 + SRC-049. Cele trei tipuri de decizie (extinsă, limitată/impuls, obișnuință) au fost mutate în **INS-0109**, retitlată „Implicarea și diferențele percepute între branduri dau tipul de decizie…". |
-| INS-0446 (psihanaliza, Parsons et al.) | INS-0601 (cercetarea motivațională, Fernández Gómez) | Dichter (trei straturi de motive, decapotabila-„amantă", „permisiunea de a te bucura fără vinovăție"), Bernays, critica Packard/Vicary, reabilitarea ca „concepte care sensibilizează" (Williamson, Klein). Notă retitlată și trecută la `kind: debate`; dezacordul explicit: Fernández Gómez (mașină de vânzare) vs. Parsons et al. (vocabular util) vs. Fennis-Stroebe (fără experiment nu e dovadă). Exemplele de sarcini proiective au mers în **INS-1209**. |
-| INS-0501 (Braig, „de ce" insistent și fricțiuni) | INS-0702 (McTigue, „ce" → „de ce") | Fricțiunile Braig (KABOOM, Clorox), „de ce contează?" repetat, critica Ford/Jobs; convergența celor trei surse și tensiunea despre focus grupuri (Braig vs. McTigue). Partea despre persona a mers în **INS-1306** (sursă SRC-014 adăugată). |
-| INS-0445 (consumul postmodern, Brown via Parsons) | INS-1206 (consumatorul postmodern, Firat & Venkatesh via Batat) | Un singur tabel cu cele două liste de trăsături, linking value, consum solid/lichid, critica Parsons et al. și post-postmodernismul; nivel 3 → 2. |
+| INS-0107 (ELM, Grewal-Levy) | INS-0430 (ELM/HSM, Fennis-Stroebe) | The textbook version of ELM (Laura/Macy's), Percy's reading (low risk: the execution is enough; high risk: the argument must be believed), plus a "where the authors converge" paragraph; sources SRC-012 + SRC-001 + SRC-049. The three types of decision (extended, limited/impulse, habit) were moved into **INS-0109**, retitled "Involvement and perceived differences between brands set the type of decision…". |
+| INS-0446 (psychoanalysis, Parsons et al.) | INS-0601 (motivation research, Fernández Gómez) | Dichter (three layers of motives, the convertible as "mistress", "moral permission to have fun without guilt"), Bernays, the Packard/Vicary critique, the rehabilitation as "sensitising concepts" (Williamson, Klein). The note was retitled and moved to `kind: debate`; the explicit disagreement: Fernández Gómez (a sales machine) vs. Parsons et al. (a useful vocabulary) vs. Fennis-Stroebe (without an experiment it is not evidence). The examples of projective tasks went into **INS-1209**. |
+| INS-0501 (Braig, the insistent "why" and frictions) | INS-0702 (McTigue, "what" → "why") | Braig's frictions (KABOOM, Clorox), "why does it matter?" repeated, the Ford/Jobs critique; the convergence of the three sources and the tension about focus groups (Braig vs. McTigue). The part on the persona went into **INS-1306** (source SRC-014 added). |
+| INS-0445 (postmodern consumption, Brown via Parsons) | INS-1206 (the postmodern consumer, Firat & Venkatesh via Batat) | A single table with the two lists of traits, linking value, solid/liquid consumption, the Parsons et al. critique and post-postmodernism; level 3 → 2. |
 
-## 3. Note noi
+## 3. New notes
 
-- **INS-9901** — *Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief* (checklist, nivel 2). Golul: pasul final al traseului (verificarea formulării) era împrăștiat în INS-0701, INS-0602, BRF-0715, BRF-0719. Nota strânge testele din SRC-022 (cap. 4: Grand Furniture, Luvs, ambalajul de carne, Stark revizuit), SRC-019 (outil 19, dilema), SRC-025 (cap. 6: Bullmore, Angear, insight fix/dinamic) și SRC-023 (Singleton „helpful insight", triangularea Euro RSCG). Toate pasajele au fost verificate în `90-library/text/`. Face puntea INS → BRF ([[BRF-0702]], [[BRF-0703]]).
+- **INS-9901**: *The insight checklist: eight checks before a "truth about the target" goes into the brief* (checklist, level 2). The gap: the final step of the path (checking the wording) was scattered across INS-0701, INS-0602, BRF-0715, BRF-0719. The note gathers the tests from SRC-022 (ch. 4: Grand Furniture, Luvs, the meat packaging, Stark revised), SRC-019 (outil 19, the dilemma), SRC-025 (ch. 6: Bullmore, Angear, fixed/dynamic insight) and SRC-023 (Singleton "helpful insight", the Euro RSCG triangulation). All passages were checked in `90-library/text/`. It forms the bridge INS → BRF ([[BRF-0702]], [[BRF-0703]]).
 
-## 4. Legături și integrare între autori
+## 4. Links and integration across authors
 
-Principalul câștig: notele G04 (Fennis & Stroebe), G15 (Percy & Rosenbaum-Elliott), G06 (Milavsky, *La boîte à outils*), G01 (Grewal & Levy), G12 (Batat), G13 (Struhl) și G07 (McTigue) se citează acum reciproc. Convergențe și dezacorduri scrise explicit în corpul notelor:
+The main gain: the notes of G04 (Fennis & Stroebe), G15 (Percy & Rosenbaum-Elliott), G06 (Milavsky, *La boîte à outils*), G01 (Grewal & Levy), G12 (Batat), G13 (Struhl) and G07 (McTigue) now cite each other. Convergences and disagreements written explicitly in the body of the notes:
 
-- **Implicarea** e a persoanei, nu a produsului: Fennis-Stroebe (INS-0401), Grewal-Levy (INS-0109), Percy (INS-1503). INS-1503 `contrazice` ADV-0402: critica Fennis-Stroebe la grila Rossiter-Percy lovește folosirea pe categorii, nu definiția lui Percy.
-- **Atitudinea**: Grewal-Levy (ABC, INS-0106) vs. Percy (fără conație, INS-1506) — legătură `contrazice` în ambele sensuri.
-- **Subliminal/inconștient**: INS-0439 (efecte mici, condiționate) ↔ INS-1511 (niciun efect) ↔ INS-0402/0412/0414/0421 — `contrazice`, cu paragraf de tensiune.
-- **Frica**: INS-0433 (meta-analiza: mai multă frică, mai multă persuasiune) ↔ INS-1507 și ADV-1532 (frică moderată, U inversat).
-- **Credibilitatea sursei**: INS-0606 (Milavsky) ≈ INS-0432 (Fennis) ≈ INS-1505 (VisCAP).
-- **Focus grupuri și recall**: patru surse converg (INS-1303, INS-0419, INS-0412, ADV-1530, INS-0702).
-- **Frâna ca insight**: INS-0417 (alfa/omega) ≈ ADV-0609 (Joannis) ≈ INS-0602 (dilema) ≈ BRF-0714 (Stark).
-- **Motivația**: trei tipologii legate `alternativa` (INS-0102, INS-0428, INS-1504).
-- **Memoria de lucru și efectul Google**: INS-0411 ↔ INS-1510; INS-0443 ↔ INS-1509.
+- **Involvement** belongs to the person, not the product: Fennis-Stroebe (INS-0401), Grewal-Levy (INS-0109), Percy (INS-1503). INS-1503 `contradicts` ADV-0402: the Fennis-Stroebe critique of the Rossiter-Percy grid hits its use by category, not Percy's definition.
+- **Attitude**: Grewal-Levy (ABC, INS-0106) vs. Percy (no conation, INS-1506): a `contradicts` link in both directions.
+- **Subliminal/unconscious**: INS-0439 (small, conditional effects) ↔ INS-1511 (no effect) ↔ INS-0402/0412/0414/0421: `contradicts`, with a tension paragraph.
+- **Fear**: INS-0433 (the meta-analysis: more fear, more persuasion) ↔ INS-1507 and ADV-1532 (moderate fear, inverted U).
+- **Source credibility**: INS-0606 (Milavsky) ≈ INS-0432 (Fennis) ≈ INS-1505 (VisCAP).
+- **Focus groups and recall**: four sources converge (INS-1303, INS-0419, INS-0412, ADV-1530, INS-0702).
+- **The brake as an insight**: INS-0417 (alpha/omega) ≈ ADV-0609 (Joannis) ≈ INS-0602 (the dilemma) ≈ BRF-0714 (Stark).
+- **Motivation**: three typologies linked as `alternative` (INS-0102, INS-0428, INS-1504).
+- **Working memory and the Google effect**: INS-0411 ↔ INS-1510; INS-0443 ↔ INS-1509.
 
-## 5. Duplicate între skill-uri (legate, necomasate)
+## 5. Duplicates across skills (linked, not merged)
 
-| Nota INS | Nota din alt skill | Relație pusă |
+| INS note | Note in another skill | Relation set |
 |---|---|---|
-| INS-0406 (pionierul stabilește agenda atributelor) | BRD-0514 (pionier, urmăritor, intrat târziu) — aceeași cercetare Carpenter & Nakamoto | `vezi` + paragraf în INS-0406 |
-| INS-0439, INS-1511 (subliminal) | HIS-0817 (mitul subliminal) | `vezi` în ambele |
-| INS-1306 (personas, nu segmente) | DIG-1006 (buyer persona ≠ grup țintă), DIG-0912 | `vezi` |
-| INS-0427 (expectanță-valoare) | BRD-1503 (beneficiul de poziționare cu expectanță-valoare) | `aplicare` |
-| INS-0417 (alfa/omega) | ADV-0609 (axa psihologică Joannis) | `alternativa` |
-| INS-1303, INS-0412 | ADV-1530 (pretestul fără focus grup și fără recall) | `aplicare` |
-| INS-0603 (cantitativ vs. calitativ) | MKT-0126 | `vezi` |
-| INS-0605 (creierul rapid) | ART-0501 (designul lucrează în Sistemul 1) | `vezi` |
+| INS-0406 (the pioneer sets the attribute agenda) | BRD-0514 (pioneer, follower, late entrant): the same Carpenter & Nakamoto research | `see` + a paragraph in INS-0406 |
+| INS-0439, INS-1511 (subliminal) | HIS-0817 (the subliminal myth) | `see` in both |
+| INS-1306 (personas, not segments) | DIG-1006 (buyer persona ≠ target group), DIG-0912 | `see` |
+| INS-0427 (expectancy-value) | BRD-1503 (the positioning benefit with expectancy-value) | `application` |
+| INS-0417 (alpha/omega) | ADV-0609 (Joannis's psychological axis) | `alternative` |
+| INS-1303, INS-0412 | ADV-1530 (the pretest without focus groups and without recall) | `application` |
+| INS-0603 (quantitative vs. qualitative) | MKT-0126 | `see` |
+| INS-0605 (the fast brain) | ART-0501 (design works in System 1) | `see` |
 
-## 6. Goluri rămase
+## 6. Remaining gaps
 
-- **Aversiunea la pierdere, teoria perspectivei, efectul de înzestrare**: absente din bibliotecă (grep fără rezultate în SRC-001, 012, 013, 021), deci nu am creat notă.
-- **Neuroștiința în cercetarea de brand** (*Kellogg on Branding*, cap. 14): biblioteca o acoperă, dar nu există notă; candidat pentru INS sau AIM.
-- **Hărți transversale utile** (pentru `30-maps/`): „Cercetare și măsurare" (INS-05 + ADV pretest + AIM trade-off + DIG A/B) și „Etica persuasiunii" (INS-0420, 0434, 0438, 0105, 1509; CPY-0401; BRD-0402), cum propunea și raportul G04.
+- **Loss aversion, prospect theory, the endowment effect**: absent from the library (grep with no results in SRC-001, 012, 013, 021), so I did not create a note.
+- **Neuroscience in brand research** (*Kellogg on Branding*, ch. 14): the library covers it, but there is no note; a candidate for INS or AIM.
+- **Useful cross-cutting maps** (for `30-maps/`): "Research and measurement" (INS-05 + the ADV pretest + the AIM trade-off + DIG A/B) and "The ethics of persuasion" (INS-0420, 0434, 0438, 0105, 1509; CPY-0401; BRD-0402), as the G04 report also proposed.
 
-## 7. Pentru orchestrator
+## 7. For the orchestrator
 
-- Ordinea din „Harta notelor" din `SKILL.md` (6 secțiuni, 18 + 24 + 23 + 10 + 16 + 4 = 95 de note) e ordinea de renumerotare dorită.
-- Titluri schimbate (slug-ul de fișier e păstrat până la `renumber`): INS-0109, INS-0601, INS-0702.
-- Ținte retrimise deja în notele mele, după `merges-ADV/BRD/EXP.txt`: ADV-0102 → ADV-0401, ADV-0106 → ADV-0604 (în INS am ales ținte mai potrivite: CPY-0403, ADV-1513, ADV-1511), BRD-0104 → BRD-0512, BRD-0205/BRD-0401 → BRD-0606, EXP-0204 → EXP-1210, EXP-1205 → EXP-0901. Dacă alte skill-uri mai comasează după acest raport, redirect-ul final le va acoperi.
-- Legături din alte skill-uri spre notele mele comasate (de redirecționat): ADV-0106 și DIG-0104 → INS-0107; ADV-0501 și ADV-0502 → INS-0501; EXP-0401 și MKT-0401 → INS-0445; SRC-001, SRC-013, SRC-014 → notele comasate.
-- Secțiunile `<!-- backlinks -->` din notele rescrise au fost golite; `kb.py build` le regenerează.
+- The order of the "Note map" in `SKILL.md` (6 sections, 18 + 24 + 23 + 10 + 16 + 4 = 95 notes) is the intended renumbering order.
+- Titles changed (the file slug is kept until `renumber`): INS-0109, INS-0601, INS-0702.
+- Targets already re-pointed in my notes, following `merges-ADV/BRD/EXP.txt`: ADV-0102 → ADV-0401, ADV-0106 → ADV-0604 (in INS I chose better-fitting targets: CPY-0403, ADV-1513, ADV-1511), BRD-0104 → BRD-0512, BRD-0205/BRD-0401 → BRD-0606, EXP-0204 → EXP-1210, EXP-1205 → EXP-0901. If other skills merge more after this report, the final redirect will cover them.
+- Links from other skills to my merged notes (to be redirected): ADV-0106 and DIG-0104 → INS-0107; ADV-0501 and ADV-0502 → INS-0501; EXP-0401 and MKT-0401 → INS-0445; SRC-001, SRC-013, SRC-014 → the merged notes.
+- The `<!-- backlinks -->` sections in the rewritten notes were emptied; `kb.py build` regenerates them.

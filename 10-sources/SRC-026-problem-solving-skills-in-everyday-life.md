@@ -14,47 +14,47 @@ level: 1
 
 # Problem Solving Skills in Everyday Life
 
-**Naveed Ahmed, 2018** (anul de pe pagina de copyright). Carte autopublicată, fără editură numită. În interior se prezintă cu alt titlu: „Mastering Life's Challenges: A Comprehensive Guide to Problem-Solving".
+**Naveed Ahmed, 2018** (the year on the copyright page). A self-published book, with no publisher named. Inside, it presents itself under another title: "Mastering Life's Challenges: A Comprehensive Guide to Problem-Solving".
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un ghid de dezvoltare personală (~14.000 de cuvinte), în opt capitole: ce e o problemă și tipurile ei, mentalitatea (atitudine pozitivă, *growth mindset*, reziliență), procesul în șapte pași, tehnici creative și logice, modele de decizie, studii de caz (carieră, cuplu, bani, sănătate), exerciții, trusa de instrumente, menținerea progresului.
-- **Teza centrală:** rezolvarea problemelor e o abilitate care se antrenează: un proces structurat plus câteva instrumente standard și o mentalitate de creștere.
-- **Pentru cine și când:** utilă doar ca recapitulare rapidă a instrumentelor clasice (SCAMPER, cele șase pălării, matricea de decizie), la începutul modulului IDE sau pentru lucrul în echipă.
-- **Relevanță pentru ADC:** ★★☆☆☆ (2) — generică, fără legătură cu publicitatea; tehnicile sunt corecte, dar se găsesc mai bine explicate în alte surse.
+- **What it is about:** a personal development guide (about 14,000 words) in eight chapters: what a problem is and its types, the mindset (positive attitude, growth mindset, resilience), the seven-step process, creative and logical techniques, decision models, case studies (career, relationship, money, health), exercises, the toolkit, maintaining progress.
+- **Central thesis:** problem solving is a skill you can train: a structured process plus a few standard tools and a growth mindset.
+- **For whom and when:** useful only as a quick review of the classic tools (SCAMPER, the six thinking hats, the decision matrix), at the start of the IDE module or for teamwork.
+- **Relevance for ADC:** ★★☆☆☆ (2): generic, with no link to advertising; the techniques are correct, but other sources explain them better.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Understanding Problems (problema ca decalaj; tipuri) | [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la\|IDE-007]] |
-| 2 | The Problem-Solving Mindset | — (generic: recunoștință, optimism, growth mindset) |
-| 3 | Techniques and Strategies (procesul în 7 pași, SCAMPER, cele șase pălării, matricea de decizie, Pareto, Eisenhower) | [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la\|IDE-007]], [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si\|IDE-022]] |
-| 4–5 | Real-Life și Scenario Case Studies (Sarah, Alex, Jake, Lisa) | — (cazuri ipotetice) |
-| 6–8 | Exerciții, trusa de instrumente, progres și eșecuri | [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si\|IDE-022]] |
+| 1 | Understanding Problems (the problem as a gap; types) | [[IDE-007-the-seven-step-problem-solving-process-from-defining-the\|IDE-007]] |
+| 2 | The Problem-Solving Mindset | none (generic: gratitude, optimism, growth mindset) |
+| 3 | Techniques and Strategies for Problem-Solving (the 7-step process, SCAMPER, the six thinking hats, the decision matrix, Pareto, Eisenhower) | [[IDE-007-the-seven-step-problem-solving-process-from-defining-the\|IDE-007]], [[IDE-022-the-generation-and-selection-toolkit-scamper-the-six\|IDE-022]] |
+| 4–5 | Real-Life Case Studies and Scenario Case Studies (Sarah, Alex, Jake, Lisa) | none (hypothetical cases) |
+| 6–8 | Practical Exercises and Activities; Building Your Problem-Solving Toolkit; Maintaining Progress and Overcoming Setbacks | [[IDE-022-the-generation-and-selection-toolkit-scamper-the-six\|IDE-022]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la|IDE-007]] — procesul în șapte pași și tipurile de probleme.
-- [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si|IDE-022]] — trusa de generare și selecție: SCAMPER, cele șase pălării, matricea de decizie ponderată, Pareto și Eisenhower.
+- [[IDE-007-the-seven-step-problem-solving-process-from-defining-the|IDE-007]]: the seven-step process and the types of problems.
+- [[IDE-022-the-generation-and-selection-toolkit-scamper-the-six|IDE-022]]: the toolkit for generating and selecting: SCAMPER, the six thinking hats, the weighted decision matrix, Pareto and Eisenhower.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Fără surse, fără bibliografie, fără date; instrumentele sunt atribuite doar uneori (Dweck, de Bono).
-- Studiile de caz „reale" sunt povești ipotetice cu prenume, toate cu final fericit.
-- Text repetitiv, cu formule de motivare; titlul diferă între copertă și interior. Pare un produs editorial de serie, posibil generat automat (impresie, nu fapt verificat).
-- Nimic despre creativitate în echipă, despre brief sau despre client; pentru ideație publicitară vezi [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] și [[SRC-025-shareworthy|SRC-025]].
+- No sources, no bibliography, no data; the tools are only sometimes attributed (Dweck, de Bono).
+- The "real-life" case studies are hypothetical stories with first names, all with a happy ending.
+- A repetitive text, with motivational formulas; the title differs between the cover and the inside. It looks like a serial publishing product, possibly generated automatically (an impression, not a verified fact).
+- Nothing about creativity in teams, about the brief or about the client; for advertising ideation see [[SRC-024-the-a-z-of-visual-ideas|SRC-024]] and [[SRC-025-shareworthy|SRC-025]].
 
-## Citat
+## Quote
 
-> „Problem-solving skills are like muscles." — cap. Introducere
+> "Problem-solving skills are like muscles" (Introduction)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[IDE-007-procesul-in-sapte-pasi-de-rezolvare-a-problemelor-de-la|IDE-007]] — Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului
-- [[IDE-009-volumul-precede-calitatea-ideea-buna-iese-dintr-un-numar|IDE-009]] — Volumul precede calitatea — ideea bună iese dintr-un număr mare de încercări, cele mai multe proaste
-- [[IDE-010-brainstormingul-lui-osborn-are-patru-reguli-cantitate|IDE-010]] — Brainstormingul lui Osborn are patru reguli — cantitate, judecată amânată, idei sălbatice, combinare — și cere ca generarea să fie separată de evaluare
-- [[IDE-022-trusa-de-generare-si-selectie-scamper-cele-sase-palarii-si|IDE-022]] — Trusa de generare și selecție — SCAMPER, cele șase pălării și matricea de decizie ponderată
-- [[IDE-023-grilele-de-evaluare-a-ideilor-converg-pe-trei-intrebari|IDE-023]] — Grilele de evaluare a ideilor converg pe trei întrebări — servește strategia, iese din rând, rămâne legată de brand — dar se aplică în momente diferite
+- [[IDE-007-the-seven-step-problem-solving-process-from-defining-the|IDE-007]]: The seven-step problem-solving process: from defining the gap to reviewing the results
+- [[IDE-009-volume-comes-before-quality-the-good-idea-comes-out-of-a|IDE-009]]: Volume comes before quality: the good idea comes out of a large number of attempts, most of them bad
+- [[IDE-010-osborn-s-brainstorming-has-four-rules-quantity-deferred|IDE-010]]: Osborn's brainstorming has four rules (quantity, deferred judgment, wild ideas, combination) and keeps generating separate from evaluating
+- [[IDE-022-the-generation-and-selection-toolkit-scamper-the-six|IDE-022]]: The generation and selection toolkit: SCAMPER, the Six Thinking Hats and the weighted decision matrix
+- [[IDE-023-idea-evaluation-grids-converge-on-three-questions-does-it|IDE-023]]: Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
 <!-- backlinks:end -->

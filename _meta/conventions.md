@@ -1,81 +1,81 @@
-# Convenții ale knowledge base-ului ADC
+# Conventions of the ADC knowledge base
 
-Acest fișier este „constituția" bazei de cunoștințe. Orice notă nouă — scrisă de un om sau de un agent AI — respectă regulile de aici. `tools/kb.py check` verifică automat cele mai multe dintre ele.
+This file is the "constitution" of the knowledge base. Every new note, whether written by a person or by an AI agent, follows the rules here. `tools/kb.py check` checks most of them automatically.
 
-## 1. Metoda: Zettelkasten organizat pe skill-uri
+## 1. The method: a Zettelkasten organized by skills
 
-Baza combină două idei:
+The base combines two ideas:
 
-1. **Zettelkasten** (Niklas Luhmann): note mici, *atomice* (o singură idee per notă), scrise cu cuvintele tale, fiecare cu un ID permanent și legată explicit de alte note. Valoarea nu stă în note, ci în **legături**.
-2. **Skill-uri**: fiecare notă are o „casă" — skill-ul principal pe care îl dezvoltă. Un skill este un folder cu un fișier-hub `SKILL.md` (meta-fișier) care spune ce competențe acoperă, în ce ordine se învață notele și cum le folosește un agent AI.
+1. **Zettelkasten** (Niklas Luhmann): small, *atomic* notes (a single idea per note), written in your own words, each with a permanent ID and explicitly linked to other notes. The value is not in the notes but in the **links**.
+2. **Skills**: every note has a "home", the main skill it develops. A skill is a folder with a hub file `SKILL.md` (meta-file) that says which competencies it covers, in what order the notes are learned and how an AI agent uses them.
 
-Rezultatul: poți naviga **vertical** (pe skill, ca într-un curs) sau **lateral** (pe legături, ca într-un Zettelkasten).
+The result: you can navigate **vertically** (by skill, as in a course) or **laterally** (by links, as in a Zettelkasten).
 
-## 2. Tipuri de note
+## 2. Note types
 
-| Tip (`type`) | Ce este | Unde stă | ID |
+| Type (`type`) | What it is | Where it sits | ID |
 |---|---|---|---|
-| `fleeting` | Notă rapidă, neprocesată (captură) | `00-inbox/` | fără ID |
-| `source` | Notă de lectură: fișa unei cărți | `10-sources/` | `SRC-001` |
-| `zettel` | Notă permanentă, atomică | `20-skills/<skill>/notes/` | `BRD-001` |
-| `skill` | Hub-ul unui skill (meta-fișier) | `20-skills/<skill>/SKILL.md` | codul skill-ului, ex. `BRD` |
-| `map` | Hartă transversală (structure note / MOC) | `30-maps/` | `MAP-001` |
+| `fleeting` | Quick, unprocessed note (capture) | `00-inbox/` | no ID |
+| `source` | Reading note: the sheet of a book | `10-sources/` | `SRC-001` |
+| `zettel` | Permanent, atomic note | `20-skills/<skill>/notes/` | `BRD-001` |
+| `skill` | The hub of a skill (meta-file) | `20-skills/<skill>/SKILL.md` | the skill code, e.g. `BRD` |
+| `map` | Cross-cutting map (structure note / MOC) | `30-maps/` | `MAP-001` |
 
-## 3. ID-uri și nume de fișiere
+## 3. IDs and file names
 
-- ID-ul unei note permanente = **codul skill-ului principal + număr**: `BRD-007`. ID-ul nu se schimbă niciodată după publicare, chiar dacă nota își schimbă titlul.
-- Codurile de skill sunt în `_meta/skills.json` (MKT, INS, BRD, ADV, BRF, IDE, CPY, ART, STO, DIG, SOC, EXP, AIM, PIT, PRT, CLI, HIS).
-- Numele fișierului = `ID-slug.md`, unde slug-ul vine din titlu, cu litere mici, fără diacritice, cu cratime, maxim ~60 caractere. Exemplu: `BRD-007-pozitionarea-un-loc-distinct-in-minte.md`.
-- *Temporar*, în faza de construcție, ID-urile pot avea 4 cifre (`BRD-0503` = grupul 05, nota 03). La lansare, `kb.py renumber` le transformă în ID-uri definitive de 3 cifre, în ordinea traseului de învățare din `SKILL.md`.
+- The ID of a permanent note = **the code of its main skill + a number**: `BRD-007`. The ID never changes after publication, even if the note changes its title.
+- The skill codes are in `_meta/skills.json` (MKT, INS, BRD, ADV, BRF, IDE, CPY, ART, STO, DIG, SOC, EXP, AIM, PIT, PRT, CLI, HIS).
+- File name = `ID-slug.md`, where the slug comes from the title, in lowercase, without diacritics, with hyphens, at most ~60 characters. Example: `BRD-007-positioning-is-a-distinct-place-in-the-mind.md`.
+- *Temporarily*, during the construction phase, IDs may have 4 digits (`BRD-0503` = group 05, note 03). At launch, `kb.py renumber` turns them into final 3-digit IDs, in the order of the learning path in `SKILL.md`.
 
-## 4. Legături
+## 4. Links
 
-- Sintaxa: wikilink cu ID-ul: `[[BRD-007]]`. `kb.py build` le normalizează în `[[BRD-007-slug|BRD-007]]` ca să funcționeze și în Obsidian, și pentru agenți.
-- Link către un skill: `[[BRD]]` (devine link spre `20-skills/brand-strategy/SKILL`).
-- Link către o sursă: `[[SRC-014]]`.
-- **Fiecare legătură are un motiv.** În secțiunea „Legături" a unei note, fiecare rând are forma:
+- Syntax: a wikilink with the ID: `[[BRD-007]]`. `kb.py build` normalizes them to `[[BRD-007-slug|BRD-007]]` so they work both in Obsidian and for agents.
+- Link to a skill: `[[BRD]]` (becomes a link to `20-skills/brand-strategy/SKILL`).
+- Link to a source: `[[SRC-014]]`.
+- **Every link has a reason.** In the "Links" section of a note, each line has the form:
 
-  `- **relație** [[ID]] — de ce sunt legate (o propoziție)`
+  `- **relation** [[ID]]: why they are linked (one sentence)`
 
-  Relațiile permise (vocabular controlat, în `_meta/skills.json`):
+  The allowed relations (a controlled vocabulary, in `_meta/skills.json`):
 
-  | relație | sens |
+  | relation | meaning |
   |---|---|
-  | `fundament` | nota mea se sprijină pe țintă (citește ținta întâi) |
-  | `extinde` | nota mea detaliază / dezvoltă ținta |
-  | `aplicare` | nota mea aplică ținta într-un context concret |
-  | `exemplu` | nota mea e un caz / exemplu pentru țintă |
-  | `contrazice` | nota mea e în tensiune cu ținta |
-  | `alternativa` | model alternativ la țintă |
-  | `vezi` | legătură tematică generală |
+  | `foundation` | my note rests on the target (read the target first) |
+  | `extends` | my note details / develops the target |
+  | `application` | my note applies the target in a concrete context |
+  | `example` | my note is a case / example for the target |
+  | `contradicts` | my note is in tension with the target |
+  | `alternative` | an alternative model to the target |
+  | `see` | a general thematic link |
 
-- Legăturile pot apărea și în textul notei (inline), dar cele din „Legături" sunt cele tipizate, folosite pentru graf.
-- Backlink-urile (cine trimite spre o notă) se generează automat de `kb.py build`, între markerii `<!-- backlinks:start -->` și `<!-- backlinks:end -->`. Nu le scrie de mână.
+- Links can also appear in the text of the note (inline), but the ones in "Links" are the typed ones, used for the graph.
+- Backlinks (who points to a note) are generated automatically by `kb.py build`, between the `<!-- backlinks:start -->` and `<!-- backlinks:end -->` markers. Do not write them by hand.
 
-## 5. Frontmatter (metadate YAML)
+## 5. Frontmatter (YAML metadata)
 
-Subset simplu de YAML: `cheie: valoare`, liste inline `[a, b]` și liste cu `- element`. Fără structuri imbricate.
+A simple subset of YAML: `key: value`, inline lists `[a, b]` and lists with `- item`. No nested structures.
 
-### Notă permanentă (`zettel`)
+### Permanent note (`zettel`)
 
 ```yaml
 ---
 id: BRD-007
-title: Poziționarea este un loc distinct în mintea consumatorului
+title: Positioning is a distinct place in the consumer's mind
 type: zettel
 kind: concept            # concept | framework | principle | method | case | checklist | debate
-skill: brand-strategy    # slug-ul skill-ului principal (folderul în care stă)
-also: [advertising-strategy, consumer-insight]   # alte skill-uri unde e relevantă (opțional)
-level: 1                 # 1 Fundament | 2 Practică | 3 Avansat
-tags: [pozitionare, diferentiere]
+skill: brand-strategy    # the slug of the main skill (the folder the note sits in)
+also: [advertising-strategy, consumer-insight]   # other skills where it is relevant (optional)
+level: 1                 # 1 Foundation | 2 Practice | 3 Advanced
+tags: [positioning, differentiation]
 sources:
-  - SRC-014 | cap. 2, p. 31-40
-  - SRC-003 | cap. 4
+  - SRC-014 | ch. 2, pp. 31–40
+  - SRC-003 | ch. 4
 status: seed             # seed | growing | evergreen
 ---
 ```
 
-### Notă de lectură (`source`)
+### Reading note (`source`)
 
 ```yaml
 ---
@@ -88,50 +88,51 @@ language: en
 file: Kellogg on Branding.pdf
 text: 90-library/text/kellogg-on-branding.txt
 skills: [brand-strategy, marketing-fundamentals]
-relevance: 5             # 1-5, cât de utilă e cartea pentru o școală de publicitate
+relevance: 5             # 1-5, how useful the book is for an advertising school
 level: 2
 ---
 ```
 
-## 6. Cum arată o notă permanentă bună
+## 6. What a good permanent note looks like
 
-1. **Titlul este o afirmație sau un concept precis**, nu un subiect vag. Bine: „Brief-ul bun are o singură propoziție centrală". Rău: „Despre brief".
-2. **Atomicitate**: o idee per notă. Dacă te prinzi scriind „și de asemenea…", sparge nota în două și leagă-le.
-3. **Cu cuvintele tale**: parafrazează, nu copia. Cel mult un citat scurt (sub 15 cuvinte) per notă, între ghilimele, cu sursa.
-4. **Autonomă**: nota se înțelege fără să fi citit cartea.
-5. **Aplicabilă**: secțiunea „Aplicare" spune ce face un student / un creativ / un strateg concret cu ideea.
-6. **Ancorată în surse**: fiecare notă citează cel puțin o sursă (`SRC-…`), cu capitol sau pagină unde se poate.
-7. **Legată**: cel puțin 2 legături tipizate (nicio notă orfană).
-8. Lungime: 150–400 de cuvinte în corpul notei. Modelele complexe pot avea un tabel.
+1. **The title is a precise claim or concept**, not a vague subject. Good: "A good brief has a single central proposition". Bad: "About the brief".
+2. **Atomicity**: one idea per note. If you catch yourself writing "and also…", split the note in two and link them.
+3. **In your own words**: paraphrase, do not copy. At most one short verbatim quote (under 15 words) per note, in quotation marks, with the source.
+4. **Self-contained**: the note can be understood without having read the book.
+5. **Applicable**: the "Application" section says what a student / a creative / a strategist concretely does with the idea.
+6. **Anchored in sources**: every note cites at least one source (`SRC-…`), with a chapter or page where possible.
+7. **Linked**: at least 2 typed links (no orphan note).
+8. Length: 150–400 words in the body of the note. Complex models can have a table.
 
-Șablonul complet: `_meta/templates/zettel.md`.
+The full template: `_meta/templates/zettel.md`.
 
-## 7. Limbă și stil
+## 7. Language and style
 
-- Notele sunt scrise în **română**, cu diacritice corecte (ă, â, î, ș, ț — cu virgulă, nu cu sedilă).
-- Termenii de specialitate se dau în română + termenul original la prima apariție: „poziționare (*positioning*)", „propoziție unică de vânzare (*USP*)". Când termenul englezesc e standard în industrie (brief, insight, pitch, big idea, KPI), se păstrează.
-- Numele modelelor rămân cele originale: „Grila Rossiter-Percy", „Piramida CBBE (Keller)".
-- Ton: clar, direct, util pentru un student care vrea să lucreze într-o agenție.
+- The notes are written in **English**, with American spelling (color, behavior, analyze), except in book titles, quotes and proper names.
+- Use the books' own terms, model names, labels and examples, in the book's exact wording: "frame of reference", "points of parity", "the Rossiter-Percy grid", "the CBBE pyramid (Keller)". Industry terms (brief, insight, pitch, big idea, KPI) stay as they are.
+- At most one verbatim quote per note, under 15 words, in straight double quotes. For the French sources, give the original French term in italics at its first mention, e.g. "the copy strategy (*copy-stratégie*)"; a quote from them stays in French, followed by an English translation in square brackets.
+- No em dashes in our own prose: use a colon, a comma, parentheses or a full stop. En dashes only in number ranges (pp. 6–7).
+- Tone: clear, direct, useful for a student who wants to work in an agency.
 
-## 8. Fluxul de lucru CEQRC (cum crește baza)
+## 8. The CEQRC workflow (how the base grows)
 
-| Pas | Ce faci | Unde |
+| Step | What you do | Where |
 |---|---|---|
-| **C**apture | Notezi rapid ideea / citatul / pagina | `00-inbox/` (notă `fleeting`) |
-| **E**xplain | O rescrii cu cuvintele tale, ca notă atomică | `20-skills/<skill>/notes/` |
-| **Q**uestion | Adaugi întrebări: unde nu se aplică? cine contrazice? | secțiunea „Întrebări" |
-| **R**efine | Scurtezi, clarifici titlul, verifici sursa, ridici `status` | nota însăși |
-| **C**onnect | Adaugi legături tipizate, o pui în harta din `SKILL.md` | „Legături" + `SKILL.md` |
+| **C**apture | You quickly note the idea / the quote / the page | `00-inbox/` (a `fleeting` note) |
+| **E**xplain | You rewrite it in your own words, as an atomic note | `20-skills/<skill>/notes/` |
+| **Q**uestion | You add questions: where does it not apply? who contradicts it? | the "Questions" section |
+| **R**efine | You shorten, sharpen the title, check the source, raise the `status` | the note itself |
+| **C**onnect | You add typed links, you place it in the map in `SKILL.md` | "Links" + `SKILL.md` |
 
-Apoi rulezi `python3 tools/kb.py build` (backlink-uri, indexuri, graf) și `python3 tools/kb.py suggest` (propuneri de legături pe care nu le-ai făcut încă).
+Then you run `python3 tools/kb.py build` (backlinks, indexes, graph) and `python3 tools/kb.py suggest` (proposals for links you have not made yet).
 
-## 9. Meta-fișiere generate automat (nu le edita de mână)
+## 9. Automatically generated meta-files (do not edit them by hand)
 
-| Fișier | Conținut |
+| File | Content |
 |---|---|
-| `_meta/catalog.json`, `_meta/catalog.csv` | toate notele cu metadatele lor |
-| `_meta/graph.json` | graful: noduri (note) + muchii (legături tipizate) |
-| `_meta/coverage.md` | matricea skill × sursă și golurile de acoperire |
-| `_meta/link-suggestions.md` | perechi de note similare, încă nelegate |
-| `_meta/health.md` | raportul `check`: legături rupte, orfani, câmpuri lipsă |
-| secțiunile `<!-- auto:... -->` din `SKILL.md` și `INDEX.md` | liste de note generate |
+| `_meta/catalog.json`, `_meta/catalog.csv` | all notes with their metadata |
+| `_meta/graph.json` | the graph: nodes (notes) + edges (typed links) |
+| `_meta/coverage.md` | the skill × source matrix and the coverage gaps |
+| `_meta/link-suggestions.md` | pairs of similar notes, not yet linked |
+| `_meta/health.md` | the `check` report: broken links, orphans, missing fields |
+| the `<!-- auto:... -->` sections in `SKILL.md` and `INDEX.md` | generated note lists |

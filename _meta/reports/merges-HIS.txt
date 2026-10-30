@@ -1,1 +1,1 @@
-# P2-HIS: nicio comasare internă (notele HIS nu aveau duplicate între ele).
+# P2-HIS: no internal merges (the HIS notes had no duplicates among them).

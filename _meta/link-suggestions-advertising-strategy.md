@@ -1,418 +1,1022 @@
-# Propuneri de legături
-
-_Generat de `kb.py suggest` la 2026-10-01 13:21. Similaritate TF-IDF; confirmă doar legăturile care au un motiv clar și scrie-le cu relație tipizată._
-
-## HIS-009 — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
-- 0.14 [[CPY-003]] Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare · _copywriting_
-- 0.14 [[IDE-003]] Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza · _creative-ideation_
-
-## ADV-004 — Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar"
-- 0.13 [[DIG-007]] Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității · _digital-marketing_
-
-## ADV-007 — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-- 0.11 [[ADV-015]] Audiența țintă se alege dintre cinci grupuri de cumpărători, iar fiecare grup cere încercare sau recumpărare, la costuri diferite
-- 0.11 [[INS-020]] Atitudinea față de brand e o evaluare relativă, din convingeri și emoții, a capacității brandului de a satisface motivația de acum · _consumer-insight_
-- 0.11 [[ADV-010]] Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte
-- 0.11 [[ADV-078]] Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
-
-## ADV-008 — Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu"
-- 0.12 [[AIM-007]] Validarea pe un eșantion de control separă tiparele reale de supra-ajustare · _ai-marketing_
-- 0.10 [[DIG-016]] Customer journey-ul digital nu e o pâlnie parcursă în ordine, ci un traseu cu întreruperi și bucle, care se închide într-o buclă de loialitate · _digital-marketing_
-
-## ADV-010 — Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte
-- 0.12 [[MKT-014]] STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare · _marketing-fundamentals_
-- 0.12 [[IDE-007]] Procesul în șapte pași de rezolvare a problemelor — de la definirea decalajului la revizuirea rezultatului · _creative-ideation_
-- 0.11 [[ADV-007]] Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-
-## ADV-015 — Audiența țintă se alege dintre cinci grupuri de cumpărători, iar fiecare grup cere încercare sau recumpărare, la costuri diferite
-- 0.12 [[ADV-033]] Obiectivul de atitudine are cinci forme (creezi, crești, menții, modifici, schimbi) și se alege doar după ce știi ce crede deja ținta
-- 0.11 [[ADV-007]] Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-
-## ADV-018 — Călătoria clientului se construiește pe un singur segment, în șase etape, cu trei întrebări la fiecare — abia apoi vin obiectivele și KPI-urile
-- 0.10 [[MKT-036]] Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată · _marketing-fundamentals_
-
-## ADV-024 — USP-ul lui Reeves are trei condiții — o propunere concretă, unică și suficient de puternică încât să mute masele — și nu e un slogan
-- 0.11 [[DIG-009]] Propunerea de valoare digitală se scrie după formula „Pentru [țintă], [brandul] este [ce] care [beneficiu și diferență]" · _digital-marketing_
-
-## ADV-025 — La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
-- 0.12 [[ADV-027]] Disputa Reeves–Ogilvy — USP contra brand image, rațiune contra emoție, cercetare contra judecată
-
-## ADV-027 — Disputa Reeves–Ogilvy — USP contra brand image, rațiune contra emoție, cercetare contra judecată
-- 0.12 [[ADV-028]] Poziționarea e moștenitoarea USP-ului — idee nouă sau „vin vechi în sticle noi"?
-- 0.12 [[ADV-025]] La un USP se ajunge pe trei drumuri — îl găsești în produs, îl construiești în produs sau îl revendici primul
-
-## ADV-028 — Poziționarea e moștenitoarea USP-ului — idee nouă sau „vin vechi în sticle noi"?
-- 0.12 [[ADV-027]] Disputa Reeves–Ogilvy — USP contra brand image, rațiune contra emoție, cercetare contra judecată
-
-## ADV-031 — Nevoia de categorie devine obiectiv doar în două cazuri, când trebuie amintită sau când trebuie vândută, iar vânzarea ei cere o campanie întreagă
-- 0.12 [[BRD-009]] Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze · _brand-strategy_
-
-## ADV-033 — Obiectivul de atitudine are cinci forme (creezi, crești, menții, modifici, schimbi) și se alege doar după ce știi ce crede deja ținta
-- 0.12 [[ADV-015]] Audiența țintă se alege dintre cinci grupuri de cumpărători, iar fiecare grup cere încercare sau recumpărare, la costuri diferite
-
-## ADV-035 — Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-- 0.13 [[INS-051]] Implicarea este riscul perceput de țintă, nu un atribut al produsului: la implicare mică ajunge curiozitatea, la implicare mare mesajul trebuie crezut · _consumer-insight_
-- 0.12 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.11 [[INS-046]] Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială) · _consumer-insight_
-- 0.10 [[ADV-038]] Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-
-## ADV-036 — Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- 0.17 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.15 [[INS-046]] Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială) · _consumer-insight_
-- 0.13 [[ADV-041]] Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-
-## ADV-037 — Strategia informațională cu implicare mare trebuie să convingă, cu afirmații ținute în latitudinea de acceptare a țintei sau cu o abordare refutațională
-- 0.14 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.12 [[ADV-038]] Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-
-## ADV-038 — Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-- 0.16 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.12 [[ADV-037]] Strategia informațională cu implicare mare trebuie să convingă, cu afirmații ținute în latitudinea de acceptare a țintei sau cu o abordare refutațională
-- 0.10 [[ADV-035]] Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-
-## ADV-039 — Grila FCB (Vaughn) ordonează „gândește–simte–acționează" după implicare și tipul de decizie, dar leagă implicarea de categoria de produs
-- 0.10 [[INS-046]] Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială) · _consumer-insight_
-
-## ADV-041 — Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-- 0.17 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.13 [[ADV-036]] Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- 0.11 [[INS-037]] Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate · _consumer-insight_
-
-## ADV-052 — Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-- 0.17 [[ADV-041]] Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă
-- 0.17 [[ADV-036]] Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută
-- 0.16 [[ADV-038]] Strategia transformațională cu implicare mare cere ca ținta să se identifice personal cu brandul așa cum e portretizat, iar plăcerea să treacă de la reclamă la brand
-- 0.14 [[BRF-006]] Brief-ul creativ încape pe o pagină, în trei blocuri (sarcina, obiectivele și strategia, execuția), și se detaliază doar ținta și susținerea beneficiului · _creative-brief_
-- 0.14 [[ADV-037]] Strategia informațională cu implicare mare trebuie să convingă, cu afirmații ținute în latitudinea de acceptare a țintei sau cu o abordare refutațională
-- 0.12 [[ADV-035]] Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută
-
-## ADV-054 — Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
-- 0.12 [[ADV-082]] Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-
-## ADV-058 — Strategia media are patru obiective (4M) — potrivire, monopolizare, moment, mentalitate —, nu doar acoperirea ieftină a țintei
-- 0.11 [[ADV-082]] Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-
-## ADV-063 — Ambalajul este un mediu de comunicare — la raft declanșează notorietatea prin recunoaștere și trebuie să poarte beneficiul din publicitate
-- 0.10 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-
-## ADV-078 — Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
-- 0.11 [[ADV-082]] Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-- 0.11 [[ADV-007]] Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-
-## ADV-079 — Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei
-- 0.12 [[INS-076]] Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui · _consumer-insight_
-- 0.11 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine
-
-## ADV-082 — Trackingul continuu măsoară campania pe aceiași patru pași ai secvenței de răspuns, iar uzura se diagnostichează de la plan spre execuție
-- 0.12 [[ADV-054]] Planul media se judecă după acoperirea la frecvența minimă efectivă, nu după GRP-uri sau frecvența medie, iar în dubiu e mai bine să alegi frecvența
-- 0.11 [[ADV-078]] Ținte cifrice pe reclamă pentru expunere și procesare, pe campanie pentru efecte și acțiune
-- 0.11 [[ADV-058]] Strategia media are patru obiective (4M) — potrivire, monopolizare, moment, mentalitate —, nu doar acoperirea ieftină a țintei
-
-## AIM-003 — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
-- 0.11 [[AIM-022]] Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
-
-## AIM-011 — Rețelele bayesiene pornesc de la ideea că, atunci când schimbi o variabilă, se schimbă toate
-- 0.11 [[AIM-010]] Precizie sau transparență — ansamblurile și rețelele neuronale prezic, dar nu explică
-
-## AIM-031 — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
-- 0.10 [[AIM-030]] Etica datelor în marketingul cu AI are patru reguli de bază — consimțământ, acces și ștergere, transparență, minimizare
-
-## ART-023 — Ambalajul se proiectează și pentru viața de după cumpărare — forma lui e un indiciu de brand, iar fiecare folosire repetă beneficiul
-- 0.10 [[BRD-042]] Un brand nou se construiește în patru pași: cârlig, nume, marcă, design · _brand-strategy_
-
-## BRD-006 — Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă
-- 0.12 [[BRF-005]] Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină · _creative-brief_
-- 0.10 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv · _creative-brief_
-
-## BRD-008 — Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu)
-- 0.13 [[MKT-018]] Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală · _marketing-fundamentals_
-
-## BRD-009 — Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze
-- 0.12 [[BRF-010]] Declarația de poziționare se scrie într-o frază, „brandul X este brandul pentru [țintă] din [nevoia de categorie] care oferă [beneficiu]" · _creative-brief_
-- 0.12 [[ADV-031]] Nevoia de categorie devine obiectiv doar în două cazuri, când trebuie amintită sau când trebuie vândută, iar vânzarea ei cere o campanie întreagă · _advertising-strategy_
-
-## BRD-012 — Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține
-- 0.16 [[BRF-009]] Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede · _creative-brief_
-
-## BRD-024 — Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi
-- 0.10 [[MKT-073]] Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă · _marketing-fundamentals_
-
-## BRD-039 — Strategia culturală (Holt & Cameron) se construiește în șase pași — de la ortodoxia categoriei la un mit nou
-- 0.17 [[BRD-063]] Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-
-## BRD-040 — Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
-- 0.10 [[BRD-063]] Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-
-## BRD-063 — Brandul trăiește în mintea fiecărui client sau în cultura pe care o împarte cu alții? — rețeaua de asociații contra mitului colectiv
-- 0.17 [[BRD-039]] Strategia culturală (Holt & Cameron) se construiește în șase pași — de la ortodoxia categoriei la un mit nou
-- 0.10 [[BRD-040]] Caz — Nike „Just Do It" a construit mitul eroului solitar care învinge prin voință, pe o tensiune culturală a Americii
-
-## INS-003 — O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă
-- 0.11 [[DIG-047]] Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee · _digital-marketing_
-
-## INS-018 — Percy și Rosenbaum-Elliott susțin că procesarea inconștientă sau subliminală a unei reclame nu poate schimba atitudinea sau comportamentul
-- 0.10 [[INS-091]] Cercetarea motivațională și psihanaliza caută „de ce"-ul ascuns al cumpărării — bune pentru ipoteze de insight, nedovedite ca știință
-
-## INS-019 — Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
-- 0.11 [[INS-024]] Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
-
-## INS-020 — Atitudinea față de brand e o evaluare relativă, din convingeri și emoții, a capacității brandului de a satisface motivația de acum
-- 0.11 [[ADV-007]] Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective · _advertising-strategy_
-
-## INS-022 — Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație
-- 0.13 [[CPY-031]] Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire · _copywriting_
-
-## INS-024 — Atitudinile puternice rezistă și ghidează comportamentul, cele slabe se construiesc din context și din propriul comportament
-- 0.11 [[INS-019]] Atitudinea are trei componente — ce crezi, ce simți, ce faci — iar comunicarea le poate schimba pe primele două
-- 0.11 [[INS-021]] Atitudinea față de brand este suma câtorva convingeri salente înmulțite cu valoarea lor (modelul expectanță-valoare)
-
-## INS-025 — Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
-- 0.13 [[INS-082]] Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
-
-## INS-037 — Modelul VisCAP alege prezentatorul după obiectivul de comunicare (vizibilitate, credibilitate, atractivitate, putere), nu după popularitate
-- 0.12 [[BRD-051]] Brandul digital are trei componente care lucrează împreună — identitate, vizibilitate și credibilitate · _brand-strategy_
-- 0.11 [[ADV-041]] Publicitatea corporativă cere recunoașterea numelui și aproape mereu o strategie transformațională, cu implicare mare când ținta trebuie convinsă · _advertising-strategy_
-
-## INS-046 — Cumpărăm din trei motive negative (rezolvare, evitare, satisfacție incompletă) sau din două pozitive (gratificare senzorială, aprobare socială)
-- 0.15 [[ADV-036]] Strategia transformațională cu implicare mică cere autenticitate emoțională legată de brand, iar beneficiul este execuția însăși, deci reclama trebuie plăcută · _advertising-strategy_
-- 0.11 [[ADV-035]] Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută · _advertising-strategy_
-- 0.10 [[ADV-039]] Grila FCB (Vaughn) ordonează „gândește–simte–acționează" după implicare și tipul de decizie, dar leagă implicarea de categoria de produs · _advertising-strategy_
-
-## INS-051 — Implicarea este riscul perceput de țintă, nu un atribut al produsului: la implicare mică ajunge curiozitatea, la implicare mare mesajul trebuie crezut
-- 0.13 [[ADV-035]] Strategia informațională cu implicare mică cere problemă–soluție, un singur beneficiu prezentat extrem, iar reclama nu trebuie să fie plăcută · _advertising-strategy_
-
-## INS-076 — Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui
-- 0.12 [[ADV-079]] Pretestul se construiește pe obiectivele de comunicare, cu întrebări într-o ordine fixă, și nu se face niciodată prin focus grupuri sau prin reamintirea reclamei · _advertising-strategy_
-- 0.10 [[BRF-014]] Măsurarea se scrie în brief înainte de campanie, iar testarea se justifică prin incertitudine și miză · _creative-brief_
-
-## INS-082 — Recall-ul și recunoașterea sunt măsuri slabe ale eficienței unei reclame
-- 0.13 [[INS-025]] Atitudinile implicite prezic alegerea când omul e grăbit sau obosit, cele explicite când are timp să se controleze
-
-## INS-091 — Cercetarea motivațională și psihanaliza caută „de ce"-ul ascuns al cumpărării — bune pentru ipoteze de insight, nedovedite ca știință
-- 0.10 [[INS-018]] Percy și Rosenbaum-Elliott susțin că procesarea inconștientă sau subliminală a unei reclame nu poate schimba atitudinea sau comportamentul
-
-## INS-095 — Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief
-- 0.14 [[BRF-021]] Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada · _creative-brief_
-- 0.13 [[BRF-023]] Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie · _creative-brief_
-- 0.11 [[BRF-015]] Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune · _creative-brief_
-
-## CPY-003 — Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare
-- 0.14 [[HIS-009]] Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX · _advertising-history_
-
-## CPY-031 — Umorul atrage atenția și simpatia, dar fură memoria brandului — funcționează mai ales pentru produse ieftine cumpărate fără gândire
-- 0.13 [[INS-022]] Atitudinile se pot forma fără argumente, pe trei căi afective — expunere repetată, condiționare și afect ca informație · _consumer-insight_
-
-## BRF-001 — Brief-ul creativ este planul de arhitect al execuției — hartă pentru creație și criteriu de evaluare
-- 0.12 [[CLI-014]] Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare · _client-business_
-
-## BRF-004 — Documentul de briefing precede strategia — produs, piață, sursă de business, concurență și obiective, plus persona și journey-ul ei în digital
-- 0.14 [[DIG-041]] Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate · _digital-marketing_
-- 0.12 [[DIG-017]] Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării · _digital-marketing_
-
-## BRF-005 — Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
-- 0.12 [[BRF-018]] Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
-- 0.12 [[BRD-006]] Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă · _brand-strategy_
-- 0.11 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-
-## BRF-006 — Brief-ul creativ încape pe o pagină, în trei blocuri (sarcina, obiectivele și strategia, execuția), și se detaliază doar ținta și susținerea beneficiului
-- 0.14 [[ADV-052]] Media se aleg după trei cerințe de procesare (conținut vizual, timp de procesare, potențial de frecvență), potrivite strategiei de notorietate și de atitudine · _advertising-strategy_
-
-## BRF-009 — Declarația de poziționare din brief — țintă, cadru de referință, punct de diferență, motiv de a crede
-- 0.16 [[BRD-012]] Dovezile bazate pe atribute se copiază, cele bazate pe imagine se pot deține · _brand-strategy_
-
-## BRF-010 — Declarația de poziționare se scrie într-o frază, „brandul X este brandul pentru [țintă] din [nevoia de categorie] care oferă [beneficiu]"
-- 0.18 [[MKT-019]] Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente · _marketing-fundamentals_
-- 0.12 [[BRD-009]] Poziționarea centrală e rezervată liderului care definește categoria, iar aproape toate celelalte branduri trebuie să se diferențieze · _brand-strategy_
-
-## BRF-012 — Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
-- 0.10 [[BRF-019]] Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-
-## BRF-014 — Măsurarea se scrie în brief înainte de campanie, iar testarea se justifică prin incertitudine și miză
-- 0.10 [[INS-076]] Chestionarul cantitativ măsoară „cât", interviul și focus grupul explică „de ce" — fiecare cu regulile lui · _consumer-insight_
-
-## BRF-015 — Cazul Stark Cloud Solutions — cum devine un brief „bun" unul excelent, secțiune cu secțiune
-- 0.11 [[INS-095]] Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief · _consumer-insight_
-
-## BRF-016 — Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-- 0.14 [[BRF-020]] Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
-- 0.12 [[BRF-019]] Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- 0.11 [[BRF-005]] Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
-- 0.11 [[BRF-017]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.10 [[BRF-023]] Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
-- 0.10 [[BRD-006]] Declarația de poziționare are patru elemente: țintă, cadru, diferență, dovadă · _brand-strategy_
-
-## BRF-017 — Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.18 [[BRF-019]] Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- 0.15 [[BRF-020]] Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
-- 0.12 [[BRF-018]] Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
-- 0.11 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-
-## BRF-018 — Naked Brief — un brief „informativ și inspirațional", construit pe context, învățare și trei tipuri de măsuri
-- 0.12 [[BRF-017]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.12 [[BRF-005]] Brief-ul McTigue–Rucker are șase componente și încape pe o singură pagină
-
-## BRF-019 — Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-- 0.18 [[BRF-017]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.12 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-- 0.10 [[BRF-020]] Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
-- 0.10 [[BRF-012]] Un singur beneficiu, nu cinci — poziționarea supraîncărcată blochează ideea creativă
-
-## BRF-020 — Brief-ul Singleton Ogilvy & Mather — rolul comunicării, un insight util, gândește/simte/fă și punctul unic cu dovada lui
-- 0.15 [[BRF-017]] Modelul de brief Euro RSCG Australia — sarcina, trei insight-uri triangulate, creația și un lanț de aprobări
-- 0.14 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-- 0.10 [[BRF-019]] Brief-ul Red Cell — opt cerințe, „indicii de execuție" și un calendar de aprobări pe o singură pagină
-
-## BRF-021 — Modelele de brief de agenție au același nucleu, dar fiecare optimizează altceva — inspirația, concizia, contextul, procesul sau dovada
-- 0.14 [[INS-095]] Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief · _consumer-insight_
-
-## BRF-023 — Zece semnale de alarmă într-un brief — de la obiectivul care nu poate fi infirmat la măsurarea decisă după campanie
-- 0.13 [[INS-095]] Checklist-ul insight-ului — opt verificări înainte ca un „adevăr despre țintă" să intre în brief · _consumer-insight_
-- 0.12 [[BRF-024]] Primirea brief-ului — îl reduci la esență, îl verifici pe componente, pui întrebările naive și agreezi în scris orice schimbare
-- 0.10 [[BRF-016]] Brief-ul Get/To/By pune toată strategia într-o frază cu patru verigi — țintă, răspuns, mesaj, motiv
-
-## DIG-002 — Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
-- 0.12 [[DIG-074]] Fiecare etapă a journey-ului are KPI-urile ei — reach net și frecvență în Aware, intrarea în setul evocat în Appeal, clicuri și conversii în Ask, retenție și CLV după cumpărare
-
-## DIG-007 — Planul strategic de marketing digital se face în trei etape și se scrie în opt secțiuni, cu una dedicată legalității și confidențialității
-- 0.13 [[ADV-004]] Nu orice decizie de comunicare este strategie — critica „monismului strategic publicitar" · _advertising-strategy_
-
-## DIG-016 — Customer journey-ul digital nu e o pâlnie parcursă în ordine, ci un traseu cu întreruperi și bucle, care se închide într-o buclă de loialitate
-- 0.10 [[ADV-008]] Testată cu date, ierarhia efectelor a ieșit într-o altă ordine decât teoria — de la „ce fac ei" la „ce fac eu" · _advertising-strategy_
-
-## DIG-017 — Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării
-- 0.12 [[DIG-074]] Fiecare etapă a journey-ului are KPI-urile ei — reach net și frecvență în Aware, intrarea în setul evocat în Appeal, clicuri și conversii în Ask, retenție și CLV după cumpărare
-- 0.12 [[BRF-004]] Documentul de briefing precede strategia — produs, piață, sursă de business, concurență și obiective, plus persona și journey-ul ei în digital · _creative-brief_
-- 0.10 [[DIG-040]] Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
-- 0.10 [[DIG-012]] Buyer persona nu e grupul țintă — segmentarea spune pe cine alegi, persona dă segmentului un chip și spune cum decide și unde poate fi atins
-
-## DIG-019 — Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde
-- 0.10 [[PIT-003]] Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now · _pitch-presentation_
-
-## DIG-028 — SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
-- 0.11 [[DIG-044]] Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
-- 0.10 [[DIG-047]] Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
-
-## DIG-035 — În e-mail, click-to-open rate spune mai mult decât open rate
-- 0.10 [[DIG-073]] Metricile se aleg pornind de la obiectivul SMART, nu de la ce oferă platforma — într-un lanț care merge de la linia de bază până la diagnostic
-
-## DIG-040 — Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
-- 0.10 [[DIG-017]] Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării
-- 0.10 [[DIG-077]] Modelul de atribuire decide ce canal primește meritul conversiei — iar după cookie-uri urmărirea devine incertă și etapele de început ies dezavantajate
-
-## DIG-041 — Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate
-- 0.14 [[BRF-004]] Documentul de briefing precede strategia — produs, piață, sursă de business, concurență și obiective, plus persona și journey-ul ei în digital · _creative-brief_
-- 0.13 [[DIG-012]] Buyer persona nu e grupul țintă — segmentarea spune pe cine alegi, persona dă segmentului un chip și spune cum decide și unde poate fi atins
-- 0.13 [[MKT-036]] Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată · _marketing-fundamentals_
-
-## DIG-042 — Modelul de plată media se alege după obiectiv și etapa din customer journey — CPM pentru notorietate, CPV/CPE pentru atracție, CPC/CPL pentru informare, CPA pentru cumpărare
-- 0.15 [[DIG-046]] Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
-
-## DIG-044 — Campania de paid search și paid social are cinci etape — de la cercetarea cuvintelor-cheie la testare
-- 0.11 [[DIG-028]] SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
-
-## DIG-046 — Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
-- 0.15 [[DIG-042]] Modelul de plată media se alege după obiectiv și etapa din customer journey — CPM pentru notorietate, CPV/CPE pentru atracție, CPC/CPL pentru informare, CPA pentru cumpărare
-- 0.15 [[DIG-048]] Formatele video de pe YouTube se aleg după obiectiv — masthead și bumper de 6 secunde pentru reach, TrueView pentru considerare, Video Action pentru conversie
-
-## DIG-047 — Pe mobil, o reclamă are mai puțin de o secundă ca să fie văzută — fețe, contrast și emoție instantanee
-- 0.11 [[INS-003]] O reclamă e procesată prin patru răspunsuri (atenție, învățare, acceptare, emoție), element cu element, iar atenția reflexă durează sub o secundă · _consumer-insight_
-- 0.10 [[DIG-028]] SEM are două fețe — SEO construiește vizibilitate în timp, PPC o cumpără imediat — și funcționează cel mai bine împreună
-
-## DIG-048 — Formatele video de pe YouTube se aleg după obiectiv — masthead și bumper de 6 secunde pentru reach, TrueView pentru considerare, Video Action pentru conversie
-- 0.16 [[DIG-074]] Fiecare etapă a journey-ului are KPI-urile ei — reach net și frecvență în Aware, intrarea în setul evocat în Appeal, clicuri și conversii în Ask, retenție și CLV după cumpărare
-- 0.15 [[DIG-046]] Reclama display a evoluat de la bannerul static la rich media și video, dar ideea creativă rămâne umană
-
-## DIG-052 — Retargetingul funcționează doar segmentat pe etapa din journey, dozat și consimțit — tactica cea mai eficientă a erei cookie e și cea mai expusă după ea
-- 0.11 [[DIG-075]] Pâlnia de conversie arată unde pleacă vizitatorii; treaba marketerului e să afle de ce
-- 0.10 [[DIG-058]] Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
-
-## DIG-058 — Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
-- 0.10 [[DIG-064]] Identitatea fără cookie-uri are trei trepte de reach — canalele proprii sau o singură „grădină închisă", camerele curate de date (data clean rooms) și ID-urile universale
-- 0.10 [[DIG-052]] Retargetingul funcționează doar segmentat pe etapa din journey, dozat și consimțit — tactica cea mai eficientă a erei cookie e și cea mai expusă după ea
-
-## DIG-064 — Identitatea fără cookie-uri are trei trepte de reach — canalele proprii sau o singură „grădină închisă", camerele curate de date (data clean rooms) și ID-urile universale
-- 0.10 [[DIG-058]] Fără cookie-uri terțe rămân cinci familii de targetare, iar profilul pe cookie descria oricum un dispozitiv, nu un om
-
-## DIG-073 — Metricile se aleg pornind de la obiectivul SMART, nu de la ce oferă platforma — într-un lanț care merge de la linia de bază până la diagnostic
-- 0.10 [[DIG-035]] În e-mail, click-to-open rate spune mai mult decât open rate
-
-## DIG-074 — Fiecare etapă a journey-ului are KPI-urile ei — reach net și frecvență în Aware, intrarea în setul evocat în Appeal, clicuri și conversii în Ask, retenție și CLV după cumpărare
-- 0.16 [[DIG-048]] Formatele video de pe YouTube se aleg după obiectiv — masthead și bumper de 6 secunde pentru reach, TrueView pentru considerare, Video Action pentru conversie
-- 0.12 [[DIG-017]] Customer journey se construiește pe o persona în cinci pași, iar implicarea decide cât durează faza de dinaintea cumpărării
-- 0.12 [[DIG-002]] Orice program digital servește una dintre patru strategii generice — achiziție, conversie, retenție, creșterea valorii
-- 0.12 [[SOC-042]] Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri · _social-influencer_
-
-## DIG-077 — Modelul de atribuire decide ce canal primește meritul conversiei — iar după cookie-uri urmărirea devine incertă și etapele de început ies dezavantajate
-- 0.10 [[DIG-040]] Campania online se planifică în trei pași — decizii fundamentale, subcampanii pe etapele customer journey, monitorizare și optimizare
-
-## MKT-009 — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
-- 0.10 [[MKT-052]] Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
-
-## MKT-014 — STP se face în cinci pași — strategie, segmentare, atractivitate, alegerea țintei, poziționare
-- 0.12 [[ADV-010]] Planificarea strategică a comunicării are cinci pași, de la alegerea țintei la strategia media, iar fiecare pas decurge din cel dinainte · _advertising-strategy_
-
-## MKT-015 — Demografia și geografia te ajută să găsești ținta, beneficiile și stilul de viață te ajută s-o convingi
-- 0.10 [[DIG-061]] Marketingul bazat pe date țintește „segmentul de unu" și începe cu un obiectiv îngust, nu cu un proiect IT · _digital-marketing_
-
-## MKT-018 — Poziționarea se construiește pe valoare, atribute, simboluri sau concurență și se verifică pe harta perceptuală
-- 0.13 [[BRD-008]] Poziționarea în doi pași — contextualizare (alegi brandul de referință) și conceptualizare (îl spui simplu) · _brand-strategy_
-
-## MKT-019 — Propunerea de valoare stă unde nevoile clientului se întâlnesc cu oferta ta, dar nu și cu a concurenței — și se scrie în patru elemente
-- 0.18 [[BRF-010]] Declarația de poziționare se scrie într-o frază, „brandul X este brandul pentru [țintă] din [nevoia de categorie] care oferă [beneficiu]" · _creative-brief_
-
-## MKT-020 — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
-- 0.11 [[EXP-015]] Exchange — în mixul experiențial, prețul cedează locul valorii co-create cu clientul · _experiential-marketing_
-- 0.11 [[MKT-045]] Pipe sau platformă — valoarea se produce în lanț sau se co-creează într-o rețea cu efecte de rețea
-- 0.10 [[MKT-002]] Valoarea este ce primești raportat la ce dai, nu prețul mic
-
-## MKT-036 — Calea clientului 5A — aware, appeal, ask, act, advocate — înlocuiește pâlnia AIDA în lumea conectată
-- 0.13 [[DIG-041]] Fiecare buyer persona primește propriul grup de campanie, împărțit în subcampanii pentru Aware, Appeal și Ask, fiecare cu obiective și KPI separate · _digital-marketing_
-- 0.10 [[ADV-018]] Călătoria clientului se construiește pe un singur segment, în șase etape, cu trei întrebări la fiecare — abia apoi vin obiectivele și KPI-urile · _advertising-strategy_
-
-## MKT-063 — Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
-- 0.11 [[MKT-069]] Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
-
-## MKT-069 — Cauza nu se alege după trend: analiza de materialitate și alinierea cu misiunea
-- 0.11 [[MKT-063]] Conscious marketing pune scopul superior în centrul afacerii, CSR doar îl adaugă pe margine
-
-## MKT-073 — Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă
-- 0.10 [[BRD-024]] Patagonia, „Don't Buy This Jacket”: o reclamă de Black Friday care îți cere să nu cumperi · _brand-strategy_
-
-## PIT-003 — Intenția unei prezentări răspunde la patru întrebări — Know, Feel, Do și Why now
-- 0.13 [[PIT-002]] Un pitch se construiește în șase pași — Discover, Distil, Design, Drill, Deliver, Debrief
-- 0.10 [[DIG-019]] Micro-momentele: patru intenții — vreau să știu, să merg, să fac, să cumpăr — la care brandul răspunde în secunde · _digital-marketing_
-- 0.10 [[PIT-021]] Prezintă din framework-uri și cuvinte cheie, nu dintr-un script memorat
-
-## SOC-007 — Platforma socială se alege după persona, obiectiv, mesaj și rolul ei pe drumul spre cumpărare — nu după modă sau după numărul total de utilizatori
-- 0.10 [[SOC-028]] Valorile comune contează înaintea reach-ului în alegerea creatorului
-
-## SOC-023 — Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
-- 0.12 [[SOC-038]] Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
-- 0.12 [[SOC-030]] Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
-
-## SOC-024 — Nivelurile de influenceri după reach: nano, micro, mid-tier, macro, mega — engagement-ul relativ scade când publicul crește
-- 0.10 [[SOC-029]] Audiența unui influencer se verifică înainte de orice contract — semnale de fraudă, autenticitatea angajamentului și potrivirea publicului, manual sau cu AI
-
-## SOC-028 — Valorile comune contează înaintea reach-ului în alegerea creatorului
-- 0.11 [[SOC-030]] Negocierea cu un creator are variabile multiple, iar contractul fixează drepturile
-- 0.10 [[SOC-007]] Platforma socială se alege după persona, obiectiv, mesaj și rolul ei pe drumul spre cumpărare — nu după modă sau după numărul total de utilizatori
-
-## SOC-038 — Cine deține influencer marketingul: PR, media, agenția specializată sau brandul
-- 0.12 [[SOC-023]] Influencer marketingul nu este endorsement de celebritate, afiliere sau direct marketing
-
-## SOC-042 — Engagement rate, CPE și CPM: aritmetica de bază a unei campanii cu influenceri
-- 0.12 [[DIG-049]] Metricile video măsoară timpul — brandul trebuie să apară înainte ca privitorul să plece · _digital-marketing_
-- 0.12 [[DIG-074]] Fiecare etapă a journey-ului are KPI-urile ei — reach net și frecvență în Aware, intrarea în setul evocat în Appeal, clicuri și conversii în Ask, retenție și CLV după cumpărare · _digital-marketing_
-- 0.11 [[SOC-031]] Creatorul este o casă de producție într-un om: gifting-ul nu ține loc de plată
-
-## SOC-043 — FMD: influencerii raportează live, echipa produce formatele lungi
-- 0.10 [[SOC-005]] Conversațional vs. tranzacțional: două tipuri de relații pe platforme
-
-## STO-006 — În povestea de brand, brandul e oxigen: peste tot, dar niciodată protagonist
-- 0.11 [[STO-003]] Povestea de reclamă e o transformare facilitată de brand — harta „C.O.W. + B → T" și structura în trei acte
-
-## STO-032 — Aplicată conținutului, călătoria eroului devine ciclul de cumpărare văzut de client — implicare, cumpărare, apoi loialitate și recomandare
-- 0.11 [[STO-014]] Pe social media, ghidul înlocuiește eroul din călătoria clasică
-
-## STO-034 — UGC este conținut câștigat — cel mai credibil pentru brand tocmai pentru că brandul nu îl poate controla
-- 0.13 [[SOC-019]] Lipirea de un hashtag viral fără potrivire de valori produce shitstorm · _social-influencer_
+# Link suggestions
+
+_Generated by `kb.py suggest` on 2026-10-30 13:40. TF-IDF similarity; confirm only the links that have a clear reason and write them with a typed relation._
+
+## HIS-008: The genealogy of copy styles: news, reason-why, image, USP, Big Idea
+- 0.11 [[ADV-028]] Positioning is the heir of the USP: a new idea or "old wine in new bottles"? · _advertising-strategy_
+- 0.11 [[ADV-025]] There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first · _advertising-strategy_
+
+## HIS-009: Is advertising a science or an art? The debate that divided the 20th century
+- 0.16 [[IDE-003]] The Big Idea: the concept that makes an ad different from competitors' ads combines strategy with surprise · _creative-ideation_
+- 0.16 [[CPY-003]] Reason-why: the ad as "salesmanship in print" that gives concrete, verifiable reasons to buy · _copywriting_
+
+## HIS-014: Account planning moved research from answers to questions
+- 0.12 [[MKT-010]] Secondary data are cheap but general, primary data are targeted but expensive; qualitative research opens, quantitative research confirms · _marketing-fundamentals_
+
+## ADV-001: Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive
+- 0.11 [[BRF-007]] The objective in the brief is a communication objective: specific, falsifiable and tied to the main barrier · _creative-brief_
+- 0.10 [[BRD-005]] A brand is a long-term asset run by people judged quarter by quarter: the Three Cs of branding and the branding doom loop · _brand-strategy_
+- 0.10 [[ADV-033]] The brand attitude objective takes five forms (create, increase, maintain, modify, change) and is chosen only once you know what the target audience already believes
+
+## ADV-004: Not every communication decision is strategy: the critique of strategic advertising monism
+- 0.11 [[DIG-007]] The strategic digital marketing plan is made in three stages and written in eight sections, one of them devoted to legal issues and privacy · _digital-marketing_
+
+## ADV-005: Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support
+- 0.12 [[ADV-011]] Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it
+- 0.11 [[INS-051]] Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed · _consumer-insight_
+- 0.11 [[DIG-016]] The digital customer journey is not a funnel traveled in order, but a path with interruptions and loops that closes in a loyalty loop · _digital-marketing_
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+
+## ADV-006: The communication response sequence has four steps with compounding probabilities, so a message fails if a single step fails
+- 0.11 [[INS-029]] Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM) · _consumer-insight_
+- 0.10 [[ADV-008]] Tested with data, the hierarchy of effects came out in a different order from the theory: from "what they do" to "what I do"
+
+## ADV-007: Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- 0.14 [[ADV-015]] The target audience is chosen from five buyer groups, and each group calls for trial or repeat purchase, at different costs
+- 0.13 [[ADV-010]] Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before
+- 0.12 [[ADV-011]] Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it
+- 0.12 [[INS-020]] Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation · _consumer-insight_
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.11 [[ADV-034]] The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+
+## ADV-008: Tested with data, the hierarchy of effects came out in a different order from the theory: from "what they do" to "what I do"
+- 0.13 [[MKT-036]] The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world · _marketing-fundamentals_
+- 0.12 [[DIG-016]] The digital customer journey is not a funnel traveled in order, but a path with interruptions and loops that closes in a loyalty loop · _digital-marketing_
+- 0.10 [[ADV-006]] The communication response sequence has four steps with compounding probabilities, so a message fails if a single step fails
+
+## ADV-010: Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before
+- 0.13 [[IDE-007]] The seven-step problem-solving process: from defining the gap to reviewing the results · _creative-ideation_
+- 0.13 [[MKT-012]] The marketing plan has five steps grouped in three phases: planning, implementation, control · _marketing-fundamentals_
+- 0.13 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- 0.12 [[MKT-014]] STP is done in five steps: strategy, segmentation, attractiveness, choice of target, positioning · _marketing-fundamentals_
+- 0.12 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]" · _creative-brief_
+- 0.11 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page · _creative-brief_
+
+## ADV-011: Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it
+- 0.12 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- 0.12 [[ADV-005]] Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support
+- 0.10 [[ADV-055]] Media planning chooses the mix (mass or niche, each medium with its own strengths) and the schedule: continuous, flighting or pulsing
+- 0.10 [[MKT-009]] Marketing research has five steps, from objectives to an action plan, and turns data into information · _marketing-fundamentals_
+
+## ADV-012: There is a single communication problem, of awareness, image or behavior, never all three at once
+- 0.14 [[PIT-035]] The agency recommendation (reco) shows why a solution was chosen, not the winding path to it · _pitch-presentation_
+
+## ADV-013: PAR and BAR measure marketing productivity: how much brand awareness turns into purchase and advocacy
+- 0.11 [[SOC-039]] Valid Metrics Framework: success on social media ends in advocacy, not purchase · _social-influencer_
+- 0.10 [[STO-032]] Applied to content, the hero's journey becomes the buying cycle seen by the customer: engagement, purchase, then loyalty and advocacy · _storytelling-content_
+
+## ADV-015: The target audience is chosen from five buyer groups, and each group calls for trial or repeat purchase, at different costs
+- 0.15 [[ADV-033]] The brand attitude objective takes five forms (create, increase, maintain, modify, change) and is chosen only once you know what the target audience already believes
+- 0.14 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- 0.11 [[ADV-070]] Promotion alone only shifts sales in time; together with advertising it produces a ratchet effect, and their weighting is chosen by life cycle, differentiation and loyalty
+
+## ADV-016: Loyalty is read from the perceived risk in switching and from satisfaction, not only from purchase behavior
+- 0.10 [[ADV-070]] Promotion alone only shifts sales in time; together with advertising it produces a ratchet effect, and their weighting is chosen by life cycle, differentiation and loyalty
+
+## ADV-018: The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs
+- 0.14 [[MKT-036]] The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world · _marketing-fundamentals_
+- 0.13 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase · _digital-marketing_
+- 0.12 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization · _digital-marketing_
+- 0.12 [[DIG-018]] The digital customer journey has to be short: every step is a barrier · _digital-marketing_
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.10 [[EXP-019]] Emotional touchpoints: a touchpoint is defined by the emotion it produces, not by the channel · _experiential-marketing_
+
+## ADV-019: The O Zone (O3): own, others' and outer influence decide where you invest your marketing effort
+- 0.10 [[SOC-016]] Conversation is moving into digital campfires, small private communities, and the brand enters them as a useful host, not as a seller · _social-influencer_
+
+## ADV-020: The general model of positioning asks two questions, "what is it?" for brand awareness and "what does it offer?" for brand attitude
+- 0.10 [[BRD-011]] The positioning benefit is chosen with the expectancy-value model, which shows which benefits matter, who delivers them and where you can shift importance · _brand-strategy_
+
+## ADV-024: Reeves's USP has three conditions (a concrete proposition, unique, strong enough to move the mass millions) and is not a slogan
+- 0.11 [[DIG-009]] The digital value proposition is written to the formula "To [target market], [organization] is [what] which/that [benefit and difference]" · _digital-marketing_
+
+## ADV-025: There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+- 0.13 [[ADV-028]] Positioning is the heir of the USP: a new idea or "old wine in new bottles"?
+- 0.12 [[ADV-027]] The Reeves-Ogilvy dispute: USP versus brand image, reason versus emotion, research versus judgment
+- 0.11 [[HIS-008]] The genealogy of copy styles: news, reason-why, image, USP, Big Idea · _advertising-history_
+- 0.10 [[ADV-029]] Changing the campaign too often destroys penetration: the principle of perseverance
+
+## ADV-026: Brand image (Ogilvy): every advertisement is a contribution to the complex symbol that is the brand image
+- 0.12 [[ADV-029]] Changing the campaign too often destroys penetration: the principle of perseverance
+
+## ADV-027: The Reeves-Ogilvy dispute: USP versus brand image, reason versus emotion, research versus judgment
+- 0.16 [[ADV-028]] Positioning is the heir of the USP: a new idea or "old wine in new bottles"?
+- 0.12 [[ADV-025]] There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+- 0.11 [[ADV-029]] Changing the campaign too often destroys penetration: the principle of perseverance
+
+## ADV-028: Positioning is the heir of the USP: a new idea or "old wine in new bottles"?
+- 0.16 [[ADV-027]] The Reeves-Ogilvy dispute: USP versus brand image, reason versus emotion, research versus judgment
+- 0.13 [[ADV-029]] Changing the campaign too often destroys penetration: the principle of perseverance
+- 0.13 [[ADV-025]] There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+- 0.11 [[HIS-008]] The genealogy of copy styles: news, reason-why, image, USP, Big Idea · _advertising-history_
+- 0.10 [[MKT-018]] Positioning is built on value, attributes, symbols or the competition, and is checked on the perceptual map · _marketing-fundamentals_
+
+## ADV-029: Changing the campaign too often destroys penetration: the principle of perseverance
+- 0.13 [[ADV-028]] Positioning is the heir of the USP: a new idea or "old wine in new bottles"?
+- 0.12 [[ADV-026]] Brand image (Ogilvy): every advertisement is a contribution to the complex symbol that is the brand image
+- 0.11 [[ADV-027]] The Reeves-Ogilvy dispute: USP versus brand image, reason versus emotion, research versus judgment
+- 0.10 [[ADV-025]] There are three roads to a USP: you find it in the product, you build it into the product, or you claim it first
+
+## ADV-030: Subjective exaggeration (puffery) is legal, but any quantifiable claim must be backed up
+- 0.13 [[DIG-066]] Every promise about privacy is an advertising claim: it can differentiate the brand, but it is judged and sanctioned like any other claim · _digital-marketing_
+
+## ADV-031: Category need becomes an objective in only two cases, when people must be reminded of it or when it must be sold, and selling it takes a whole campaign
+- 0.12 [[BRD-009]] Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate · _brand-strategy_
+
+## ADV-032: Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics
+- 0.11 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- 0.11 [[INS-082]] Recall and recognition are weak measures of an ad's effectiveness · _consumer-insight_
+- 0.11 [[ART-022]] The Tropicana case: the packaging redesign erased the recognition cues · _art-direction_
+- 0.11 [[ART-023]] Packaging is also designed for its life after purchase: its shape is a brand cue, and every use repeats the benefit · _art-direction_
+
+## ADV-033: The brand attitude objective takes five forms (create, increase, maintain, modify, change) and is chosen only once you know what the target audience already believes
+- 0.15 [[ADV-015]] The target audience is chosen from five buyer groups, and each group calls for trial or repeat purchase, at different costs
+- 0.11 [[INS-021]] Brand attitude is the sum of a few salient beliefs multiplied by their value (the expectancy-value model) · _consumer-insight_
+- 0.10 [[ADV-001]] Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive
+
+## ADV-034: The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics
+- 0.12 [[INS-020]] Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation · _consumer-insight_
+- 0.11 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- 0.10 [[INS-003]] An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second · _consumer-insight_
+
+## ADV-035: The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+- 0.15 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.14 [[INS-046]] We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval) · _consumer-insight_
+- 0.12 [[INS-037]] The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity · _consumer-insight_
+- 0.12 [[ADV-038]] The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- 0.11 [[INS-051]] Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed · _consumer-insight_
+
+## ADV-036: The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- 0.22 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.17 [[INS-046]] We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval) · _consumer-insight_
+- 0.13 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.13 [[CPY-012]] With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence · _copywriting_
+- 0.11 [[INS-037]] The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity · _consumer-insight_
+- 0.10 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+
+## ADV-037: The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach
+- 0.18 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.13 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.12 [[ADV-038]] The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- 0.12 [[INS-051]] Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed · _consumer-insight_
+- 0.10 [[INS-003]] An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second · _consumer-insight_
+
+## ADV-038: The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- 0.20 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.12 [[ADV-037]] The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach
+- 0.12 [[ADV-035]] The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+- 0.10 [[ADV-039]] The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category
+
+## ADV-039: The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category
+- 0.14 [[INS-046]] We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval) · _consumer-insight_
+- 0.14 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.10 [[ADV-038]] The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- 0.10 [[INS-055]] The behavioral sequence model (BSM) puts the decision stages on a grid and, for each one, who, where, when and how · _consumer-insight_
+
+## ADV-041: Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.17 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.16 [[INS-046]] We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval) · _consumer-insight_
+- 0.14 [[ADV-039]] The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category
+- 0.13 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- 0.13 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- 0.13 [[INS-037]] The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity · _consumer-insight_
+
+## ADV-044: Liking for the ad transfers to the brand along two paths (the dual mediation hypothesis)
+- 0.11 [[CPY-031]] Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought · _copywriting_
+
+## ADV-047: A Big Idea is not enough without a "Long Idea": the audience must be met at the next step (Volvo Trucks, "Epic Split")
+- 0.11 [[HIS-024]] The demonstration must be real: Xerox with the chimpanzee versus Volvo and the monster truck · _advertising-history_
+
+## ADV-052: Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.22 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- 0.20 [[ADV-038]] The high-involvement transformational strategy requires the target audience to identify personally with the brand as portrayed, and liking must extend from the ad to the brand
+- 0.18 [[ADV-037]] The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach
+- 0.17 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.16 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- 0.15 [[ADV-035]] The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked
+
+## ADV-053: GRP = reach × repetition: the basic vocabulary of media planning
+- 0.14 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign · _social-influencer_
+
+## ADV-054: A media plan is judged by reach at the minimum effective frequency, not by GRPs or average frequency, and when in doubt it is better to choose frequency
+- 0.12 [[ADV-082]] Continuous tracking measures the campaign on the same four steps of the response sequence, and wearout is diagnosed from the plan down to the execution
+
+## ADV-055: Media planning chooses the mix (mass or niche, each medium with its own strengths) and the schedule: continuous, flighting or pulsing
+- 0.14 [[ADV-058]] Media strategy has four objectives (the 4Ms: matching, monopolizing, moment, mindset), not only reaching the target cheaply
+- 0.10 [[ADV-011]] Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it
+
+## ADV-056: The reach pattern is chosen by purchase cycle and decision time, and a new product can hardly be over-advertised
+- 0.12 [[ADV-058]] Media strategy has four objectives (the 4Ms: matching, monopolizing, moment, mindset), not only reaching the target cheaply
+
+## ADV-058: Media strategy has four objectives (the 4Ms: matching, monopolizing, moment, mindset), not only reaching the target cheaply
+- 0.14 [[ADV-055]] Media planning chooses the mix (mass or niche, each medium with its own strengths) and the schedule: continuous, flighting or pulsing
+- 0.12 [[ADV-056]] The reach pattern is chosen by purchase cycle and decision time, and a new product can hardly be over-advertised
+
+## ADV-059: Spaced repetition beats massed repetition, and the first commercial in a block is remembered best
+- 0.10 [[INS-082]] Recall and recognition are weak measures of an ad's effectiveness · _consumer-insight_
+
+## ADV-060: Repetition improves attitude up to a peak, then wears it out: substantive variation delays wearout better than cosmetic variation
+- 0.10 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+
+## ADV-063: Packaging is a communication medium: at the shelf it triggers recognition awareness and must carry the benefit from the advertising
+- 0.13 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+
+## ADV-064: Public relations gains credibility precisely because the space is not bought, but it loses control of the message and the link with the brand
+- 0.13 [[DIG-022]] Owned, earned and paid media complement each other: control, credibility and reach · _digital-marketing_
+
+## ADV-070: Promotion alone only shifts sales in time; together with advertising it produces a ratchet effect, and their weighting is chosen by life cycle, differentiation and loyalty
+- 0.11 [[ADV-015]] The target audience is chosen from five buyer groups, and each group calls for trial or repeat purchase, at different costs
+- 0.10 [[ADV-016]] Loyalty is read from the perceived risk in switching and from satisfaction, not only from purchase behavior
+
+## ADV-072: Whopper Detour turned McDonald's restaurants into ordering points for Burger King to get the app downloaded
+- 0.11 [[DIG-027]] A mobile app is justified only if it does something a responsive website cannot do · _digital-marketing_
+
+## ADV-074: An organization's communication has three registers (external, internal, institutional), with different targets, objectives and tools
+- 0.11 [[MKT-069]] A cause is not chosen by trend: materiality analysis and alignment with the mission · _marketing-fundamentals_
+
+## ADV-076: The communication budget is built from objectives and tasks (from the sales goal back to exposures and cost), and rule-of-thumb methods only give the ceiling
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.11 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase · _digital-marketing_
+
+## ADV-078: Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.16 [[ADV-082]] Continuous tracking measures the campaign on the same four steps of the response sequence, and wearout is diagnosed from the plan down to the execution
+- 0.12 [[SOC-039]] Valid Metrics Framework: success on social media ends in advocacy, not purchase · _social-influencer_
+- 0.11 [[SOC-003]] Social media serves six distinct objectives, and each calls for a different KPI · _social-influencer_
+- 0.11 [[ADV-076]] The communication budget is built from objectives and tasks (from the sales goal back to exposures and cost), and rule-of-thumb methods only give the ceiling
+- 0.11 [[INS-082]] Recall and recognition are weak measures of an ad's effectiveness · _consumer-insight_
+- 0.11 [[ADV-081]] The post-test measures the imprint the ad leaves through five scores; the campaign review measures the whole campaign
+
+## ADV-079: The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall
+- 0.16 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy
+- 0.15 [[INS-076]] The quantitative questionnaire measures "how much", the interview and the focus group explain "why", each with its own rules · _consumer-insight_
+- 0.13 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced
+- 0.11 [[ADV-032]] Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics
+- 0.10 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked
+- 0.10 [[INS-051]] Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed · _consumer-insight_
+
+## ADV-081: The post-test measures the imprint the ad leaves through five scores; the campaign review measures the whole campaign
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.11 [[DIG-072]] A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics · _digital-marketing_
+- 0.10 [[BRF-003]] The client brief asks the question, and the creative brief turns it into a problem for the creative team to solve · _creative-brief_
+
+## ADV-082: Continuous tracking measures the campaign on the same four steps of the response sequence, and wearout is diagnosed from the plan down to the execution
+- 0.16 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action
+- 0.12 [[ADV-054]] A media plan is judged by reach at the minimum effective frequency, not by GRPs or average frequency, and when in doubt it is better to choose frequency
+
+## ADV-084: For Percy and Rosenbaum-Elliott, the new jargon ("platforms", "metrics", "brand ideals") does not change how advertising works
+- 0.10 [[INS-018]] Percy and Rosenbaum-Elliott argue that unconscious or subliminal processing of an ad cannot change attitudes or behavior · _consumer-insight_
+
+## ADV-086: Content instead of advertising? The thesis that ads do not build relationships, and its limits
+- 0.13 [[DIG-022]] Owned, earned and paid media complement each other: control, credibility and reach · _digital-marketing_
+- 0.10 [[STO-024]] Brand content reverses the direction of advertising: consumers come to the brand for information, utility or entertainment, if the theme is legitimate for the brand and can be renewed · _storytelling-content_
+
+## AIM-003: Martech has seven use cases across the customer path: from advertising and content to service CRM
+- 0.14 [[AIM-023]] A good chatbot knows when to hand the conversation over to a human
+- 0.12 [[MKT-038]] Marketing 5.0 applies human-mimicking technologies across the whole customer journey, through two disciplines and three applications · _marketing-fundamentals_
+- 0.12 [[AIM-022]] Augmented marketing amplifies people instead of replacing them: tiered interfaces and digital tools for frontliners
+- 0.11 [[AIM-017]] AI-built segments are dynamic: customers move between them as their behavior changes
+
+## AIM-006: Predictive analytics estimates who will buy, what will sell and what will work: a cycle that is checked continuously, not a report
+- 0.12 [[DIG-002]] Every digital program serves one of four generic strategies: acquisition, conversion, retention, value growth · _digital-marketing_
+- 0.12 [[MKT-004]] A customer is worth the relationship, not the transaction: customer lifetime value (CLV) · _marketing-fundamentals_
+- 0.10 [[AIM-032]] Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+
+## AIM-011: Bayesian networks start from the idea that when you change one variable, they all change
+- 0.11 [[AIM-008]] You choose the analysis method by the marketing question, not by technological fashion
+- 0.11 [[AIM-010]] Accuracy or transparency: ensembles and neural networks predict but do not explain
+
+## AIM-031: The personalization paradox: the more an ad knows about you, the more it risks scaring you
+- 0.12 [[AIM-030]] Data ethics in AI marketing has four basic rules: consent, access and erasure, transparency, minimization
+
+## AIM-032: Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+- 0.10 [[AIM-006]] Predictive analytics estimates who will buy, what will sell and what will work: a cycle that is checked continuously, not a report
+
+## ART-001: A picture attracts and holds attention if it is large, in color, concrete, shows the product in use and is seen before the words
+- 0.10 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy · _advertising-strategy_
+- 0.10 [[ART-024]] The advertising layout was invented under constraints: Franklin's white space and the Age of Repetition
+- 0.10 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+
+## ART-023: Packaging is also designed for its life after purchase: its shape is a brand cue, and every use repeats the benefit
+- 0.12 [[ART-011]] Brand design works in System 1 and starts from 3–4 target associations
+- 0.11 [[ADV-032]] Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics · _advertising-strategy_
+- 0.10 [[BRD-042]] A new brand is built in four steps: hook, name, trademark, design · _brand-strategy_
+
+## BRD-003: A brand is a complex symbol of associations, not a label: "The Product and the Brand" (Gardner & Levy, 1955)
+- 0.10 [[INS-090]] Semiotics decodes the signs of a category to find the cultural meaning that consumers cannot put into words · _consumer-insight_
+
+## BRD-005: A brand is a long-term asset run by people judged quarter by quarter: the Three Cs of branding and the branding doom loop
+- 0.10 [[ADV-001]] Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive · _advertising-strategy_
+
+## BRD-006: The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- 0.13 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page · _creative-brief_
+- 0.12 [[BRF-016]] The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason · _creative-brief_
+- 0.11 [[BRD-054]] Repositioning is expensive and risky: it is justified only in a few clear situations and succeeds more often by speaking to a new audience
+- 0.11 [[BRF-015]] The Stark Cloud Solutions case: how a "good" brief becomes a great one, section by section · _creative-brief_
+- 0.10 [[DIG-009]] The digital value proposition is written to the formula "To [target market], [organization] is [what] which/that [benefit and difference]" · _digital-marketing_
+
+## BRD-008: Positioning in two steps: contextualization (you choose the reference brand) and conceptualization (you say it simply)
+- 0.17 [[MKT-018]] Positioning is built on value, attributes, symbols or the competition, and is checked on the perceptual map · _marketing-fundamentals_
+
+## BRD-009: Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate
+- 0.14 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]" · _creative-brief_
+- 0.12 [[ADV-031]] Category need becomes an objective in only two cases, when people must be reminded of it or when it must be sold, and selling it takes a whole campaign · _advertising-strategy_
+
+## BRD-011: The positioning benefit is chosen with the expectancy-value model, which shows which benefits matter, who delivers them and where you can shift importance
+- 0.10 [[ADV-020]] The general model of positioning asks two questions, "what is it?" for brand awareness and "what does it offer?" for brand attitude · _advertising-strategy_
+
+## BRD-012: Attribute reasons to believe get copied, while image reasons to believe can be owned
+- 0.15 [[BRF-009]] The positioning statement in the brief: target, frame of reference, point of difference, reason to believe · _creative-brief_
+
+## BRD-024: Patagonia's "Don't Buy This Jacket" is a Black Friday ad that asks you not to buy
+- 0.11 [[MKT-073]] Carrotmob: organized consumers reward a firm only if it makes a responsible change · _marketing-fundamentals_
+
+## BRD-039: Cultural strategy (Holt & Cameron) is built in six steps, from the category's orthodoxy to a new myth
+- 0.19 [[BRD-063]] Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+
+## BRD-040: In the Nike case, "Just Do It" built the myth of the lonely hero who succeeds through willpower, on a cultural tension in America
+- 0.12 [[BRD-063]] Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+
+## BRD-041: Brands that adopt moral causes gain a halo, but become targets for the accusation of greenwashing
+- 0.12 [[MKT-063]] Conscious marketing puts the higher purpose at the core of the business, CSR only adds it at the edge · _marketing-fundamentals_
+- 0.11 [[MKT-068]] Sustainable marketing, green marketing, eco-efficiency, CSR and cause marketing are not synonyms · _marketing-fundamentals_
+
+## BRD-054: Repositioning is expensive and risky: it is justified only in a few clear situations and succeeds more often by speaking to a new audience
+- 0.11 [[BRD-006]] The positioning statement has four elements: target, frame of reference, point of difference, reason to believe
+- 0.10 [[BRD-045]] A brand extension succeeds only if the brand helps the new product, the product helps the brand and the idea makes business sense: otherwise it dilutes the brand
+
+## BRD-063: Does the brand live in each customer's mind or in the culture they share with others? The network of associations versus the collective myth
+- 0.19 [[BRD-039]] Cultural strategy (Holt & Cameron) is built in six steps, from the category's orthodoxy to a new myth
+- 0.12 [[BRD-040]] In the Nike case, "Just Do It" built the myth of the lonely hero who succeeds through willpower, on a cultural tension in America
+- 0.12 [[INS-090]] Semiotics decodes the signs of a category to find the cultural meaning that consumers cannot put into words · _consumer-insight_
+
+## CLI-005: Ideas erode in the approval chain: each level that asks for "a small change" lowers the risk and, with it, the power of the ad
+- 0.12 [[HIS-011]] David Ogilvy: research, facts without adjectives and a picture that asks a question · _advertising-history_
+
+## CLI-009: The Dream 100: a short list of target clients, approached repeatedly through different channels
+- 0.15 [[CLI-012]] A request for a meeting has to offer value for the time it asks for
+
+## CLI-015: The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost
+- 0.10 [[BRF-001]] The creative brief is the blueprint for the execution: a road map for the creative work and a criterion for evaluating it · _creative-brief_
+
+## INS-003: An ad is processed through four responses (attention, learning, acceptance, emotion), element by element, and reflexive attention lasts less than a second
+- 0.10 [[ADV-037]] The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach · _advertising-strategy_
+- 0.10 [[ADV-034]] The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics · _advertising-strategy_
+
+## INS-006: Incidental exposure to ads influences preference even without conscious attention
+- 0.11 [[INS-010]] Emotional memory enters working memory before declarative memory and frames processing, and emotion is passed on through authentic faces
+
+## INS-008: Memory keeps what we process deeply, not what we see often
+- 0.10 [[INS-018]] Percy and Rosenbaum-Elliott argue that unconscious or subliminal processing of an ad cannot change attitudes or behavior
+
+## INS-009: Consumer emotions are primary or secondary and fluctuate throughout the experience
+- 0.13 [[EXP-020]] Emotional touchpoint cards: a six-step workshop to find out what the customer feels at each contact · _experiential-marketing_
+
+## INS-010: Emotional memory enters working memory before declarative memory and frames processing, and emotion is passed on through authentic faces
+- 0.11 [[INS-006]] Incidental exposure to ads influences preference even without conscious attention
+
+## INS-011: Accessibility in memory decides which brands enter the consideration set, not necessarily what is bought
+- 0.11 [[INS-017]] Subliminal advertising works, if it works at all, only under very narrow conditions
+
+## INS-017: Subliminal advertising works, if it works at all, only under very narrow conditions
+- 0.11 [[INS-011]] Accessibility in memory decides which brands enter the consideration set, not necessarily what is bought
+
+## INS-018: Percy and Rosenbaum-Elliott argue that unconscious or subliminal processing of an ad cannot change attitudes or behavior
+- 0.11 [[INS-091]] Motivation research and psychoanalysis look for the hidden "why" of buying: good for insight hypotheses, unproven as science
+- 0.10 [[INS-008]] Memory keeps what we process deeply, not what we see often
+- 0.10 [[ADV-084]] For Percy and Rosenbaum-Elliott, the new jargon ("platforms", "metrics", "brand ideals") does not change how advertising works · _advertising-strategy_
+
+## INS-019: Attitude has three components (what you believe, feel and do), and communication can change the first two
+- 0.10 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives · _advertising-strategy_
+
+## INS-020: Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation
+- 0.12 [[ADV-007]] Any communication can produce four effects, but brand awareness and brand attitude are always objectives · _advertising-strategy_
+- 0.12 [[ADV-034]] The Rossiter-Percy grid combines involvement (risk) with motivation (negative or positive) into four brand attitude strategies, each with its own creative tactics · _advertising-strategy_
+- 0.11 [[INS-059]] Before persuading, find out whether the brake is the attitude, the subjective norm or perceived control (theory of planned behavior)
+- 0.10 [[CPY-012]] With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence · _copywriting_
+
+## INS-022: Attitudes can form without arguments, through three affective routes: mere exposure, conditioning and affect as information
+- 0.16 [[CPY-031]] Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought · _copywriting_
+
+## INS-024: Strong attitudes resist and guide behavior; weak ones are built from context and from one's own behavior
+- 0.15 [[INS-021]] Brand attitude is the sum of a few salient beliefs multiplied by their value (the expectancy-value model)
+- 0.12 [[INS-031]] A message framed to fit the reader's self-image is processed more carefully
+
+## INS-025: Implicit attitudes predict choice when people are rushed or tired, explicit ones when they have time to control themselves
+- 0.11 [[INS-082]] Recall and recognition are weak measures of an ad's effectiveness
+
+## INS-029: Persuasion follows the central or the peripheral route, depending on the motivation and ability to process (ELM and HSM)
+- 0.11 [[ADV-006]] The communication response sequence has four steps with compounding probabilities, so a message fails if a single step fails · _advertising-strategy_
+
+## INS-030: The unimodel: cues and arguments are not two routes but two kinds of evidence judged by the same rule
+- 0.12 [[INS-036]] The celebrity in an ad is a peripheral cue at low involvement and becomes an argument only when relevant to the product
+
+## INS-036: The celebrity in an ad is a peripheral cue at low involvement and becomes an argument only when relevant to the product
+- 0.12 [[INS-030]] The unimodel: cues and arguments are not two routes but two kinds of evidence judged by the same rule
+
+## INS-037: The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity
+- 0.14 [[INS-051]] Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed
+- 0.13 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy · _advertising-strategy_
+- 0.13 [[BRD-051]] A digital brand has three components that work together: identity, visibility and credibility · _brand-strategy_
+- 0.13 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+- 0.12 [[ADV-035]] The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked · _advertising-strategy_
+- 0.11 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked · _advertising-strategy_
+
+## INS-040: When the audience sees the intent to persuade, it may do exactly the opposite (persuasion knowledge and reactance)
+- 0.11 [[INS-033]] Ask customers for ten reasons and you persuade them less than with one (ease of retrieval)
+
+## INS-043: The purchase decision has five stages and does not end at the checkout: satisfaction, dissonance and loyalty come after
+- 0.11 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase · _digital-marketing_
+- 0.11 [[DIG-016]] The digital customer journey is not a funnel traveled in order, but a path with interruptions and loops that closes in a loyalty loop · _digital-marketing_
+
+## INS-044: Every product satisfies functional and psychological needs, in different proportions, and a want is not satisfied by just any solution
+- 0.10 [[BRF-011]] The benefit ladder climbs from features to emotional benefits, and the chosen benefit has to pass four tests · _creative-brief_
+
+## INS-045: The purchase decision is shaped by four families of factors: psychological, social, situational and the marketing mix
+- 0.12 [[EXP-010]] Sensory marketing gives the brand a signature for each sense: coherent with the brand's story and measured, not spectacular on all five · _experiential-marketing_
+
+## INS-046: We buy for three negative motives (problem solution, problem avoidance, incomplete satisfaction) or for two positive ones (sensory gratification, social approval)
+- 0.17 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked · _advertising-strategy_
+- 0.16 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+- 0.14 [[ADV-039]] The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category · _advertising-strategy_
+- 0.14 [[ADV-035]] The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked · _advertising-strategy_
+
+## INS-051: Involvement is the target audience's perceived risk, not an attribute of the product: at low involvement curiosity is enough, at high involvement the message must be believed
+- 0.14 [[INS-037]] The VisCAP model chooses the presenter by the communication objective (visibility, credibility, attractiveness, power), not by popularity
+- 0.13 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+- 0.12 [[ADV-037]] The high-involvement informational strategy must convince, with claims kept within the target audience's latitude of acceptance or with a refutational approach · _advertising-strategy_
+- 0.11 [[ADV-005]] Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support · _advertising-strategy_
+- 0.11 [[ADV-035]] The low-involvement informational strategy calls for problem-solution and a single benefit presented in the extreme, and the ad need not be liked · _advertising-strategy_
+- 0.10 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall · _advertising-strategy_
+
+## INS-053: Involvement and perceived brand differences set the type of decision: extended, limited, habitual or variety-seeking
+- 0.10 [[DIG-017]] The customer journey is built on a persona in five steps, and involvement decides how long the pre-purchase phase lasts · _digital-marketing_
+
+## INS-054: Every purchase decision involves five roles, and advertising speaks to an individual in a role, not to a group
+- 0.10 [[DIG-013]] A persona useful for campaigns answers five questions: why now, what it expects, what stops it, who influences it, where you find it · _digital-marketing_
+
+## INS-055: The behavioral sequence model (BSM) puts the decision stages on a grid and, for each one, who, where, when and how
+- 0.10 [[ADV-039]] The FCB grid (Vaughn) orders "think-feel-do" by involvement and type of decision, but ties involvement to the product category · _advertising-strategy_
+
+## INS-059: Before persuading, find out whether the brake is the attitude, the subjective norm or perceived control (theory of planned behavior)
+- 0.11 [[INS-020]] Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation
+
+## INS-076: The quantitative questionnaire measures "how much", the interview and the focus group explain "why", each with its own rules
+- 0.15 [[ADV-079]] The pretest is built on the communication objectives, with questions in a fixed order, and is never done through focus groups or advertising recall · _advertising-strategy_
+- 0.11 [[BRF-014]] Measurement is written into the brief before the campaign, and testing is justified by uncertainty and stakes · _creative-brief_
+
+## INS-081: The effect of an ad is proved by experiment, not by the "before and after" survey
+- 0.10 [[INS-033]] Ask customers for ten reasons and you persuade them less than with one (ease of retrieval)
+
+## INS-082: Recall and recognition are weak measures of an ad's effectiveness
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action · _advertising-strategy_
+- 0.11 [[ADV-032]] Recognition brand awareness (brand → need, at the shelf) and recall brand awareness (need → brand, before purchase) call for opposite creative and media tactics · _advertising-strategy_
+- 0.11 [[INS-025]] Implicit attitudes predict choice when people are rushed or tired, explicit ones when they have time to control themselves
+- 0.11 [[CPY-031]] Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought · _copywriting_
+- 0.10 [[CPY-033]] Sex catches the eye but does not sell: it even lowers the attitude toward the brand, among men and women alike · _copywriting_
+- 0.10 [[ADV-059]] Spaced repetition beats massed repetition, and the first commercial in a block is remembered best · _advertising-strategy_
+
+## INS-091: Motivation research and psychoanalysis look for the hidden "why" of buying: good for insight hypotheses, unproven as science
+- 0.11 [[INS-018]] Percy and Rosenbaum-Elliott argue that unconscious or subliminal processing of an ad cannot change attitudes or behavior
+
+## INS-095: The insight checklist: eight checks before a "truth about the target" goes into the brief
+- 0.15 [[BRF-021]] Agency brief models share the same core, but each one optimizes something else: inspiration, conciseness, context, process or evidence · _creative-brief_
+- 0.14 [[BRF-023]] Ten red flags in a brief: from an objective that is not falsifiable to measurement decided after the campaign · _creative-brief_
+- 0.13 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals · _creative-brief_
+- 0.12 [[BRF-015]] The Stark Cloud Solutions case: how a "good" brief becomes a great one, section by section · _creative-brief_
+- 0.10 [[BRF-012]] One benefit, not five: an overpacked position blocks the creative idea · _creative-brief_
+
+## CPY-001: The anatomy of a print ad: visual, headline, subhead, body copy and signature, each with its own job
+- 0.11 [[PIT-004]] A pitch is organized like a tree: one headline, three key messages and the evidence underneath · _pitch-presentation_
+- 0.10 [[ART-007]] A single dominant image can tell the story, if the copy supports it rather than repeats it · _art-direction_
+
+## CPY-003: Reason-why: the ad as "salesmanship in print" that gives concrete, verifiable reasons to buy
+- 0.16 [[HIS-009]] Is advertising a science or an art? The debate that divided the 20th century · _advertising-history_
+- 0.10 [[CPY-032]] Humor in advertising: from forbidden "cleverness" to the reward that buys attention
+
+## CPY-011: The picture hooks, the headline anchors: denotation informs, connotation adds meanings the target has to decode
+- 0.14 [[INS-090]] Semiotics decodes the signs of a category to find the cultural meaning that consumers cannot put into words · _consumer-insight_
+
+## CPY-012: With negative motivation you focus directly on the benefit, and with positive motivation on its emotional consequence
+- 0.13 [[ADV-036]] The low-involvement transformational strategy calls for emotional authenticity linked to the brand, and since the benefit is the execution itself, the ad must be liked · _advertising-strategy_
+- 0.10 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+- 0.10 [[INS-020]] Brand attitude is a relative evaluation, made of beliefs and emotions, of the brand's ability to meet the current motivation · _consumer-insight_
+
+## CPY-023: Institutional advertising sells trust through patient explanation, not praise
+- 0.11 [[CPY-036]] A great ad has an idea, sincerity and a long life in memory
+
+## CPY-024: An ad idea is checked on paper before production: brand ID, provocative, clear, memorable, unique, affordable
+- 0.11 [[PIT-034]] Presenting creative work to the client follows a ritual: the strategy reread, the idea revealed, questions instead of solutions, the next step asked for · _pitch-presentation_
+
+## CPY-025: The mail-order school: the coupon turned copywriting into a measurable experiment
+- 0.11 [[CPY-020]] James Webb Young's method: a specific person, a clear proposition and the point where they meet
+
+## CPY-031: Humor attracts attention and liking but steals brand memory: it works mainly for low-cost products bought without much thought
+- 0.16 [[INS-022]] Attitudes can form without arguments, through three affective routes: mere exposure, conditioning and affect as information · _consumer-insight_
+- 0.11 [[ADV-044]] Liking for the ad transfers to the brand along two paths (the dual mediation hypothesis) · _advertising-strategy_
+- 0.11 [[INS-082]] Recall and recognition are weak measures of an ad's effectiveness · _consumer-insight_
+
+## BRF-001: The creative brief is the blueprint for the execution: a road map for the creative work and a criterion for evaluating it
+- 0.18 [[CLI-014]] The agency sells its people's time: an unclear brief eats its margin, and modern compensation ties the bonus to communication objectives · _client-business_
+- 0.12 [[IDE-010]] Osborn's brainstorming has four rules (quantity, deferred judgment, wild ideas, combination) and keeps generating separate from evaluating · _creative-ideation_
+- 0.12 [[BRF-024]] Receiving the brief: you reduce it to its essence, check it component by component, ask the naive questions and agree any change in writing
+- 0.11 [[PIT-034]] Presenting creative work to the client follows a ritual: the strategy reread, the idea revealed, questions instead of solutions, the next step asked for · _pitch-presentation_
+- 0.10 [[CLI-015]] The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost · _client-business_
+
+## BRF-003: The client brief asks the question, and the creative brief turns it into a problem for the creative team to solve
+- 0.13 [[BRF-002]] The brief "fences in the yard": strategic constraint gives creatives a place to start
+- 0.11 [[BRF-022]] The influencer brief gives direction but leaves room for the creator's interpretation
+- 0.11 [[BRF-006]] The creative brief fits on one page, in three blocks (task definition, objectives and strategy, execution), and only the target audience and the benefit support are spelled out in detail
+- 0.11 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.10 [[ADV-010]] Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before · _advertising-strategy_
+- 0.10 [[DIG-007]] The strategic digital marketing plan is made in three stages and written in eight sections, one of them devoted to legal issues and privacy · _digital-marketing_
+
+## BRF-004: The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital
+- 0.17 [[DIG-041]] Each buyer persona gets its own campaign group, split into sub-campaigns for Aware, Appeal and Ask, each with separate objectives and KPIs · _digital-marketing_
+- 0.13 [[DIG-017]] The customer journey is built on a persona in five steps, and involvement decides how long the pre-purchase phase lasts · _digital-marketing_
+- 0.13 [[MKT-012]] The marketing plan has five steps grouped in three phases: planning, implementation, control · _marketing-fundamentals_
+- 0.11 [[DIG-007]] The strategic digital marketing plan is made in three stages and written in eight sections, one of them devoted to legal issues and privacy · _digital-marketing_
+- 0.11 [[DIG-013]] A persona useful for campaigns answers five questions: why now, what it expects, what stops it, who influences it, where you find it · _digital-marketing_
+- 0.10 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+
+## BRF-005: The McTigue and Rucker brief has six components and fits on a single page
+- 0.17 [[BRF-018]] Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures
+- 0.17 [[BRF-016]] The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- 0.14 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]"
+- 0.13 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.13 [[BRD-006]] The positioning statement has four elements: target, frame of reference, point of difference, reason to believe · _brand-strategy_
+- 0.11 [[BRF-026]] ADPLAN: six questions for an execution that is on brief but can still fail
+
+## BRF-006: The creative brief fits on one page, in three blocks (task definition, objectives and strategy, execution), and only the target audience and the benefit support are spelled out in detail
+- 0.15 [[ADV-052]] Media are chosen by three processing requirements (visual content, time to process, frequency potential), matched to the brand awareness and brand attitude strategy · _advertising-strategy_
+- 0.12 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.11 [[BRF-003]] The client brief asks the question, and the creative brief turns it into a problem for the creative team to solve
+- 0.11 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.10 [[ADV-041]] Corporate advertising calls for name recognition and almost always a transformational strategy, with high involvement when the target audience must be convinced · _advertising-strategy_
+
+## BRF-007: The objective in the brief is a communication objective: specific, falsifiable and tied to the main barrier
+- 0.11 [[DIG-072]] A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics · _digital-marketing_
+- 0.11 [[ADV-001]] Advertising turns people toward the brand over the long term, promotion moves the sale forward now, and promotion does not need an incentive · _advertising-strategy_
+
+## BRF-009: The positioning statement in the brief: target, frame of reference, point of difference, reason to believe
+- 0.15 [[BRD-012]] Attribute reasons to believe get copied, while image reasons to believe can be owned · _brand-strategy_
+- 0.11 [[BRF-021]] Agency brief models share the same core, but each one optimizes something else: inspiration, conciseness, context, process or evidence
+
+## BRF-010: The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]"
+- 0.19 [[MKT-019]] The value proposition sits where the customer's needs meet your offering but not the competitor's, and it is written in four elements · _marketing-fundamentals_
+- 0.15 [[DIG-009]] The digital value proposition is written to the formula "To [target market], [organization] is [what] which/that [benefit and difference]" · _digital-marketing_
+- 0.14 [[MKT-008]] Consumers define a brand's market, through hierarchical partitioning by type of product, end benefit, usage situation and brand · _marketing-fundamentals_
+- 0.14 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+- 0.14 [[MKT-016]] Demographics define the target market, but the target audience of communication is segmented only by attitude · _marketing-fundamentals_
+- 0.14 [[BRD-009]] Central positioning is reserved for the leader that defines the category, and almost all other brands have to differentiate · _brand-strategy_
+
+## BRF-012: One benefit, not five: an overpacked position blocks the creative idea
+- 0.11 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+- 0.10 [[INS-095]] The insight checklist: eight checks before a "truth about the target" goes into the brief · _consumer-insight_
+
+## BRF-013: The execution section of the brief has four pillars: personality, mandatories, timing and budget, media
+- 0.11 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.11 [[CLI-003]] The good client gets the good work: alignment from the start, trust and strategic risk · _client-business_
+
+## BRF-014: Measurement is written into the brief before the campaign, and testing is justified by uncertainty and stakes
+- 0.11 [[INS-076]] The quantitative questionnaire measures "how much", the interview and the focus group explain "why", each with its own rules · _consumer-insight_
+
+## BRF-015: The Stark Cloud Solutions case: how a "good" brief becomes a great one, section by section
+- 0.13 [[BRF-026]] ADPLAN: six questions for an execution that is on brief but can still fail
+- 0.12 [[INS-095]] The insight checklist: eight checks before a "truth about the target" goes into the brief · _consumer-insight_
+- 0.11 [[BRD-006]] The positioning statement has four elements: target, frame of reference, point of difference, reason to believe · _brand-strategy_
+- 0.11 [[PIT-034]] Presenting creative work to the client follows a ritual: the strategy reread, the idea revealed, questions instead of solutions, the next step asked for · _pitch-presentation_
+
+## BRF-016: The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- 0.19 [[BRF-020]] The Singleton Ogilvy & Mather brief: the role of the communication, a helpful insight, think/feel/do and the single most important point with its evidence
+- 0.17 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+- 0.16 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.15 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.12 [[BRD-006]] The positioning statement has four elements: target, frame of reference, point of difference, reason to believe · _brand-strategy_
+- 0.11 [[BRF-025]] Creative feedback is organized in four categories: things I love, things I like, questions, red flags
+
+## BRF-017: The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.20 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.15 [[BRF-018]] Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures
+- 0.15 [[BRF-016]] The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- 0.15 [[BRF-020]] The Singleton Ogilvy & Mather brief: the role of the communication, a helpful insight, think/feel/do and the single most important point with its evidence
+- 0.13 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+- 0.13 [[INS-095]] The insight checklist: eight checks before a "truth about the target" goes into the brief · _consumer-insight_
+
+## BRF-018: Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures
+- 0.17 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+- 0.15 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.12 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.12 [[BRF-020]] The Singleton Ogilvy & Mather brief: the role of the communication, a helpful insight, think/feel/do and the single most important point with its evidence
+- 0.10 [[DIG-007]] The strategic digital marketing plan is made in three stages and written in eight sections, one of them devoted to legal issues and privacy · _digital-marketing_
+
+## BRF-019: The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.20 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.16 [[BRF-016]] The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- 0.13 [[BRF-020]] The Singleton Ogilvy & Mather brief: the role of the communication, a helpful insight, think/feel/do and the single most important point with its evidence
+- 0.12 [[BRF-018]] Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures
+- 0.12 [[CLI-002]] The account manager sells in both directions: the agency's work to the client and the client's problem to the team · _client-business_
+- 0.11 [[BRF-013]] The execution section of the brief has four pillars: personality, mandatories, timing and budget, media
+
+## BRF-020: The Singleton Ogilvy & Mather brief: the role of the communication, a helpful insight, think/feel/do and the single most important point with its evidence
+- 0.19 [[BRF-016]] The Get/To/By brief puts the whole strategy into one sentence with four links: target, response, message, reason
+- 0.15 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.13 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page
+- 0.12 [[BRF-018]] Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures
+
+## BRF-021: Agency brief models share the same core, but each one optimizes something else: inspiration, conciseness, context, process or evidence
+- 0.15 [[INS-095]] The insight checklist: eight checks before a "truth about the target" goes into the brief · _consumer-insight_
+- 0.11 [[BRF-009]] The positioning statement in the brief: target, frame of reference, point of difference, reason to believe
+
+## BRF-023: Ten red flags in a brief: from an objective that is not falsifiable to measurement decided after the campaign
+- 0.14 [[INS-095]] The insight checklist: eight checks before a "truth about the target" goes into the brief · _consumer-insight_
+- 0.14 [[BRF-025]] Creative feedback is organized in four categories: things I love, things I like, questions, red flags
+- 0.11 [[BRF-017]] The Euro RSCG Australia brief model: the task, three triangulated insights, the creative and a chain of approvals
+- 0.10 [[CLI-003]] The good client gets the good work: alignment from the start, trust and strategic risk · _client-business_
+- 0.10 [[BRF-002]] The brief "fences in the yard": strategic constraint gives creatives a place to start
+
+## BRF-026: ADPLAN: six questions for an execution that is on brief but can still fail
+- 0.13 [[BRF-015]] The Stark Cloud Solutions case: how a "good" brief becomes a great one, section by section
+- 0.11 [[BRF-005]] The McTigue and Rucker brief has six components and fits on a single page
+
+## BRF-027: Debate: the emotional benefit is not automatically better than the functional one
+- 0.11 [[IDE-023]] Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments · _creative-ideation_
+
+## IDE-025: Debate: is shock the most powerful weapon for attention or the biggest risk of a negative reaction?
+- 0.10 [[IDE-023]] Idea evaluation grids converge on three questions (does it serve the strategy, does it stand out, does it stay linked to the brand) but apply at different moments
+
+## DIG-002: Every digital program serves one of four generic strategies: acquisition, conversion, retention, value growth
+- 0.16 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase
+- 0.12 [[AIM-006]] Predictive analytics estimates who will buy, what will sell and what will work: a cycle that is checked continuously, not a report · _ai-marketing_
+- 0.10 [[DIG-020]] Omnichannel means channels that reinforce each other: it is built on the critical purchase scenarios, with the silos broken, and measured by customer value, not by clicks per channel
+
+## DIG-004: The 4E framework: digital marketing has to excite, educate, let customers experience the product and engage them
+- 0.10 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives · _social-influencer_
+
+## DIG-007: The strategic digital marketing plan is made in three stages and written in eight sections, one of them devoted to legal issues and privacy
+- 0.11 [[ADV-004]] Not every communication decision is strategy: the critique of strategic advertising monism · _advertising-strategy_
+- 0.11 [[BRF-004]] The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital · _creative-brief_
+- 0.11 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives · _social-influencer_
+- 0.11 [[BRF-019]] The Red Cell brief: eight requirements, "execution hints" and a timetable of approvals on a single page · _creative-brief_
+- 0.10 [[BRF-003]] The client brief asks the question, and the creative brief turns it into a problem for the creative team to solve · _creative-brief_
+- 0.10 [[BRF-018]] Naked Brief: an "informative and inspirational" brief, built on context, learning and three types of measures · _creative-brief_
+
+## DIG-008: A valid digital objective is chained to a marketing objective, to a value for the customer and to a metric
+- 0.12 [[SOC-040]] Likes are not success: you evaluate the journey, not the stage · _social-influencer_
+- 0.11 [[SOC-039]] Valid Metrics Framework: success on social media ends in advocacy, not purchase · _social-influencer_
+
+## DIG-010: In direct marketing, the offer and the list weigh more than the creative execution (the 40/40/20 rule)
+- 0.10 [[ART-027]] An effective banner is short, congruent with the page, emotional, with a concrete incentive and measured animation · _art-direction_
+
+## DIG-016: The digital customer journey is not a funnel traveled in order, but a path with interruptions and loops that closes in a loyalty loop
+- 0.12 [[ADV-008]] Tested with data, the hierarchy of effects came out in a different order from the theory: from "what they do" to "what I do" · _advertising-strategy_
+- 0.11 [[ADV-005]] Hierarchy-of-effects models (AIDA, Lavidge-Steiner, DAGMAR) order think-feel-do objectives, but their fixed order has no empirical support · _advertising-strategy_
+- 0.11 [[INS-043]] The purchase decision has five stages and does not end at the checkout: satisfaction, dissonance and loyalty come after · _consumer-insight_
+
+## DIG-017: The customer journey is built on a persona in five steps, and involvement decides how long the pre-purchase phase lasts
+- 0.15 [[DIG-012]] A buyer persona is not the target group: segmentation says whom you choose, the persona gives the segment a face and says how it decides and where it can be reached
+- 0.13 [[BRF-004]] The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital · _creative-brief_
+- 0.11 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+- 0.10 [[INS-053]] Involvement and perceived brand differences set the type of decision: extended, limited, habitual or variety-seeking · _consumer-insight_
+
+## DIG-018: The digital customer journey has to be short: every step is a barrier
+- 0.12 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+- 0.12 [[ADV-018]] The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs · _advertising-strategy_
+- 0.10 [[MKT-036]] The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world · _marketing-fundamentals_
+- 0.10 [[DIG-075]] The conversion funnel shows where visitors leave; the marketer's job is to find out why
+
+## DIG-019: Micro-moments: four intents (I want to know, go, do, buy) that the brand answers within seconds
+- 0.10 [[SOC-048]] Five micro-trends push toward immersive experiences: short-form video, community-based social media, interactive e-commerce, language-based AI and wearables · _social-influencer_
+
+## DIG-020: Omnichannel means channels that reinforce each other: it is built on the critical purchase scenarios, with the silos broken, and measured by customer value, not by clicks per channel
+- 0.12 [[MKT-004]] A customer is worth the relationship, not the transaction: customer lifetime value (CLV) · _marketing-fundamentals_
+- 0.11 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase
+- 0.10 [[DIG-002]] Every digital program serves one of four generic strategies: acquisition, conversion, retention, value growth
+
+## DIG-021: Contextual marketing brings digital personalization into physical space: sensors, triggers and three levels, informative, interactive, immersive
+- 0.11 [[MKT-041]] Marketing 6.0 is metamarketing: after multichannel and omnichannel, an experience in which customers perceive no distinction between physical and digital · _marketing-fundamentals_
+
+## DIG-022: Owned, earned and paid media complement each other: control, credibility and reach
+- 0.13 [[ADV-064]] Public relations gains credibility precisely because the space is not bought, but it loses control of the message and the link with the brand · _advertising-strategy_
+- 0.13 [[ADV-086]] Content instead of advertising? The thesis that ads do not build relationships, and its limits · _advertising-strategy_
+- 0.12 [[STO-034]] UGC is earned content: the most credible content for a brand precisely because the brand cannot control it · _storytelling-content_
+- 0.12 [[SOC-006]] Social media algorithms rank the feed by relationship, engagement, content type and time · _social-influencer_
+
+## DIG-028: SEM has two sides: SEO builds visibility over time, PPC buys it immediately, and they work best together
+- 0.13 [[DIG-044]] A paid search and paid social campaign has five stages: from keyword research to testing
+- 0.11 [[BRD-051]] A digital brand has three components that work together: identity, visibility and credibility · _brand-strategy_
+
+## DIG-035: In email, the click-to-open rate says more than the open rate
+- 0.14 [[DIG-073]] Metrics are chosen starting from the SMART objective, not from what the platform offers: in a chain that runs from the baseline to the diagnosis
+- 0.11 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase
+- 0.11 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves
+
+## DIG-040: An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+- 0.13 [[DIG-077]] The attribution model decides which channel gets credit for the conversion, and after cookies, tracking becomes uncertain and the early stages lose out
+- 0.12 [[DIG-018]] The digital customer journey has to be short: every step is a barrier
+- 0.12 [[ADV-018]] The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs · _advertising-strategy_
+- 0.11 [[DIG-014]] Minimum viable persona: you start the campaign with the minimum information needed and complete the persona from the campaign data
+- 0.11 [[DIG-052]] Retargeting works only when segmented by journey stage, capped and consented: the most effective tactic of the cookie era is also the most exposed after it
+- 0.11 [[DIG-017]] The customer journey is built on a persona in five steps, and involvement decides how long the pre-purchase phase lasts
+
+## DIG-041: Each buyer persona gets its own campaign group, split into sub-campaigns for Aware, Appeal and Ask, each with separate objectives and KPIs
+- 0.17 [[BRF-004]] The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital · _creative-brief_
+- 0.14 [[DIG-012]] A buyer persona is not the target group: segmentation says whom you choose, the persona gives the segment a face and says how it decides and where it can be reached
+- 0.12 [[DIG-015]] "Bring your own persona" (BYOP) challenges the classic persona: people come with different levels of digital capability and of trust in sharing data
+- 0.10 [[MKT-036]] The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world · _marketing-fundamentals_
+
+## DIG-042: The media billing model is chosen by objective and customer journey stage: CPM for awareness, CPV/CPE for appeal, CPC/CPL for ask, CPA for purchase
+- 0.21 [[DIG-046]] Display advertising has moved from the static banner to rich media and video, but the creative idea stays human
+- 0.11 [[DIG-050]] Programmatic advertising buys every impression automatically, through real-time bidding: it gains efficiency but needs data, large budgets and control over placement
+
+## DIG-044: A paid search and paid social campaign has five stages: from keyword research to testing
+- 0.13 [[DIG-028]] SEM has two sides: SEO builds visibility over time, PPC buys it immediately, and they work best together
+- 0.11 [[DIG-029]] People search for the problem, not the product: that is why SEO starts from search intent
+
+## DIG-045: An ad is only as good as its landing page: simplicity, continuity with the ad and congruence with the context
+- 0.10 [[DIG-050]] Programmatic advertising buys every impression automatically, through real-time bidding: it gains efficiency but needs data, large budgets and control over placement
+
+## DIG-046: Display advertising has moved from the static banner to rich media and video, but the creative idea stays human
+- 0.21 [[DIG-042]] The media billing model is chosen by objective and customer journey stage: CPM for awareness, CPV/CPE for appeal, CPC/CPL for ask, CPA for purchase
+- 0.16 [[DIG-048]] YouTube video formats are chosen by objective: masthead and 6-second bumper for reach, TrueView for consideration, Video Action for conversion
+- 0.12 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign · _social-influencer_
+
+## DIG-047: On mobile, an ad has less than a second to be seen: faces, contrast and instant emotion
+- 0.10 [[DIG-024]] A web page is read by convention: the golden triangle, above the fold, the logo at the top left
+
+## DIG-048: YouTube video formats are chosen by objective: masthead and 6-second bumper for reach, TrueView for consideration, Video Action for conversion
+- 0.16 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase
+- 0.16 [[DIG-046]] Display advertising has moved from the static banner to rich media and video, but the creative idea stays human
+- 0.12 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign · _social-influencer_
+- 0.10 [[SOC-013]] The ad managers of social platforms share the same anatomy: project goal, ad format, preview, target group and persona, duration, daily budget, result estimate, payment summary · _social-influencer_
+
+## DIG-050: Programmatic advertising buys every impression automatically, through real-time bidding: it gains efficiency but needs data, large budgets and control over placement
+- 0.11 [[DIG-042]] The media billing model is chosen by objective and customer journey stage: CPM for awareness, CPV/CPE for appeal, CPC/CPL for ask, CPA for purchase
+- 0.10 [[DIG-045]] An ad is only as good as its landing page: simplicity, continuity with the ad and congruence with the context
+
+## DIG-052: Retargeting works only when segmented by journey stage, capped and consented: the most effective tactic of the cookie era is also the most exposed after it
+- 0.15 [[DIG-075]] The conversion funnel shows where visitors leave; the marketer's job is to find out why
+- 0.12 [[DIG-058]] Without third-party cookies five families of targeting remain, and the cookie profile described a device, not a person, anyway
+- 0.11 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+
+## DIG-057: Third-party cookies made retargeting, lookalikes and cross-site profiles possible, and the law and browsers are taking them out of the game: power shifts to first-party data
+- 0.11 [[DIG-065]] Ten privacy practices for marketers, from consent that shows the value provided to data minimization
+- 0.11 [[DIG-077]] The attribution model decides which channel gets credit for the conversion, and after cookies, tracking becomes uncertain and the early stages lose out
+- 0.10 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+- 0.10 [[DIG-059]] Contextual targeting places the ad next to the topic already on the reader's mind, and the semantic version also reads the sentiment of the context
+
+## DIG-058: Without third-party cookies five families of targeting remain, and the cookie profile described a device, not a person, anyway
+- 0.15 [[DIG-064]] Identity without cookies has three levels of reach: your own channels or a single "walled garden," data clean rooms and universal IDs
+- 0.12 [[DIG-052]] Retargeting works only when segmented by journey stage, capped and consented: the most effective tactic of the cookie era is also the most exposed after it
+- 0.10 [[DIG-061]] Data-driven marketing targets "segments of one" and starts with a narrow objective, not with an IT project
+
+## DIG-059: Contextual targeting places the ad next to the topic already on the reader's mind, and the semantic version also reads the sentiment of the context
+- 0.10 [[DIG-057]] Third-party cookies made retargeting, lookalikes and cross-site profiles possible, and the law and browsers are taking them out of the game: power shifts to first-party data
+
+## DIG-064: Identity without cookies has three levels of reach: your own channels or a single "walled garden," data clean rooms and universal IDs
+- 0.15 [[DIG-058]] Without third-party cookies five families of targeting remain, and the cookie profile described a device, not a person, anyway
+
+## DIG-071: Digital engagement follows three stages (listen, analyze, do), and a social media campaign has five steps
+- 0.12 [[SOC-003]] Social media serves six distinct objectives, and each calls for a different KPI · _social-influencer_
+- 0.11 [[AIM-028]] Visual listening finds the brand in images, where the text does not name it · _ai-marketing_
+- 0.11 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives · _social-influencer_
+- 0.11 [[SOC-020]] On a negative review, the brand responds quickly, with empathy and professionally, moves the resolution to private and does not delete the criticism · _social-influencer_
+
+## DIG-072: A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics
+- 0.13 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves
+- 0.13 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign · _social-influencer_
+- 0.12 [[SOC-040]] Likes are not success: you evaluate the journey, not the stage · _social-influencer_
+- 0.11 [[BRF-007]] The objective in the brief is a communication objective: specific, falsifiable and tied to the main barrier · _creative-brief_
+- 0.11 [[ADV-081]] The post-test measures the imprint the ad leaves through five scores; the campaign review measures the whole campaign · _advertising-strategy_
+- 0.10 [[SOC-041]] Attention to an influencer post is split across three levels · _social-influencer_
+
+## DIG-073: Metrics are chosen starting from the SMART objective, not from what the platform offers: in a chain that runs from the baseline to the diagnosis
+- 0.14 [[DIG-035]] In email, the click-to-open rate says more than the open rate
+- 0.10 [[SOC-039]] Valid Metrics Framework: success on social media ends in advocacy, not purchase · _social-influencer_
+
+## DIG-074: Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase
+- 0.16 [[DIG-002]] Every digital program serves one of four generic strategies: acquisition, conversion, retention, value growth
+- 0.16 [[DIG-048]] YouTube video formats are chosen by objective: masthead and 6-second bumper for reach, TrueView for consideration, Video Action for conversion
+- 0.16 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign · _social-influencer_
+- 0.13 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves
+- 0.13 [[ADV-018]] The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs · _advertising-strategy_
+- 0.12 [[SOC-040]] Likes are not success: you evaluate the journey, not the stage · _social-influencer_
+
+## DIG-077: The attribution model decides which channel gets credit for the conversion, and after cookies, tracking becomes uncertain and the early stages lose out
+- 0.13 [[DIG-040]] An online campaign is planned in three steps: key campaign decisions, sub-campaigns for each stage of the customer journey, monitoring and optimization
+- 0.11 [[DIG-057]] Third-party cookies made retargeting, lookalikes and cross-site profiles possible, and the law and browsers are taking them out of the game: power shifts to first-party data
+
+## EXP-010: Sensory marketing gives the brand a signature for each sense: coherent with the brand's story and measured, not spectacular on all five
+- 0.12 [[INS-045]] The purchase decision is shaped by four families of factors: psychological, social, situational and the marketing mix · _consumer-insight_
+
+## EXP-019: Emotional touchpoints: a touchpoint is defined by the emotion it produces, not by the channel
+- 0.12 [[EXP-002]] Customer experience is the lived sum of all interactions with the brand: not a memorable event, and not a better CRM
+- 0.10 [[ADV-018]] The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs · _advertising-strategy_
+
+## MKT-007: SWOT analysis separates what belongs to the firm (strengths and weaknesses) from what belongs to the market (opportunities and threats): the same double view that von Scheel calls inside-out and outside-in
+- 0.11 [[MKT-011]] Marketing strategy = target market + mix + a sustainable competitive advantage, built like a wall
+- 0.11 [[MKT-058]] A trend first appears as a driver (an innovation opportunity) and then becomes a force (pressure to adapt)
+
+## MKT-008: Consumers define a brand's market, through hierarchical partitioning by type of product, end benefit, usage situation and brand
+- 0.14 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]" · _creative-brief_
+
+## MKT-009: Marketing research has five steps, from objectives to an action plan, and turns data into information
+- 0.11 [[IDE-007]] The seven-step problem-solving process: from defining the gap to reviewing the results · _creative-ideation_
+- 0.10 [[ADV-011]] Planning goes through the response sequence in reverse, and a mistake at one step does not cancel the steps before it · _advertising-strategy_
+
+## MKT-012: The marketing plan has five steps grouped in three phases: planning, implementation, control
+- 0.13 [[BRF-004]] The briefing document comes before the strategy: product, market, source of business, competition and objectives, plus the persona and its journey in digital · _creative-brief_
+- 0.13 [[ADV-010]] Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before · _advertising-strategy_
+- 0.11 [[BRD-047]] Implementing a brand strategy takes six elements, not just a positioning · _brand-strategy_
+
+## MKT-014: STP is done in five steps: strategy, segmentation, attractiveness, choice of target, positioning
+- 0.12 [[MKT-048]] The Kotler X.0 series revises its own ideas: segmentation, the role of purpose and the online–offline balance change from one book to the next
+- 0.12 [[ADV-010]] Strategic communication planning has five steps, from selecting the target audience to media strategy, and each step follows from the one before · _advertising-strategy_
+
+## MKT-015: Demographics and geography help you find the target, benefits and lifestyle help you persuade it
+- 0.16 [[DIG-061]] Data-driven marketing targets "segments of one" and starts with a narrow objective, not with an IT project · _digital-marketing_
+- 0.13 [[BRF-008]] Targeting means prioritization: three typical errors and the Own–Attract–Accept bull's-eye · _creative-brief_
+- 0.11 [[AIM-017]] AI-built segments are dynamic: customers move between them as their behavior changes · _ai-marketing_
+- 0.11 [[DIG-009]] The digital value proposition is written to the formula "To [target market], [organization] is [what] which/that [benefit and difference]" · _digital-marketing_
+- 0.10 [[DIG-014]] Minimum viable persona: you start the campaign with the minimum information needed and complete the persona from the campaign data · _digital-marketing_
+
+## MKT-016: Demographics define the target market, but the target audience of communication is segmented only by attitude
+- 0.14 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]" · _creative-brief_
+- 0.11 [[DIG-061]] Data-driven marketing targets "segments of one" and starts with a narrow objective, not with an IT project · _digital-marketing_
+
+## MKT-018: Positioning is built on value, attributes, symbols or the competition, and is checked on the perceptual map
+- 0.17 [[BRD-008]] Positioning in two steps: contextualization (you choose the reference brand) and conceptualization (you say it simply) · _brand-strategy_
+- 0.10 [[ADV-028]] Positioning is the heir of the USP: a new idea or "old wine in new bottles"? · _advertising-strategy_
+
+## MKT-019: The value proposition sits where the customer's needs meet your offering but not the competitor's, and it is written in four elements
+- 0.19 [[BRF-010]] The positioning statement is written in one sentence: "brand X is the brand for [target audience] in the market for [category need] that offers [benefit]" · _creative-brief_
+- 0.11 [[MKT-033]] Marketing 3.0 treats the customer as a whole human being: mind, heart and spirit
+
+## MKT-020: The 4P marketing mix: product creates, price captures, place delivers, promotion communicates value
+- 0.11 [[EXP-015]] Exchange: in the experiential mix, price gives way to value co-created with the customer · _experiential-marketing_
+- 0.10 [[MKT-002]] Value is what you get for what you give, not a low price
+
+## MKT-023: An innovation spreads through five groups of adopters, and the speed depends on five characteristics of the product
+- 0.10 [[BRD-016]] Timing of entry: pioneer, fast follower or late mover · _brand-strategy_
+
+## MKT-029: For services, the mix becomes the 7Ps: people, process and physical evidence are added
+- 0.12 [[MKT-030]] In digital, the 4Ps become four sets of decisions: proof of product value, pricing model, channel (omni-channel or disintermediation) and digital assets for promotion
+- 0.10 [[BRD-050]] A service brand is won or lost in the moment of interaction · _brand-strategy_
+
+## MKT-036: The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world
+- 0.14 [[STO-032]] Applied to content, the hero's journey becomes the buying cycle seen by the customer: engagement, purchase, then loyalty and advocacy · _storytelling-content_
+- 0.14 [[ADV-018]] The customer journey is built on a single segment, in six stages, with three questions at each: only then come objectives and KPIs · _advertising-strategy_
+- 0.13 [[ADV-008]] Tested with data, the hierarchy of effects came out in a different order from the theory: from "what they do" to "what I do" · _advertising-strategy_
+- 0.10 [[DIG-018]] The digital customer journey has to be short: every step is a barrier · _digital-marketing_
+- 0.10 [[DIG-041]] Each buyer persona gets its own campaign group, split into sub-campaigns for Aware, Appeal and Ask, each with separate objectives and KPIs · _digital-marketing_
+
+## MKT-063: Conscious marketing puts the higher purpose at the core of the business, CSR only adds it at the edge
+- 0.13 [[MKT-069]] A cause is not chosen by trend: materiality analysis and alignment with the mission
+- 0.12 [[BRD-041]] Brands that adopt moral causes gain a halo, but become targets for the accusation of greenwashing · _brand-strategy_
+- 0.11 [[BRD-020]] The values-based matrix (VBM) links the mission, vision and values to the minds, hearts and spirits of stakeholders · _brand-strategy_
+
+## MKT-068: Sustainable marketing, green marketing, eco-efficiency, CSR and cause marketing are not synonyms
+- 0.11 [[BRD-041]] Brands that adopt moral causes gain a halo, but become targets for the accusation of greenwashing · _brand-strategy_
+- 0.10 [[MKT-073]] Carrotmob: organized consumers reward a firm only if it makes a responsible change
+
+## MKT-069: A cause is not chosen by trend: materiality analysis and alignment with the mission
+- 0.13 [[MKT-063]] Conscious marketing puts the higher purpose at the core of the business, CSR only adds it at the edge
+- 0.11 [[ADV-074]] An organization's communication has three registers (external, internal, institutional), with different targets, objectives and tools · _advertising-strategy_
+- 0.11 [[BRD-019]] The mission says why the brand exists, the vision where it wants to go, and the values how it behaves on the way · _brand-strategy_
+
+## MKT-073: Carrotmob: organized consumers reward a firm only if it makes a responsible change
+- 0.11 [[BRD-024]] Patagonia's "Don't Buy This Jacket" is a Black Friday ad that asks you not to buy · _brand-strategy_
+- 0.10 [[MKT-068]] Sustainable marketing, green marketing, eco-efficiency, CSR and cause marketing are not synonyms
+
+## PIT-001: Cut-through happens at the intersection of emotion, simplicity and energy
+- 0.12 [[PIT-003]] A presentation's intention answers four questions: Know, Feel, Do and Why now
+- 0.10 [[PIT-009]] You visualize a pitch's goal, feel it, and only then say it in fewer than ten words
+
+## PIT-003: A presentation's intention answers four questions: Know, Feel, Do and Why now
+- 0.12 [[PIT-001]] Cut-through happens at the intersection of emotion, simplicity and energy
+- 0.12 [[PIT-002]] A pitch is built in six steps: Discover, Distil, Design, Drill, Deliver, Debrief
+- 0.10 [[PIT-006]] Before any pitch, define the "exam question" and decide whether it is worth taking part
+
+## PIT-035: The agency recommendation (reco) shows why a solution was chosen, not the winding path to it
+- 0.14 [[ADV-012]] There is a single communication problem, of awareness, image or behavior, never all three at once · _advertising-strategy_
+
+## SOC-007: A social platform is chosen by persona, objective, message and its role on the path to purchase: not by fashion or total user numbers
+- 0.12 [[SOC-028]] Shared values matter more than reach in choosing a creator
+- 0.11 [[STO-038]] Purpose in social storytelling: perceived value, not a declared mission · _storytelling-content_
+- 0.11 [[DIG-012]] A buyer persona is not the target group: segmentation says whom you choose, the persona gives the segment a face and says how it decides and where it can be reached · _digital-marketing_
+
+## SOC-023: Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+- 0.14 [[SOC-030]] Negotiating with a creator involves multiple variables, and the contract sets the rights
+- 0.12 [[SOC-038]] Who owns influencer marketing: PR, media, the specialist agency or the brand
+- 0.12 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives
+- 0.11 [[SOC-028]] Shared values matter more than reach in choosing a creator
+- 0.11 [[BRF-022]] The influencer brief gives direction but leaves room for the creator's interpretation · _creative-brief_
+- 0.10 [[DIG-011]] Pull marketing: Attract, Assist, Affiliate, measured by "return on attention" · _digital-marketing_
+
+## SOC-024: Influencer tiers by reach (nano, micro, mid-tier, macro, mega): relative engagement falls as the audience grows
+- 0.11 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives
+- 0.11 [[SOC-030]] Negotiating with a creator involves multiple variables, and the contract sets the rights
+- 0.10 [[SOC-029]] An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+
+## SOC-025: The strategic framework of an influencer campaign starts from research and SMART objectives
+- 0.15 [[SOC-031]] The creator is a one-person production house: gifting is no substitute for payment
+- 0.14 [[SOC-028]] Shared values matter more than reach in choosing a creator
+- 0.13 [[SOC-029]] An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+- 0.12 [[SOC-030]] Negotiating with a creator involves multiple variables, and the contract sets the rights
+- 0.12 [[SOC-027]] Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+- 0.12 [[SOC-023]] Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+
+## SOC-026: Mission, Cast, Create: the mission comes before casting the creators
+- 0.12 [[SOC-034]] Long partnerships with creators beat one-off campaigns
+- 0.11 [[STO-038]] Purpose in social storytelling: perceived value, not a declared mission · _storytelling-content_
+
+## SOC-027: Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+- 0.12 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives
+- 0.11 [[SOC-041]] Attention to an influencer post is split across three levels
+- 0.10 [[SOC-030]] Negotiating with a creator involves multiple variables, and the contract sets the rights
+- 0.10 [[SOC-034]] Long partnerships with creators beat one-off campaigns
+
+## SOC-028: Shared values matter more than reach in choosing a creator
+- 0.14 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives
+- 0.12 [[SOC-007]] A social platform is chosen by persona, objective, message and its role on the path to purchase: not by fashion or total user numbers
+- 0.11 [[SOC-023]] Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+- 0.11 [[SOC-029]] An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+- 0.10 [[SOC-047]] Creators become brands: from endorsement to the creator economy
+- 0.10 [[SOC-037]] Creator content is amplified with paid media after it proves its performance
+
+## SOC-032: A paid collaboration is disclosed clearly, up front and in every format: where the audience sees the recommendation, not after a click
+- 0.12 [[SOC-036]] In B2B, influence comes from employees and thought leaders
+
+## SOC-034: Long partnerships with creators beat one-off campaigns
+- 0.12 [[SOC-026]] Mission, Cast, Create: the mission comes before casting the creators
+- 0.10 [[SOC-023]] Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+- 0.10 [[SOC-027]] Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+
+## SOC-037: Creator content is amplified with paid media after it proves its performance
+- 0.11 [[SOC-047]] Creators become brands: from endorsement to the creator economy
+- 0.10 [[SOC-028]] Shared values matter more than reach in choosing a creator
+- 0.10 [[SOC-023]] Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+- 0.10 [[SOC-025]] The strategic framework of an influencer campaign starts from research and SMART objectives
+
+## SOC-038: Who owns influencer marketing: PR, media, the specialist agency or the brand
+- 0.12 [[SOC-023]] Influencer marketing is not celebrity endorsement, affiliate marketing or direct marketing
+
+## SOC-039: Valid Metrics Framework: success on social media ends in advocacy, not purchase
+- 0.12 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action · _advertising-strategy_
+- 0.11 [[DIG-008]] A valid digital objective is chained to a marketing objective, to a value for the customer and to a metric · _digital-marketing_
+- 0.11 [[ADV-013]] PAR and BAR measure marketing productivity: how much brand awareness turns into purchase and advocacy · _advertising-strategy_
+- 0.11 [[DIG-011]] Pull marketing: Attract, Assist, Affiliate, measured by "return on attention" · _digital-marketing_
+- 0.10 [[DIG-073]] Metrics are chosen starting from the SMART objective, not from what the platform offers: in a chain that runs from the baseline to the diagnosis · _digital-marketing_
+- 0.10 [[STO-032]] Applied to content, the hero's journey becomes the buying cycle seen by the customer: engagement, purchase, then loyalty and advocacy · _storytelling-content_
+
+## SOC-040: Likes are not success: you evaluate the journey, not the stage
+- 0.12 [[DIG-072]] A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics · _digital-marketing_
+- 0.12 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase · _digital-marketing_
+- 0.12 [[DIG-008]] A valid digital objective is chained to a marketing objective, to a value for the customer and to a metric · _digital-marketing_
+- 0.12 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves · _digital-marketing_
+- 0.10 [[SOC-029]] An influencer's audience is checked before any contract: fraud signals, engagement authenticity and audience fit, manually or with AI
+
+## SOC-041: Attention to an influencer post is split across three levels
+- 0.15 [[SOC-042]] Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign
+- 0.13 [[SOC-006]] Social media algorithms rank the feed by relationship, engagement, content type and time
+- 0.11 [[ADV-078]] Numerical goals are set per ad for exposure and processing, and per campaign for communication effects and action · _advertising-strategy_
+- 0.11 [[SOC-027]] Influence is assessed on four Rs, not on follower count: two complementary models, Onalytica and Grewal-Levy
+- 0.10 [[BRF-022]] The influencer brief gives direction but leaves room for the creator's interpretation · _creative-brief_
+- 0.10 [[DIG-072]] A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics · _digital-marketing_
+
+## SOC-042: Engagement rate, CPE and CPM: the basic arithmetic of an influencer campaign
+- 0.16 [[DIG-074]] Each stage of the journey has its own KPIs: net reach and frequency in Awareness, entry into the evoked set in Appeal, clicks and conversions in Ask, retention and CLV after purchase · _digital-marketing_
+- 0.15 [[SOC-041]] Attention to an influencer post is split across three levels
+- 0.14 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves · _digital-marketing_
+- 0.14 [[ADV-053]] GRP = reach × repetition: the basic vocabulary of media planning · _advertising-strategy_
+- 0.13 [[SOC-030]] Negotiating with a creator involves multiple variables, and the contract sets the rights
+- 0.13 [[DIG-072]] A metric is just a number; it becomes a KPI when it is chosen because it shows progress against an objective, and a KPI can combine several metrics · _digital-marketing_
+
+## SOC-043: FMD: influencers report live, the team produces the long formats
+- 0.13 [[SOC-005]] Conversational vs. transactional: two kinds of relationship on platforms
+
+## SOC-044: Tango and Robinsons: creator-led TikTok campaigns measured by brand lift
+- 0.11 [[DIG-049]] Video metrics measure time: the brand has to appear before the viewer leaves · _digital-marketing_
+
+## STO-006: In brand storytelling, the brand is oxygen: everywhere, but never the protagonist
+- 0.12 [[STO-003]] The advertising story is a transformation the brand facilitates: the "C.O.W. + B → T" map and the three-act structure
+
+## STO-024: Brand content reverses the direction of advertising: consumers come to the brand for information, utility or entertainment, if the theme is legitimate for the brand and can be renewed
+- 0.10 [[ADV-086]] Content instead of advertising? The thesis that ads do not build relationships, and its limits · _advertising-strategy_
+
+## STO-030: The all-in-one strategy: produce once, distribute in fragments over time
+- 0.13 [[STO-020]] The serial format is the secret weapon of micro-storytelling
+- 0.12 [[STO-014]] On social media, the guide replaces the hero of the classic journey
+- 0.12 [[SOC-005]] Conversational vs. transactional: two kinds of relationship on platforms · _social-influencer_
+- 0.12 [[STO-021]] No-edit edit: unpolished authenticity beats the polished image film
+- 0.11 [[STO-022]] Six user needs guide the planning of social formats
+
+## STO-032: Applied to content, the hero's journey becomes the buying cycle seen by the customer: engagement, purchase, then loyalty and advocacy
+- 0.14 [[MKT-036]] The five A's customer path (aware, appeal, ask, act, advocate) replaces the AIDA funnel in the connected world · _marketing-fundamentals_
+- 0.13 [[STO-014]] On social media, the guide replaces the hero of the classic journey
+- 0.10 [[SOC-039]] Valid Metrics Framework: success on social media ends in advocacy, not purchase · _social-influencer_
+- 0.10 [[ADV-013]] PAR and BAR measure marketing productivity: how much brand awareness turns into purchase and advocacy · _advertising-strategy_
+
+## STO-034: UGC is earned content: the most credible content for a brand precisely because the brand cannot control it
+- 0.14 [[SOC-019]] Latching onto a viral hashtag without a values match produces a shitstorm · _social-influencer_
+- 0.12 [[DIG-022]] Owned, earned and paid media complement each other: control, credibility and reach · _digital-marketing_
+- 0.11 [[SOC-009]] Four genres of social profile: personal, community, brand, journalist · _social-influencer_

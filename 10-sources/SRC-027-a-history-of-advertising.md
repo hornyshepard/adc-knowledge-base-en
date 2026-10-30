@@ -14,129 +14,129 @@ level: 1
 
 # A History of Advertising: The First 300,000 Years
 
-**Jef I. Richards, 2022.** Rowman & Littlefield, Lanham (MD). Profesor de publicitate (University of Texas, apoi Michigan State University), cu formație juridică. Carte ilustrată color, 465 de pagini PDF, 17 capitole în trei părți, fiecare parte deschisă de o cronologie paralelă „istorie generală / istoria publicității”.
+**Jef I. Richards, 2022.** Rowman & Littlefield, Lanham (MD). A professor of advertising (University of Texas, then Michigan State University) with a legal background. An illustrated color book, 465 PDF pages, 17 chapters in three parts, each part opened by a parallel timeline of "general history / advertising history".
 
-> Paginile citate în notele derivate urmează **numerotarea tipărită** a cărții (numărul din antetul paginii), nu markerii PDF; decalajul este de −9 (p. tipărită 196 = `[page 205]` din text).
+> The pages cited in the derived notes follow the book's **printed numbering** (the number in the page header), not the PDF markers; the offset is −9 (printed p. 196 = `[page 205]` in the text).
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un „muzeu portabil al publicității”: istorie pe teme, în ordine aproximativ cronologică, de la semnele de proprietate preistorice și reclamele din Pompei, prin tipar, ziare, agenții și medicamentele-minune ale secolului XIX, până la Revoluția creativă, consolidarea holdingurilor, publicitatea digitală, programatică și pandemia din 2020. Accent neobișnuit pe media și tehnologii (semne, monede, promo, cupoane, sunet, miros, VR) și pe drept (FTC, discurs comercial, autoreglementare).
-- **Teza centrală:** publicitatea, înțeleasă larg ca orice comunicare promoțională, este la fel de veche ca societatea; ea este simultan cauză și consecință a schimbărilor tehnologice, economice și sociale, iar problemele ei de azi (înșelăciune, aglomerare, reglementare, reprezentare) au precedente vechi de secole.
-- **Pentru cine și când:** cursul de istoria și cultura publicității (anul 1); capitolele 10 (oameni și agenții), 11 (știința publicității), 12 (critică, lege, etică) și 16 (publicitate și cultură) sunt utile și strategilor și creativilor din anii 2–3.
-- **Relevanță pentru ADC:** ★★★★☆ (4/5) — foarte documentată (citează surse și demontează mituri repetate de alte istorii), lizibilă, cu perspectivă juridică rară. Limite: centrată aproape exclusiv pe SUA după 1800; tratează oamenii și campaniile pe scurt (autorul o spune explicit); puțină analiză a meseriei creative propriu-zise; cronologiile sunt pline de „premiere” fără ierarhie.
+- **What it is about:** a "portable museum of advertising": a history by theme, in roughly chronological order, from prehistoric ownership marks and the ads of Pompeii, through printing, newspapers, agencies and the patent medicines of the 19th century, to the Creative Revolution, the consolidation of holding companies, digital and programmatic advertising and the 2020 pandemic. An unusual emphasis on media and technologies (signs, coins, promotions, coupons, sound, smell, VR) and on law (FTC, commercial speech, self-regulation).
+- **Central thesis:** advertising, understood broadly as any promotional communication, is as old as society; it is at once a cause and a consequence of technological, economic and social change, and its problems today (deception, clutter, regulation, representation) have precedents centuries old.
+- **For whom and when:** the course on the history and culture of advertising (year 1); chapters 10 (people and agencies), 11 (the science of advertising), 12 (criticism, law, ethics) and 16 (advertising and culture) are also useful to strategists and creatives in years 2–3.
+- **Relevance for ADC:** ★★★★☆ (4/5). Very well documented (it cites its sources and debunks myths repeated by other histories), readable, with a rare legal perspective. Limits: centered almost exclusively on the United States after 1800; it treats people and campaigns briefly (the author says so explicitly); little analysis of the creative craft itself; the timelines are full of "firsts" with no hierarchy.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Definiția publicității; semne de proprietar, sigilii, cartușe, primele înșelăciuni | [[HIS-001-publicitatea-este-orice-comunicare-promotionala-de-aceea\|HIS-001]], [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate\|HIS-002]] |
-| 2 | Vaza „cumpără-mă”, strigătorii, Pompei | [[HIS-001-publicitatea-este-orice-comunicare-promotionala-de-aceea\|HIS-001]], [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost\|HIS-003]] |
-| 3 | Evul Mediu: analfabetism, heraldică, firme, strigători, eșantionare | [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost\|HIS-003]], [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate\|HIS-002]] |
-| 4 | Tiparul, mărcile tipografilor, ziarele, taxele pe reclamă, Franklin, afișe, începuturile PR | [[HIS-004-publicitatea-a-devenit-motorul-financiar-al-presei-si-presa\|HIS-004]], [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul\|ART-024]], [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate\|HIS-002]] |
-| 5 | Reclame din sec. XVII–XVIII; sclavie, „quacks”, loterii, Samuel Johnson | [[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson\|CPY-002]], [[HIS-021-medicamentele-minune-au-inventat-tehnicile-reclamei-moderne\|HIS-021]] |
-| 6 | Revoluția industrială, săpunul, brandurile, legile mărcii, push/pull, presa de un penny | [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate\|HIS-002]], [[HIS-004-publicitatea-a-devenit-motorul-financiar-al-presei-si-presa\|HIS-004]] |
-| 7 | Agențiile, Rowell, primii copywriteri, sloganuri, artă, comisioane, afișe, mail | [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la\|HIS-006]], [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp\|HIS-008]], [[ART-025-arta-plastica-a-intrat-in-reclama-prin-afis-si-prin-bubbles\|ART-025]], [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul\|ART-024]], [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii\|CPY-008]] |
-| 8 | Femei, afro-americani, Barnum, medicamentele-minune, primele lupte anti-fraudă | [[HIS-021-medicamentele-minune-au-inventat-tehnicile-reclamei-moderne\|HIS-021]], [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in\|HIS-022]], [[HIS-029-diversitatea-a-intrat-tarziu-in-publicitate-si-in-agentii\|HIS-029]] |
-| 9 | Războaiele mondiale, mișcarea Truth-in-Advertising, mișcarea consumatorilor, declinul ziarelor | [[HIS-019-razboaiele-mondiale-au-transformat-publicitatea-dintr-un\|HIS-019]], [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in\|HIS-022]], [[HIS-004-publicitatea-a-devenit-motorul-financiar-al-presei-si-presa\|HIS-004]] |
-| 10 | Educație, „who’s who” (Lasker, Hopkins, Ogilvy, Reeves, Bernbach, Lois, Wells…), stiluri de copy, Revoluția creativă, holdinguri, compensare, premii | [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp\|HIS-008]], [[HIS-013-revolutia-creativa-din-1959-a-pus-copywriterul-si-art\|HIS-013]], [[HIS-009-publicitatea-este-stiinta-sau-arta-dezbaterea-care-a\|HIS-009]], [[HIS-011-david-ogilvy-cercetare-fapte-fara-adjective-si-o-imagine\|HIS-011]], [[HIS-012-leo-burnett-drama-inerenta-a-produsului-si-personajele-care\|HIS-012]], [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la\|HIS-006]], [[HIS-007-premiile-publicitatii-au-doua-filozofii-estetica-adc-cannes\|HIS-007]], [[IDE-003-big-idea-conceptul-care-face-o-reclama-diferita-de-ale\|IDE-003]], [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa\|CPY-032]] |
-| 11 | Psihologia în publicitate, AIDA, subliminal, cercetare, account planning, big data, AI, intimitate | [[HIS-010-aida-a-fost-inventata-de-copywriteri-nu-de-psihologi\|HIS-010]], [[HIS-026-publicitatea-subliminala-este-un-mit-care-rezista-dovezilor\|HIS-026]], [[HIS-014-planificarea-strategica-account-planning-a-mutat-cercetarea\|HIS-014]], [[HIS-009-publicitatea-este-stiinta-sau-arta-dezbaterea-care-a\|HIS-009]] |
-| 12 | Discurs comercial, FTC, alimente și medicamente, tutun, alcool, panouri, autoreglementare, etică | [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie\|HIS-023]], [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in\|HIS-022]], [[HIS-028-tutunul-a-fost-frontul-pe-care-publicitatea-si-a-testat\|HIS-028]], [[HIS-027-shockvertising-atentia-castigata-prin-scandal-are-un-pret\|HIS-027]], [[HIS-024-demonstratia-trebuie-sa-fie-reala-xerox-cu-cimpanzeul-vs\|HIS-024]] |
-| 13 | Panouri, Burma-Shave, benzi desenate, endorsement, personaje de brand, cupoane | [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si\|CPY-026]], [[HIS-018-personajele-inventate-nu-gresesc-niciodata-celebritatile-da\|HIS-018]] |
-| 14 | Radio, TV, payola, Super Bowl, sensorial, activări, ambalaj, direct mail, product placement, native, jingle | [[HIS-025-reclama-deghizata-in-continut-e-veche-de-peste-un-secol\|HIS-025]], [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii\|CPY-008]] |
-| 15 | Internet, bloguri, social media, programatic, cookie-uri, spam | (context pentru [[HIS-025-reclama-deghizata-in-continut-e-veche-de-peste-un-secol\|HIS-025]]; acoperit de alte grupuri) |
-| 16 | Sloganuri, reclamă politică, copii, afro-americani, latino, LGBTQ+, femei, UGC, Anguilla | [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii\|CPY-008]], [[HIS-020-reclama-politica-a-invatat-de-la-cea-comerciala-de-la\|HIS-020]], [[HIS-029-diversitatea-a-intrat-tarziu-in-publicitate-si-in-agentii\|HIS-029]] |
-| 17 | 2020: pandemia, observațiile lui Keith Reinhard | [[HIS-029-diversitatea-a-intrat-tarziu-in-publicitate-si-in-agentii\|HIS-029]], [[IDE-003-big-idea-conceptul-care-face-o-reclama-diferita-de-ale\|IDE-003]] |
+| 1 | Advertising Archaeology: Where to Begin? The definition of advertising; owners' marks, seals, cartouches, the first deceptions | [[HIS-001-advertising-is-any-promotional-communication-which-is-why\|HIS-001]], [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality\|HIS-002]] |
+| 2 | From Late BCE to Early CE: the "Buy me" vase, criers, Pompeii | [[HIS-001-advertising-is-any-promotional-communication-which-is-why\|HIS-001]], [[HIS-003-as-long-as-people-could-not-read-advertising-was-image\|HIS-003]] |
+| 3 | The Dark Ages of Advertising: illiteracy, heraldry, signs, criers, sampling | [[HIS-003-as-long-as-people-could-not-read-advertising-was-image\|HIS-003]], [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality\|HIS-002]] |
+| 4 | Emerging from the Dark: printing, printers' marks, newspapers, advertising taxes, Franklin, posters, the beginnings of PR | [[HIS-004-advertising-became-the-financial-engine-of-the-press-and\|HIS-004]], [[ART-024-the-advertising-layout-was-invented-under-constraints\|ART-024]], [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality\|HIS-002]] |
+| 5 | Some Seventeenth- and Eighteenth-Century Advertisements: slavery, "quacks", lotteries, Samuel Johnson | [[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson\|CPY-002]], [[HIS-021-miracle-cures-invented-the-techniques-of-modern-advertising\|HIS-021]] |
+| 6 | The Result of Revolutions: the Industrial Revolution, soap, brands, trademark laws, push/pull, the penny press | [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality\|HIS-002]], [[HIS-004-advertising-became-the-financial-engine-of-the-press-and\|HIS-004]] |
+| 7 | Nineteenth-Century Methods and Media: agencies, Rowell, the first copywriters, slogans, art, commissions, posters, mail | [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space\|HIS-006]], [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big\|HIS-008]], [[ART-025-fine-art-entered-advertising-through-the-poster-and-through\|ART-025]], [[ART-024-the-advertising-layout-was-invented-under-constraints\|ART-024]], [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts\|CPY-008]] |
+| 8 | Appeals and Social Implications via Nineteenth-Century Advertising: women, African Americans, Barnum, patent medicines, the first fights against fraud | [[HIS-021-miracle-cures-invented-the-techniques-of-modern-advertising\|HIS-021]], [[HIS-022-advertising-self-regulation-started-with-publishers-not\|HIS-022]], [[HIS-029-diversity-came-late-to-advertising-both-in-the-agencies-and\|HIS-029]] |
+| 9 | The Twentieth-Century Advertising Explosion and Beyond: the world wars, the Truth-in-Advertising movement, the consumer movement, the decline of newspapers | [[HIS-019-the-world-wars-turned-advertising-from-a-tool-of-commerce\|HIS-019]], [[HIS-022-advertising-self-regulation-started-with-publishers-not\|HIS-022]], [[HIS-004-advertising-became-the-financial-engine-of-the-press-and\|HIS-004]] |
+| 10 | Industry People, Agencies, and Changes: education, a "who's who" (Lasker, Hopkins, Ogilvy, Reeves, Bernbach, Lois, Wells…), copy styles, the Creative Revolution, holding companies, compensation, awards | [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big\|HIS-008]], [[HIS-013-the-creative-revolution-of-1959-put-the-copywriter-and-the\|HIS-013]], [[HIS-009-is-advertising-a-science-or-an-art-the-debate-that-divided\|HIS-009]], [[HIS-011-david-ogilvy-research-facts-without-adjectives-and-a\|HIS-011]], [[HIS-012-leo-burnett-the-inherent-drama-of-the-product-and-the\|HIS-012]], [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space\|HIS-006]], [[HIS-007-advertising-awards-follow-two-philosophies-aesthetics-adc\|HIS-007]], [[IDE-003-the-big-idea-the-concept-that-makes-an-ad-different-from\|IDE-003]], [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the\|CPY-032]] |
+| 11 | The Science of Advertising: psychology in advertising, AIDA, subliminal advertising, research, account planning, big data, AI, privacy | [[HIS-010-aida-was-invented-by-copywriters-not-psychologists-the\|HIS-010]], [[HIS-026-subliminal-advertising-is-a-myth-that-survives-the-evidence\|HIS-026]], [[HIS-014-account-planning-moved-research-from-answers-to-questions\|HIS-014]], [[HIS-009-is-advertising-a-science-or-an-art-the-debate-that-divided\|HIS-009]] |
+| 12 | Criticism, Law, and Policy: commercial speech, the FTC, food and drugs, tobacco, alcohol, billboards, self-regulation, ethics | [[HIS-023-the-american-standard-for-deception-a-claim-must-be\|HIS-023]], [[HIS-022-advertising-self-regulation-started-with-publishers-not\|HIS-022]], [[HIS-028-tobacco-was-the-front-on-which-advertising-tested-its-power\|HIS-028]], [[HIS-027-shockvertising-attention-won-through-scandal-has-a-price\|HIS-027]], [[HIS-024-the-demonstration-must-be-real-xerox-with-the-chimpanzee\|HIS-024]] |
+| 13 | Improving on the Old: billboards, Burma-Shave, comics, endorsements, brand characters, coupons | [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading\|CPY-026]], [[HIS-018-invented-characters-never-misbehave-celebrities-do\|HIS-018]] |
+| 14 | Newest Media and Methods: radio, TV, payola, the Super Bowl, sensory advertising, activations, packaging, direct mail, product placement, native, jingles | [[HIS-025-advertising-disguised-as-content-is-more-than-a-century-old\|HIS-025]], [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts\|CPY-008]] |
+| 15 | Living in a Virtual World: the internet, blogs, social media, programmatic, cookies, spam | (context for [[HIS-025-advertising-disguised-as-content-is-more-than-a-century-old\|HIS-025]]; covered by other groups) |
+| 16 | Ads and Culture: slogans, political advertising, children, African Americans, Latinos, LGBTQ+, women, UGC, Anguilla | [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts\|CPY-008]], [[HIS-020-political-advertising-learned-from-commercial-advertising\|HIS-020]], [[HIS-029-diversity-came-late-to-advertising-both-in-the-agencies-and\|HIS-029]] |
+| 17 | 2020 and Beyond: the pandemic, Keith Reinhard's observations | [[HIS-029-diversity-came-late-to-advertising-both-in-the-agencies-and\|HIS-029]], [[IDE-003-the-big-idea-the-concept-that-makes-an-ad-different-from\|IDE-003]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[HIS-001-publicitatea-este-orice-comunicare-promotionala-de-aceea|HIS-001]] — Definiția largă („comunicare promoțională”) și de ce istoria ei începe înainte de tipar; demontarea miturilor (papirusul lui Shem).
-- [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate|HIS-002]] — Brandul ca garanție de origine și calitate: de la semnul olarului la legile mărcii și ambalajul lui Babbitt.
-- [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost|HIS-003]] — Alfabetizarea a decis forma reclamei: imagine, emblemă și voce pentru cei care nu citeau.
-- [[HIS-004-publicitatea-a-devenit-motorul-financiar-al-presei-si-presa|HIS-004]] — Căsătoria presei cu publicitatea: reclama a finanțat ziarele, iar taxele pe reclamă au frânat presa britanică.
-- [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]] — Felul în care e plătită agenția îi decide loialitatea (Tayler, Palmer, contractul deschis Ayer, comisionul de 15%, onorariul Ogilvy, holdingurile).
-- [[HIS-021-medicamentele-minune-au-inventat-tehnicile-reclamei-moderne|HIS-021]] — Medicamentele-minune: cei mai inovatori și mai toxici advertiseri ai secolului XIX; cazul Carbolic Smoke Ball.
-- [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in|HIS-022]] — Autoreglementarea a pornit de la editori (Farm Journal, Ladies’ Home Journal, Codul Curtis) și a ajuns la BBB și NARB.
-- [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie|HIS-023]] — Standardul FTC: înșelăciune „materială”, substanțiere înaintea afirmației, publicitate corectivă; testul Central Hudson.
-- [[HIS-019-razboaiele-mondiale-au-transformat-publicitatea-dintr-un|HIS-019]] — Publicitatea de război (CPI, Uncle Sam, War Advertising Council → Ad Council).
-- [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp|HIS-008]] — Genealogia stilurilor de copy: Powers → Kennedy → MacManus → Reeves → Ogilvy/Burnett/Bernbach.
-- [[HIS-013-revolutia-creativa-din-1959-a-pus-copywriterul-si-art|HIS-013]] — Revoluția creativă: perechea copywriter–art director (Bernbach, Lois, Wells).
-- [[HIS-009-publicitatea-este-stiinta-sau-arta-dezbaterea-care-a|HIS-009]] — Dezbaterea știință vs. artă (Hopkins, Resor, Caples, Gallup vs. MacManus, Bernbach, Lois, Weir).
-- [[HIS-011-david-ogilvy-cercetare-fapte-fara-adjective-si-o-imagine|HIS-011]], [[HIS-012-leo-burnett-drama-inerenta-a-produsului-si-personajele-care|HIS-012]] — Ogilvy și Burnett ca figuri-cheie.
-- [[HIS-010-aida-a-fost-inventata-de-copywriteri-nu-de-psihologi|HIS-010]] — AIDA și modelele de efect au fost inventate de practicieni (St. Elmo Lewis).
-- [[HIS-014-planificarea-strategica-account-planning-a-mutat-cercetarea|HIS-014]] — Nașterea account planning-ului (Pollitt, King, BMP, Chiat/Day).
-- [[HIS-026-publicitatea-subliminala-este-un-mit-care-rezista-dovezilor|HIS-026]] — Mitul subliminal (Vicary, Key, Dixon).
-- [[HIS-027-shockvertising-atentia-castigata-prin-scandal-are-un-pret|HIS-027]] — Shockvertising (Toscani/Benetton, Beattie/FCUK).
-- [[HIS-007-premiile-publicitatii-au-doua-filozofii-estetica-adc-cannes|HIS-007]] — Premiile: estetică (ADC 1921) vs. eficiență (Effie 1968).
-- [[HIS-025-reclama-deghizata-in-continut-e-veche-de-peste-un-secol|HIS-025]] — Reclama deghizată în conținut: advertorial, product placement, infomercial, native.
-- [[HIS-018-personajele-inventate-nu-gresesc-niciodata-celebritatile-da|HIS-018]] — Personaje inventate vs. celebrități (O. J. Simpson, Tiger Woods, Jared Fogle).
-- [[HIS-020-reclama-politica-a-invatat-de-la-cea-comerciala-de-la|HIS-020]] — Reclama politică: Reeves pentru Eisenhower, „Daisy”, „Morning in America”, Fairey, Cambridge Analytica.
-- [[HIS-029-diversitatea-a-intrat-tarziu-in-publicitate-si-in-agentii|HIS-029]] — Diversitatea: femeile din agenții, stereotipurile rasiale și etnice, piața LGBTQ+, Dove și #LikeAGirl.
-- [[HIS-028-tutunul-a-fost-frontul-pe-care-publicitatea-si-a-testat|HIS-028]] — Tutunul ca front al limitelor publicității.
-- [[HIS-024-demonstratia-trebuie-sa-fie-reala-xerox-cu-cimpanzeul-vs|HIS-024]] — Demonstrații reale vs. trucate (Xerox, Volvo).
-- [[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson|CPY-002]] — Samuel Johnson (1759): promisiunea ca suflet al reclamei; aglomerarea nu e nouă.
-- [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii|CPY-008]], [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si|CPY-026]], [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa|CPY-032]], [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul|ART-024]], [[ART-025-arta-plastica-a-intrat-in-reclama-prin-afis-si-prin-bubbles|ART-025]], [[IDE-003-big-idea-conceptul-care-face-o-reclama-diferita-de-ale|IDE-003]] — sloganuri și jingle-uri, Burma-Shave, umorul, constrângerile de layout, arta plastică în reclamă, Big Idea.
+- [[HIS-001-advertising-is-any-promotional-communication-which-is-why|HIS-001]]: the broad definition ("promotional communication") and why its history begins before printing; myths debunked (the papyrus of Shem).
+- [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality|HIS-002]]: the brand as a guarantee of origin and quality: from the potter's mark to trademark laws and Babbitt's packaging.
+- [[HIS-003-as-long-as-people-could-not-read-advertising-was-image|HIS-003]]: literacy decided the form of the ad: image, emblem and voice for those who could not read.
+- [[HIS-004-advertising-became-the-financial-engine-of-the-press-and|HIS-004]]: the marriage of the press and advertising: ads financed newspapers, and advertising taxes held back the British press.
+- [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]]: the way the agency is paid decides its loyalty (Tayler, Palmer, Ayer's open contract, the 15% commission, Ogilvy's fee, the holding companies).
+- [[HIS-021-miracle-cures-invented-the-techniques-of-modern-advertising|HIS-021]]: patent medicines: the most innovative and most toxic advertisers of the 19th century; the Carbolic Smoke Ball case.
+- [[HIS-022-advertising-self-regulation-started-with-publishers-not|HIS-022]]: self-regulation started with publishers (Farm Journal, Ladies' Home Journal, the Curtis Advertising Code) and led to the BBB and NARB.
+- [[HIS-023-the-american-standard-for-deception-a-claim-must-be|HIS-023]]: the FTC standard: "material" deception, substantiation before the claim, corrective advertising; the Central Hudson test.
+- [[HIS-019-the-world-wars-turned-advertising-from-a-tool-of-commerce|HIS-019]]: wartime advertising (CPI, Uncle Sam, War Advertising Council → Ad Council).
+- [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big|HIS-008]]: the genealogy of copy styles: Powers → Kennedy → MacManus → Reeves → Ogilvy/Burnett/Bernbach.
+- [[HIS-013-the-creative-revolution-of-1959-put-the-copywriter-and-the|HIS-013]]: the Creative Revolution: the copywriter–art director pair (Bernbach, Lois, Wells).
+- [[HIS-009-is-advertising-a-science-or-an-art-the-debate-that-divided|HIS-009]]: the science vs. art debate (Hopkins, Resor, Caples, Gallup vs. MacManus, Bernbach, Lois, Weir).
+- [[HIS-011-david-ogilvy-research-facts-without-adjectives-and-a|HIS-011]], [[HIS-012-leo-burnett-the-inherent-drama-of-the-product-and-the|HIS-012]]: Ogilvy and Burnett as key figures.
+- [[HIS-010-aida-was-invented-by-copywriters-not-psychologists-the|HIS-010]]: AIDA and the effect models were invented by practitioners (St. Elmo Lewis).
+- [[HIS-014-account-planning-moved-research-from-answers-to-questions|HIS-014]]: the birth of account planning (Pollitt, King, BMP, Chiat/Day).
+- [[HIS-026-subliminal-advertising-is-a-myth-that-survives-the-evidence|HIS-026]]: the subliminal myth (Vicary, Key, Dixon).
+- [[HIS-027-shockvertising-attention-won-through-scandal-has-a-price|HIS-027]]: shockvertising (Toscani/Benetton, Beattie/FCUK).
+- [[HIS-007-advertising-awards-follow-two-philosophies-aesthetics-adc|HIS-007]]: awards: aesthetics (ADC 1921) vs. effectiveness (Effie 1968).
+- [[HIS-025-advertising-disguised-as-content-is-more-than-a-century-old|HIS-025]]: advertising disguised as content: advertorial, product placement, infomercial, native.
+- [[HIS-018-invented-characters-never-misbehave-celebrities-do|HIS-018]]: invented characters vs. celebrities (O. J. Simpson, Tiger Woods, Jared Fogle).
+- [[HIS-020-political-advertising-learned-from-commercial-advertising|HIS-020]]: political advertising: Reeves for Eisenhower, "Daisy", "Morning in America", Fairey, Cambridge Analytica.
+- [[HIS-029-diversity-came-late-to-advertising-both-in-the-agencies-and|HIS-029]]: diversity: women in agencies, racial and ethnic stereotypes, the LGBTQ+ market, Dove and #LikeAGirl.
+- [[HIS-028-tobacco-was-the-front-on-which-advertising-tested-its-power|HIS-028]]: tobacco as the front line of advertising's limits.
+- [[HIS-024-the-demonstration-must-be-real-xerox-with-the-chimpanzee|HIS-024]]: real vs. faked demonstrations (Xerox, Volvo).
+- [[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson|CPY-002]]: Samuel Johnson (1759): the promise as the soul of the ad; clutter is not new.
+- [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts|CPY-008]], [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading|CPY-026]], [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the|CPY-032]], [[ART-024-the-advertising-layout-was-invented-under-constraints|ART-024]], [[ART-025-fine-art-entered-advertising-through-the-poster-and-through|ART-025]], [[IDE-003-the-big-idea-the-concept-that-makes-an-ad-different-from|IDE-003]]: slogans and jingles, Burma-Shave, humor, layout constraints, fine art in advertising, the Big Idea.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Perspectivă aproape exclusiv americană după 1800; Europa apare episodic (Marea Britanie, Franța), România doar ca „premieră” (primul ziar, 1829; prima agenție, David Adania, 1880).
-- Autorul declară că sacrifică oamenii și campaniile în favoarea mediilor și tehnologiilor: figurile mari primesc câte un paragraf, fără analiza muncii creative. Pentru meserie, combinați cu [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]].
-- Multe „premiere” (primul jingle, primul banner, primul spam) sunt fapte de almanah, utile ca exemple, dar fără ierarhie de importanță.
-- Partea juridică e solidă, dar strict americană (Primul Amendament, FTC); pentru România trebuie completată cu legislația UE și codul RAC.
-- Tonul glumeț și cronologiile lungi fac unele capitole (14, 15) mai mult inventar decât argument.
+- An almost exclusively American perspective after 1800; Europe appears now and then (Britain, France), Romania only as a "first" (the first newspaper, 1829; the first agency, David Adania, 1880).
+- The author says he sacrifices people and campaigns in favor of media and technologies: the great figures get a paragraph each, with no analysis of the creative work. For the craft, combine it with [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]].
+- Many "firsts" (the first jingle, the first banner, the first spam) are almanac facts, useful as examples but with no ranking of importance.
+- The legal part is solid but strictly American (the First Amendment, the FTC); for Romania it has to be supplemented with EU legislation and the RAC code.
+- The jokey tone and the long timelines make some chapters (14, 15) more inventory than argument.
 
-## Citat
+## Quote
 
-> „Promise, large promise, is the soul of an advertisement.” — Samuel Johnson, citat la p. 95
+> "Promise, large promise, is the soul of an advertisement." (Samuel Johnson, quoted on p. 95)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ART-007-o-singura-imagine-dominanta-poate-spune-povestea-daca|ART-007]] — O singură imagine dominantă poate spune povestea — dacă textul o susține, nu o repetă
-- [[ART-024-layoutul-de-reclama-s-a-inventat-sub-constrangeri-spatiul|ART-024]] — Layoutul de reclamă s-a inventat sub constrângeri — spațiul alb al lui Franklin și „epoca repetiției"
-- [[ART-025-arta-plastica-a-intrat-in-reclama-prin-afis-si-prin-bubbles|ART-025]] — Arta plastică a intrat în reclamă prin afiș și prin „Bubbles" — începutul reclamei de imagine
-- [[ART-026-marlboro-repozitionarea-unui-brand-feminin-printr-o-singura|ART-026]] — Marlboro — repoziționarea unui brand feminin printr-o singură imagine masculină
-- [[CLI-014-agentia-vinde-timpul-oamenilor-ei-brief-ul-neclar-ii|CLI-014]] — Agenția vinde timpul oamenilor ei — brief-ul neclar îi consumă marja, iar remunerarea modernă leagă bonusul de obiective de comunicare
-- [[CLI-015-clientul-isi-organizeaza-creatia-in-casa-cu-o-agentie|CLI-015]] — Clientul își organizează creația în casă, cu o agenție parteneră sau cu un roster de agenții — iar criteriul corect e eficacitatea muncii, nu costul
-- [[CLI-016-industria-agentiilor-s-a-polarizat-in-holding-uri-globale|CLI-016]] — Industria agențiilor s-a polarizat în holding-uri globale și boutique-uri, iar conflictul de cont limitează cine poate lucra pentru cine
-- [[CPY-002-promisiunea-este-sufletul-reclamei-de-la-samuel-johnson|CPY-002]] — Promisiunea este sufletul reclamei — de la Samuel Johnson (1759) la titlurile mail-order
-- [[CPY-003-reason-why-reclama-ca-vanzare-tiparita-care-da-motive|CPY-003]] — Reason-why — reclama ca „vânzare tipărită" care dă motive concrete și verificabile de cumpărare
-- [[CPY-004-reclama-de-imagine-vinde-un-sentiment-nu-o-fisa-tehnica|CPY-004]] — Reclama de imagine vinde un sentiment, nu o fișă tehnică
-- [[CPY-007-cele-mai-bune-titluri-sunt-adesea-gasite-nu-inventate|CPY-007]] — Cele mai bune titluri sunt adesea găsite, nu inventate — ascultă clientul și strada
-- [[CPY-008-sloganul-bun-e-repetabil-diferentiator-si-rezista-decenii|CPY-008]] — Sloganul bun e repetabil, diferențiator și rezistă decenii — iar jingle-ul îl face să se cânte
-- [[CPY-018-text-lung-sau-text-scurt-lungimea-depinde-de-interes-nu-de|CPY-018]] — Text lung sau text scurt? Lungimea depinde de interes, nu de o regulă
-- [[CPY-025-scoala-mail-order-cuponul-a-transformat-copywritingul-intr|CPY-025]] — Școala mail-order — cuponul a transformat copywritingul într-un experiment măsurabil
-- [[CPY-026-burma-shave-copy-serial-care-controleaza-ritmul-lecturii-si|CPY-026]] — Burma-Shave — copy serial care controlează ritmul lecturii și transformă drumul în joc
-- [[CPY-032-umorul-in-reclama-de-la-cleverness-interzis-la-recompensa|CPY-032]] — Umorul în reclamă — de la „cleverness" interzis la recompensa care cumpără atenția
-- [[CPY-037-challengerul-castiga-schimband-jocul-comparatie-sportiva|CPY-037]] — Challengerul câștigă schimbând jocul — comparație sportivă, autoironie și refuzul superlativelor
-- [[HIS-001-publicitatea-este-orice-comunicare-promotionala-de-aceea|HIS-001]] — Publicitatea este orice comunicare promoțională — de aceea istoria ei începe cu mult înainte de tipar
-- [[HIS-002-brandul-s-a-nascut-ca-garantie-de-origine-si-calitate|HIS-002]] — Brandul s-a născut ca garanție de origine și calitate, atunci când producătorul s-a îndepărtat de cumpărător
-- [[HIS-003-cat-timp-oamenii-nu-stiau-sa-citeasca-reclama-a-fost|HIS-003]] — Cât timp oamenii nu știau să citească, reclama a fost imagine, simbol și voce
-- [[HIS-004-publicitatea-a-devenit-motorul-financiar-al-presei-si-presa|HIS-004]] — Publicitatea a devenit motorul financiar al presei — și presa a devenit a doua „stăpână" a reclamei
-- [[HIS-005-fiecare-mediu-nou-refuza-intai-reclama-apoi-traieste-din-ea|HIS-005]] — Fiecare mediu nou refuză întâi reclama, apoi trăiește din ea, până când aglomerația naște tehnologia de evitare — radio, TV, internet
-- [[HIS-006-felul-in-care-e-platita-agentia-ii-decide-loialitatea-de-la|HIS-006]] — Felul în care e plătită agenția îi decide loialitatea — de la broker de spațiu la partener plătit pe onorariu
-- [[HIS-007-premiile-publicitatii-au-doua-filozofii-estetica-adc-cannes|HIS-007]] — Premiile publicității au două filozofii — estetica (ADC, Cannes, One Show) și eficiența (Effie)
-- [[HIS-008-genealogia-stilurilor-de-copy-stire-reason-why-imagine-usp|HIS-008]] — Genealogia stilurilor de copy — știre, reason-why, imagine, USP, Big Idea
-- [[HIS-009-publicitatea-este-stiinta-sau-arta-dezbaterea-care-a|HIS-009]] — Publicitatea este știință sau artă? — dezbaterea care a împărțit secolul XX
-- [[HIS-010-aida-a-fost-inventata-de-copywriteri-nu-de-psihologi|HIS-010]] — AIDA a fost inventată de copywriteri, nu de psihologi — genealogia modelelor de efect
-- [[HIS-011-david-ogilvy-cercetare-fapte-fara-adjective-si-o-imagine|HIS-011]] — David Ogilvy — cercetare, fapte fără adjective și o imagine care pune o întrebare
-- [[HIS-012-leo-burnett-drama-inerenta-a-produsului-si-personajele-care|HIS-012]] — Leo Burnett — drama inerentă a produsului și personajele care o poartă
-- [[HIS-013-revolutia-creativa-din-1959-a-pus-copywriterul-si-art|HIS-013]] — Revoluția creativă din 1959 a pus copywriterul și art directorul în aceeași cameră
-- [[HIS-014-planificarea-strategica-account-planning-a-mutat-cercetarea|HIS-014]] — Planificarea strategică (account planning) a mutat cercetarea de la răspunsuri la întrebări
-- [[HIS-016-marile-campanii-au-inventat-ocazii-de-consum-coca-cola|HIS-016]] — Marile campanii au inventat ocazii de consum — Coca-Cola, pauza de cafea, inelul cu diamant
-- [[HIS-018-personajele-inventate-nu-gresesc-niciodata-celebritatile-da|HIS-018]] — Personajele inventate nu greșesc niciodată; celebritățile da
-- [[HIS-019-razboaiele-mondiale-au-transformat-publicitatea-dintr-un|HIS-019]] — Războaiele mondiale au transformat publicitatea dintr-un instrument de comerț într-o armă de opinie publică
-- [[HIS-020-reclama-politica-a-invatat-de-la-cea-comerciala-de-la|HIS-020]] — Reclama politică a învățat de la cea comercială — de la spoturile lui Eisenhower la „Daisy"
-- [[HIS-021-medicamentele-minune-au-inventat-tehnicile-reclamei-moderne|HIS-021]] — Medicamentele-minune au inventat tehnicile reclamei moderne și i-au distrus reputația pentru un secol
-- [[HIS-022-autoreglementarea-publicitatii-a-inceput-la-editori-nu-in|HIS-022]] — Autoreglementarea publicității a început la editori, nu în agenții
-- [[HIS-023-standardul-american-al-inselaciunii-afirmatia-trebuie|HIS-023]] — Standardul american al înșelăciunii — afirmația trebuie dovedită înainte să fie publicată
-- [[HIS-024-demonstratia-trebuie-sa-fie-reala-xerox-cu-cimpanzeul-vs|HIS-024]] — Demonstrația trebuie să fie reală — Xerox cu cimpanzeul vs. Volvo și camionul-monstru
-- [[HIS-025-reclama-deghizata-in-continut-e-veche-de-peste-un-secol|HIS-025]] — Reclama deghizată în conținut e veche de peste un secol — advertorial, plasare, infomercial, native
-- [[HIS-026-publicitatea-subliminala-este-un-mit-care-rezista-dovezilor|HIS-026]] — Publicitatea subliminală este un mit care rezistă dovezilor
-- [[HIS-027-shockvertising-atentia-castigata-prin-scandal-are-un-pret|HIS-027]] — Shockvertising — atenția câștigată prin scandal are un preț pe care îl plătește brandul
-- [[HIS-028-tutunul-a-fost-frontul-pe-care-publicitatea-si-a-testat|HIS-028]] — Tutunul a fost frontul pe care publicitatea și-a testat puterea și limitele
-- [[HIS-029-diversitatea-a-intrat-tarziu-in-publicitate-si-in-agentii|HIS-029]] — Diversitatea a intrat târziu în publicitate — și în agenții, și în imaginea din reclame
-- [[IDE-003-big-idea-conceptul-care-face-o-reclama-diferita-de-ale|IDE-003]] — Big Idea — conceptul care face o reclamă diferită de ale concurenților îmbină strategia cu surpriza
-- [[IDE-010-brainstormingul-lui-osborn-are-patru-reguli-cantitate|IDE-010]] — Brainstormingul lui Osborn are patru reguli — cantitate, judecată amânată, idei sălbatice, combinare — și cere ca generarea să fie separată de evaluare
-- [[IDE-024-ideea-se-naste-in-solitudine-in-pereche-sau-in-sedinta|IDE-024]] — Ideea se naște în solitudine, în pereche sau în ședință? Clasicii nu sunt de acord
-- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]] — The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
+- [[ART-007-a-single-dominant-image-can-tell-the-story-if-the-copy|ART-007]]: A single dominant image can tell the story, if the copy supports it rather than repeats it
+- [[ART-024-the-advertising-layout-was-invented-under-constraints|ART-024]]: The advertising layout was invented under constraints: Franklin's white space and the Age of Repetition
+- [[ART-025-fine-art-entered-advertising-through-the-poster-and-through|ART-025]]: Fine art entered advertising through the poster and through "Bubbles": the beginning of the image ad
+- [[ART-026-marlboro-repositioning-a-feminine-brand-through-a-single|ART-026]]: Marlboro: repositioning a feminine brand through a single masculine image
+- [[CLI-014-the-agency-sells-its-people-s-time-an-unclear-brief-eats|CLI-014]]: The agency sells its people's time: an unclear brief eats its margin, and modern compensation ties the bonus to communication objectives
+- [[CLI-015-the-client-organizes-its-creative-work-in-house-with-an|CLI-015]]: The client organizes its creative work in-house, with an agency of choice or with a roster of agencies, and the right criterion is the effectiveness of the work, not the cost
+- [[CLI-016-the-agency-industry-has-polarized-into-global-holding|CLI-016]]: The agency industry has polarized into global holding companies and boutiques, and account conflicts limit who can work for whom
+- [[CPY-002-promise-is-the-soul-of-an-advertisement-from-samuel-johnson|CPY-002]]: Promise is the soul of an advertisement: from Samuel Johnson (1759) to mail-order headlines
+- [[CPY-003-reason-why-the-ad-as-salesmanship-in-print-that-gives|CPY-003]]: Reason-why: the ad as "salesmanship in print" that gives concrete, verifiable reasons to buy
+- [[CPY-004-image-advertising-sells-a-feeling-not-a-spec-sheet|CPY-004]]: Image advertising sells a feeling, not a spec sheet
+- [[CPY-007-the-best-headlines-are-often-found-not-invented-listen-to|CPY-007]]: The best headlines are often found, not invented: listen to the client and the street
+- [[CPY-008-a-good-slogan-is-repeatable-sets-the-brand-apart-and-lasts|CPY-008]]: A good slogan is repeatable, sets the brand apart and lasts for decades; the jingle gets it sung
+- [[CPY-018-long-copy-or-short-copy-length-depends-on-interest-not-on-a|CPY-018]]: Long copy or short copy? Length depends on interest, not on a rule
+- [[CPY-025-the-mail-order-school-the-coupon-turned-copywriting-into-a|CPY-025]]: The mail-order school: the coupon turned copywriting into a measurable experiment
+- [[CPY-026-burma-shave-serial-copy-that-controls-the-pace-of-reading|CPY-026]]: Burma-Shave: serial copy that controls the pace of reading and turns the road into a game
+- [[CPY-032-humor-in-advertising-from-forbidden-cleverness-to-the|CPY-032]]: Humor in advertising: from forbidden "cleverness" to the reward that buys attention
+- [[CPY-037-the-challenger-wins-by-changing-the-game-a-sporting|CPY-037]]: The challenger wins by changing the game: a sporting comparison, self-irony and a refusal of superlatives
+- [[HIS-001-advertising-is-any-promotional-communication-which-is-why|HIS-001]]: Advertising is any promotional communication, which is why its history starts long before print
+- [[HIS-002-the-brand-was-born-as-a-guarantee-of-origin-and-quality|HIS-002]]: The brand was born as a guarantee of origin and quality, when the maker moved away from the buyer
+- [[HIS-003-as-long-as-people-could-not-read-advertising-was-image|HIS-003]]: As long as people could not read, advertising was image, symbol and voice
+- [[HIS-004-advertising-became-the-financial-engine-of-the-press-and|HIS-004]]: Advertising became the financial engine of the press, and the press became advertising's second master
+- [[HIS-005-every-new-medium-first-refuses-advertising-then-lives-on-it|HIS-005]]: Every new medium first refuses advertising, then lives on it, until the clutter breeds the technology to avoid it: radio, TV, internet
+- [[HIS-006-the-way-an-agency-is-paid-decides-its-loyalty-from-space|HIS-006]]: The way an agency is paid decides its loyalty: from space broker to fee-paid partner
+- [[HIS-007-advertising-awards-follow-two-philosophies-aesthetics-adc|HIS-007]]: Advertising awards follow two philosophies: aesthetics (ADC, Cannes, One Show) and effectiveness (Effie)
+- [[HIS-008-the-genealogy-of-copy-styles-news-reason-why-image-usp-big|HIS-008]]: The genealogy of copy styles: news, reason-why, image, USP, Big Idea
+- [[HIS-009-is-advertising-a-science-or-an-art-the-debate-that-divided|HIS-009]]: Is advertising a science or an art? The debate that divided the 20th century
+- [[HIS-010-aida-was-invented-by-copywriters-not-psychologists-the|HIS-010]]: AIDA was invented by copywriters, not psychologists: the genealogy of effect models
+- [[HIS-011-david-ogilvy-research-facts-without-adjectives-and-a|HIS-011]]: David Ogilvy: research, facts without adjectives and a picture that asks a question
+- [[HIS-012-leo-burnett-the-inherent-drama-of-the-product-and-the|HIS-012]]: Leo Burnett: the inherent drama of the product and the characters that carry it
+- [[HIS-013-the-creative-revolution-of-1959-put-the-copywriter-and-the|HIS-013]]: The Creative Revolution of 1959 put the copywriter and the art director in the same room
+- [[HIS-014-account-planning-moved-research-from-answers-to-questions|HIS-014]]: Account planning moved research from answers to questions
+- [[HIS-016-great-campaigns-invented-consumption-occasions-coca-cola|HIS-016]]: Great campaigns invented consumption occasions: Coca-Cola, the coffee break, the diamond ring
+- [[HIS-018-invented-characters-never-misbehave-celebrities-do|HIS-018]]: Invented characters never misbehave; celebrities do
+- [[HIS-019-the-world-wars-turned-advertising-from-a-tool-of-commerce|HIS-019]]: The world wars turned advertising from a tool of commerce into a weapon of public opinion
+- [[HIS-020-political-advertising-learned-from-commercial-advertising|HIS-020]]: Political advertising learned from commercial advertising: from the Eisenhower spots to "Daisy"
+- [[HIS-021-miracle-cures-invented-the-techniques-of-modern-advertising|HIS-021]]: Miracle cures invented the techniques of modern advertising and ruined its reputation for a century
+- [[HIS-022-advertising-self-regulation-started-with-publishers-not|HIS-022]]: Advertising self-regulation started with publishers, not with agencies
+- [[HIS-023-the-american-standard-for-deception-a-claim-must-be|HIS-023]]: The American standard for deception: a claim must be substantiated before it is published
+- [[HIS-024-the-demonstration-must-be-real-xerox-with-the-chimpanzee|HIS-024]]: The demonstration must be real: Xerox with the chimpanzee versus Volvo and the monster truck
+- [[HIS-025-advertising-disguised-as-content-is-more-than-a-century-old|HIS-025]]: Advertising disguised as content is more than a century old: advertorial, placement, infomercial, native
+- [[HIS-026-subliminal-advertising-is-a-myth-that-survives-the-evidence|HIS-026]]: Subliminal advertising is a myth that survives the evidence
+- [[HIS-027-shockvertising-attention-won-through-scandal-has-a-price|HIS-027]]: Shockvertising: attention won through scandal has a price, and the brand pays it
+- [[HIS-028-tobacco-was-the-front-on-which-advertising-tested-its-power|HIS-028]]: Tobacco was the front on which advertising tested its power and its limits
+- [[HIS-029-diversity-came-late-to-advertising-both-in-the-agencies-and|HIS-029]]: Diversity came late to advertising: both in the agencies and in the picture the ads show
+- [[IDE-003-the-big-idea-the-concept-that-makes-an-ad-different-from|IDE-003]]: The Big Idea: the concept that makes an ad different from competitors' ads combines strategy with surprise
+- [[IDE-010-osborn-s-brainstorming-has-four-rules-quantity-deferred|IDE-010]]: Osborn's brainstorming has four rules (quantity, deferred judgment, wild ideas, combination) and keeps generating separate from evaluating
+- [[IDE-024-is-the-idea-born-alone-in-a-pair-or-in-a-meeting-the|IDE-024]]: Is the idea born alone, in a pair or in a meeting? The classics disagree
+- [[SRC-028-the-100-greatest-advertisements-1852-1958|SRC-028]]: The 100 Greatest Advertisements 1852–1958: Who Wrote Them and What They Did
 <!-- backlinks:end -->

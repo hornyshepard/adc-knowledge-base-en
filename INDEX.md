@@ -1,68 +1,68 @@
 ---
-title: Index — Baza de cunoștințe ADC
+title: "Index: ADC knowledge base"
 type: index
 ---
 
-# Baza de cunoștințe ADC
+# ADC knowledge base
 
-Punctul de intrare. Alege un domeniu, apoi un skill. Fiecare skill are un hub (`SKILL.md`) cu competențele, traseul de învățare și notele lui.
+The entry point. Choose a domain, then a skill. Each skill has a hub (`SKILL.md`) with its competencies, its learning path and its notes.
 
-## Skill-uri pe domenii
+## Skills by domain
 
 <!-- auto:notes:start -->
-### D1 · Gândire strategică
+### D1 · Strategic thinking
 
-- [[20-skills/marketing-fundamentals/SKILL|MKT]] **Fundamente și strategie de marketing** — 73 note
-- [[20-skills/consumer-insight/SKILL|INS]] **Psihologia consumatorului și insight** — 95 note
-- [[20-skills/brand-strategy/SKILL|BRD]] **Strategie de brand** — 63 note
-- [[20-skills/advertising-strategy/SKILL|ADV]] **Strategie de publicitate și comunicare** — 87 note
-- [[20-skills/creative-brief/SKILL|BRF]] **Brief-ul creativ** — 27 note
+- [[20-skills/marketing-fundamentals/SKILL|MKT]] **Marketing fundamentals and strategy**: 73 notes
+- [[20-skills/consumer-insight/SKILL|INS]] **Consumer psychology and insight**: 95 notes
+- [[20-skills/brand-strategy/SKILL|BRD]] **Brand strategy**: 63 notes
+- [[20-skills/advertising-strategy/SKILL|ADV]] **Advertising and communication strategy**: 87 notes
+- [[20-skills/creative-brief/SKILL|BRF]] **The creative brief**: 27 notes
 
-### D2 · Creație
+### D2 · Creative
 
-- [[20-skills/creative-ideation/SKILL|IDE]] **Ideație și gândire creativă** — 25 note
-- [[20-skills/copywriting/SKILL|CPY]] **Copywriting și mesaj** — 38 note
-- [[20-skills/art-direction/SKILL|ART]] **Direcție artistică și identitate vizuală** — 29 note
-- [[20-skills/storytelling-content/SKILL|STO]] **Storytelling și conținut** — 41 note
+- [[20-skills/creative-ideation/SKILL|IDE]] **Ideation and creative thinking**: 25 notes
+- [[20-skills/copywriting/SKILL|CPY]] **Copywriting and message**: 38 notes
+- [[20-skills/art-direction/SKILL|ART]] **Art direction and visual identity**: 29 notes
+- [[20-skills/storytelling-content/SKILL|STO]] **Storytelling and content**: 41 notes
 
-### D3 · Canale și execuție
+### D3 · Channels and execution
 
-- [[20-skills/digital-marketing/SKILL|DIG]] **Marketing digital și performance** — 77 note
-- [[20-skills/social-influencer/SKILL|SOC]] **Social media și influencer marketing** — 49 note
-- [[20-skills/experiential-marketing/SKILL|EXP]] **Marketing experiențial** — 31 note
+- [[20-skills/digital-marketing/SKILL|DIG]] **Digital and performance marketing**: 77 notes
+- [[20-skills/social-influencer/SKILL|SOC]] **Social media and influencer marketing**: 49 notes
+- [[20-skills/experiential-marketing/SKILL|EXP]] **Experiential marketing**: 31 notes
 
-### D4 · AI și viitorul marketingului
+### D4 · AI and the future of marketing
 
-- [[20-skills/ai-marketing/SKILL|AIM]] **AI în marketing și publicitate** — 34 note
+- [[20-skills/ai-marketing/SKILL|AIM]] **AI in marketing and advertising**: 34 notes
 
-### D5 · Profesie și carieră
+### D5 · Profession and career
 
-- [[20-skills/pitch-presentation/SKILL|PIT]] **Pitch și prezentare** — 36 note
-- [[20-skills/portfolio/SKILL|PRT]] **Portofoliu și personal branding** — 27 note
-- [[20-skills/client-business/SKILL|CLI]] **Client, vânzări și business** — 17 note
+- [[20-skills/pitch-presentation/SKILL|PIT]] **Pitch and presentation**: 36 notes
+- [[20-skills/portfolio/SKILL|PRT]] **Portfolio and personal branding**: 27 notes
+- [[20-skills/client-business/SKILL|CLI]] **Client, sales and business**: 17 notes
 
-### D6 · Cultură publicitară
+### D6 · Advertising culture
 
-- [[20-skills/advertising-history/SKILL|HIS]] **Istoria și cultura publicității** — 29 note
+- [[20-skills/advertising-history/SKILL|HIS]] **Advertising history and culture**: 29 notes
 
-**Total:** 778 note permanente · 49 surse · 6 hărți · 7732 legături
+**Total:** 778 permanent notes · 49 sources · 6 maps · 7732 links
 <!-- auto:notes:end -->
 
-## Hărți transversale
+## Cross-cutting maps
 
-- [[MAP-001-fluxul-agentiei-de-la-problema-de-business-la-pitch|MAP-001]] — Fluxul agenției: de la problema de business la pitch și înapoi
-- [[MAP-002-modele-de-efect-si-customer-journey-comparate|MAP-002]] — Modelele de efect și de customer journey, comparate
-- [[MAP-003-etica-reglementare-si-responsabilitate|MAP-003]] — Etică, reglementare și responsabilitate în publicitate
-- [[MAP-004-dezbateri-unde-autorii-nu-sunt-de-acord|MAP-004]] — Dezbateri: unde autorii nu sunt de acord
-- [[MAP-005-ghidul-bibliotecii-ce-sa-citesti|MAP-005]] — Ghidul bibliotecii: ce să citești și în ce ordine
-- [[MAP-006-traseul-de-curs-adc|MAP-006]] — Traseul de curs ADC: în ce ordine se învață skill-urile
+- [[MAP-001-the-agency-workflow-from-the-business-problem-to-the-pitch|MAP-001]]: The agency workflow: from the business problem to the pitch and back
+- [[MAP-002-effect-models-and-customer-journey-models-compared|MAP-002]]: Effect models and customer journey models, compared
+- [[MAP-003-ethics-regulation-and-responsibility-in-advertising|MAP-003]]: Ethics, regulation and responsibility in advertising
+- [[MAP-004-debates-where-the-authors-disagree|MAP-004]]: Debates: where the authors disagree
+- [[MAP-005-library-guide-what-to-read-and-in-what-order|MAP-005]]: Library guide: what to read and in what order
+- [[MAP-006-the-adc-course-path-the-order-in-which-to-learn-the-skills|MAP-006]]: The ADC course path: the order in which to learn the skills
 
-## Biblioteca
+## The library
 
-- Fișele cărților: `10-sources/` (o notă de lectură per carte, cu rating de relevanță și harta capitolelor).
-- Textele integrale (copii extrase): `90-library/text/`.
-- Acoperirea pe skill și sursă: `_meta/coverage.md`.
+- Book sheets: `10-sources/` (one reading note per book, with a relevance rating and a chapter map).
+- Full texts (extracted copies): `90-library/text/`.
+- Coverage by skill and source: `_meta/coverage.md`.
 
-## Cum funcționează
+## How it works
 
-Citește `README.md` (pentru oameni) sau `CLAUDE.md` (pentru agenți AI). Regulile: `_meta/conventions.md`.
+Read `README.md` (for people) or `CLAUDE.md` (for AI agents). The rules: `_meta/conventions.md`.

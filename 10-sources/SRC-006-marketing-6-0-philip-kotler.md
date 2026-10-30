@@ -14,70 +14,70 @@ level: 2
 
 # Marketing 6.0: The Future Is Immersive
 
-**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2024** (copyright 2024). John Wiley & Sons, Hoboken (ISBN 978-1-119-83521-9). Scrisă cu sprijinul M Corp (compania condusă de Hermawan Kartajaya) și al echipei Marketeers. Copia text e un EPUB fără pagini, așa că notele citează capitolul și secțiunea.
+**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2024** (copyright 2024). John Wiley & Sons, Hoboken (ISBN 978-1-119-83521-9). Written with the support of M Corp (the company led by Hermawan Kartajaya) and the Marketeers team. The text copy is an EPUB without pages, so the notes cite the chapter and the section.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** a patra carte a seriei. Propune **metamarketingul**: marketingul care trece dincolo de granița fizic–digital, prin experiențe imersive. Analizează publicul (nativii „phygitali", Z și Alpha), cinci micro-trenduri digitale, viitorul CX (imersiv și hibrid), cinci tehnologii de bază (IoT, AI, spatial computing, AR/VR, blockchain), două medii (realități extinse și metaversuri) și trei tipuri de experiență (multisenzorială, spațială, în metavers).
-- **Teza centrală:** după multichannel și omnichannel urmează metamarketingul, o convergență completă a fizicului cu digitalul, cerută de generațiile care nu mai văd granița dintre ele.
-- **Pentru cine și când:** anul II-III, la cursurile de experiential marketing, retail, social media și tehnologie; bună pentru ideație de activări și experiențe.
-- **Relevanță pentru ADC:** ★★★★☆ (4/5) — cele mai utile capitole pentru creativi sunt marketingul multisenzorial (sonic branding, miros, atingere), al treilea loc / IRL, cele cinci elemente ale imersiunii și formele de marketing în metavers, cu multe cazuri recente (Coca-Cola Creations, Gucci, Nike, Chipotle, Starbucks Odyssey, Cadbury cu AI generativ). Limite: pariul pe metavers și Web3 a îmbătrânit repede.
+- **What it is about:** the fourth book in the series. It proposes **metamarketing**: marketing that goes beyond the physical-digital boundary through immersive experiences. It analyzes the audience ("phygital natives", Generation Z and Alpha), five digital micro-trends, the future of CX (immersive and hybrid), five fundamental technologies (IoT, AI, spatial computing, AR/VR, blockchain), two environments (extended realities and metaverses) and three types of experience (multisensory, spatial, in the metaverse).
+- **Central thesis:** after multichannel and omnichannel comes metamarketing, a complete convergence of the physical and the digital, demanded by generations who no longer see the boundary between them.
+- **For whom and when:** years II-III, in the experiential marketing, retail, social media and technology courses; good for generating ideas for activations and experiences.
+- **Relevance for ADC:** ★★★★☆ (4/5): the most useful chapters for creatives are multisensory marketing (sonic branding, smell, touch), the third place / IRL, the five elements of immersion and the forms of marketing in the metaverse, with many recent cases (Coca-Cola Creations, Gucci, Nike, Chipotle, Starbucks Odyssey, Cadbury with generative AI). Limits: the bet on the metaverse and Web3 has aged fast.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | De la multi la omni la meta; trei straturi | [[MKT-041-marketing-6-0-e-metamarketing-dupa-multichannel-si\|MKT-041]], [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la\|MKT-032]] |
-| 2 | Nativii phygitali (Z și Alpha), KGOY | [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si\|INS-066]] (îmbogățită) |
-| 3 | Cinci micro-trenduri | [[SOC-048-cinci-micro-trenduri-imping-spre-experiente-imersive-video\|SOC-048]] |
-| 4 | Viitorul CX: cinci elemente ale imersiunii, patru scenarii om–digital | [[EXP-024-cat-din-experienta-poate-prelua-digitalul-depinde-de-rolul\|EXP-024]] |
-| 5 | Cinci tehnologii-facilitator | [[MKT-041-marketing-6-0-e-metamarketing-dupa-multichannel-si\|MKT-041]] |
-| 6 | Realități extinse, al treilea loc, design IRL | [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc\|EXP-022]] |
-| 7 | Metaversul: Web1-Web3, componente, guvernanță | [[SOC-049-marketingul-in-metavers-porneste-de-la-motivatiile\|SOC-049]] |
-| 8 | Marketing multisenzorial | [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru\|EXP-010]] |
-| 9 | Marketing spațial | [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc\|EXP-022]], [[DIG-021-marketingul-contextual-aduce-personalizarea-digitala-in\|DIG-021]] (îmbogățită) |
-| 10 | Marketing în metavers | [[SOC-049-marketingul-in-metavers-porneste-de-la-motivatiile\|SOC-049]] |
+| 1 | Welcoming the Era of Marketing 6.0: from multi to omni to meta; three layers | [[MKT-041-marketing-6-0-is-metamarketing-after-multichannel-and\|MKT-041]], [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to\|MKT-032]] |
+| 2 | The Emergence of Phygital Natives: Generation Z and Alpha, KGOY | [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha\|INS-066]] (enriched) |
+| 3 | The Inevitability of Immersive Marketing: five micro-trends | [[SOC-048-five-micro-trends-push-toward-immersive-experiences-short\|SOC-048]] |
+| 4 | The Future of Customer Experience: five elements of immersion, four human-digital scenarios | [[EXP-024-how-much-of-the-experience-digital-can-take-over-depends-on\|EXP-024]] |
+| 5 | Understanding the Tech Enablers: five enabling technologies | [[MKT-041-marketing-6-0-is-metamarketing-after-multichannel-and\|MKT-041]] |
+| 6 | Building Extended Realities: the third place, IRL design | [[EXP-022-physical-space-survives-as-a-third-place-a-social-place\|EXP-022]] |
+| 7 | Tapping into the Metaverse: Web1-Web3, components, governance | [[SOC-049-metaverse-marketing-starts-from-users-motivations-and-takes\|SOC-049]] |
+| 8 | Multisensory Marketing | [[EXP-010-sensory-marketing-gives-the-brand-a-signature-for-each\|EXP-010]] |
+| 9 | Spatial Marketing | [[EXP-022-physical-space-survives-as-a-third-place-a-social-place\|EXP-022]], [[DIG-021-contextual-marketing-brings-digital-personalization-into\|DIG-021]] (enriched) |
+| 10 | Metaverse Marketing | [[SOC-049-metaverse-marketing-starts-from-users-motivations-and-takes\|SOC-049]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-041-marketing-6-0-e-metamarketing-dupa-multichannel-si|MKT-041]] — metamarketingul; multichannel → omnichannel → meta; straturile facilitator, mediu, experiență.
-- [[SOC-048-cinci-micro-trenduri-imping-spre-experiente-imersive-video|SOC-048]] — video scurt și micro-momente, social media pe comunități, comerț social, conversațional și live, AI lingvistic, wearables.
-- [[EXP-024-cat-din-experienta-poate-prelua-digitalul-depinde-de-rolul|EXP-024]] — multisenzorial, interactiv, participativ, fără fricțiuni, narativ; patru scenarii de înlocuire a omului.
-- [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc|EXP-022]] — al treilea loc ca realitate extinsă; dovezi fizice, proces, oameni; marketingul spațial.
-- [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru|EXP-010]] — cinci simțuri, oboseala digitală, trei pași de design senzorial.
-- [[SOC-049-marketingul-in-metavers-porneste-de-la-motivatiile|SOC-049]] — metaversul, motivațiile și patru forme de participare pentru branduri.
-- [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si|INS-066]] — nativii phygitali (completare la generații).
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — 6.0 revizuiește entuziasmul digital (întoarcerea la IRL) și portretul generației Z.
+- [[MKT-041-marketing-6-0-is-metamarketing-after-multichannel-and|MKT-041]]: metamarketing; multichannel → omnichannel → meta; the layers of enabler, environment and experience.
+- [[SOC-048-five-micro-trends-push-toward-immersive-experiences-short|SOC-048]]: short-form video and micro-moments, community-based social media, social, conversational and live commerce, language-based AI, wearables.
+- [[EXP-024-how-much-of-the-experience-digital-can-take-over-depends-on|EXP-024]]: multisensory, interactive, participative, frictionless, storytelling; four scenarios for replacing the human.
+- [[EXP-022-physical-space-survives-as-a-third-place-a-social-place|EXP-022]]: the third place as an extended reality; physical evidence, process, people; spatial marketing.
+- [[EXP-010-sensory-marketing-gives-the-brand-a-signature-for-each|EXP-010]]: five senses, digital fatigue, three steps of sensory design.
+- [[SOC-049-metaverse-marketing-starts-from-users-motivations-and-takes|SOC-049]]: the metaverse, motivations and four forms of participation for brands.
+- [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha|INS-066]]: phygital natives (an addition to the generations).
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: 6.0 revises the digital enthusiasm (the return to IRL) and the portrait of Generation Z.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Pariu pe un hype în declin:** cartea apare după prăbușirea cripto și NFT și după scăderea valorii Meta din 2022. Autorii recunosc problemele, dar rămân optimiști. Multe proiecte de metavers citate au fost reduse sau închise între timp.
-- **Contradicții interne:** MacBook-urile din Apple Store sunt înclinate „la 70 de grade" în cap. 4 și „la 76 de grade" în cap. 8; într-un loc, „nativii metaversului" sunt numiți din greșeală Generația Y și Alpha. Sunt semne de editare grăbită.
-- **Cifre populare, nu științifice:** procentele 80/10/1-4% pentru simțuri și multe statistici de piață vin din surse secundare.
-- **Etică tratată superficial:** marketingul către utilizatori de 12-13 ani pe Roblox, recunoașterea facială și citirea emoțiilor (UMOOD, panouri) sunt prezentate entuziast, cu o singură mențiune despre consimțământ.
-- **Puțin „cum":** cartea e un catalog de tendințe și cazuri; pașii propuși (de exemplu, cei trei pași multisenzoriali) sunt generici.
-- **Revizuiri tacite:** cartea nuanțează, fără s-o spună, entuziasmul digital din 4.0 și 5.0 (vezi [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]]).
+- **A bet on a fading hype:** the book came out after the crypto and NFT crash and after the fall in Meta's value in 2022. The authors acknowledge the problems but stay optimistic. Many of the metaverse projects cited have since been scaled back or closed.
+- **Internal contradictions:** the MacBooks in the Apple Store are tilted "at 70 degrees" in ch. 4 and "at 76 degrees" in ch. 8; in one place the "metaverse natives" are mistakenly called Generation Y and Generation Alpha. These are signs of hurried editing.
+- **Popular figures, not scientific ones:** the 80/10/1-4% percentages for the senses and many market statistics come from secondary sources.
+- **Ethics treated superficially:** marketing to 12- and 13-year-old users on Roblox, facial recognition and emotion reading (UMOOD, billboards) are presented with enthusiasm, with a single mention of consent.
+- **Little "how":** the book is a catalog of trends and cases; the steps it proposes (for example, the three multisensory steps) are generic.
+- **Tacit revisions:** without saying so, the book qualifies the digital enthusiasm of 4.0 and 5.0 (see [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]).
 
-## Citat
+## Quote
 
-> „Metamarketing… transcends the boundaries between the physical and digital worlds." (cap. 1)
+> "metamarketing… transcends the boundaries between the physical and digital worlds" (ch. 1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-002-next-tech-sunt-tehnologiile-care-imita-capacitatile-umane|AIM-002]] — Next tech sunt tehnologiile care imită capacitățile umane — AI, NLP, senzori, robotică, realitate mixtă, IoT și blockchain
-- [[AIM-026-in-campaniile-premiate-cu-ai-ideea-vine-din-insight-ul-uman|AIM-026]] — În campaniile premiate cu AI, ideea vine din insight-ul uman, iar AI-ul îi dă scară — Cadbury, Nike „Never Done Evolving", Jardim Sonoro
-- [[DIG-021-marketingul-contextual-aduce-personalizarea-digitala-in|DIG-021]] — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
-- [[EXP-008-imersiunea-e-calea-de-acces-la-experienta-cinci-factori-la|EXP-008]] — Imersiunea e calea de acces la experiență — cinci factori la Batat, cinci elemente de design la Kotler, în mare aceleași
-- [[EXP-010-marketingul-senzorial-da-brandului-cate-o-semnatura-pentru|EXP-010]] — Marketingul senzorial dă brandului câte o semnătură pentru fiecare simț — coerentă cu povestea mărcii și dozată, nu spectaculoasă pe toate cinci
-- [[EXP-022-spatiul-fizic-supravietuieste-ca-al-treilea-loc-un-loc|EXP-022]] — Spațiul fizic supraviețuiește ca „al treilea loc" — un loc social, cu o poveste coerentă și senzația de acasă, nu un punct de tranzacție
-- [[EXP-024-cat-din-experienta-poate-prelua-digitalul-depinde-de-rolul|EXP-024]] — Cât din experiență poate prelua digitalul depinde de rolul omului — patru scenarii, de la casierie la ospitalitate
-- [[EXP-025-experienta-phygital-leaga-magazinul-de-digital-fara-rupturi|EXP-025]] — Experiența phygital leagă magazinul de digital fără rupturi — cinci moduri de a aduce digitalul în spațiul fizic
-- [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si|INS-066]] — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
-- [[MKT-029-pentru-servicii-mixul-devine-7p-se-adauga-oamenii-procesele|MKT-029]] — Pentru servicii, mixul devine 7P — se adaugă oamenii, procesele și dovezile fizice
-- [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la|MKT-032]] — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
-- [[MKT-041-marketing-6-0-e-metamarketing-dupa-multichannel-si|MKT-041]] — Marketing 6.0 e metamarketing — după multichannel și omnichannel, experiența în care clientul nu mai distinge fizicul de digital
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
-- [[SOC-048-cinci-micro-trenduri-imping-spre-experiente-imersive-video|SOC-048]] — Cinci micro-trenduri împing spre experiențe imersive — video scurt, social media pe comunități, comerț interactiv, AI lingvistic și wearables
-- [[SOC-049-marketingul-in-metavers-porneste-de-la-motivatiile|SOC-049]] — Marketingul în metavers pornește de la motivațiile utilizatorilor și are patru forme — colecții de brand, publicitate experiențială, comerț O2O și loialitate gamificată
+- [[AIM-002-the-next-tech-consists-of-the-technologies-that-mimic-human|AIM-002]]: The next tech consists of the technologies that mimic human capabilities: AI, NLP, sensors, robotics, mixed reality, IoT and blockchain
+- [[AIM-026-in-award-winning-ai-campaigns-the-idea-comes-from-human|AIM-026]]: In award-winning AI campaigns, the idea comes from human insight and the AI gives it scale: Cadbury, Nike "Never Done Evolving", Jardim Sonoro
+- [[DIG-021-contextual-marketing-brings-digital-personalization-into|DIG-021]]: Contextual marketing brings digital personalization into physical space: sensors, triggers and three levels, informative, interactive, immersive
+- [[EXP-008-immersion-is-the-way-into-the-experience-five-factors-in|EXP-008]]: Immersion is the way into the experience: five factors in Batat, five design elements in Kotler, largely the same
+- [[EXP-010-sensory-marketing-gives-the-brand-a-signature-for-each|EXP-010]]: Sensory marketing gives the brand a signature for each sense: coherent with the brand's story and measured, not spectacular on all five
+- [[EXP-022-physical-space-survives-as-a-third-place-a-social-place|EXP-022]]: Physical space survives as a "third place": a social place with a coherent story and a sense of homeyness, not a point of transaction
+- [[EXP-024-how-much-of-the-experience-digital-can-take-over-depends-on|EXP-024]]: How much of the experience digital can take over depends on the human role: four scenarios, from the checkout to hospitality
+- [[EXP-025-the-phygital-experience-links-the-store-and-digital-without|EXP-025]]: The phygital experience links the store and digital without breaks: five ways to bring digital into the physical space
+- [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha|INS-066]]: Five generations live side by side (Boomers, X, Y, Z and Alpha) and go through four life stages ever faster
+- [[MKT-029-for-services-the-mix-becomes-the-7ps-people-process-and|MKT-029]]: For services, the mix becomes the 7Ps: people, process and physical evidence are added
+- [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to|MKT-032]]: The evolution of marketing from 1.0 to 6.0: from product to customer, to the human being, to digital, to technology for humanity and to immersion
+- [[MKT-041-marketing-6-0-is-metamarketing-after-multichannel-and|MKT-041]]: Marketing 6.0 is metamarketing: after multichannel and omnichannel, an experience in which customers perceive no distinction between physical and digital
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: The Kotler X.0 series revises its own ideas: segmentation, the role of purpose and the online–offline balance change from one book to the next
+- [[SOC-048-five-micro-trends-push-toward-immersive-experiences-short|SOC-048]]: Five micro-trends push toward immersive experiences: short-form video, community-based social media, interactive e-commerce, language-based AI and wearables
+- [[SOC-049-metaverse-marketing-starts-from-users-motivations-and-takes|SOC-049]]: Metaverse marketing starts from users' motivations and takes four forms: branded collectibles, experiential advertising, O2O commerce and gamified loyalty
 <!-- backlinks:end -->

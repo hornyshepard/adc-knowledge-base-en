@@ -14,83 +14,83 @@ level: 2
 
 # Marketing 5.0: Technology for Humanity
 
-**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2021.** John Wiley & Sons, Hoboken (ISBN 978-1-119-66851-0). Scrisă în timpul pandemiei de COVID-19, în colaborare cu MarkPlus, Inc. Copia text e un EPUB fără pagini, așa că notele citează capitolul și secțiunea.
+**Philip Kotler, Hermawan Kartajaya, Iwan Setiawan, 2021.** John Wiley & Sons, Hoboken (ISBN 978-1-119-66851-0). Written during the COVID-19 pandemic, in collaboration with MarkPlus, Inc. The text copy is an EPUB without pages, so the notes cite the chapter and section.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** a treia carte a seriei. Definește Marketing 5.0 ca sinteză între centrarea pe om (3.0) și tehnologia (4.0): aplicarea tehnologiilor care imită omul (AI, NLP, senzori, robotică, AR/VR, IoT, blockchain) pentru a crea, comunica, livra și spori valoarea pe tot parcursul călătoriei clientului. Pornește de la trei provocări (generații, polarizarea prosperității, decalajul digital), oferă instrumente de strategie (pregătire digitală, next tech, noul CX) și cinci componente tactice (marketing bazat pe date, predictiv, contextual, augmentat, agil).
-- **Teza centrală:** tehnologia trebuie folosită pentru oameni, într-o simbioză în care mașina preia datele și volumul, iar omul păstrează insight-ul, înțelepciunea și empatia.
-- **Pentru cine și când:** anul II-III, după 4.0 și înainte de cursurile de AI în marketing; utilă și pentru strategie digitală și CX.
-- **Relevanță pentru ADC:** ★★★★☆ (4/5) — primerul de tehnologie, diviziunea om–mașină (inclusiv în creație) și cele cinci componente sunt clare și ușor de predat. Cazurile sunt numeroase (Whopper Detour, Walgreens, Sephora, Zara). Însă e mai mult o carte de management și CX decât de comunicare, iar predicțiile despre AI au fost depășite rapid de AI-ul generativ.
+- **What it is about:** the third book in the series. It defines Marketing 5.0 as the synthesis of human centricity (3.0) and technology (4.0): the application of human-mimicking technologies (AI, NLP, sensors, robotics, AR/VR, IoT, blockchain) to create, communicate, deliver and enhance value across the customer journey. It starts from three challenges (generation gap, prosperity polarization, digital divide), offers strategy tools (digital readiness, the next tech, the new CX) and five tactical components (data-driven, predictive, contextual, augmented and agile marketing).
+- **Central thesis:** technology must be used for humans, in a symbiosis in which the machine takes over the data and the volume, while the human keeps insight, wisdom and empathy.
+- **For whom and when:** years II-III, after 4.0 and before the courses on AI in marketing; also useful for digital strategy and CX.
+- **Relevance for ADC:** ★★★★☆ (4/5): the technology primer, the division of labor between human and machine (including in creative work) and the five components are clear and easy to teach. The cases are many (Whopper Detour, Walgreens, Sephora, Zara). But it is more a book about management and CX than about communication, and its predictions about AI were quickly overtaken by generative AI.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 | Ce e Marketing 5.0; cele cinci componente | [[MKT-038-marketing-5-0-foloseste-tehnologii-care-imita-omul-pe-toata\|MKT-038]], [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la\|MKT-032]] |
-| 2 | Decalajul dintre generații: Boomers, X, Y, Z, Alpha; etapele vieții | [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si\|INS-066]] |
-| 3 | Polarizarea prosperității; incluziune, sustenabilitate, SDG | [[MKT-040-polarizarea-prosperitatii-goleste-mijlocul-pietei-raman\|MKT-040]] |
-| 4 | Decalajul digital: pericole, promisiuni; tehnologie personală, socială, experiențială | [[AIM-034-decalajul-digital-real-e-intre-sustinatorii-si-criticii\|AIM-034]] |
-| 5 | Organizația pregătită digital: patru cadrane | [[DIG-006-pregatirea-digitala-se-evalueaza-pe-doua-axe-clienti-gata\|DIG-006]] |
-| 6 | Next tech: șase facilitatori, șapte tehnologii | [[AIM-002-next-tech-sunt-tehnologiile-care-imita-capacitatile-umane\|AIM-002]] |
-| 7 | Noul CX: om vs. mașină; checklist martech | [[AIM-004-in-noul-cx-masinile-sunt-cool-dar-oamenii-sunt-calzi-ai\|AIM-004]], [[AIM-003-martech-are-sapte-cazuri-de-utilizare-pe-calea-clientului\|AIM-003]] |
-| 8 | Marketing bazat pe date; segmentul de unu | [[DIG-061-marketingul-bazat-pe-date-tinteste-segmentul-de-unu-si\|DIG-061]] |
-| 9 | Marketing predictiv | [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde\|AIM-006]] |
-| 10 | Marketing contextual | [[DIG-021-marketingul-contextual-aduce-personalizarea-digitala-in\|DIG-021]] |
-| 11 | Marketing augmentat | [[AIM-022-marketingul-augmentat-amplifica-oamenii-in-loc-sa-i\|AIM-022]] |
-| 12 | Marketing agil | [[MKT-039-marketingul-agil-executa-rapid-si-la-scara-analitica-in\|MKT-039]] |
+| 1 | Welcome to Marketing 5.0: what Marketing 5.0 is; the five components | [[MKT-038-marketing-5-0-applies-human-mimicking-technologies-across\|MKT-038]], [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to\|MKT-032]] |
+| 2 | Generation Gap: Baby Boomers, X, Y, Z, Alpha; life stages | [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha\|INS-066]] |
+| 3 | Prosperity Polarization: inclusivity, sustainability, SDGs | [[MKT-040-prosperity-polarization-empties-the-middle-of-the-market\|MKT-040]] |
+| 4 | Digital Divide: perils, promises; personal, social and experiential technology | [[AIM-034-the-real-digital-divide-is-between-the-advocates-and-the\|AIM-034]] |
+| 5 | The Digital-Ready Organization: four quadrants | [[DIG-006-digital-readiness-is-assessed-on-two-axes-customers-ready\|DIG-006]] |
+| 6 | The Next Tech: six enablers, seven technologies | [[AIM-002-the-next-tech-consists-of-the-technologies-that-mimic-human\|AIM-002]] |
+| 7 | The New CX: human vs. machine; the martech checklist | [[AIM-004-in-the-new-cx-machines-are-cool-but-humans-are-warm-ai\|AIM-004]], [[AIM-003-martech-has-seven-use-cases-across-the-customer-path-from\|AIM-003]] |
+| 8 | Data-Driven Marketing: the segments of one | [[DIG-061-data-driven-marketing-targets-segments-of-one-and-starts\|DIG-061]] |
+| 9 | Predictive Marketing | [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell\|AIM-006]] |
+| 10 | Contextual Marketing | [[DIG-021-contextual-marketing-brings-digital-personalization-into\|DIG-021]] |
+| 11 | Augmented Marketing | [[AIM-022-augmented-marketing-amplifies-people-instead-of-replacing\|AIM-022]] |
+| 12 | Agile Marketing | [[MKT-039-agile-marketing-executes-at-pace-and-scale-real-time\|MKT-039]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-038-marketing-5-0-foloseste-tehnologii-care-imita-omul-pe-toata|MKT-038]] — definiția 5.0; două discipline și trei aplicații.
-- [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si|INS-066]] — cinci generații, patru etape de viață, legătura cu evoluția 1.0→5.0.
-- [[MKT-040-polarizarea-prosperitatii-goleste-mijlocul-pietei-raman|MKT-040]] — societatea în „M"; doar două poziționări cu sens; purpose ca factor de igienă.
-- [[AIM-034-decalajul-digital-real-e-intre-sustinatorii-si-criticii|AIM-034]] — cinci pericole și cinci promisiuni ale digitalizării; busola tehnologiei.
-- [[DIG-006-pregatirea-digitala-se-evalueaza-pe-doua-axe-clienti-gata|DIG-006]] — Origin, Onward, Organic, Omni.
-- [[AIM-002-next-tech-sunt-tehnologiile-care-imita-capacitatile-umane|AIM-002]] — next tech ca bionică.
-- [[AIM-004-in-noul-cx-masinile-sunt-cool-dar-oamenii-sunt-calzi-ai|AIM-004]] — Moravec, ierarhia cunoașterii în șase trepte, gândire convergentă vs. divergentă; AI nu scrie brief-ul.
-- [[AIM-003-martech-are-sapte-cazuri-de-utilizare-pe-calea-clientului|AIM-003]] — șapte cazuri de utilizare martech.
-- [[DIG-061-marketingul-bazat-pe-date-tinteste-segmentul-de-unu-si|DIG-061]] — patru metode de segmentare, persona, segmentul de unu, matricea datelor.
-- [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde|AIM-006]] — CLV, next-best-action, regresie, filtrare colaborativă, rețele neuronale.
-- [[DIG-021-marketingul-contextual-aduce-personalizarea-digitala-in|DIG-021]] — senzori, biometrie, informativ–interactiv–imersiv.
-- [[AIM-022-marketingul-augmentat-amplifica-oamenii-in-loc-sa-i|AIM-022]] — amplificarea inteligenței, interfețe pe niveluri, EX.
-- [[MKT-039-marketingul-agil-executa-rapid-si-la-scara-analitica-in|MKT-039]] — Zara, MVP, proces concurent, inovație deschisă.
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — dezbatere: 5.0 rescrie istoria 1.0-3.0, face din purpose un factor de igienă și revine la segmentarea de precizie.
+- [[MKT-038-marketing-5-0-applies-human-mimicking-technologies-across|MKT-038]]: the definition of 5.0; two disciplines and three applications.
+- [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha|INS-066]]: five generations, four life stages, the link with the evolution from 1.0 to 5.0.
+- [[MKT-040-prosperity-polarization-empties-the-middle-of-the-market|MKT-040]]: the M-shaped society; only two positionings that make sense; purpose as a hygiene factor.
+- [[AIM-034-the-real-digital-divide-is-between-the-advocates-and-the|AIM-034]]: five perils and five promises of digitalization; the technology compass.
+- [[DIG-006-digital-readiness-is-assessed-on-two-axes-customers-ready|DIG-006]]: Origin, Onward, Organic, Omni.
+- [[AIM-002-the-next-tech-consists-of-the-technologies-that-mimic-human|AIM-002]]: the next tech as bionics.
+- [[AIM-004-in-the-new-cx-machines-are-cool-but-humans-are-warm-ai|AIM-004]]: Moravec's paradox, the six-tier knowledge management hierarchy, convergent vs. divergent thinking; AI does not write the brief.
+- [[AIM-003-martech-has-seven-use-cases-across-the-customer-path-from|AIM-003]]: seven martech use cases.
+- [[DIG-061-data-driven-marketing-targets-segments-of-one-and-starts|DIG-061]]: four segmentation methods, the persona, the segments of one, the data matrix.
+- [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell|AIM-006]]: CLV, next-best-action, regression, collaborative filtering, neural networks.
+- [[DIG-021-contextual-marketing-brings-digital-personalization-into|DIG-021]]: sensors, biometrics, informative, interactive and immersive levels.
+- [[AIM-022-augmented-marketing-amplifies-people-instead-of-replacing|AIM-022]]: intelligence amplification, tiered customer interfaces, EX.
+- [[MKT-039-agile-marketing-executes-at-pace-and-scale-real-time|MKT-039]]: Zara, MVP, the concurrent process, open innovation.
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: debate: 5.0 rewrites the history of 1.0-3.0, makes purpose a hygiene factor and goes back to precision segmentation.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **AI generativ absent:** cartea apare înainte de ChatGPT. Afirmații ca „nicio mașină nu poate scrie un brief sau un copy de la zero" trebuie reverificate. Totuși, principiul diviziunii muncii rămâne valabil.
-- **Optimism tehnologic:** pericolele (supraveghere, biometrie, recunoaștere facială în retail) sunt tratate ca bariere de adopție de depășit, nu ca limite etice. Exemplele cu detectarea emoțiilor sau a fețelor sunt prezentate entuziast, deși multe sunt reglementate restrictiv în UE (GDPR, AI Act).
-- **Generații ca stereotipuri:** portretele generaționale sunt generalizări, iar intervalele de ani diferă de la o sursă la alta.
-- **Puțină dovadă empirică:** cifrele vin din surse secundare (Salesforce, PwC, Gartner, McKinsey), iar unele estimări nu s-au confirmat (de exemplu, numărul de dispozitive IoT).
-- **Concepte reluate:** 5A și omnichannel sunt preluate din 4.0, iar inovația deschisă și co-crearea din 3.0, cu puțin adaos.
-- **Pentru creație:** utilă pentru a înțelege unde ajută AI (variații, testare, targetare), dar nu spune nimic despre cum se construiește o idee.
+- **No generative AI:** the book came out before ChatGPT. Claims such as the one that no machine can replace humans in writing agency briefs or creating ad copy from scratch need to be checked again. The principle of the division of labor still holds.
+- **Technological optimism:** the perils (surveillance, biometrics, facial recognition in retail) are treated as adoption barriers to overcome, not as ethical limits. The examples of emotion or face detection are presented with enthusiasm, though many are tightly regulated in the EU (GDPR, AI Act).
+- **Generations as stereotypes:** the generational portraits are generalizations, and the year ranges differ from one source to another.
+- **Little empirical evidence:** the figures come from secondary sources (Salesforce, PwC, Gartner, McKinsey), and some estimates were not confirmed (for example, the number of IoT devices).
+- **Reused concepts:** the 5A's and omnichannel come from 4.0, open innovation and co-creation from 3.0, with little added.
+- **For creative work:** useful for understanding where AI helps (variations, testing, targeting), but it says nothing about how an idea is built.
 
-## Citat
+## Quote
 
-> „Machines are cool, but humans are warm." (titlul cap. 7)
+> "Machines Are Cool, but Humans Are Warm" (title of ch. 7)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[AIM-002-next-tech-sunt-tehnologiile-care-imita-capacitatile-umane|AIM-002]] — Next tech sunt tehnologiile care imită capacitățile umane — AI, NLP, senzori, robotică, realitate mixtă, IoT și blockchain
-- [[AIM-003-martech-are-sapte-cazuri-de-utilizare-pe-calea-clientului|AIM-003]] — Martech are șapte cazuri de utilizare pe calea clientului — de la publicitate și conținut la service CRM
-- [[AIM-004-in-noul-cx-masinile-sunt-cool-dar-oamenii-sunt-calzi-ai|AIM-004]] — În noul CX mașinile sunt „cool", dar oamenii sunt „calzi" — AI preia datele și convergența, omul păstrează insight-ul, înțelepciunea și empatia
-- [[AIM-006-analiza-predictiva-estimeaza-cine-va-cumpara-ce-se-va-vinde|AIM-006]] — Analiza predictivă estimează cine va cumpăra, ce se va vinde și ce va funcționa — un ciclu care se verifică continuu, nu un raport
-- [[AIM-022-marketingul-augmentat-amplifica-oamenii-in-loc-sa-i|AIM-022]] — Marketingul augmentat amplifică oamenii în loc să-i înlocuiască — interfețe pe niveluri și instrumente digitale pentru prima linie
-- [[AIM-032-biasul-in-marketingul-cu-ai-are-doua-surse-datele-din-care|AIM-032]] — Biasul în marketingul cu AI are două surse — datele din care învață modelul și încrederea oarbă a omului în recomandare
-- [[AIM-034-decalajul-digital-real-e-intre-sustinatorii-si-criticii|AIM-034]] — Decalajul digital real e între susținătorii și criticii digitalizării — tehnologia câștigă încredere când e personală, socială și experiențială
-- [[DIG-006-pregatirea-digitala-se-evalueaza-pe-doua-axe-clienti-gata|DIG-006]] — Pregătirea digitală se evaluează pe două axe — clienți gata să migreze și companie capabilă — cu patru cadrane și strategii diferite
-- [[DIG-021-marketingul-contextual-aduce-personalizarea-digitala-in|DIG-021]] — Marketingul contextual aduce personalizarea digitală în spațiul fizic — senzori, declanșatori și trei niveluri, informativ, interactiv, imersiv
-- [[DIG-061-marketingul-bazat-pe-date-tinteste-segmentul-de-unu-si|DIG-061]] — Marketingul bazat pe date țintește „segmentul de unu" și începe cu un obiectiv îngust, nu cu un proiect IT
-- [[INS-066-cinci-generatii-traiesc-simultan-boomers-x-y-z-si-alpha-si|INS-066]] — Cinci generații trăiesc simultan — Boomers, X, Y, Z și Alpha — și parcurg patru etape de viață tot mai rapid
-- [[MKT-001-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-001]] — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
-- [[MKT-012-planul-de-marketing-are-cinci-pasi-grupati-in-trei-faze|MKT-012]] — Planul de marketing are cinci pași grupați în trei faze — planificare, implementare, control
-- [[MKT-022-ciclul-de-viata-al-produsului-are-patru-etape-dar-folosit|MKT-022]] — Ciclul de viață al produsului are patru etape, dar folosit mecanic devine o profeție care se autoîmplinește
-- [[MKT-032-evolutia-marketingului-de-la-1-0-la-6-0-de-la-produs-la|MKT-032]] — Evoluția marketingului de la 1.0 la 6.0 — de la produs la client, la om, la digital, la tehnologie pentru umanitate și la imersiune
-- [[MKT-033-marketing-3-0-trateaza-clientul-ca-om-intreg-minte-inima-si|MKT-033]] — Marketing 3.0 tratează clientul ca om întreg — minte, inimă și spirit
-- [[MKT-038-marketing-5-0-foloseste-tehnologii-care-imita-omul-pe-toata|MKT-038]] — Marketing 5.0 folosește tehnologii care imită omul pe toată călătoria clientului, prin două discipline și trei aplicații
-- [[MKT-039-marketingul-agil-executa-rapid-si-la-scara-analitica-in|MKT-039]] — Marketingul agil execută rapid și la scară — analitică în timp real, echipe descentralizate, platformă flexibilă, MVP și experimentare rapidă
-- [[MKT-040-polarizarea-prosperitatii-goleste-mijlocul-pietei-raman|MKT-040]] — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
-- [[MKT-048-seria-kotler-x-0-isi-revizuieste-propriile-idei-segmentarea|MKT-048]] — Seria Kotler X.0 își revizuiește propriile idei — segmentarea, rolul purpose-ului și raportul online–offline se schimbă de la o carte la alta
+- [[AIM-002-the-next-tech-consists-of-the-technologies-that-mimic-human|AIM-002]]: The next tech consists of the technologies that mimic human capabilities: AI, NLP, sensors, robotics, mixed reality, IoT and blockchain
+- [[AIM-003-martech-has-seven-use-cases-across-the-customer-path-from|AIM-003]]: Martech has seven use cases across the customer path: from advertising and content to service CRM
+- [[AIM-004-in-the-new-cx-machines-are-cool-but-humans-are-warm-ai|AIM-004]]: In the new CX, machines are "cool" but humans are "warm": AI takes data and convergent thinking, humans keep insight, wisdom and empathy
+- [[AIM-006-predictive-analytics-estimates-who-will-buy-what-will-sell|AIM-006]]: Predictive analytics estimates who will buy, what will sell and what will work: a cycle that is checked continuously, not a report
+- [[AIM-022-augmented-marketing-amplifies-people-instead-of-replacing|AIM-022]]: Augmented marketing amplifies people instead of replacing them: tiered interfaces and digital tools for frontliners
+- [[AIM-032-bias-in-ai-marketing-has-two-sources-the-data-the-model|AIM-032]]: Bias in AI marketing has two sources: the data the model learns from and people's blind trust in the recommendation
+- [[AIM-034-the-real-digital-divide-is-between-the-advocates-and-the|AIM-034]]: The real digital divide is between the advocates and the critics of digitalization: technology earns trust when it is personal, social and experiential
+- [[DIG-006-digital-readiness-is-assessed-on-two-axes-customers-ready|DIG-006]]: Digital readiness is assessed on two axes, customers ready to migrate and a capable company: four quadrants, each with its own strategy
+- [[DIG-021-contextual-marketing-brings-digital-personalization-into|DIG-021]]: Contextual marketing brings digital personalization into physical space: sensors, triggers and three levels, informative, interactive, immersive
+- [[DIG-061-data-driven-marketing-targets-segments-of-one-and-starts|DIG-061]]: Data-driven marketing targets "segments of one" and starts with a narrow objective, not with an IT project
+- [[INS-066-five-generations-live-side-by-side-boomers-x-y-z-and-alpha|INS-066]]: Five generations live side by side (Boomers, X, Y, Z and Alpha) and go through four life stages ever faster
+- [[MKT-001-marketing-creates-captures-communicates-and-delivers-value|MKT-001]]: Marketing creates, captures, communicates and delivers value (the AMA definition)
+- [[MKT-012-the-marketing-plan-has-five-steps-grouped-in-three-phases|MKT-012]]: The marketing plan has five steps grouped in three phases: planning, implementation, control
+- [[MKT-022-the-product-life-cycle-has-four-stages-but-used|MKT-022]]: The product life cycle has four stages, but used mechanically it becomes a self-fulfilling prophecy
+- [[MKT-032-the-evolution-of-marketing-from-1-0-to-6-0-from-product-to|MKT-032]]: The evolution of marketing from 1.0 to 6.0: from product to customer, to the human being, to digital, to technology for humanity and to immersion
+- [[MKT-033-marketing-3-0-treats-the-customer-as-a-whole-human-being|MKT-033]]: Marketing 3.0 treats the customer as a whole human being: mind, heart and spirit
+- [[MKT-038-marketing-5-0-applies-human-mimicking-technologies-across|MKT-038]]: Marketing 5.0 applies human-mimicking technologies across the whole customer journey, through two disciplines and three applications
+- [[MKT-039-agile-marketing-executes-at-pace-and-scale-real-time|MKT-039]]: Agile marketing executes at pace and scale: real-time analytics, decentralized teams, a flexible platform, MVPs and rapid experimentation
+- [[MKT-040-prosperity-polarization-empties-the-middle-of-the-market|MKT-040]]: Prosperity polarization empties the middle of the market: only low-cost positioning and premium positioning through experience remain
+- [[MKT-048-the-kotler-x-0-series-revises-its-own-ideas-segmentation|MKT-048]]: The Kotler X.0 series revises its own ideas: segmentation, the role of purpose and the online–offline balance change from one book to the next
 <!-- backlinks:end -->

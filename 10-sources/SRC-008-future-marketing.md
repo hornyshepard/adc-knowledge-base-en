@@ -14,83 +14,83 @@ level: 2
 
 # Future Marketing: Winning in the Prosumer Age
 
-**Jon Wuebben, 2017.** Fără editură menționată (ISBN 978-0-692-77506-6, probabil autoeditată). Prefață de Robert Rose (Content Marketing Institute). ~75.000 de cuvinte de text propriu-zis. Autorul conduce Content Launch, o firmă de software și servicii de content marketing.
+**Jon Wuebben, 2017.** No publisher named (ISBN 978-0-692-77506-6, probably self-published). Foreword by Robert Rose (Content Marketing Institute). About 75,000 words of main text. The author runs Content Launch, a content marketing software and services company.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** o carte de prognoze despre marketing pentru 2021 și 2030, construită în jurul ideii de prosumator (Toffler): clientul care co-produce, recenzează, creează conținut și influențează. Cuprinde megatrenduri, predicții ale futurologilor, content marketing, martech, clientul care se schimbă, „post-capitalismul", un nou mix de marketing (EP²), departamentul și agenția viitorului, plus cazuri (Threadless, LEGO, Punchdrunk, Carrotmob, Hassett Ace Hardware, Hertz Gold).
-- **Teza centrală:** puterea s-a mutat spre prosumatori. Marketingul viitorului va fi construit pe implicare, experiențe, personalizare și pasiune, nu pe mesaje împinse prin media de masă.
-- **Pentru cine și când:** studenți de strategie și de marketing digital, la modulele despre viitorul marketingului, experiențe și relația agenție–client. E foarte bună și ca exercițiu de *citire critică a prognozelor*: în 2026 se poate verifica ce s-a împlinit.
-- **Relevanță pentru ADC:** ★★★☆☆ — sinteză lizibilă a unor idei importante (prosumatorul, narațiune vs poveste, experiența ca ofertă, platformele, agenția viitorului), dar mai ales de seconda mână: Kevin Kelly, Toffler, Pine & Gilmore, Hagel, Rifkin, Diamandis. Tonul e de evanghelist optimist.
+- **What it is about:** a book of marketing forecasts for 2021 and 2030, built around the idea of the prosumer (Toffler): the customer who co-produces, reviews, creates content and influences. It covers mega-trends, futurists' predictions, content marketing, martech, the changing customer, "post-capitalism", a new marketing mix (EP²), the marketing department and agency of the future, plus cases (Threadless, LEGO, Punchdrunk, Carrotmob, Hassett Ace Hardware, Hertz Gold).
+- **Central thesis:** power has shifted to prosumers. The marketing of the future will be built on engagement, experiences, personalization and passion, not on messages pushed through mass media.
+- **For whom and when:** strategy and digital marketing students, in the modules on the future of marketing, experiences and the agency-client relationship. It also works well as an exercise in *reading forecasts critically*: in 2026 you can check what came true.
+- **Relevance for ADC:** ★★★☆☆. A readable synthesis of some important ideas (the prosumer, narrative vs. story, the experience as an offering, platforms, the agency of the future), but mostly secondhand: Kevin Kelly, Toffler, Pine & Gilmore, Hagel, Rifkin, Diamandis. The tone is that of an optimistic evangelist.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Intro | Prosumatorul (Toffler), internetul ca „flux", megatrenduri, economia circulară | [[MKT-042-prosumatorul-clientul-care-produce-o-parte-din-valoare-pe\|MKT-042]] |
-| 1–3 | Starea marketingului 2016 (CMI, Salesforce), megatrenduri (Naisbitt, Frost & Sullivan), futurologi, „adjacent possible" | [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum\|MKT-059]] |
-| 4–5 | Content marketing (definiția CMI, „mașina de conținut", trenduri), martech, big data | [[ADV-086-continut-in-locul-reclamei-teza-ca-reclamele-nu-construiesc\|ADV-086]], [[DIG-011-pull-marketing-attract-assist-affiliate-si-masurarea-prin\|DIG-011]] |
-| 6–7 | Puterea oamenilor: prosumatori, open source, influenceri, P2P, inteligența de roi, COIN-uri | [[MKT-042-prosumatorul-clientul-care-produce-o-parte-din-valoare-pe\|MKT-042]] |
-| 8 | Experiențele (Pine & Gilmore, Pike Place Fish Market) | [[EXP-001-experienta-e-o-oferta-economica-distincta-progresia-valorii\|EXP-001]] |
-| 9 | Post-capitalismul (Rifkin, Mason): de la consum la contribuție | [[MKT-042-prosumatorul-clientul-care-produce-o-parte-din-valoare-pe\|MKT-042]] |
-| 10 | 2021: zece schimbări; Attract–Assist–Affiliate; ROA; narațiune vs poveste; cinci dimensiuni de competență | [[MKT-060-zece-schimbari-prezise-pentru-2021-de-la-branduri-la\|MKT-060]], [[DIG-011-pull-marketing-attract-assist-affiliate-si-masurarea-prin\|DIG-011]], [[STO-007-povestea-se-incheie-naratiunea-te-invita-distinctia-lui\|STO-007]], [[MKT-061-echipa-de-marketing-se-compune-din-trei-tipuri-de-talente\|MKT-061]] |
-| 11 | Agenția digitală a viitorului: șase tendințe | [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de\|CLI-017]] |
-| 12–13 | 2030 și după: AR, IoT, AI, reclame predictive, „gladvertising", Minority Report | [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult\|AIM-031]], [[MKT-060-zece-schimbari-prezise-pentru-2021-de-la-branduri-la\|MKT-060]] |
-| 14 | Mixul EP²; generativele lui Kelly | [[MKT-043-ep2-wuebben-propune-inlocuirea-celor-4p-cu-engagement\|MKT-043]], [[MKT-044-cand-copia-e-gratuita-valoarea-se-muta-in-ce-nu-poate-fi\|MKT-044]] |
-| 15 | Departamentul de marketing al viitorului (Marketing2020: think / do / feel) | [[MKT-061-echipa-de-marketing-se-compune-din-trei-tipuri-de-talente\|MKT-061]] |
-| 16 | Companii-exemplu: Threadless, LEGO, Punchdrunk, Repair Café, Carrotmob, Hertz, Amazon | [[SOC-017-threadless-comunitatea-propune-voteaza-si-cumpara-clientul\|SOC-017]], [[MKT-073-carrotmob-consumatorii-organizati-recompenseaza-o-firma\|MKT-073]], [[EXP-001-experienta-e-o-oferta-economica-distincta-progresia-valorii\|EXP-001]] |
-| 17 | Concluzii: șase mari teme, „cumpără de la un prieten" | — |
+| Intro | Introduction: the prosumer (Toffler), the Web as "flow", mega-trends, the circular economy | [[MKT-042-the-prosumer-the-customer-who-produces-part-of-the-value\|MKT-042]] |
+| 1–3 | The State of Marketing Nation (CMI, Salesforce, 2016); Mega-Trends: Cultural and Technological Shifts (Naisbitt, Frost & Sullivan); Futurists' Predictions; "the adjacent possible" | [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate\|MKT-059]] |
+| 4–5 | Power of Content Marketing: Ushering in the New Age (the CMI definition, the "content machine", trends); Rise of Marketing Technology; big data | [[ADV-086-content-instead-of-advertising-the-thesis-that-ads-do-not\|ADV-086]], [[DIG-011-pull-marketing-attract-assist-affiliate-measured-by-return\|DIG-011]] |
+| 6–7 | Power to the People; Prosumer and Peer-to-Peer Groups: open source, influencers, P2P, swarm intelligence, COINs | [[MKT-042-the-prosumer-the-customer-who-produces-part-of-the-value\|MKT-042]] |
+| 8 | The New Way to Engage: Experiences (Pine & Gilmore, Pike Place Fish Market) | [[EXP-001-experience-is-a-distinct-economic-offering-the-progression\|EXP-001]] |
+| 9 | Post-Capitalism (Rifkin, Mason): from consumption to contribution | [[MKT-042-the-prosumer-the-customer-who-produces-part-of-the-value\|MKT-042]] |
+| 10 | Overview: Five Years from Now: ten changes for 2021; Attract, Assist, Affiliate; ROA; narrative vs. story; five dimensions of competence | [[MKT-060-ten-shifts-forecast-for-2021-from-brands-to-platforms-from\|MKT-060]], [[DIG-011-pull-marketing-attract-assist-affiliate-measured-by-return\|DIG-011]], [[STO-007-the-story-ends-the-narrative-invites-you-in-hagel-s\|STO-007]], [[MKT-061-the-marketing-team-is-made-of-three-types-of-talent-think\|MKT-061]] |
+| 11 | The Future Digital Marketing Agency: six trends | [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its\|CLI-017]] |
+| 12–13 | Overview: 2030 Will Arrive Sooner than You Think; Marketing Beyond 2030: AR, IoT, AI, predictive ads, "gladvertising", Minority Report | [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you\|AIM-031]], [[MKT-060-ten-shifts-forecast-for-2021-from-brands-to-platforms-from\|MKT-060]] |
+| 14 | The Future Marketing Mix Construct: EP²; Kelly's generatives | [[MKT-043-ep2-wuebben-proposes-replacing-the-4ps-with-engagement\|MKT-043]], [[MKT-044-when-the-copy-is-free-value-moves-into-what-cannot-be\|MKT-044]] |
+| 15 | The Future Marketing Department (Marketing2020: think / do / feel) | [[MKT-061-the-marketing-team-is-made-of-three-types-of-talent-think\|MKT-061]] |
+| 16 | Companies Showing the Way Now: Threadless, LEGO, Punchdrunk, The Repair Cafe, Carrotmob, Hertz, Amazon | [[SOC-017-threadless-the-community-proposes-votes-and-buys-and-the\|SOC-017]], [[MKT-073-carrotmob-organized-consumers-reward-a-firm-only-if-it\|MKT-073]], [[EXP-001-experience-is-a-distinct-economic-offering-the-progression\|EXP-001]] |
+| 17 | Wrap-Up and the Road Ahead: six big themes, "buying from a friend" | none |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-042-prosumatorul-clientul-care-produce-o-parte-din-valoare-pe|MKT-042]] — prosumatorul, de la Toffler la Kotler (1986): clientul care produce o parte din valoare.
-- [[MKT-043-ep2-wuebben-propune-inlocuirea-celor-4p-cu-engagement|MKT-043]] — EP² (Engagement, Experiences, Personalization, Passion), propus ca înlocuitor al celor 4P.
-- [[STO-007-povestea-se-incheie-naratiunea-te-invita-distinctia-lui|STO-007]] — diferența lui Hagel dintre poveste (închisă) și narațiune (deschisă, cu publicul ca protagonist).
-- [[EXP-001-experienta-e-o-oferta-economica-distincta-progresia-valorii|EXP-001]] — progresia valorii și cele patru tărâmuri ale experienței (Pine & Gilmore).
-- [[MKT-060-zece-schimbari-prezise-pentru-2021-de-la-branduri-la|MKT-060]] — zece schimbări prezise pentru 2021, verificate retrospectiv.
-- [[MKT-061-echipa-de-marketing-se-compune-din-trei-tipuri-de-talente|MKT-061]] — echipa think / do / feel coordonată de un orchestrator.
-- [[MKT-044-cand-copia-e-gratuita-valoarea-se-muta-in-ce-nu-poate-fi|MKT-044]] — generativele lui Kelly: ce se poate vinde când copia e gratuită.
-- [[MKT-073-carrotmob-consumatorii-organizati-recompenseaza-o-firma|MKT-073]] — Carrotmob: recompensa colectivă condiționată de o schimbare responsabilă.
-- [[SOC-017-threadless-comunitatea-propune-voteaza-si-cumpara-clientul|SOC-017]] — Threadless: comunitatea propune, votează și vinde.
-- [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de|CLI-017]] — agenția viitorului: șase forțe.
-- [[DIG-011-pull-marketing-attract-assist-affiliate-si-masurarea-prin|DIG-011]] — Attract–Assist–Affiliate și „return on attention" (Hagel).
-- [[ADV-086-continut-in-locul-reclamei-teza-ca-reclamele-nu-construiesc|ADV-086]] — teza „conținut în loc de reclame" și limitele ei.
-- [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult|AIM-031]] — reclama care te recunoaște (Minority Report, gladvertising): promisiune și risc.
-- [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum|MKT-059]] — exemplul principal pentru citirea critică a literaturii de trenduri.
+- [[MKT-042-the-prosumer-the-customer-who-produces-part-of-the-value|MKT-042]]: the prosumer, from Toffler to Kotler (1986): the customer who produces part of the value.
+- [[MKT-043-ep2-wuebben-proposes-replacing-the-4ps-with-engagement|MKT-043]]: EP² (Engagement, Experiences, Personalization, Passion), proposed as a replacement for the 4P's.
+- [[STO-007-the-story-ends-the-narrative-invites-you-in-hagel-s|STO-007]]: Hagel's distinction between the story (closed) and the narrative (open, with the audience as protagonist).
+- [[EXP-001-experience-is-a-distinct-economic-offering-the-progression|EXP-001]]: the progression of economic value and the four realms of experience (Pine & Gilmore).
+- [[MKT-060-ten-shifts-forecast-for-2021-from-brands-to-platforms-from|MKT-060]]: ten changes predicted for 2021, checked in hindsight.
+- [[MKT-061-the-marketing-team-is-made-of-three-types-of-talent-think|MKT-061]]: the think / do / feel team, coordinated by an orchestrator.
+- [[MKT-044-when-the-copy-is-free-value-moves-into-what-cannot-be|MKT-044]]: Kelly's generatives: what can be sold when copies are free.
+- [[MKT-073-carrotmob-organized-consumers-reward-a-firm-only-if-it|MKT-073]]: Carrotmob: a collective reward on condition of a responsible change.
+- [[SOC-017-threadless-the-community-proposes-votes-and-buys-and-the|SOC-017]]: Threadless: the community proposes, votes and sells.
+- [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its|CLI-017]]: the agency of the future: six forces.
+- [[DIG-011-pull-marketing-attract-assist-affiliate-measured-by-return|DIG-011]]: Attract, Assist, Affiliate and "return on attention" (Hagel).
+- [[ADV-086-content-instead-of-advertising-the-thesis-that-ads-do-not|ADV-086]]: the "content instead of ads" thesis and its limits.
+- [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you|AIM-031]]: the ad that recognizes you (Minority Report, gladvertising): promise and risk.
+- [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate|MKT-059]]: the main example for reading trend literature critically.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Multe prognoze nu s-au împlinit:** VR „standard" până în 2021, hologramele de mână, conversia de „100%" a reclamelor plătite, 10.000 de dolari pe an suficienți pentru un trai bun în 2030–2040. Altele s-au confirmat: branduri-platformă, meme, creatori, AI ca „amplificator cognitiv".
-- **Conflict de interese:** autorul vinde software de content marketing și își promovează firma în text, iar cartea are „bonusuri" și discounturi pentru cititori. Teza „conținut, nu reclame" trebuie citită în această lumină.
-- **Sinteză de seconda mână:** citatele lungi din Kevin Kelly, Pine & Gilmore, Middleton și Talwar ocupă mare parte din carte, iar contribuția originală e mică (EP², câteva cazuri).
-- **Idealizarea prosumatorului:** munca neplătită (recenzii, date) și șoferii Uber sunt prezentați fără nuanță ca „parteneriat"; confidențialitatea apare doar în trecere.
-- **Afirmații fără sursă clară** („80% din reclamele TV nu funcționează", „Wired vândută cu 24 de miliarde de dolari" — eronat) și pasaje spiritualiste (profeția mayașă, „noosfera").
-- Lipsește aproape complet creația publicitară: ideea, craft-ul, evaluarea eficienței.
+- **Many forecasts did not come true:** VR as "standard" by 2021, handheld holograms, "100 percent" conversion for paid ads, 10,000 dollars a year being enough for basic well-being in 2030-2040. Others were confirmed: platform brands, memes, creators, AI as a "cognitive amplifier".
+- **Conflict of interest:** the author sells content marketing software and promotes his company in the text, and the book has "bonuses" and discounts for readers. The "content, not ads" thesis should be read in this light.
+- **Secondhand synthesis:** long quotes from Kevin Kelly, Pine & Gilmore, Middleton and Talwar take up much of the book, and the original contribution is small (EP², a few cases).
+- **An idealized prosumer:** unpaid work (reviews, data) and Uber drivers are presented, without nuance, as a "partnership"; privacy appears only in passing.
+- **Claims without a clear source** ("80 percent" of TV ads "don't work", "Wired sold for 24 billion dollars", which is wrong) and spiritualist passages (the Mayan Prophecy, the "noosphere").
+- Advertising creativity is almost entirely missing: the idea, the craft, the evaluation of effectiveness.
 
-## Citat
+## Quote
 
-> „Make your prospective customers feel like they are buying from a friend." (cap. 17)
+> "Make your prospective customers feel like they are buying from a friend." (ch. 17)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-086-continut-in-locul-reclamei-teza-ca-reclamele-nu-construiesc|ADV-086]] — Conținut în locul reclamei? Teza că reclamele nu construiesc relații și limitele ei
-- [[AIM-031-paradoxul-personalizarii-cu-cat-reclama-stie-mai-mult|AIM-031]] — Paradoxul personalizării: cu cât reclama știe mai mult despre tine, cu atât riscă să te sperie
-- [[CLI-017-agentia-viitorului-sase-forte-care-ii-schimba-modelul-de|CLI-017]] — Agenția viitorului: șase forțe care îi schimbă modelul de afaceri
-- [[DIG-011-pull-marketing-attract-assist-affiliate-si-masurarea-prin|DIG-011]] — Pull marketing: Attract, Assist, Affiliate — și măsurarea prin „return on attention”
-- [[DIG-020-omnicanalul-inseamna-canale-care-se-intaresc-reciproc-se|DIG-020]] — Omnicanalul înseamnă canale care se întăresc reciproc — se construiește pe scenariile critice de cumpărare, cu silozurile sparte, și se măsoară prin valoarea clientului, nu prin clicuri pe canal
-- [[EXP-001-experienta-e-o-oferta-economica-distincta-progresia-valorii|EXP-001]] — Experiența e o ofertă economică distinctă: progresia valorii și cele patru tărâmuri ale lui Pine & Gilmore
-- [[EXP-009-tematizarea-unifica-decorul-si-transforma-o-oferta|EXP-009]] — Tematizarea unifică decorul și transformă o ofertă obișnuită într-o experiență
-- [[MKT-001-marketingul-creeaza-capteaza-comunica-si-livreaza-valoare|MKT-001]] — Marketingul creează, captează, comunică și livrează valoare (definiția AMA)
-- [[MKT-020-mixul-de-marketing-4p-produsul-creeaza-pretul-capteaza|MKT-020]] — Mixul de marketing 4P — produsul creează, prețul captează, plasarea livrează, promovarea comunică valoarea
-- [[MKT-042-prosumatorul-clientul-care-produce-o-parte-din-valoare-pe|MKT-042]] — Prosumatorul: clientul care produce o parte din valoare — pe care Kotler îl vedea, încă din 1986, ca segment de piață
-- [[MKT-043-ep2-wuebben-propune-inlocuirea-celor-4p-cu-engagement|MKT-043]] — EP²: Wuebben propune înlocuirea celor 4P cu Engagement, Experiences, Personalization, Passion
-- [[MKT-044-cand-copia-e-gratuita-valoarea-se-muta-in-ce-nu-poate-fi|MKT-044]] — Când copia e gratuită, valoarea se mută în ce nu poate fi copiat: generativele lui Kevin Kelly
-- [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum|MKT-059]] — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
-- [[MKT-060-zece-schimbari-prezise-pentru-2021-de-la-branduri-la|MKT-060]] — Zece schimbări prezise pentru 2021: de la branduri la platforme, de la mass-media la meme și mișcări
-- [[MKT-061-echipa-de-marketing-se-compune-din-trei-tipuri-de-talente|MKT-061]] — Echipa de marketing se compune din trei tipuri de talente — think, do, feel — coordonate de un orchestrator
-- [[MKT-071-greenwashing-afirmatia-verde-trebuie-dovedita-nu-doar|MKT-071]] — Greenwashing: afirmația verde trebuie dovedită, nu doar comunicată — iar manualele entuziaste ocolesc problema
-- [[MKT-073-carrotmob-consumatorii-organizati-recompenseaza-o-firma|MKT-073]] — Carrotmob: consumatorii organizați recompensează o firmă doar dacă face o schimbare responsabilă
-- [[SOC-017-threadless-comunitatea-propune-voteaza-si-cumpara-clientul|SOC-017]] — Threadless: comunitatea propune, votează și cumpără — clientul devine compania
-- [[STO-007-povestea-se-incheie-naratiunea-te-invita-distinctia-lui|STO-007]] — Povestea se încheie, narațiunea te invită: distincția lui Hagel între story și narrative
+- [[ADV-086-content-instead-of-advertising-the-thesis-that-ads-do-not|ADV-086]]: Content instead of advertising? The thesis that ads do not build relationships, and its limits
+- [[AIM-031-the-personalization-paradox-the-more-an-ad-knows-about-you|AIM-031]]: The personalization paradox: the more an ad knows about you, the more it risks scaring you
+- [[CLI-017-the-agency-of-the-future-six-forces-that-are-changing-its|CLI-017]]: The agency of the future: six forces that are changing its business model
+- [[DIG-011-pull-marketing-attract-assist-affiliate-measured-by-return|DIG-011]]: Pull marketing: Attract, Assist, Affiliate, measured by "return on attention"
+- [[DIG-020-omnichannel-means-channels-that-reinforce-each-other-it-is|DIG-020]]: Omnichannel means channels that reinforce each other: it is built on the critical purchase scenarios, with the silos broken, and measured by customer value, not by clicks per channel
+- [[EXP-001-experience-is-a-distinct-economic-offering-the-progression|EXP-001]]: Experience is a distinct economic offering: the progression of value and Pine & Gilmore's four realms
+- [[EXP-009-theming-unifies-the-decor-and-turns-an-ordinary-offering|EXP-009]]: Theming unifies the decor and turns an ordinary offering into an experience
+- [[MKT-001-marketing-creates-captures-communicates-and-delivers-value|MKT-001]]: Marketing creates, captures, communicates and delivers value (the AMA definition)
+- [[MKT-020-the-4p-marketing-mix-product-creates-price-captures-place|MKT-020]]: The 4P marketing mix: product creates, price captures, place delivers, promotion communicates value
+- [[MKT-042-the-prosumer-the-customer-who-produces-part-of-the-value|MKT-042]]: The prosumer: the customer who produces part of the value, and whom Kotler already saw in 1986 as a market segment
+- [[MKT-043-ep2-wuebben-proposes-replacing-the-4ps-with-engagement|MKT-043]]: EP²: Wuebben proposes replacing the 4Ps with Engagement, Experiences, Personalization, Passion
+- [[MKT-044-when-the-copy-is-free-value-moves-into-what-cannot-be|MKT-044]]: When the copy is free, value moves into what cannot be copied: Kevin Kelly's generatives
+- [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate|MKT-059]]: Trend books are read as hypotheses, not maps: how to separate signal from filler
+- [[MKT-060-ten-shifts-forecast-for-2021-from-brands-to-platforms-from|MKT-060]]: Ten shifts forecast for 2021: from brands to platforms, from mass media to memes and movements
+- [[MKT-061-the-marketing-team-is-made-of-three-types-of-talent-think|MKT-061]]: The marketing team is made of three types of talent (think, do, feel), coordinated by an orchestrator
+- [[MKT-071-greenwashing-a-green-claim-has-to-be-proved-not-only|MKT-071]]: Greenwashing: a green claim has to be proved, not only communicated, and the enthusiastic textbooks sidestep the problem
+- [[MKT-073-carrotmob-organized-consumers-reward-a-firm-only-if-it|MKT-073]]: Carrotmob: organized consumers reward a firm only if it makes a responsible change
+- [[SOC-017-threadless-the-community-proposes-votes-and-buys-and-the|SOC-017]]: Threadless: the community proposes, votes and buys, and the customer becomes the company
+- [[STO-007-the-story-ends-the-narrative-invites-you-in-hagel-s|STO-007]]: The story ends, the narrative invites you in: Hagel's distinction between story and narrative
 <!-- backlinks:end -->

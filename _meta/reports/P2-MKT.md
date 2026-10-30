@@ -1,89 +1,89 @@
-# Raport P2-MKT — integrarea skill-ului marketing-fundamentals
+# Report P2-MKT: integration of the marketing-fundamentals skill
 
-Agent P2-MKT, Faza 2. Skill: **MKT — Fundamente și strategie de marketing** (`20-skills/marketing-fundamentals/`).
+Agent P2-MKT, Phase 2. Skill: **MKT: Marketing fundamentals and strategy** (`20-skills/marketing-fundamentals/`).
 
-## 1. Note înainte și după
+## 1. Notes before and after
 
-| | Număr |
+| | Count |
 |---|---|
-| Note la început | 75 (G01: 29, G02: 16, G03: 24, G04: 1, G09: 1, G10: 1, G12: 1, G15: 2) |
-| Comasate (șterse) | 4 |
-| Note noi (Faza 2) | 2 |
-| **Note la final** | **73** |
+| Notes at the start | 75 (G01: 29, G02: 16, G03: 24, G04: 1, G09: 1, G10: 1, G12: 1, G15: 2) |
+| Merged (deleted) | 4 |
+| New notes (Phase 2) | 2 |
+| **Notes at the end** | **73** |
 
-Toate cele 73 de note au fost revizuite și au `status: growing`. Fiecare are 4–6 legături tipizate în „Legături", cu cel puțin una spre alt grup de cărți sau alt skill. `kb.py check`: zero probleme în fișierele MKT. Cele 8 legături rupte care țintesc ID-uri MKT vin din alte foldere și indică exact cele 4 note comasate (se rezolvă la redirect).
+All 73 notes were revised and have `status: growing`. Each has 4–6 typed links in "Links", with at least one to another book group or another skill. `kb.py check`: zero problems in the MKT files. The 8 broken links that target MKT IDs come from other folders and point exactly to the 4 merged notes (they resolve at redirect).
 
-Lungimi: între 339 și 480 de cuvinte în corp. Notele peste 400 de cuvinte au tabele de model sau sunt rezultatul unei comasări (MKT-0127, 0109, 0209, 0301), ori sunt note-ancoră (MKT-0201, 0216).
+Lengths: between 339 and 480 words in the body. The notes over 400 words have model tables or result from a merge (MKT-0127, 0109, 0209, 0301), or are anchor notes (MKT-0201, 0216).
 
-## 2. Comasări (`merges-MKT.txt`)
+## 2. Merges (`merges-MKT.txt`)
 
-| DROP | KEEP | De ce |
+| DROP | KEEP | Why |
 |---|---|---|
-| MKT-0103 (erele Grewal-Levy: producție → vânzări → piață → valoare) | MKT-0127 | aceeași evoluție descrisă de Kotler-Armstrong ca cinci filozofii; nota KEEP le pune alături și arată unde diferă (istorie liniară vs. opțiuni care coexistă; „valoare" vs. „societal") |
-| MKT-0203 (3.0: co-creare, comunitizare, caracter în locul 4P, STP, brand building) | MKT-0209 | aceeași idee la Kotler, în două ediții; KEEP are acum un tabel 4P/STP/poziționare → 3.0 → 4.0 și explică revizuirea |
-| MKT-0304 (von Scheel: outside-in și inside-out) | MKT-0109 | e analiza de situație SWOT sub alt nume (piață vs. capabilități); KEEP arată convergența și ce adaugă von Scheel (verificarea presupunerilor, lanțul valoric) |
-| MKT-0312 (dezbatere: alegeri în ordine sau simultan) | MKT-0301 | tensiune internă a aceleiași cărți, despre aceleași trei alegeri; integrată ca paragraf și ca test de coerență |
+| MKT-0103 (the Grewal-Levy eras: production → sales → market → value) | MKT-0127 | the same evolution that Kotler-Armstrong describe as five philosophies; the KEEP note sets them side by side and shows where they differ (a linear history vs. options that coexist; "value" vs. "societal") |
+| MKT-0203 (3.0: co-creation, communitization, character instead of the 4P, STP, brand building) | MKT-0209 | the same idea in Kotler, in two editions; KEEP now has a table 4P/STP/positioning → 3.0 → 4.0 and explains the revision |
+| MKT-0304 (von Scheel: outside-in and inside-out) | MKT-0109 | it is the SWOT situation analysis under another name (market vs. capabilities); KEEP shows the convergence and what von Scheel adds (checking assumptions, the value chain) |
+| MKT-0312 (debate: choices in order or simultaneously) | MKT-0301 | an internal tension of the same book, about the same three choices; integrated as a paragraph and as a coherence test |
 
-Am analizat și am păstrat separat (legate între ele) perechile care sunt înrudite, dar nu identice: MKT-0106 / 0204 / 0320 (trei ierarhii diferite ale responsabilității sociale), MKT-0113 / 1501 (dezacord explicit despre selecția țintei), MKT-0107 / 0310 (avantaj competitiv la Grewal și la Porter/von Scheel), MKT-0313 / 0401 (concept vs. critică), MKT-0104 / 0314 / 1001 (mixul și alternativele lui), MKT-0302 / 0108 (ciclu strategic vs. plan de marketing).
+I analyzed, and kept separate (linked to each other), the pairs that are related but not identical: MKT-0106 / 0204 / 0320 (three different hierarchies of social responsibility), MKT-0113 / 1501 (an explicit disagreement about target selection), MKT-0107 / 0310 (competitive advantage in Grewal and in Porter/von Scheel), MKT-0313 / 0401 (concept vs. critique), MKT-0104 / 0314 / 1001 (the mix and its alternatives), MKT-0302 / 0108 (strategic cycle vs. marketing plan).
 
-## 3. Note noi
+## 3. New notes
 
-| ID | Titlu | Sursa verificată în `90-library/text/` |
+| ID | Title | Source checked in `90-library/text/` |
 |---|---|---|
-| MKT-9901 | Cele cinci forțe ale lui Porter arată cine îți poate lua din marjă | SRC-007 cap. 3, p. 64 și 78 (lista forțelor); SRC-031 anexa 2A, p. 428; SRC-002 cap. 7, p. 215-216 (aplicare pe piața rurală) |
-| MKT-9902 | Strategia globală de marketing decide, P cu P, cât standardizezi și cât adaptezi | SRC-001 cap. 8, p. 264-270 și glosarul („glocalization") |
+| MKT-9901 | Porter's five forces show who can take part of your margin | SRC-007 ch. 3, pp. 64 and 78 (the list of forces); SRC-031 appendix 2A, p. 428; SRC-002 ch. 7, pp. 215-216 (applied to the rural market) |
+| MKT-9902 | A global marketing strategy decides, P by P, how much to standardize and how much to adapt | SRC-001 ch. 8, pp. 264-270 and the glossary ("glocalization") |
 
-Motivul: scope-ul skill-ului numește explicit „5 forțe", dar nicio notă nu le trata. Marketingul global (standardizare vs. adaptare a mixului) e un fundament evident pentru campaniile pe mai multe piețe și era acoperit doar din unghiul comunicării (ADV-1521) și al brandului (BRD-0516). Atenție: biblioteca nu conține cartea lui Porter. MKT-9901 se sprijină pe enumerări și aplicări din trei surse și marchează explicit ce e sinteza notei.
+The reason: the skill's scope explicitly names "five forces", but no note covered them. Global marketing (standardizing vs. adapting the mix) is an obvious foundation for campaigns across several markets and was covered only from the angle of communication (ADV-1521) and of the brand (BRD-0516). Caution: the library does not contain Porter's book. MKT-9901 rests on lists and applications from three sources and marks explicitly what is the note's own synthesis.
 
-Am adăugat și conținut nou în note existente, din surse verificate: Value Proposition Canvas și dezacordul Zahay vs. Grewal-Levy (propunerea de valoare nu e o declarație de poziționare) în MKT-0116, din SRC-029 p. 77-79.
+I also added new content to existing notes, from checked sources: the Value Proposition Canvas and the Zahay vs. Grewal-Levy disagreement (the value proposition is not a positioning statement) in MKT-0116, from SRC-029 pp. 77-79.
 
-## 4. Alte revizii
+## 4. Other revisions
 
-- **Titluri schimbate** (fișierele păstrează vechiul slug; `renumber` le redenumește): MKT-0127, 0109, 0209, 0301 (comasări), MKT-0309 (menționează acum că modelul e Cynefin, necitat de sursă).
-- **Nivel**: MKT-0207 1→2, MKT-1001 1→2, MKT-1201 2→3. **Kind**: MKT-0315 framework → case.
-- **Convergențe și dezacorduri** scrise explicit în aproape toate notele, de exemplu: definiția AMA reluată de Kotler 5.0 și contestată de Wuebben (0101); CLV ca retenție vs. loialitatea ca recomandare în 5A (0105 ↔ 0210); Percy vs. Grewal despre selecția țintei (1501 ↔ 0113); Trout & Ries, Barre & Gayrard-Carrera și Kotler 4.0 despre poziționare (0115); planul anual vs. marketingul agil (0108 ↔ 0214); ciclul de viață vs. cicluri scurtate (0118); Rogers vs. curba 5/15/80 necitată a lui von Scheel (0119 ↔ 0308); avantajul pionierului, mai mare în INS-0406 decât în manual (0119); purpose ca diferențiator (3.0), ca igienă (5.0) sau inutil pentru unele branduri (0213, BRD-0510); greenwashingul numit de Grewal-Levy, ocolit de Viturino (0323).
-- Relațiile tipizate au fost corectate acolo unde direcția era inversată (de ex. o notă de bază care „extindea" o notă derivată).
+- **Titles changed** (the files keep the old slug; `renumber` renames them): MKT-0127, 0109, 0209, 0301 (merges), MKT-0309 (now mentions that the model is Cynefin, uncredited by the source).
+- **Level**: MKT-0207 1→2, MKT-1001 1→2, MKT-1201 2→3. **Kind**: MKT-0315 framework → case.
+- **Convergences and disagreements** written explicitly in almost every note, for example: the AMA definition taken up by Kotler 5.0 and contested by Wuebben (0101); CLV as retention vs. loyalty as recommendation in the 5A (0105 ↔ 0210); Percy vs. Grewal on target selection (1501 ↔ 0113); Trout & Ries, Barre & Gayrard-Carrera and Kotler 4.0 on positioning (0115); the annual plan vs. agile marketing (0108 ↔ 0214); the life cycle vs. shortened cycles (0118); Rogers vs. von Scheel's uncited 5/15/80 curve (0119 ↔ 0308); the pioneer advantage, larger in INS-0406 than in the textbook (0119); purpose as a differentiator (3.0), as hygiene (5.0) or useless for some brands (0213, BRD-0510); greenwashing named by Grewal-Levy, sidestepped by Viturino (0323).
+- Typed relations were fixed where the direction was reversed (e.g. a basic note that "extended" a derived note).
 
-## 5. Cărțile slabe din G03: ce am păstrat și de ce
+## 5. The weak books from G03: what I kept and why
 
-| Sursă | Rating | Ce rămâne |
+| Source | Rating | What remains |
 |---|---|---|
-| SRC-007 von Scheel | ★★☆☆☆ | 10 note (0301, 0302, 0303, 0305-0311), după comasarea 0304 → 0109 și 0312 → 0301. Le-am păstrat pentru că sunt instrumente de predat care nu există altundeva în bibliotecă (trei alegeri, Can–Want–Should, niveluri de trend, driver/forță, 80-15-5, Cynefin). Fiecare notă spune acum explicit ce e nesusținut (procente fără metodă, Cynefin și Rogers necitați, atribuirea „cu Steve Jobs") și cere folosirea lor ca euristici. |
-| SRC-008 Wuebben | ★★★☆☆ | 6 note (0313-0318) + contribuții în 0319, 0323. Valoroase: prosumatorul, EP², generativele lui Kelly, Carrotmob, verificarea retrospectivă a prognozelor. |
-| SRC-009 DX Review | ★☆☆☆☆ | doar ca exemplu negativ în 0319. |
-| SRC-010 Ejeke | ★★☆☆☆ | doar ca sursă secundară în 0319, 0320, 0323. |
-| SRC-011 Viturino | ★★☆☆☆ | 5 note (0320-0324). Le-am păstrat pentru vocabular și checklist-uri (materialitate, scope 1-2-3, design circular). Valoarea lor vine din încadrarea critică a notelor (0323 critică explicit sursa). |
+| SRC-007 von Scheel | ★★☆☆☆ | 10 notes (0301, 0302, 0303, 0305-0311), after merging 0304 → 0109 and 0312 → 0301. I kept them because they are teaching tools that exist nowhere else in the library (three choices, Can-Want-Should, trend levels, driver/force, 80-15-5, Cynefin). Each note now says explicitly what is unsupported (percentages without a method, Cynefin and Rogers uncredited, the attribution "with Steve Jobs") and asks that they be used as heuristics. |
+| SRC-008 Wuebben | ★★★☆☆ | 6 notes (0313-0318) + contributions in 0319, 0323. Valuable: the prosumer, EP², Kelly's generatives, Carrotmob, the retrospective check of forecasts. |
+| SRC-009 DX Review | ★☆☆☆☆ | only as a negative example in 0319. |
+| SRC-010 Ejeke | ★★☆☆☆ | only as a secondary source in 0319, 0320, 0323. |
+| SRC-011 Viturino | ★★☆☆☆ | 5 notes (0320-0324). I kept them for vocabulary and checklists (materiality, scopes 1-2-3, circular design). Their value comes from the critical framing of the notes (0323 explicitly criticizes the source). |
 
-SRC-002 Policarpio (★★☆☆☆) rămâne sursă secundară; erorile ei sunt semnalate în notele unde apare (0101, 0114, 0121, 0127, 0129).
+SRC-002 Policarpio (★★☆☆☆) remains a secondary source; its errors are flagged in the notes where it appears (0101, 0114, 0121, 0127, 0129).
 
-## 6. Duplicate între skill-uri (nu le-am atins; sunt legate)
+## 6. Duplicates across skills (I did not touch them; they are linked)
 
-- **Declarația de poziționare / propunerea de valoare**: MKT-0116 ↔ BRD-0503 (Kellogg, cu motivul de a crede), BRF-0705 (în brief), BRF-1502 (Percy, trei variabile), DIG-1004 (formula digitală). Aceeași formulă apare în cinci note. Propun BRD-0503 ca locul canonic al *declarației*. MKT-0116 rămâne nota despre *conceptul* de propunere de valoare (cercurile, Value Proposition Canvas).
-- **Harta perceptuală / poziționarea**: MKT-0115 ↔ BRD-0607 (aceeași hartă în patru pași + șase teste), BRD-0605, ADV-0610.
-- **Ecuația valorii**: MKT-0102 ↔ BRD-0506.
-- **Calitativ vs. cantitativ**: MKT-0126 ↔ INS-0603 (aproape identice ca idee centrală); INS-1303 nuanțează focus-grupul.
+- **The positioning statement / the value proposition**: MKT-0116 ↔ BRD-0503 (Kellogg, with the reason to believe), BRF-0705 (in the brief), BRF-1502 (Percy, three variables), DIG-1004 (the digital formula). The same formula appears in five notes. I propose BRD-0503 as the canonical place of the *statement*. MKT-0116 remains the note on the *concept* of the value proposition (the circles, the Value Proposition Canvas).
+- **The perceptual map / positioning**: MKT-0115 ↔ BRD-0607 (the same map in four steps + six tests), BRD-0605, ADV-0610.
+- **The value equation**: MKT-0102 ↔ BRD-0506.
+- **Qualitative vs. quantitative**: MKT-0126 ↔ INS-0603 (almost identical in their central idea); INS-1303 nuances the focus group.
 - **Greenwashing / purpose-washing**: MKT-0323 ↔ BRD-0402, STO-0707.
-- **Customer journey**: MKT-0210 (5A) ↔ DIG-0905, ADV-0501, DIG-1032 (KPI pe etapele 5A).
+- **Customer journey**: MKT-0210 (5A) ↔ DIG-0905, ADV-0501, DIG-1032 (KPIs on the 5A stages).
 - **Persona vs. segment**: MKT-0113 / 1501 ↔ DIG-1006, INS-1306.
-- **Segmentul de unu**: MKT-0114 ↔ DIG-0204.
-- **Planul**: MKT-0108 ↔ DIG-1002, ADV-1506.
-- **Mixul alternativ**: MKT-0104 / 0128 ↔ EXP-1201 (7E), DIG-1001 (7A). Sunt alternative, nu duplicate.
-- **Pionierul**: MKT-0119 ↔ INS-0406, BRD-0514.
+- **The segment of one**: MKT-0114 ↔ DIG-0204.
+- **The plan**: MKT-0108 ↔ DIG-1002, ADV-1506.
+- **The alternative mix**: MKT-0104 / 0128 ↔ EXP-1201 (7E), DIG-1001 (7A). They are alternatives, not duplicates.
+- **The pioneer**: MKT-0119 ↔ INS-0406, BRD-0514.
 - **Global**: MKT-9902 ↔ ADV-1521, BRD-0516.
-- **Servicii**: MKT-0123 ↔ BRD-0520.
+- **Services**: MKT-0123 ↔ BRD-0520.
 
-## 7. Goluri rămase
+## 7. Remaining gaps
 
-- **Porter** e acoperit doar indirect (fără textul original). MKT-9901 e o notă modestă și ar câștiga dintr-o sursă primară.
-- **Marketingul B2B** (Grewal cap. 7 citit doar la nivel de cuprins) nu are notă MKT; o parte e în CLI.
-- **Metricile de marketing** (ROMI, cotă de piață, NPS) sunt împrăștiate între ADV, DIG și MKT-0322; nu există o notă MKT de sinteză.
-- **Strategiile competitive după poziția pe piață** (lider, challenger, urmăritor, nișă) lipsesc; nu am verificat dacă biblioteca le acoperă.
-- **Glocalizare/grobalizare (Ritzer)** din SRC-013, semnalate de G04, nu au fost notate.
-- Reglementarea și etica marketingului în context UE/RO (semnalate de G01) rămân fără casă.
+- **Porter** is covered only indirectly (without the original text). MKT-9901 is a modest note and would gain from a primary source.
+- **B2B marketing** (Grewal ch. 7 read only at table-of-contents level) has no MKT note; part of it is in CLI.
+- **Marketing metrics** (ROMI, market share, NPS) are scattered across ADV, DIG and MKT-0322; there is no MKT synthesis note.
+- **Competitive strategies by market position** (leader, challenger, follower, niche) are missing; I did not check whether the library covers them.
+- **Glocalization/grobalization (Ritzer)** from SRC-013, flagged by G04, were not noted.
+- The regulation and ethics of marketing in the EU/RO context (flagged by G01) still have no home.
 
-## 8. Pentru orchestrator
+## 8. For the orchestrator
 
-- Legăturile din alte foldere spre ID-urile comasate (SRC-001 → MKT-0103; SRC-003, BRD-0201, BRD-0203, SOC-0201 → MKT-0203; SRC-007, ADV-0611 → MKT-0304; SRC-007 → MKT-0312) se rezolvă cu `merges-MKT.txt`.
-- În legăturile noi am folosit deja ID-urile KEEP din listele de comasare ale celorlalți agenți, așa cum erau la momentul lucrului (ADV-1506, BRD-0512, ADV-0604, SOC-1115, ADV-1533, BRD-0606, DIG-0930, DIG-0905, EXP-0901, INS-1206). Dacă alți agenți comasează după acest moment, `redirect` trebuie rulat și pe folderul MKT.
-- `SKILL.md` conține toate cele 73 de note, în ordinea traseului (6 secțiuni). `renumber` va produce MKT-001 = MKT-0101 … MKT-073 = MKT-0318.
-- Copii de siguranță ale notelor dinaintea Fazei 2 sunt în scratchpad-ul agentului (`P2-MKT/backup/`).
+- The links from other folders to the merged IDs (SRC-001 → MKT-0103; SRC-003, BRD-0201, BRD-0203, SOC-0201 → MKT-0203; SRC-007, ADV-0611 → MKT-0304; SRC-007 → MKT-0312) are resolved with `merges-MKT.txt`.
+- In the new links I already used the KEEP IDs from the other agents' merge lists, as they stood at the time of the work (ADV-1506, BRD-0512, ADV-0604, SOC-1115, ADV-1533, BRD-0606, DIG-0930, DIG-0905, EXP-0901, INS-1206). If other agents merge after this point, `redirect` must also be run on the MKT folder.
+- `SKILL.md` contains all 73 notes, in path order (6 sections). `renumber` will produce MKT-001 = MKT-0101 … MKT-073 = MKT-0318.
+- Backup copies of the notes from before Phase 2 are in the agent's scratchpad (`P2-MKT/backup/`).

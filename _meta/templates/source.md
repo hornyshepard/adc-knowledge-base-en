@@ -1,42 +1,42 @@
 ---
 id: SRC-000
-title: Titlul original al cărții
+title: Original title of the book
 type: source
 authors: []
 year: 0000
 language: en
-file: Numele fișierului original
+file: Name of the original file
 text: 90-library/text/slug.txt
 skills: []
 relevance: 3
 level: 2
 ---
 
-# Titlul original al cărții
+# Original title of the book
 
-**Autor(i), anul.** Editura, dacă se cunoaște.
+**Author(s), year.** Publisher, if known.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** 2–4 propoziții.
-- **Teza centrală:** ideea principală a cărții, într-o frază.
-- **Pentru cine și când:** ce student / ce etapă a cursului.
-- **Relevanță pentru ADC:** ★★★☆☆ (1–5) — de ce. Puncte forte și limite (carte veche? superficială? foarte practică?).
+- **What it is about:** 2–4 sentences.
+- **Central thesis:** the main idea of the book, in one sentence.
+- **For whom and when:** which student / which stage of the course.
+- **Relevance for ADC:** ★★★☆☆ (1–5): why. Strengths and limits (an old book? superficial? very practical?).
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
 | 1 | … | [[XXX-000]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[XXX-000]] — titlul notei (o propoziție despre ce aduce cartea aici)
+- [[XXX-000]]: title of the note (one sentence on what the book brings here)
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Limite, idei depășite, afirmații nesusținute.
+- Limits, outdated ideas, unsupported claims.
 
-## Citat
+## Quote
 
-> Cel mult un citat scurt (sub 15 cuvinte), cu pagina.
+> At most one short verbatim quote (under 15 words), with the page.

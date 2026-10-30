@@ -1,29 +1,29 @@
-# 90-library — textele integrale (doar local)
+# 90-library: the full texts (local only)
 
-Acest folder conține, **doar pe calculatorul tău**, textul extras din copiile cărților (`text/<slug>.txt`) și transcrierea audiobook-ului (`text/audiobook/NN.txt`). Agenții AI le folosesc ca să verifice o notă sau să meargă mai adânc într-un capitol.
+This folder holds, **only on your computer**, the text extracted from the copies of the books (`text/<slug>.txt`) and the transcript of the audiobook (`text/audiobook/NN.txt`). AI agents use them to check a note or to go deeper into a chapter.
 
-Textele **nu sunt în repository** (vezi `.gitignore`): sunt cărți protejate de drepturi de autor. Repository-ul conține doar notele (parafrazate, cu trimiteri la capitole/pagini) și uneltele.
+The texts are **not in the repository** (see `.gitignore`): they are copyrighted books. The repository contains only the notes (paraphrased, with references to chapters/pages) and the tools.
 
-## Cum regenerezi textele
+## How to regenerate the texts
 
-Lucrează pe o **copie** a folderului cu cărți, nu pe originale.
+Work on a **copy** of the books folder, not on the originals.
 
 ```bash
 pip install -r tools/requirements.txt
 ```
 
 ```bash
-python tools/extract_texts.py --src "/cale/spre/copia/Books for ADC School" --out 90-library/text
+python tools/extract_texts.py --src "/path/to/the/copy/Books for ADC School" --out 90-library/text
 ```
 
-Audiobook-ul (Apple Silicon, model Whisper local):
+The audiobook (Apple Silicon, local Whisper model):
 
 ```bash
 pip install mlx-whisper
 ```
 
 ```bash
-python tools/transcribe_audiobook.py --src "/cale/spre/copia/Audiobook_Strategic Advertising Management 6th Edition"
+python tools/transcribe_audiobook.py --src "/path/to/the/copy/Audiobook_Strategic Advertising Management 6th Edition"
 ```
 
-Corespondența dintre ID-urile surselor (`SRC-0XX`) și fișiere este în `_meta/sources.json`.
+The mapping between the source IDs (`SRC-0XX`) and the files is in `_meta/sources.json`.

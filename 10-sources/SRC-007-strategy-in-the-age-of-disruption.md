@@ -14,77 +14,77 @@ level: 2
 
 # Strategy in the Age of Disruption
 
-**Henrik von Scheel, Ciprian Popa, Joshua von Scheel, 2024** (copyright 2024; unele cataloage o datează 2023). John Wiley & Sons, Hoboken. ~61.000 de cuvinte, dar foarte vizual: multe pagini sunt diagrame, citate și glume. Paginile citate în note sunt paginile PDF (ca în `.toc.txt`), cu ~2 mai mari decât numerotarea tipărită.
+**Henrik von Scheel, Ciprian Popa, Joshua von Scheel, 2024** (copyright 2024; some catalogs date it 2023). John Wiley & Sons, Hoboken. About 61,000 words, but highly visual: many pages are diagrams, quotes and jokes. The pages cited in the notes are the PDF pages (as in the `.toc.txt`), about 2 higher than the printed numbering.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** un manual de strategie pentru executivi, în trei faze: poziționare strategică (lanțul valoric, privirea din afară și din interior), alegeri strategice (ce nu faci, unde ești diferit, pe ce te concentrezi) și execuție (Operating Model 4.0, șase faze de livrare, „Călătoria eroului" ca program de atelier). Capitolul 4 (aprox. 80 de pagini) e un eseu futurist despre a patra revoluție industrială și cele 77 de megatrenduri.
-- **Teza centrală:** într-o lume cu schimbare exponențială, strategia înseamnă alegeri explicite, făcute în ordine, sprijinite pe o hartă vizuală a organizației (lanțul valoric 4.0 și șase modele de business) și pe citirea tendințelor ca forțe și drivere.
-- **Pentru cine și când:** studenții de strategie / account planning, în modulul MKT despre strategie în contexte disruptive și despre citirea trendurilor. Nu e o carte de publicitate.
-- **Relevanță pentru ADC:** ★★☆☆☆ — câteva instrumente bune și ușor de predat (cele trei alegeri, Can–Want–Should, regula 80-15-5, nivelurile trendurilor, forțe vs drivere, miturile creativității). Restul e consultanță de arhitectură enterprise, greu de folosit într-o agenție, iar tonul e autopromoțional.
+- **What it is about:** a strategy handbook for executives, in three phases: strategic positioning (the value chain, the outside-in and inside-out view), strategic choices (what not to do, where to be different, what to focus on) and execution (Operating Model 4.0, six phases of delivery, the "Hero's Journey" as a workshop program). Chapter 4 (about 80 pages) is a futurist essay on the 4th Industrial Revolution and its 77 megatrends.
+- **Central thesis:** in a world of exponential change, strategy means explicit choices, made in order, supported by a visual map of the organization (Value Chain 4.0 and six business models) and by reading trends as forces and drivers.
+- **For whom and when:** students of strategy and account planning, in the MKT module on strategy in disruptive contexts and on reading trends. It is not an advertising book.
+- **Relevance for ADC:** ★★☆☆☆. A few good tools that are easy to teach (the three choices, Can–Want–Should, the 80-15-5 rule, the levels of trends, forces vs. drivers, the myths of creativity). The rest is enterprise architecture consulting, hard to use in an agency, and the tone is self-promotional.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| 1 (p. 13–46) | Prefață, autori, „learn–unlearn–relearn", durata de viață a firmelor Fortune 500 | [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie\|MKT-051]] |
-| 2 (p. 47–61) | De ce eșuează strategiile, biasuri, natura strategiei, regula 40-20-40 | [[MKT-049-strategia-inseamna-trei-alegeri-ce-nu-faci-unde-esti\|MKT-049]], [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie\|MKT-051]], [[MKT-053-cele-mai-multe-strategii-esueaza-din-cauza-biasurilor\|MKT-053]] |
-| 3 (p. 63–79) | Outside-in / inside-out, modelul de business, lanțul valoric Porter → 4.0 | [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe\|MKT-007]] |
-| 4 (p. 81–162) | A patra revoluție industrială, 77 de megatrenduri, opt etape de „(r)evoluție", Web 3, „marile progrese" ale omenirii | [[MKT-058-o-tendinta-apare-intai-ca-driver-oportunitate-de-inovare-si\|MKT-058]], [[MKT-057-trendurile-se-citesc-pe-trei-niveluri-megatrend-10-15-ani\|MKT-057]] |
-| 5 (p. 163–221) | Alegeri strategice: șase modele de business, Can–Want–Should, contexte de decizie, diferențiere, 80-15-5, decizii simultane | [[MKT-052-can-want-should-zona-de-pericol-se-afla-intre-ce-poti-si-ce\|MKT-052]], [[MKT-056-regula-80-15-5-cele-mai-multe-activitati-trebuie-doar-sa\|MKT-056]], [[MKT-054-contextul-decide-metoda-patru-tipuri-de-cunoscut-si\|MKT-054]], [[MKT-050-diferentierea-inseamna-sa-fii-altfel-nu-mai-bun-iar\|MKT-050]], [[MKT-055-transformarea-modifica-ce-exista-inovarea-adauga-ceva-nou\|MKT-055]], [[MKT-049-strategia-inseamna-trei-alegeri-ce-nu-faci-unde-esti\|MKT-049]] |
-| 6 (p. 223–233) | Execuția: Operating Model 4.0, șase faze ale „științei livrării" | [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie\|MKT-051]] |
-| 7 (p. 235–297) | „Călătoria eroului" (12 pași) ca atelier de strategie în cinci pași; forțe, drivere, niveluri de trend | [[MKT-058-o-tendinta-apare-intai-ca-driver-oportunitate-de-inovare-si\|MKT-058]], [[MKT-057-trendurile-se-citesc-pe-trei-niveluri-megatrend-10-15-ani\|MKT-057]] |
-| 8 (p. 299–308) | Ultimele cuvinte: eșecul inteligent, oamenii, capcanele, „moartea geniului" | [[IDE-014-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii\|IDE-014]] |
-| Anexe (p. 309–320) | Șabloane reutilizabile (doar grafice) | — |
+| 1 (pp. 13–46) | Introduction: preface, authors, "Learn, Unlearn, and Relearn", the life span of Fortune 500 firms | [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with\|MKT-051]] |
+| 2 (pp. 47–61) | The Art of Strategy + Execution: why strategies fail, biases, the nature of strategy, the 40-20-40 rule | [[MKT-049-strategy-means-three-choices-what-not-to-do-where-to-be\|MKT-049]], [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with\|MKT-051]], [[MKT-053-most-strategies-fail-because-of-decision-makers-biases-not\|MKT-053]] |
+| 3 (pp. 63–79) | Strategic Positioning: outside-in / inside-out, the business model, Porter's value chain → Value Chain 4.0 | [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths\|MKT-007]] |
+| 4 (pp. 81–162) | The 4th Industrial Revolution: 77 megatrends, eight stages of (R)evolution, Web 3, humanity's "great progress" | [[MKT-058-a-trend-first-appears-as-a-driver-an-innovation-opportunity\|MKT-058]], [[MKT-057-trends-are-read-on-three-levels-megatrend-10-15-years\|MKT-057]] |
+| 5 (pp. 163–221) | Strategic Choices: six business models, Can–Want–Should, decision contexts, differentiation, 80-15-5, simultaneous decisions | [[MKT-052-can-want-should-the-danger-zone-lies-between-what-you-can\|MKT-052]], [[MKT-056-the-80-15-5-rule-most-activities-only-need-to-meet-the\|MKT-056]], [[MKT-054-context-decides-the-method-four-kinds-of-known-and-unknown\|MKT-054]], [[MKT-050-differentiation-means-being-different-not-better-and-higher\|MKT-050]], [[MKT-055-transformation-alters-what-exists-innovation-adds-something\|MKT-055]], [[MKT-049-strategy-means-three-choices-what-not-to-do-where-to-be\|MKT-049]] |
+| 6 (pp. 223–233) | Strategy Execution: Operating Model 4.0, six phases of "the science of delivery" | [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with\|MKT-051]] |
+| 7 (pp. 235–297) | Master the Art of Strategy Execution: the "Hero's Journey" (12 steps) as a five-step strategy workshop; forces, drivers, levels of trends | [[MKT-058-a-trend-first-appears-as-a-driver-an-innovation-opportunity\|MKT-058]], [[MKT-057-trends-are-read-on-three-levels-megatrend-10-15-years\|MKT-057]] |
+| 8 (pp. 299–308) | Famous Last Words: intelligent failure, people, pitfalls, "Death of the Genius" | [[IDE-014-genius-is-a-team-sport-three-myths-of-creativity-that-block\|IDE-014]] |
+| Appendices (pp. 309–320) | Reusable work templates (graphics only) | none |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[MKT-049-strategia-inseamna-trei-alegeri-ce-nu-faci-unde-esti|MKT-049]] — strategia ca trei alegeri în ordine: ce nu faci, unde ești diferit, pe ce te concentrezi.
-- [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie|MKT-051]] — strategia ca ciclu de viață (poziționare → alegeri → execuție) și regula de timp 40-20-40.
-- [[MKT-053-cele-mai-multe-strategii-esueaza-din-cauza-biasurilor|MKT-053]] — 70% din strategii eșuează; motivele, puse pe seama biasurilor cognitive.
-- [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe|MKT-007]] — poziționarea pornește din privirea outside-in și inside-out asupra lanțului valoric.
-- [[MKT-058-o-tendinta-apare-intai-ca-driver-oportunitate-de-inovare-si|MKT-058]] — distincția forță / driver: aceeași tendință e întâi oportunitate, apoi presiune.
-- [[MKT-057-trendurile-se-citesc-pe-trei-niveluri-megatrend-10-15-ani|MKT-057]] — mega-, macro- și microtrenduri, cu durate; tabelul periodic al megatrendurilor.
-- [[MKT-052-can-want-should-zona-de-pericol-se-afla-intre-ce-poti-si-ce|MKT-052]] — instrumentul Can–Want–Should și „zona de pericol".
-- [[MKT-056-regula-80-15-5-cele-mai-multe-activitati-trebuie-doar-sa|MKT-056]] — regula 80-15-5 (best / industry / leading practice) și curba de adopție.
-- [[MKT-054-contextul-decide-metoda-patru-tipuri-de-cunoscut-si|MKT-054]] — patru contexte de decizie (known knowns … unknown unknowns).
-- [[MKT-050-diferentierea-inseamna-sa-fii-altfel-nu-mai-bun-iar|MKT-050]] — diferențierea înseamnă „altfel", nu „mai bine"; ierarhia avantajelor competitive.
-- [[MKT-055-transformarea-modifica-ce-exista-inovarea-adauga-ceva-nou|MKT-055]] — transformare vs inovare: lanțul problemei vs lanțul obiectivului; șase modele de business.
-- [[MKT-049-strategia-inseamna-trei-alegeri-ce-nu-faci-unde-esti|MKT-049]] — tensiunea internă: alegeri „în ordine" sau „simultane".
-- [[IDE-014-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-014]] — trei mituri ale creativității: eroul solitar, momentul eureka, expertul.
+- [[MKT-049-strategy-means-three-choices-what-not-to-do-where-to-be|MKT-049]]: strategy as three choices made in order: what not to do, where to be different, what to focus on.
+- [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with|MKT-051]]: strategy as an end-to-end lifecycle (positioning → choices → execution) and the 40-20-40 time rule.
+- [[MKT-053-most-strategies-fail-because-of-decision-makers-biases-not|MKT-053]]: 70% of strategies fail; the reasons, attributed to cognitive biases.
+- [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths|MKT-007]]: positioning starts from the outside-in and inside-out view of the value chain.
+- [[MKT-058-a-trend-first-appears-as-a-driver-an-innovation-opportunity|MKT-058]]: the force / driver distinction: the same trend is first an opportunity, then a pressure.
+- [[MKT-057-trends-are-read-on-three-levels-megatrend-10-15-years|MKT-057]]: mega-, macro- and microtrends, with their durations; the periodic table of megatrends.
+- [[MKT-052-can-want-should-the-danger-zone-lies-between-what-you-can|MKT-052]]: the Can–Want–Should tool and the "danger zone".
+- [[MKT-056-the-80-15-5-rule-most-activities-only-need-to-meet-the|MKT-056]]: the 80-15-5 rule (best / industry / leading practices) and the adoption curve.
+- [[MKT-054-context-decides-the-method-four-kinds-of-known-and-unknown|MKT-054]]: four decision contexts (known knowns … unknown unknowns).
+- [[MKT-050-differentiation-means-being-different-not-better-and-higher|MKT-050]]: differentiation means "different", not "better"; the hierarchy of competitive advantages.
+- [[MKT-055-transformation-alters-what-exists-innovation-adds-something|MKT-055]]: transformation vs. innovation: the problem chain vs. the objective chain; six business models.
+- [[MKT-049-strategy-means-three-choices-what-not-to-do-where-to-be|MKT-049]]: the internal tension: choices made "in order" or "simultaneously".
+- [[IDE-014-genius-is-a-team-sport-three-myths-of-creativity-that-block|IDE-014]]: three myths of creativity: the lone hero, the eureka moment, the expert.
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- **Autopromovare și afirmații neverificabile:** von Scheel se prezintă drept „originatorul" celei de-a patra revoluții industriale, spune că a modelat strategiile a „peste 23%" (în alt loc 34%) din Fortune 500 și că a creat Can–Want–Should „lucrând cu Steve Jobs". Nicio afirmație nu are sursă.
-- **Cifre fără metodologie:** procentele de eșec pe biasuri (30%, 18%, 14%…), pragurile de creștere (>5%, >10%, >20% CAGR) și împărțirea 80-15-5 sunt afirmate, nu demonstrate.
-- **Inconsecvențe:** tabelul periodic are „77 de megatrenduri" împărțite o dată în 6 grupe, altă dată în 8; tehnologia are 17 sau 19 trenduri, consumul 10 sau 11 („Value Price Reality" apare de două ori).
-- **Atribuiri dubioase:** matricea „known knowns / unknown unknowns" e prezentată ca venind de la Epiphanius din Salamina (anul 310), deși structura „sense–categorize–respond" este cea a cadrului Cynefin (Snowden & Boone, 2007), necitat. Ideea alegerilor „where to play / how to win" (Lafley & Martin) e folosită fără citare.
-- **Capitolul 4** amestecă futurologie (Web 3 „destinat să reușească", demonetizarea „certă" a sistemului monetar) cu statistici optimiste despre progres. Prognozele sunt ușor de contrazis în 2026.
-- **Ton:** glume vulgare și autoironie care pot deranja în clasă. Diagramele din PDF nu se pot citi bine în extragerea text.
-- Lipsesc cu totul publicitatea, brandul ca sistem de semnificații și consumatorul ca persoană (în afara listei de „megatrenduri de consum").
+- **Self-promotion and unverifiable claims:** von Scheel presents himself as the "originator" of the 4th Industrial Revolution, says he created the strategies that shaped the performance of "over 23%" (elsewhere 34%) of the Fortune 500, and that he came up with Can–Want–Should "while working with Steve Jobs". None of these claims has a source.
+- **Figures with no methodology:** the failure percentages per bias (30%, 18%, 14%…), the growth thresholds (>5%, >10%, >20% CAGR) and the 80-15-5 split are asserted, not demonstrated.
+- **Inconsistencies:** the periodic table has "77 megatrends" divided once into 6 groups, another time into 8; technology has 17 or 19 trends, consumption 10 or 11 ("Value Price Reality" appears twice).
+- **Doubtful attributions:** the "known knowns / unknown unknowns" matrix is presented as coming from Epiphanius of Salamis (310 AD), although the "sense–categorize–respond" structure is that of the Cynefin framework (Snowden & Boone, 2007), which is not cited. The idea of the "where to play / how to win" choices (Lafley & Martin) is used without citation.
+- **Chapter 4** mixes futurology (Web 3 "destined to succeed", the "certain" demonetization of the monetary system) with optimistic statistics about progress. The forecasts are easy to contradict in 2026.
+- **Tone:** vulgar jokes and self-irony that can bother people in class. The diagrams in the PDF do not read well in the text extraction.
+- Advertising, the brand as a system of meanings and the consumer as a person (outside the list of "consumer megatrends") are missing entirely.
 
-## Citat
+## Quote
 
-> „If you don't have a competitive advantage, don't compete." (p. 199)
+> "If you don't have a competitive advantage, don't compete." (p. 199)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[IDE-014-geniul-e-un-sport-de-echipa-trei-mituri-ale-creativitatii|IDE-014]] — Geniul e un sport de echipă: trei mituri ale creativității care blochează colaborarea
-- [[MKT-006-cele-cinci-forte-ale-lui-porter-arata-cine-iti-poate-lua|MKT-006]] — Cele cinci forțe ale lui Porter arată cine îți poate lua din marjă — rivalii, noii intrați, furnizorii, cumpărătorii și substitutele
-- [[MKT-007-analiza-swot-separa-ce-tine-de-firma-puncte-tari-si-slabe|MKT-007]] — Analiza SWOT separă ce ține de firmă (puncte tari și slabe) de ce ține de piață (oportunități și amenințări) — aceeași dublă privire pe care von Scheel o numește inside-out și outside-in
-- [[MKT-009-cercetarea-de-marketing-are-cinci-pasi-de-la-obiectiv-la|MKT-009]] — Cercetarea de marketing are cinci pași — de la obiectiv la plan de acțiune — și transformă datele în informație
-- [[MKT-011-strategia-de-marketing-piata-tinta-mix-un-avantaj|MKT-011]] — Strategia de marketing = piață țintă + mix + un avantaj competitiv durabil, construit ca un zid
-- [[MKT-040-polarizarea-prosperitatii-goleste-mijlocul-pietei-raman|MKT-040]] — Polarizarea prosperității golește mijlocul pieței — rămân doar poziționarea low-cost și cea premium prin experiență
-- [[MKT-049-strategia-inseamna-trei-alegeri-ce-nu-faci-unde-esti|MKT-049]] — Strategia înseamnă trei alegeri — ce nu faci, unde ești diferit, pe ce te concentrezi — făcute în ordine și verificate apoi ca sistem
-- [[MKT-050-diferentierea-inseamna-sa-fii-altfel-nu-mai-bun-iar|MKT-050]] — Diferențierea înseamnă să fii altfel, nu mai bun — iar avantajele de ordin superior, ca reputația brandului, durează mai mult
-- [[MKT-051-strategia-e-un-ciclu-de-viata-pozitionare-alegeri-executie|MKT-051]] — Strategia e un ciclu de viață — poziționare, alegeri, execuție — cu regula de timp 40-20-40
-- [[MKT-052-can-want-should-zona-de-pericol-se-afla-intre-ce-poti-si-ce|MKT-052]] — Can–Want–Should: zona de pericol se află între ce poți și ce vrei, când sari peste ce trebuie
-- [[MKT-053-cele-mai-multe-strategii-esueaza-din-cauza-biasurilor|MKT-053]] — Cele mai multe strategii eșuează din cauza biasurilor decidenților, nu a lipsei de idei
-- [[MKT-054-contextul-decide-metoda-patru-tipuri-de-cunoscut-si|MKT-054]] — Contextul decide metoda: patru tipuri de cunoscut și necunoscut cer patru moduri de a decide (o variantă necitată a cadrului Cynefin)
-- [[MKT-055-transformarea-modifica-ce-exista-inovarea-adauga-ceva-nou|MKT-055]] — Transformarea modifică ce există, inovarea adaugă ceva nou: diagnostichezi lanțul problemei sau al obiectivului înainte să alegi
-- [[MKT-056-regula-80-15-5-cele-mai-multe-activitati-trebuie-doar-sa|MKT-056]] — Regula 80-15-5: cele mai multe activități trebuie doar să fie la standard; foarte puține trebuie să fie unice
-- [[MKT-057-trendurile-se-citesc-pe-trei-niveluri-megatrend-10-15-ani|MKT-057]] — Trendurile se citesc pe trei niveluri: megatrend (10–15 ani), macrotrend (5–10 ani), microtrend (3–5 ani)
-- [[MKT-058-o-tendinta-apare-intai-ca-driver-oportunitate-de-inovare-si|MKT-058]] — O tendință apare întâi ca driver (oportunitate de inovare) și devine apoi forță (presiune de adaptare)
-- [[MKT-059-cartile-de-trenduri-se-citesc-ca-ipoteze-nu-ca-harti-cum|MKT-059]] — Cărțile de trenduri se citesc ca ipoteze, nu ca hărți: cum separi semnalul de umplutură
+- [[IDE-014-genius-is-a-team-sport-three-myths-of-creativity-that-block|IDE-014]]: Genius is a team sport: three myths of creativity that block collaboration
+- [[MKT-006-porter-s-five-forces-show-who-can-take-part-of-your-margin|MKT-006]]: Porter's five forces show who can take part of your margin: rivals, new entrants, suppliers, buyers and substitutes
+- [[MKT-007-swot-analysis-separates-what-belongs-to-the-firm-strengths|MKT-007]]: SWOT analysis separates what belongs to the firm (strengths and weaknesses) from what belongs to the market (opportunities and threats): the same double view that von Scheel calls inside-out and outside-in
+- [[MKT-009-marketing-research-has-five-steps-from-objectives-to-an|MKT-009]]: Marketing research has five steps, from objectives to an action plan, and turns data into information
+- [[MKT-011-marketing-strategy-target-market-mix-a-sustainable|MKT-011]]: Marketing strategy = target market + mix + a sustainable competitive advantage, built like a wall
+- [[MKT-040-prosperity-polarization-empties-the-middle-of-the-market|MKT-040]]: Prosperity polarization empties the middle of the market: only low-cost positioning and premium positioning through experience remain
+- [[MKT-049-strategy-means-three-choices-what-not-to-do-where-to-be|MKT-049]]: Strategy means three choices (what not to do, where to be different, what to focus on), made in order and then checked as a system
+- [[MKT-050-differentiation-means-being-different-not-better-and-higher|MKT-050]]: Differentiation means being different, not better, and higher-order advantages such as brand reputation last longer
+- [[MKT-051-strategy-is-a-lifecycle-positioning-choices-execution-with|MKT-051]]: Strategy is a lifecycle (positioning, choices, execution) with the 40-20-40 time rule
+- [[MKT-052-can-want-should-the-danger-zone-lies-between-what-you-can|MKT-052]]: Can–Want–Should: the danger zone lies between what you can do and what you want, when you skip what you should do
+- [[MKT-053-most-strategies-fail-because-of-decision-makers-biases-not|MKT-053]]: Most strategies fail because of decision makers' biases, not for lack of ideas
+- [[MKT-054-context-decides-the-method-four-kinds-of-known-and-unknown|MKT-054]]: Context decides the method: four kinds of known and unknown call for four ways of deciding (an uncredited version of the Cynefin framework)
+- [[MKT-055-transformation-alters-what-exists-innovation-adds-something|MKT-055]]: Transformation alters what exists, innovation adds something new: diagnose the problem chain or the goal chain before you choose
+- [[MKT-056-the-80-15-5-rule-most-activities-only-need-to-meet-the|MKT-056]]: The 80-15-5 rule: most activities only need to meet the standard; very few need to be unique
+- [[MKT-057-trends-are-read-on-three-levels-megatrend-10-15-years|MKT-057]]: Trends are read on three levels: megatrend (10–15 years), macrotrend (5–10 years), microtrend (3–5 years)
+- [[MKT-058-a-trend-first-appears-as-a-driver-an-innovation-opportunity|MKT-058]]: A trend first appears as a driver (an innovation opportunity) and then becomes a force (pressure to adapt)
+- [[MKT-059-trend-books-are-read-as-hypotheses-not-maps-how-to-separate|MKT-059]]: Trend books are read as hypotheses, not maps: how to separate signal from filler
 <!-- backlinks:end -->

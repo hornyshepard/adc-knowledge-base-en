@@ -14,53 +14,53 @@ level: 1
 
 # La bible de la communication
 
-**Jordan Muller, 2023** (autor și an după fișa din catalogul bibliotecii; textul extras nu are pagină de titlu, copyright sau editură). Pare autoeditată. ~20.000 de cuvinte, fără numere de pagină: trimiterile sunt pe titlurile articolelor.
+**Jordan Muller, 2023** (author and year from the library catalog record; the extracted text has no title page, copyright page or publisher). It appears to be self-published. About 20,000 words, with no page numbers: references are to the article titles.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** o compilație de articole scurte, în stil de blog, în două părți. Partea I, „comunicarea personală": schema emițător–receptor, verbal/nonverbal/paraverbal, vorbirea în public, prezentarea orală. Partea a II-a, „comunicarea profesională": comunicare externă, internă și instituțională, comunicare de criză, strategie și unelte, părți interesate, comunicare nonviolentă, asertivitate, cultură organizațională.
-- **Teza centrală:** comunicarea eficientă înseamnă concordanță între intenția emițătorului și efectul asupra receptorului, iar în organizații ea trebuie planificată (obiective SMART, ținte, mesaj, canale, buget, măsurare).
-- **Pentru cine și când:** utilă doar ca lectură complementară pentru modulul de pitch și prezentare (capitolul despre vorbirea în public) și pentru o introducere în comunicarea corporate.
-- **Relevanță pentru ADC:** ★☆☆☆☆ — generică, repetitivă, fără surse (doar o trimitere la Jean-Claude Martin), cu formule de umplutură tipice conținutului SEO și multe greșeli de redactare. Singurul capitol cu valoare practică reală e cel despre vorbirea în public.
+- **What it is about:** a compilation of short, blog-style articles in two parts. Part I, "communication for personal use" (*La communication à usage personnel*): the sender-receiver model, verbal, nonverbal and paraverbal communication, public speaking, the oral presentation. Part II, "communication for professional use" (*La communication à usage professionnel*): external, internal and institutional communication, crisis communication, strategy and tools, stakeholders (*parties prenantes*), nonviolent communication, assertiveness, organizational culture.
+- **Central thesis:** effective communication means a match between the sender's intention and the effect on the receiver, and in organizations it has to be planned (SMART objectives, targets, message, channels, budget, measurement).
+- **For whom and when:** useful only as complementary reading for the pitch and presentation module (the chapter on public speaking) and as an introduction to corporate communication.
+- **Relevance for ADC:** ★☆☆☆☆. Generic, repetitive, without sources (only one reference, to Jean-Claude Martin), with the filler phrases typical of SEO content and many writing errors. The only chapter with real practical value is the one on public speaking.
 
-## Harta capitolelor
+## Chapter map
 
-| Partea / articolul | Tema | Note derivate |
+| Part / article | Topic | Derived notes |
 |---|---|---|
-| I. Bazele comunicării; verbal, nonverbal, paraverbal | intenție–mesaj–efect, filtre, „e imposibil să nu comunici" | [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale\|CPY-013]] (îmbogățită) |
-| I. Arta luării de cuvânt; prezentarea orală | atacuri, enjambament, tăcere, scansiune, ritm; etapele pregătirii | [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia\|PIT-028]] |
-| II. Comunicarea în firmă; internă, externă, instituțională | trei registre, părți interesate, Michel & Augustin | [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa\|ADV-074]] |
-| II. Comunicarea de criză; comunicarea corporate | șapte reguli, greenwashing, cazul McDonald's | [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune\|ADV-075]] |
-| II. Strategia și uneltele de comunicare | obiective cognitive/afective/conative, SMART, poziționare, ton, buget, plan | [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar\|ADV-007]] (îmbogățită) |
-| II. Comunicare binevoitoare; comunicare asertivă | comunicare nonviolentă în patru pași, asertiv/agresiv/pasiv, mesaje „eu" | [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct\|CLI-004]] |
-| II. Cultura organizațională | provocări și competențe de comunicare | — (generic) |
+| I. The basics of communication (*Les bases de la communication*); verbal, nonverbal and paraverbal communication (*La communication verbale, non verbale et le paraverbal*) | intention, message, effect; filters; "it is impossible not to communicate" | [[CPY-013-every-advertising-message-ranks-the-six-functions-of\|CPY-013]] (enriched) |
+| I. Mastering the art of public speaking (*Maîtriser l'art de la prise de parole*); succeeding in an oral presentation (*Comment réussir sa présentation orale*) | attacks (*les attaques*), enjambment (*l'enjambement*), silence, scansion (*la scansion*), rhythm; the stages of preparation | [[PIT-028-to-speak-with-life-in-front-of-a-room-break-out-of-written\|PIT-028]] |
+| II. Communication in the company (*Définition de la communication en entreprise*; *Les différents types de communication en entreprise*): internal, external, institutional | three registers, stakeholders, Michel & Augustin | [[ADV-074-an-organization-s-communication-has-three-registers\|ADV-074]] |
+| II. Crisis communication (*La communication de crise*); corporate communication (*La communication corporate*) | seven tips, greenwashing, the McDonald's case | [[ADV-075-in-crisis-communication-denial-is-the-worst-option\|ADV-075]] |
+| II. Communication strategy and tools (*La stratégie et les outils de communication*) | cognitive/affective/conative objectives, SMART, positioning, tone, budget, plan | [[ADV-007-any-communication-can-produce-four-effects-but-brand\|ADV-007]] (enriched) |
+| II. Benevolent communication (*Comment instaurer une communication bienveillante au travail ?*); assertive communication (*Les clés de la communication assertive*) | nonviolent communication in four steps, assertive/aggressive/passive, "I" messages | [[CLI-004-assertive-communication-sits-between-aggressive-and-passive\|CLI-004]] |
+| II. Organizational culture (*Le rôle de la communication pour renforcer sa culture d'entreprise*) | communication challenges and skills | none (generic) |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — tehnicile vocale ale vorbirii în public: ieșirea din „punctuația scrisă".
-- [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] — comunicarea asertivă și cea nonviolentă, aplicate relației cu clientul.
-- [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa|ADV-074]] — cele trei registre ale comunicării unei organizații și modurile de dialog cu părțile interesate.
-- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — checklist-ul comunicării de criză.
-- Îmbogățite cu această sursă: [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] (intenție–mesaj–efect), [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] (obiective SMART).
+- [[PIT-028-to-speak-with-life-in-front-of-a-room-break-out-of-written|PIT-028]]: the vocal techniques of public speaking: breaking out of "written punctuation".
+- [[CLI-004-assertive-communication-sits-between-aggressive-and-passive|CLI-004]]: assertive and nonviolent communication, applied to the client relationship.
+- [[ADV-074-an-organization-s-communication-has-three-registers|ADV-074]]: the three registers of an organization's communication and the modes of dialogue with stakeholders.
+- [[ADV-075-in-crisis-communication-denial-is-the-worst-option|ADV-075]]: the crisis communication checklist.
+- Enriched with this source: [[CPY-013-every-advertising-message-ranks-the-six-functions-of|CPY-013]] (intention, message, effect), [[ADV-007-any-communication-can-produce-four-effects-but-brand|ADV-007]] (SMART objectives).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Nicio sursă, niciun studiu; concepte celebre prezentate fără autori (comunicarea nonviolentă a lui Marshall Rosenberg, axioma „e imposibil să nu comunici" a școlii de la Palo Alto).
-- Multe pasaje sunt liste generice („rețelele sociale sunt importante", „site-ul e vitrina firmei") fără valoare pentru un student la publicitate.
-- Afirmații necontrolate (rata de citire de 95% a SMS-urilor) și exemple anecdotice (Michel & Augustin, McDonald's) fără date.
-- Nimic despre creație, brand, insight sau eficiența publicității.
+- No sources, no studies; famous concepts are presented without their authors (Marshall Rosenberg's nonviolent communication, the Palo Alto school's axiom "it is impossible not to communicate").
+- Many passages are generic lists ("social networks are important", "the website is the company's shop window") with no value for an advertising student.
+- Unchecked claims (the 95% read rate of text messages) and anecdotal examples (Michel & Augustin, McDonald's) without data.
+- Nothing on creative work, brand, insight or advertising effectiveness.
 
-## Citat
+## Quote
 
-> „Un texte, c'est avant tout une respiration !" (Louis Jouvet, citat în „Maîtriser l'art de la prise de parole")
+> "Un texte, disait Louis Jouvet, c'est avant tout une respiration !" [A text, said Louis Jouvet, is above all a breath!] (in the article on public speaking, Part I)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ADV-007-orice-comunicare-poate-produce-patru-efecte-dar|ADV-007]] — Orice comunicare poate produce patru efecte, dar notorietatea și atitudinea față de brand sunt mereu obiective
-- [[ADV-074-comunicarea-unei-organizatii-are-trei-registre-externa|ADV-074]] — Comunicarea unei organizații are trei registre — externă, internă, instituțională — cu ținte, obiective și unelte diferite
-- [[ADV-075-in-comunicarea-de-criza-negarea-e-cea-mai-proasta-optiune|ADV-075]] — În comunicarea de criză, negarea e cea mai proastă opțiune — recunoaște primul, măsoară impactul, alege canalul, spune adevărul, învață
-- [[CLI-004-comunicarea-asertiva-sta-intre-agresiv-si-pasiv-spui-direct|CLI-004]] — Comunicarea asertivă stă între agresiv și pasiv — spui direct ce gândești și ce ai nevoie, respectând dreptul celuilalt de a gândi altfel
-- [[CPY-013-orice-mesaj-publicitar-ierarhizeaza-cele-sase-functii-ale|CPY-013]] — Orice mesaj publicitar ierarhizează cele șase funcții ale limbajului (Jakobson) — și una trebuie să domine
-- [[PIT-028-ca-sa-vorbesti-viu-in-fata-unei-sali-iesi-din-punctuatia|PIT-028]] — Ca să vorbești viu în fața unei săli, ieși din „punctuația scrisă" — atacuri ferme, tăceri asumate, enjambament, scansiune, ritm contrastant
+- [[ADV-007-any-communication-can-produce-four-effects-but-brand|ADV-007]]: Any communication can produce four effects, but brand awareness and brand attitude are always objectives
+- [[ADV-074-an-organization-s-communication-has-three-registers|ADV-074]]: An organization's communication has three registers (external, internal, institutional), with different targets, objectives and tools
+- [[ADV-075-in-crisis-communication-denial-is-the-worst-option|ADV-075]]: In crisis communication, denial is the worst option: acknowledge it first, measure the impact, choose the channel, tell the truth, learn
+- [[CLI-004-assertive-communication-sits-between-aggressive-and-passive|CLI-004]]: Assertive communication sits between aggressive and passive: you say directly what you think and need, while respecting the other person's right to think differently
+- [[CPY-013-every-advertising-message-ranks-the-six-functions-of|CPY-013]]: Every advertising message ranks the six functions of language (Jakobson), and one of them must dominate
+- [[PIT-028-to-speak-with-life-in-front-of-a-room-break-out-of-written|PIT-028]]: To speak with life in front of a room, break out of "written punctuation": firm attacks, deliberate silences, enjambment, scansion, contrasting rhythm
 <!-- backlinks:end -->

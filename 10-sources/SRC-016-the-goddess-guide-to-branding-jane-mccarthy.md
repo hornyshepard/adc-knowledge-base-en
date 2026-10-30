@@ -14,63 +14,63 @@ level: 1
 
 # Goddess Guide to Branding
 
-**Jane McCarthy & Kate McAndrew, 2024.** Peakpoint Press (Skyhorse Publishing), New York. ISBN 978-1-951934-41-5. Jane McCarthy a lucrat în publicitate ca strateg de brand; Kate McAndrew este investitoare de risc (fondul Baukunst). Cartea e un manual-atelier ilustrat, scris de două surori.
+**Jane McCarthy & Kate McAndrew, 2024.** Peakpoint Press (Skyhorse Publishing), New York. ISBN 978-1-951934-41-5. Jane McCarthy worked in advertising as a brand strategist; Kate McAndrew is a venture capitalist (the Baukunst fund). The book is an illustrated workshop manual, written by two sisters.
 
-> Notă despre trimiteri: ediția EPUB nu are pagini; notele trimit la capitol și secțiune. În textul extras, unele etichete de sub numele „icoanelor" culturale sunt decalate (ex. descrieri care nu corespund persoanei) — eroare de extragere, nu de conținut; nu au fost folosite.
+> Note on references: the EPUB edition has no pages; the notes refer to the chapter and section. In the extracted text, some of the captions under the names of the cultural "icons" are shifted (e.g. descriptions that do not match the person). This is an extraction error, not a content error; these captions were not used.
 
-## Fișa pe scurt
+## At a glance
 
-- **Despre ce este:** o metodă de construire a brandului pornind de la opt arhetipuri-zeițe greco-romane (Diana, Hestia, Demeter, Persefona Fecioara, Persefona Regina, Hera, Venus, Atena), fiecare cu un zeu-pereche. Capitolul 2 prezintă zeițele prin „interviuri" și le ilustrează cu branduri și cu interviuri cu fondatoare (Yonder Cider, The North Face, Bobbie, Billie, Ellevest etc.). Capitolele 3–7 construiesc un *brand blueprint* în patru straturi — zeița, inima, darul, stilul —, fiecare cu exerciții și un „test de presiune". Urmează interviuri cu specialiști (simboluri, culoare, voce, worldbuilding, digital, materiale, experiență, sustenabilitate, comunitate, cultură, finanțe) și un studiu de caz fictiv complet (Soft Scrubs Co.).
-- **Teza centrală:** brandurile „magnetice" sunt autentice, pasionate și au un impact pozitiv; un arhetip ales cu grijă le dă o identitate emoțională clară, exprimată într-un limbaj de simboluri și povești.
-- **Pentru cine și când:** seminarii de platformă de brand și arhetipuri (nivel 1–2); util ca instrument de workshop cu clienți mici sau startup-uri.
-- **Relevanță pentru ADC:** ★★★☆☆ (3) — practic și bine structurat ca atelier (exerciții, criterii explicite de alegere, caz complet), cu câteva interviuri valoroase (Billie, Turner Duckworth, Janet T. Planet). Limite: sistem de arhetipuri derivat din psihologie jungiană populară, Enneagramă și astrologie arhetipală, fără validare empirică; ton inspirațional-mistic; perspectivă de nișă (fondatoare americane, branduri DTC); poziționarea competitivă și punctul de diferență sunt tratate doar indirect.
+- **What it is about:** a method for building a brand starting from eight Greco-Roman goddess archetypes (Diana, Hestia, Demeter, Maiden Persephone, Queen Persephone, Hera, Venus, Athena), each with a paired god. Chapter 2 presents the goddesses through "interviews" and illustrates them with brands and with interviews with founders (Yonder Cider, The North Face, Bobbie, Billie, Ellevest, etc.). Chapters 3–7 build a *brand blueprint* in four layers (the goddess, the heart, the gift, the style), each with exercises and a "pressure test". Then come interviews with specialists (symbols, color, voice, worldbuilding, digital, materiality, experience, sustainability, community, culture, finance) and a complete fictional case study (Soft Scrubs Co.).
+- **Central thesis:** "magnetic" brands are authentic, passionate and have a positive impact; a carefully chosen archetype gives them a clear emotional identity, expressed in a language of symbols and stories.
+- **For whom and when:** seminars on the brand platform and archetypes (level 1–2); useful as a workshop tool with small clients or startups.
+- **Relevance for ADC:** ★★★☆☆ (3). Practical and well structured as a workshop (exercises, explicit selection criteria, a complete case), with a few valuable interviews (Billie, Turner Duckworth, Janet T. Planet). Limits: an archetype system derived from popular Jungian psychology, the Enneagram and archetypal astrology, with no empirical validation; an inspirational, mystical tone; a niche perspective (American women founders, DTC brands); competitive positioning and the point of difference are treated only indirectly.
 
-## Harta capitolelor
+## Chapter map
 
-| Cap. | Tema | Note derivate |
+| Ch. | Topic | Derived notes |
 |---|---|---|
-| Foreword, 1 | Brand magnetism; ce e un arhetip; de ce zeițe în locul celor 12 arhetipuri jungiene | [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele\|BRD-030]] |
-| 2 | Interviurile cu cele opt zeițe, branduri-exemplu și interviuri cu fondatoare | [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele\|BRD-030]], [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un\|BRD-018]], [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic\|ART-020]] (Yonder) |
-| 3 | Brand blueprint: zeiță, inimă, dar, stil | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
-| 4 | Alegerea zeiței: patru exerciții și testul „autentic + atractiv" | [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv\|BRD-031]] |
-| 5 | Inima brandului (verb activ, simplu; convingeri) | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
-| 6 | Darul (Legenda, Brand Planet; criterii: important, special, credibil) | [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]], [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]] |
-| 7 | Stilul: iconic + dinamic; simboluri, culori, voce, experiență; interviuri cu specialiști | [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic\|ART-020]], [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit\|BRD-043]], [[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe\|IDE-013]], [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul\|EXP-027]], [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e\|BRD-059]] |
-| 8, Supliment | Concluzii; caz fictiv Soft Scrubs Co.; trusa de cercetare a clientului; design brief | [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv\|BRD-031]], [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut\|BRD-032]] |
+| Foreword, 1 | A Goddess to Guide You: brand magnetism; what an archetype is; why goddesses instead of Jung's 12 archetypes | [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to\|BRD-030]] |
+| 2 | The Goddess Interviews: the eight goddesses, example brands and interviews with founders | [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to\|BRD-030]], [[BRD-018-the-billie-case-showing-what-the-category-hides-turns-a\|BRD-018]], [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to\|ART-020]] (Yonder) |
+| 3 | Your Brand Blueprint: goddess, heart, gift, style | [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed\|BRD-032]] |
+| 4 | Finding Your Goddess: four exercises and the "authentic + attractive" pressure test | [[BRD-031-the-right-archetype-is-authentic-to-the-company-and\|BRD-031]] |
+| 5 | Finding Your Heart (an active, simple verb; beliefs) | [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed\|BRD-032]] |
+| 6 | Finding Your Gift (Legend, Brand Planet; criteria: important, special, credible) | [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed\|BRD-032]], [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete\|EXP-027]] |
+| 7 | Finding Your Style: iconic + dynamic; symbols, colors, voice, experience; The Style Interviews | [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to\|ART-020]], [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and\|BRD-043]], [[IDE-013-original-visual-inspiration-is-found-outside-the-pinterest\|IDE-013]], [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete\|EXP-027]], [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is\|BRD-059]] |
+| 8, Supplemental | Bon Voyaging; Fictional Case Study: Soft Scrubs Co.; Your Customer Toolbox; Design Brief | [[BRD-031-the-right-archetype-is-authentic-to-the-company-and\|BRD-031]], [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed\|BRD-032]] |
 
-## Idei-cheie → note permanente
+## Key ideas → permanent notes
 
-- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — cele opt zeițe-arhetip, cu sentimentele, simbolurile și brandurile asociate; alternativa la cele 12 arhetipuri jungiene.
-- [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-031]] — cum alegi arhetipul: firesc, inspirațional, potrivit clientului, neașteptat; testul „autentic + atractiv"; alegi unul singur.
-- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — cele patru straturi ale brand blueprint-ului și testele fiecăruia; Brand Planet.
-- [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-018]] — cazul Billie: tabuul categoriei transformat în poziționare.
-- [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]] — hardware iconic vs software dinamic (Sarah Moffat, Turner Duckworth; Ada Mayer).
-- Completări în note existente: procesul de naming al Myrei El-Bayoumi ([[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]]), inspirația „din lumea reală" a lui Sarah Moffat ([[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-013]]), perspectiva CFO-ului Denise Beckles ([[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]]), designul de experiență al lui Janet T. Planet și Katie Conway ([[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]]).
+- [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to|BRD-030]]: the eight goddess archetypes, with their associated feelings, symbols and brands; the alternative to Jung's 12 archetypes.
+- [[BRD-031-the-right-archetype-is-authentic-to-the-company-and|BRD-031]]: how to choose the archetype: natural, inspirational, right for the customer, unexpected; the "authentic + attractive" test; you choose only one.
+- [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed|BRD-032]]: the four layers of the brand blueprint and the test for each; Brand Planet.
+- [[BRD-018-the-billie-case-showing-what-the-category-hides-turns-a|BRD-018]]: the Billie case: the category taboo turned into positioning.
+- [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to|ART-020]]: iconic hardware vs. dynamic software (Sarah Moffat, Turner Duckworth; Ada Mayer).
+- Additions to existing notes: Myra El-Bayoumi's naming process ([[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]), Sarah Moffat's "real-world" inspiration ([[IDE-013-original-visual-inspiration-is-found-outside-the-pinterest|IDE-013]]), the perspective of CFO Denise Beckles ([[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is|BRD-059]]), the experience design of Janet T. Planet and Katie Conway ([[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete|EXP-027]]).
 
-## Ce lipsește / ce trebuie citit critic
+## What is missing / what to read critically
 
-- Sistemul de zeițe e o construcție a autoarelor (pe baza lui Jean Shinoda Bolen, Enneagramă, astrologie arhetipală); nu există date că ar funcționa mai bine decât alte tipologii.
-- Exemplele de branduri pentru fiecare zeiță sunt atribuiri ale autoarelor, nu poziționări declarate de branduri.
-- Analiza competitivă se rezumă la harta arhetipurilor concurenților; lipsesc instrumentele de poziționare (cadru de referință, punct de diferență, dovadă) — vezi [[SRC-014-kellogg-on-branding|SRC-014]].
-- Accentul pe fondatoare și pe branduri DTC americane limitează transferul către branduri mari sau B2B.
-- Interviurile cu fondatoarele sunt prietenoase, fără întrebări critice sau date de performanță (excepție: cifrele Billie).
+- The goddess system is the authors' own construction (based on Jean Shinoda Bolen, the Enneagram, archetypal astrology); there are no data showing it works better than other typologies.
+- The example brands for each goddess are the authors' attributions, not positionings the brands have declared.
+- Competitive analysis comes down to a map of competitors' archetypes; the positioning tools (frame of reference, point of difference, proof) are missing. See [[SRC-014-kellogg-on-branding|SRC-014]].
+- The focus on women founders and American DTC brands limits the transfer to large brands or B2B.
+- The interviews with the founders are friendly, with no critical questions or performance data (exception: the Billie figures).
 
-## Citat
+## Quote
 
-> „Archetypes are more like poems that add depth and richness to experience." (Hartwell & Chen, citați în cap. 1)
+> "…archetypes are more like poems that add depth and richness to experience." (Hartwell & Chen, quoted in ch. 1)
 
 <!-- backlinks:start -->
 ## Backlinks
 
-- [[ART-002-culoarea-spune-povestea-diferentiaza-de-concurenta-si|ART-002]] — Culoarea spune povestea, diferențiază de concurență și motivează — iar saturația contează mai mult decât nuanța
-- [[ART-020-brandul-are-hardware-iconic-de-pastrat-si-software-dinamic|ART-020]] — Brandul are hardware iconic, de păstrat, și software dinamic, de schimbat
-- [[BRD-018-cazul-billie-a-arata-ce-ascunde-categoria-transforma-un|BRD-018]] — Cazul Billie: a arăta ce ascunde categoria transformă un tabu în poziționare
-- [[BRD-030-opt-arhetipuri-zeite-ofera-o-alternativa-feminina-la-cele|BRD-030]] — Opt arhetipuri-zeițe oferă o alternativă feminină la cele 12 arhetipuri jungiene
-- [[BRD-031-arhetipul-potrivit-e-autentic-pentru-firma-si-atractiv|BRD-031]] — Arhetipul potrivit e autentic pentru firmă și atractiv pentru client
-- [[BRD-032-brand-blueprint-zeita-inima-dar-si-stil-fiecare-trecut|BRD-032]] — Brand blueprint: zeiță, inimă, dar și stil, fiecare trecut printr-un test
-- [[BRD-043-un-nume-bun-de-brand-e-relevant-emotionant-usor-de-rostit|BRD-043]] — Un nume bun de brand e relevant, emoționant, ușor de rostit și de promovat
-- [[BRD-059-brandul-este-un-activ-nu-o-cheltuiala-iar-puterea-lui-nu-e|BRD-059]] — Brandul este un activ, nu o cheltuială, iar puterea lui nu e performanța lui
-- [[CPY-019-vocea-brandului-ramane-constanta-tonul-se-adapteaza-la|CPY-019]] — Vocea brandului rămâne constantă, tonul se adaptează la canal, public și situație
-- [[EXP-027-la-brandurile-direct-to-consumer-brandul-este-lantul|EXP-027]] — La brandurile direct-to-consumer, brandul este lanțul complet al experienței
-- [[IDE-013-inspiratia-vizuala-originala-se-cauta-in-afara-bulei-de-pe|IDE-013]] — Inspirația vizuală originală se caută în afara bulei de pe Pinterest și Dribbble
+- [[ART-002-color-tells-the-story-sets-the-brand-apart-from-competitors|ART-002]]: Color tells the story, sets the brand apart from competitors and motivates, and saturation matters more than hue
+- [[ART-020-a-brand-has-iconic-hardware-to-keep-and-dynamic-software-to|ART-020]]: A brand has iconic hardware to keep and dynamic software to change
+- [[BRD-018-the-billie-case-showing-what-the-category-hides-turns-a|BRD-018]]: The Billie case: showing what the category hides turns a taboo into a positioning
+- [[BRD-030-eight-goddess-archetypes-offer-a-feminine-alternative-to|BRD-030]]: Eight goddess archetypes offer a feminine alternative to the 12 Jungian archetypes
+- [[BRD-031-the-right-archetype-is-authentic-to-the-company-and|BRD-031]]: The right archetype is authentic to the company and attractive to the customer
+- [[BRD-032-brand-blueprint-goddess-heart-gift-and-style-each-passed|BRD-032]]: Brand blueprint: goddess, heart, gift and style, each passed through a test
+- [[BRD-043-a-good-brand-name-is-relevant-emotional-easy-to-say-and|BRD-043]]: A good brand name is relevant, emotional, easy to say and marketable
+- [[BRD-059-the-brand-is-an-asset-not-an-expense-and-its-strength-is|BRD-059]]: The brand is an asset, not an expense, and its strength is not its performance
+- [[CPY-019-the-brand-s-voice-stays-constant-while-the-tone-adapts-to|CPY-019]]: The brand's voice stays constant, while the tone adapts to channel, audience and situation
+- [[EXP-027-for-direct-to-consumer-brands-the-brand-is-the-complete|EXP-027]]: For direct-to-consumer brands, the brand is the complete chain of the experience
+- [[IDE-013-original-visual-inspiration-is-found-outside-the-pinterest|IDE-013]]: Original visual inspiration is found outside the Pinterest and Dribbble bubble
 <!-- backlinks:end -->
